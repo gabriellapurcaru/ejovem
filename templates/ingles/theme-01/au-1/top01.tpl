@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3>Introdução</h3>
+<h3>Introdução da aula </h3>
 <div id="box-dialogo">
 
 <div id="texto">
