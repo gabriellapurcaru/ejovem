@@ -277,6 +277,22 @@ ul.degrade li a:hover {
     font-size: 16px;
     text-align: center;
     text-transform: uppercase;}	
+
+p.cabecario{color: #006666; width: 100%; float: left;font-size: 16px;margin:5px 0px;}
+
+
+/* Box video */
+div#content{width:770px;margin: 10px 0;float: left;font-size: 13px;padding: 0 30px;}
+div#content #texto{width:440px;float: left;margin: 30px 0;}
+div#content #texto .areaTexto{width: 300px;padding: 10px;float: right;background:url(../imgs/bdy-diagolo.png)repeat-x #F2F4F5;border: 1px solid #DDDDDD; min-height: 125px;}
+div#content #explicacao{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;}  
+div#content #midia{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;}  
+
+/* Box Digitação */
+div#boxDialogo{width:100%;margin: 10px 0;float: left;font-size: 13px;}
+div#boxDialogo .box-digitacao{margin: 0 auto;width: 500px;}
+div#boxDialogo #img-person{width: 130px;float: right;text-align: center;}
+div#boxDialogo .areaTexto{width: 300px;padding: 10px;float: left;background:url(../imgs/bdy-diagolo.png)repeat-x #F2F4F5;border: 1px solid #DDDDDD;margin: 30px 0;}
     
 /* Fala Personagem */
 div#box-dialogo{background:url(../imgs/bdy-diagolo.png)repeat-x #F2F4F5;border: 1px solid #DDDDDD;margin: 10px 0;width: 100%;float: left;font-size: 13px;}
@@ -299,7 +315,7 @@ div#video .video .legenda-video{font-size: 10px;font-style: italic;padding: 0 0 
 
 /* */
 div#gallery{width: 100%;float:left;}
-ul#palavras_cruzada {padding: 0 245px; width: 500px;float:left;}
+ul#palavras_cruzada {padding:0 130px 0px 210px; width: 500px;float:left;}
 .palavras_cruzada {float: left;list-style: none outside none;width: 50px;}
 
 /* Caça Palavras */

@@ -22,43 +22,43 @@
 <ul id="palavras_cruzada">
 
 	<li class="palavras_cruzada">
-		<a href="img/img1.png" title="Imagem 1">
-			<img src="img/icon1.png" width="40" height="40" alt="" />
+		<a href="img/atividade01/img1.png" title="Imagem 1" target="_blank">
+			<img src="img/atividade01/icon1.png" width="40" height="40" alt="" />
 		</a>
 	</li>
 	<li class="palavras_cruzada">
-		<a href="img/img2.png" title="Imagem 2">
-			<img src="img/icon2.png" width="40" height="40" alt="" />
+		<a href="img/atividade01/img2.png" title="Imagem 2" target="_blank">
+			<img src="img/atividade01/icon2.png" width="40" height="40" alt="" />
 		</a>
 	</li>
 	<li class="palavras_cruzada">
-		<a href="img/img3.png" title="Imagem 3">
-			<img src="img/icon3.png" width="40" height="40" alt="" />
+		<a href="img/atividade01/img3.png" title="Imagem 3" target="_blank">
+			<img src="img/atividade01/icon3.png" width="40" height="40" alt="" />
 		</a>	
 	</li>
 	<li class="palavras_cruzada">
-		<a href="img/img4.png" title="Imagem 4">
-			<img src="img/icon4.png" width="40" height="40" alt="" />
+		<a href="img/atividade01/img4.png" title="Imagem 4" target="_blank">
+			<img src="img/atividade01/icon4.png" width="40" height="40" alt="" />
 		</a>
 	</li>
 	<li class="palavras_cruzada">
-		<a href="img/img5.png" title="Imagem 5">
-			<img src="img/icon5.png" width="40" height="40" alt="" />
+		<a href="img/atividade01/img5.png" title="Imagem 5" target="_blank">
+			<img src="img/atividade01/icon5.png" width="40" height="40" alt="" />
 		</a>
 	</li>
 	<li class="palavras_cruzada">
-		<a href="img/img6.png" title="Imagem 6">
-			<img src="img/icon6.png" width="40" height="40" alt="" />
+		<a href="img/atividade01/img6.png" title="Imagem 6" target="_blank">
+			<img src="img/atividade01/icon6.png" width="40" height="40" alt="" />
 		</a>
 	</li>
 	<li class="palavras_cruzada">
-		<a href="img/img7.png" title="Imagem 7">
-			<img src="img/icon7.png" width="40" height="40" alt="" />
+		<a href="img/atividade01/img7.png" title="Imagem 7" target="_blank">
+			<img src="img/atividade01/icon7.png" width="40" height="40" alt="" />
 		</a>
 	</li>
 	<li class="palavras_cruzada">
-		<a href="img/img8.png" title="Imagem 8">
-			<img src="img/icon8.png" width="40" height="40" alt="" />
+		<a href="img/atividade01/img8.png" title="Imagem 8" target="_blank">
+			<img src="img/atividade01/icon8.png" width="40" height="40" alt="" />
 		</a>
 	</li>
 </ul>
@@ -66,10 +66,10 @@
 
 <br/>                                                              
 <object width="550" height="250">
-	<param name="movie" value="img/atividade.swf"></param>
+	<param name="movie" value="img/atividade01/atividade.swf"></param>
 	<param name="allowFullScreen" value="true"></param>
 	<param name="allowscriptaccess" value="always"></param>
-	<embed src="img/atividade.swf" type="application/x-shockwave-flash" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" width="550" height="250"></embed>
+	<embed src="img/atividade01/atividade.swf" type="application/x-shockwave-flash" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" width="550" height="250"></embed>
 </object>                                                                  
 
 </center>                                                                 

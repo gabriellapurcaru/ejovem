@@ -12,10 +12,12 @@
 </div>
 
 <div id="boxDialogo">
+<div class="box-digitacao">
     <div class="areaTexto"></div>
     <div id="img-person">
         <img src="../../../imgs/personagem_corpo.png"/>
     </div>
+</div>    
 </div>
 
 

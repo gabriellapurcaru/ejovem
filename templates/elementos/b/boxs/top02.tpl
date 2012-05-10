@@ -2,10 +2,25 @@
 {menu}
 
 <div id="meio">
-<h3>A Importância do Inglês no Mundo</h3>
-<div id="box-dialogo-img">
-<img src="img/e02.png"/>
+
+<h3>Box Video</h3>
+
+<div id="boxDigitacao">
+    <div class="item">
+    Em alguns países, o inglês é visto como uma segunda língua, isto é, é a língua mais falada depois da língua materna, que no caso do Brasil seria o Português. Assista ao vídeo ao lado e veja a importância de se aprender o inglês para o mercado de trabalho.
+    </div> 
 </div>
+
+<div id="content">
+	<div id="texto">
+		<img src="../../../imgs/e01.png"/>
+		<div class="areaTexto"></div>
+	</div>
+	<div id="midia">
+		video
+	</div>
+</div>
+
 
 
 

@@ -3,7 +3,7 @@
 
 <div id="meio">
 
-<h3> Inglês no Mercado de Trabalho</h3>
+<h3>Box Exemplo</h3>
 <div id="box-dialogo">
 <div id="img-person"><img src="img/e04.png"/></div>
 <div id="texto">
