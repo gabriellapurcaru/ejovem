@@ -293,6 +293,7 @@ div#box-atividade .ba-esq{float: left;width: 350px;}
 div#box-atividade .ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 140px;}
 div#box-atividade .ba-esq .ba-img{text-align: center;margin-top:-2px;}
 div#box-atividade #explicacao{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;} 
+div#box-atividade #explicacao table{text-align:center;}
 
 /* Box video */
 div#content{width:770px;margin: 10px 0;float: left;font-size: 13px;padding: 0 30px;}
