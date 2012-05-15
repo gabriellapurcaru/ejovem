@@ -3,10 +3,17 @@
 
 <div id="meio">
 <h3>A Importância do Inglês no Mundo</h3>
-<div id="box-dialogo-img">
-<img src="img/e02.png"/>
+<div id="boxDigitacao">
+    <div class="item">
+  Olá, alunos! Nessa lição temos como objetivo reconhecer a importância da língua inglesa no mercado de trabalho e no nosso dia a dia
+    </div> 
 </div>
 
+<div id="content">
+	<div id="texto">
+		<img src="../../../imgs/e01.png"/>
+		<div class="areaTexto"></div>
+	</div>
 
 
 <div id="rodape">
