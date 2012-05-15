@@ -47,7 +47,7 @@ Olá a todos! Estamos inicando o Módulo de Inglês do Projeto E-jovem. Será qu
 
 <div id="rodape">
 	<div id="navegacao">
-		<span>Página 1 de 8</span>
+		<span>Página 1 de 9</span>
 		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>	
