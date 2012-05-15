@@ -118,10 +118,6 @@ div.panel,p.flip {margin:0 0 10px;padding: 2px 10px;text-align:center;float:left
 div.panel{display:none;color:#000;background:#fff;}
 div.panel ul{padding:15px;}
 
-div.panel2,p.flip2{margin:0 0 10px;padding: 2px 10px;text-align:center;float:left; width:98%;background:url("../imgs/bg.png") repeat-x;border-radius: 5px 5px 5px 5px;border:solid 1px #c3c3c3;text-align:justify;cursor:pointer;color:#fff;}
-div.panel2{display:none;color:#000;background:#fff;}
-div.panel2 ul{padding:15px;}
-
 div#box{ background:#D5E5FF;border: 1px solid #AACCFF;margin: 10px 0;padding: 10px;color:#333;float:left;}
 
 div#rodape{color: #999999;float: left;font-size: 11px;height: 50px;text-align: center;width: 100%;}
@@ -280,6 +276,23 @@ ul.degrade li a:hover {
 
 p.cabecario{color: #006666; width: 100%; float: left;font-size: 16px;margin:5px 0px;}
 
+/* Box Exemplo */
+div#box-exemplo{margin:10px 0px;float: left;}
+div#box-exemplo .ba-esq{float: left;width: 350px;}
+div#box-exemplo .ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 270px;}
+div#box-exemplo .ba-esq .ba-img{text-align: center;margin-top:-2px;}
+div#box-exemplo #explicacao{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;} 
+
+div#box-exemplo  div.panel,div.flip {margin:0 0 10px;padding: 2px 10px;text-align:center;float:left; width:400px;background:#19314c;border-radius: 5px 5px 5px 5px;text-align:justify;cursor:pointer;color:#fff;}
+div#box-exemplo div.panel{display:none;color:#000;background:#fff;}
+div#box-exemplo  div.panel,div.flip span{float: left;margin: 7px 0 0;}
+div#box-exemplo  div.panel,div.flip img{float:left;}
+/* Box Atividade */
+div#box-atividade{margin:10px 0px;float: left;}
+div#box-atividade .ba-esq{float: left;width: 350px;}
+div#box-atividade .ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 140px;}
+div#box-atividade .ba-esq .ba-img{text-align: center;margin-top:-2px;}
+div#box-atividade #explicacao{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;} 
 
 /* Box video */
 div#content{width:770px;margin: 10px 0;float: left;font-size: 13px;padding: 0 30px;}
