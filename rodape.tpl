@@ -50,14 +50,6 @@ $(".flip").click(function(){
 });
 </script>
 
-<script type="text/javascript" src="jquery.js"></script>
-	<script type="text/javascript"> 
-	$(document).ready(function(){
-	$(".flip").click(function(){
-		$(".panel").slideToggle("slow");
-	  });
-	});
-</script>
 
 <script type="text/javascript" src="jquery.js"></script>
 	<script type="text/javascript"> 
