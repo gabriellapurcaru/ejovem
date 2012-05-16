@@ -1,3 +1,4 @@
+
 <script>   
 
 var time = 30; // Tempo de digitação em mili segundos

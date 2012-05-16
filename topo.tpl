@@ -29,7 +29,7 @@
 		};
 		swfobject.embedSWF(
 			"atividades/atividade01.swf", 
-			"atividade01", "550", "250", "10.0.0", 
+			"chamadivdaatividade", "550", "250", "10.0.0", 
 			"atividades/expressInstall.swf", 
 			flashvars, params, attributes);
 	</script>

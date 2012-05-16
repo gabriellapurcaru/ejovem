@@ -12,7 +12,7 @@
 </div>
 
 <div id="explicacao">
-	<div id="atividade02">
+	<div id="chamadivdaatividade">
 		<h1>Associação</h1>
 		<p><a href="http://www.adobe.com/go/getflashplayer">Get Adobe Flash player</a></p>
 	</div>

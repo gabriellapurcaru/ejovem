@@ -52,7 +52,7 @@
 </div>
 </div>
 
-</div>
+
 	
 <div id="rodape">
 	<div id="navegacao">
