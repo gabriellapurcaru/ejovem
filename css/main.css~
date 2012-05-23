@@ -7,7 +7,7 @@ html, body, form, fieldset {
     padding: 0;
 }
 body{
-    background: #E7EBF2;
+    background: url("../imgs/bdy_aulas.jpg") repeat scroll 0 0 transparent;
     color: #000000;
     font-family: arial,calibre,clean,sans-serif;
     font-size: 14px;
@@ -52,11 +52,12 @@ a:hover{text-decoration:underline;}
 h2{bottom: 50px;color: #1C2A47;font-size: 18px;margin: 0 0 0 225px;overflow: hidden;}
 h1{background:#EDEDED;border: 1px solid #999999;font-size: 14px;margin: 0;padding:3px 5px;}
 h5{margin:0px; padding:2px;color:#006666;}
+h3{margin: 20px 0px 60px 0;}
 
 div#meio p.quadro{border: 1px solid #999999;margin: 0 0 10px;;padding: 10px;}
 
 div#c{float: left;width: 100%;}
-div#bdy{margin: 0 auto;width: 1024px;}
+div#bdy{margin: 0 auto;width:950px;}
 div#topo {border:1px dashed #DDDDDD;background-color: #FFFFFF; color:#fff;line-height: normal;padding:10px;margin:20px 0px 5px 0px;}
 div#topo .autores{font-size:12px;}
 div#topo h3 img{background-color: #FFFFFF;border: 4px solid #FFFFFF;border-radius: 2px 2px 2px 2px;height: 32px;width: 200px;}
@@ -75,7 +76,7 @@ div#topo .acoes{
     font-size: 15px;
     vertical-align: baseline;
 }
-div#conteudo{min-height: 500px; width: 100%;background-color:#e7ebf2;}
+div#conteudo{min-height: 500px; width: 100%;float:left;}
 
 div#box-esq{color: #999999;float: left;font-family: inherit;width: 150px; height: 100%;}
 
@@ -111,8 +112,11 @@ div#menu li:hover ul { display: block;}
 div#menu li ul {background-color: #81C12D;display: none;left: 194px;position: absolute;top: 94px;width: 300px;}
 div#menu ul li a:hover{color:#fff;text-decoration:underline;}    
     
+div#conteudo #meio #menu-navegacao h3{float:left;}
+div#conteudo #meio #menu-navegacao #navegacao{float:right;font-size:11px;}
 
-div#conteudo #meio{background: #FFFFFF;border: 1px dashed #DDDDDD;float: right;padding: 10px;text-align: justify;width:845px;min-height: 524px;}
+
+div#conteudo #meio{background: #FFFFFF;border: 1px dashed #DDDDDD;float: right;padding: 10px;text-align: justify;width:770px;min-height: 524px;}
 div#conteudo #meio .legenda{font-size:10px; font-style:italic; padding: 0 0 0 30px;}
 div.panel,p.flip {margin:0 0 10px;padding: 2px 10px;text-align:center;float:left; width:98%;background:url("../imgs/bg.png") repeat-x;border-radius: 5px 5px 5px 5px;border:solid 1px #c3c3c3;text-align:justify;cursor:pointer;color:#fff;}
 div.panel{display:none;color:#000;background:#fff;}
@@ -120,8 +124,8 @@ div.panel ul{padding:15px;}
 
 div#box{ background:#D5E5FF;border: 1px solid #AACCFF;margin: 10px 0;padding: 10px;color:#333;float:left;}
 
-div#rodape{color: #999999;float: left;font-size: 11px;height: 50px;text-align: center;width: 100%;}
-div#redape #navegacao .proximo{border:1px dotted #ededed;padding:5px;}
+div#rodape{color: #999999;float: left;font-size: 11px;top: 0;text-align: center;width: 100%;}
+div#rodape #navegacao .proximo{border:1px dotted #ededed;padding:5px;}
 
 div .rosa{background:#C6D9F1;margin: 0;padding: 5px;margin: 2px;border:1px dotted #999999;}
 div .azul{background:#D99594;margin: 0;padding: 5px;margin: 2px;border:1px dotted #999999;}
@@ -276,6 +280,24 @@ ul.degrade li a:hover {
 
 p.cabecario{color: #006666; width: 100%; float: left;font-size: 16px;margin:5px 0px;}
 
+div#boxExplicacao{margin: 0 auto;width: 450px;}
+div#boxExplicacaoTexto{background: #F2F4BD;border-radius: 85px 85px 85px 85px;height: 223px;margin-left: 75px;padding:18px 25px 0;width: 300px;   }
+div#boxExplicacaoImg{float: left;width: 100%;}
+div#boxExplicacaoEsq{background: url("../imgs/e07.png") no-repeat scroll 0 0 transparent;height: 400px;width: 250px;float: right;}    
+
+hr{border: 1px dashed #DDDDDD;}
+
+div#box-explicacao-tabela{margin-left: 30px;width: 235px;float:left;}
+div#box-explicacao-tabela-texto{background-color: #B8D3E0;border-radius: 10px 10px 10px 10px;margin-left: 63px;min-height: 100px;padding: 10px;width: 150px;}
+
+div#box-explicacao-tabela-left{border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;height: 290px;margin-right: 30px;width: 400px;background:#E7EFB4;padding:10px;}
+div#box-explicacao-tabela-left p{margin:3px 0px;}
+/* Atividade */
+
+div#center{width:600px;margin:0 auto;}
+div#atividade{background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;min-height: 200px;padding: 10px;width: 100%;}
+div#atividade .quadro{border: 1px solid #2C2C2C;font-weight: bold;margin: 0 auto;padding: 10px;width: 300px;}
+
 /* Box Exemplo */
 div#box-exemplo{margin:10px 0px;float: left;}
 div#box-exemplo .ba-esq{float: left;width: 350px;}
@@ -283,16 +305,19 @@ div#box-exemplo .ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margi
 div#box-exemplo .ba-esq .ba-img{text-align: center;margin-top:-2px;}
 div#box-exemplo #explicacao{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;} 
 
-div#box-exemplo  div.panel,div.flip {margin:0 0 10px;padding: 2px 10px;text-align:center;float:left; width:400px;background:#19314c;border-radius: 5px 5px 5px 5px;border:solid 1px #c3c3c3;text-align:justify;cursor:pointer;color:#fff;}
+div#box-exemplo  div.panel,div.flip {padding: 2px 10px;text-align:center;float:left; width:385px;background:#19314c;border-radius: 5px 5px 5px 5px;text-align:justify;cursor:pointer;color:#fff;}
 div#box-exemplo div.panel{display:none;color:#000;background:#fff;}
 div#box-exemplo  div.panel,div.flip span{float: left;margin: 7px 0 0;}
 div#box-exemplo  div.panel,div.flip img{float:left;}
+div#box-exemplo div.panel p{margin:2px 0px;}
+
 /* Box Atividade */
 div#box-atividade{margin:10px 0px;float: left;}
 div#box-atividade .ba-esq{float: left;width: 350px;}
-div#box-atividade .ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 140px;}
+div#box-atividade .ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 200px;text-align: left;}
 div#box-atividade .ba-esq .ba-img{text-align: center;margin-top:-2px;}
 div#box-atividade #explicacao{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;} 
+div#box-atividade #explicacao table{text-align:center;}
 
 /* Box video */
 div#content{width:770px;margin: 10px 0;float: left;font-size: 13px;padding: 0 30px;}
@@ -302,16 +327,15 @@ div#content #explicacao{float: right;min-height: 200px;width: 300px;border: 1px 
 div#content #midia{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;}  
 
 /* Box Digitação */
-div#boxDialogo{width:100%;margin: 10px 0;float: left;font-size: 13px;}
+div#boxDialogo{width:100%;margin: 10px 0;float: left;font-size: 13px;background:url("../imgs/e08.png") no-repeat scroll 0 0 transparent;}
 div#boxDialogo .box-digitacao{margin: 0 auto;width: 500px;}
 div#boxDialogo #img-person{width: 130px;float: right;text-align: center;}
-div#boxDialogo .areaTexto{width: 300px;padding: 10px;float: left;background:url(../imgs/bdy-diagolo.png)repeat-x #F2F4F5;border: 1px solid #DDDDDD;margin: 30px 0;}
+div#boxDialogo .areaTexto{width: 300px;padding: 10px;float: left;background:url(../imgs/bdy-diagolo.png)repeat-x #F2F4F5;border:3px ridge #DDDDDD;margin: 30px 0;min-height: 90px;}
     
-/* Fala Personagem */
-div#box-dialogo{background:url(../imgs/bdy-diagolo.png)repeat-x #F2F4F5;border: 1px solid #DDDDDD;margin: 10px 0;width: 100%;float: left;font-size: 13px;}
-div#box-dialogo #img-person{width: 130px;padding: 10px 50px 0 0;float: right;text-align: center;}
-div#box-dialogo #texto{width: 620px;padding: 10px;float: left;}
-div#box-dialogo #texto p{margin:5px 0px;}
+/* Box Introdução */
+div#box-introducao{float: left;font-size: 13px;margin: 10px;width: 700px;}
+div#box-introducao #img-person{float: left;margin-left: 30px;width: 130px;}
+div#box-introducao #texto{background: url("../imgs/bdy-diagolo.png") repeat-x scroll 0 0 #F2F4F5;border: 1px solid #DDDDDD;box-shadow: 2px 2px #C6CCCF;float: right;padding: 10px;width: 420px;}
 
 /*Fala Personagem com Imagem*/
 
@@ -336,4 +360,16 @@ div#caca-palavras{float: left;text-align: center;width: 100%;}
 
 /* Questões */
 div#box-questoes{background-color: #EFEFEF;border: 1px dotted #DDDDDD;margin: 10px 0;float:left;width:100%;}
+
+/* Box Video */
+div#box-video #img-person{float: left;width: 200px;}
+div#box-video-esq{float: right;width: 450px;}
+div#box-video-esq-video{}
+div#box-video-esq-img{}
+
+
+
+
+
+
 

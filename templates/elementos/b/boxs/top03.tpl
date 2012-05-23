@@ -4,23 +4,36 @@
 <div id="meio">
 <h3>Box Explicação</h3>
 
-<div id="boxDigitacao">
-    <div class="item">
-    Em alguns países, o inglês é visto como uma segunda língua, isto é, é a língua mais falada depois da língua materna, que no caso do Brasil seria o Português. Assista ao vídeo ao lado e veja a importância de se aprender o inglês para o mercado de trabalho.
-    </div> 
+<div id="boxExplicacao">    
+    <div id="boxExplicacaoTexto">
+        <div id="slideshow">
+        <div id="slidesContainer">
+          <div class="slide">
+            <p>De modo geral, a maneira como tratamos ou falamos com nossos familiares, amigos próximos e colegas de classe, por exemplo, é realizada de forma mais simples, informal. </p>
+          </div>
+          <div class="slide">
+            <p>No entanto, quando nos dirigimos a alguém que possui um prestígio social mais alto, um grau hierárquico mais elevado ou a pessoas que não conhecemos bem, temos que utilizar, necessariamente, uma linguagem mais formal.</p>
+             
+          </div>
+          <div class="slide">
+            <p>Slide</p>
+          </div>
+          <div class="slide">
+            
+            <p>Slide</p>
+          </div>
+        </div>
+        </div>
+    </div>
+    
+    <div id="boxExplicacaoImg">
+        <img src="../../../imgs/e06.png"/>    
+    </div>
 </div>
 
-<div id="content">
-	<div id="texto">
-		<img src="../../../imgs/e01.png"/>
-		<div class="areaTexto"></div>
-	</div>
-	<div id="explicacao">
-		<p class="cabecario">Anglicismo</p>
-		<p>É um termo ou expressão da língua inglesa introduzida a outra língua, seja devido à necessidade de designar objetos ou fenômenos novos, para os quais não existe designação adequada na língua alvo, seja por qualquer motivo como, por exemplo, dificuldades em traduções. Caracteriza-se por vício de linguagem.</p>
-	</div>
-</div>
+  
 
+</div>
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

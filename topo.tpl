@@ -4,12 +4,14 @@
 	<link href="../../../css/main.css" media="all" type="text/css" rel="stylesheet">
 	<link href="../../../css/jvst.css" media="all" type="text/css" rel="stylesheet">
     <link href="../../../css/abas-tabela.css" media="all" type="text/css" rel="stylesheet">
+    <link href="../../../css/style.css" media="all" type="text/css" rel="stylesheet">
 
 	<script type="text/javascript" src="../../../js/jquery.js"></script>
 	<script type="text/javascript" src="../../../js/swfobject.js"></script>	
 	<script type="text/javascript" src="../../../js/questionario.js"></script>	
 	<script type="text/javascript" src="../../../js/jquery.qtip.js"></script>
-	<script type="text/javascript" src="../../../js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="../../../js/jquery-1.3.2.min.js"></script>                                                      	
+	<script type="text/javascript" src="../../../js/slider.js"></script>
 		
 	<title>Projeto E-Jovem</title>	
 	
