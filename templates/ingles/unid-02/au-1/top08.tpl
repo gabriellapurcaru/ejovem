@@ -7,7 +7,7 @@
 <div id="box-atividade">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Pratique os diálogos acima, substituindo as palavras em negrito por informações verdadeiras sobre você. </p>
+        <p>Pratique os diálogos acima, substituindo as frases por informações verdadeiras sobre você. </p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>

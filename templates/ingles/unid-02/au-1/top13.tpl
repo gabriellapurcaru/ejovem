@@ -16,9 +16,9 @@
 <div class="panel">
     <p>Paul is my best friend</p>    
     <hr>
-    <p>Alice will be at the club </p>
+    <p>Alice <b>will be</b> at the club </p>
     <hr>
-    <p>We would be very grateful to you if you could do us this favor. </p>    
+    <p>We <b>would be</b> very grateful to you if you could do us this favor. </p>    
 </div>
 </div>
 

@@ -7,7 +7,7 @@
 
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
-    <p>Leia o diálogo e através de “skimming”, e complete a atividade.</p>
+    <p>Leia o diálogo e através de “skimming”, complete a atividade a seguir.</p>
     </div>
     <div id="box-explicacao-tabela-img">
         <img src="../../../imgs/e09.png"/>    
@@ -26,7 +26,7 @@
    <p>B: Boston, Massachusetts</p>
    <br>
    <p>A: What's your job?</p>
-   <p>B: I'm a teacher./p>
+   <p>B: I'm a teacher.</p>
 </div>
 
 </div>

@@ -2,35 +2,20 @@
 {menu}
 
 <div id="meio">
-<h3>Introducing</h3>
+<h3>Learn More</h3>
 
-<div id="box-atividade">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Pratique os diálogos acima, substituindo as palavras em negrito por informações verdadeiras sobre você. </p>
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+        <div class="box-person">
+                <img src="../../../imgs/e13.png"/>
+        </div>
     </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-</div>
-<div id="explicacao">
-	<table width="100%">
-		<tbody>
-		<tr>
-          <td>What's your name? </td>
-          <td>My name's ___</td>
-        </tr>
-        <tr>
-          <td>Nice to meet you </td>
-          <td>Nice to meet you too</td>
-        </tr>
-        <tr>
-          <td>How do you do?</td>
-          <td>How old are you?</td>
-        </tr>
-      
-      </tbody>
-		
-		</thead>
-	</table>
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, acesse o site http://www.eslfast.com/easydialogs/index.html, escolha um diálogo e o acompanhe através do áudio e texto.  Have fun! </p> 
+        </div>
+    </div>
+
 </div>
 
 </div>	

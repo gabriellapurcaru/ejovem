@@ -6,13 +6,13 @@
 
 <div id="box-introducao">
 <div id="img-person">
-    <img src="../../../imgs/e10.png"/>
+    <img src="../../../imgs/e12.png"/>
 </div>
 
 <div id="texto">
 <p><b>Olá a todos!</b></p>
 
-<p>Olá! Cortesia e boas maneiras são a essência da boa educação. O desenvolvimento de um bom relacionamento depende, sobremaneira, do nosso comportamento social. Assim, devemos ser corteses, tanto em sociedade quanto no lar e zelarmos por uma convivência agradável a partir da apresentação pessoal e da maneira de cumprimentar aquele com quem se fala. </p>
+<p>Cortesia e boas maneiras são a essência da boa educação. O desenvolvimento de um bom relacionamento depende, sobremaneira, do nosso comportamento social. Assim, devemos ser corteses, tanto em sociedade quanto no lar e zelarmos por uma convivência agradável a partir da apresentação pessoal e da maneira de cumprimentar aquele com quem se fala. </p>
 
 <p>Nesse sentido, nessa unidade você poderá aprender entre outros aspectos, como se apresentar a outra pessoa, perguntar pelo nome de alguém, o uso adequado de pronomes pessoais do caso reto e de tratamento, os tempos simples do verbo to be, expressões idiomáticas e de saudações e de despedida.</p>
 

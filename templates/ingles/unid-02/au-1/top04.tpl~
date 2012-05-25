@@ -18,15 +18,15 @@
    <h5>Personal information</h5>
    <p>A: What's your surname (family name)?</p>
    <p>B: Ostheimer</p>
-   <hr>
+   <br>
    <p>A: What's your first name?</p>
    <p>B: Fred</p>
-   <hr>
+   <br>
    <p>A: Where are you from?</p>
    <p>B: Boston, Massachusetts</p>
-   <hr>
+   <br>
    <p>A: What's your job?</p>
-   <p>B: I'm a teacher./p>
+   <p>B: I'm a teacher.</p>
 </div>
 
 </div>

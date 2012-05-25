@@ -2,35 +2,17 @@
 {menu}
 
 <div id="meio">
-<h3>Introducing</h3>
+<h3>Practice</h3>
 
 <div id="box-atividade">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Pratique os diálogos acima, substituindo as palavras em negrito por informações verdadeiras sobre você. </p>
+        <p>Complete os seguintes diálogos com as palavras do quadro, arrastando elas para o espaço correto.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>
 <div id="explicacao">
-	<table width="100%">
-		<tbody>
-		<tr>
-          <td>What's your name? </td>
-          <td>My name's ___</td>
-        </tr>
-        <tr>
-          <td>Nice to meet you </td>
-          <td>Nice to meet you too</td>
-        </tr>
-        <tr>
-          <td>How do you do?</td>
-          <td>How old are you?</td>
-        </tr>
-      
-      </tbody>
-		
-		</thead>
-	</table>
+	
 </div>
 
 </div>	

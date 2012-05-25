@@ -4,12 +4,19 @@
 <div id="meio">
 <h3>Grammar Focus</h3>
 
-<div id="box-video">
-    <div id="img-person">
-        <img src="../../../imgs/e10.png">
+<div id="box-center-video">
+    <div id="box-dir">
+		  <div id="balao-azul">
+		    <p>Assista ao lado um vídeo sobre o <b>verbo to be</b></p>
+		  </div>
+		  <div id="person">
+		      <img src="../../../imgs/e10.png">
+		  </div>
     </div>
-    <div id="box-video-esq">
+    <div id="box-esq">
         <div id="box-video-esq-video">
+            <object width="400" height="250"><param name="movie" value="http://www.youtube.com/watch?v=sAW3f4KGSn4"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/watch?v=sAW3f4KGSn4" type="application/x-shockwave-flash" wmode="transparent" width="400" height="250"></embed></object>
+
 
         </div>
         <div id="box-video-esq-img">

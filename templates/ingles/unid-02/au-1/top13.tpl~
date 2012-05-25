@@ -7,7 +7,7 @@
 <div id="box-exemplo">
 <div class="ba-esq">
     <div class="ba-balao">
-        <pAlém dos significados básicos de ser e estar, o <b>verbo to be</b> também é muito empregado no sentido de ficar (tornar-se).</p>
+        <p>Além dos significados básicos de ser e estar, o <b>verbo to be</b> também é muito empregado no sentido de ficar (tornar-se).</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
 </div>
@@ -16,7 +16,7 @@
 <div class="panel">
     <p>Paul is my best friend</p>    
     <hr>
-    <p>Alice will be at the club </p>
+    <p>Alice <b>will be</b> at the club </p>
     <hr>
     <p>We would be very grateful to you if you could do us this favor. </p>    
 </div>
