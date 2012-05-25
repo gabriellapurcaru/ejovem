@@ -15,26 +15,7 @@
 		
 	<title>Projeto E-Jovem</title>	
 	
-	<script src="../../../js/swfobject.js"></script>
-	<script>
-		var flashvars = {};
-		var params = {
-			menu: "false",
-			scale: "noScale",
-			allowFullscreen: "true",
-			allowScriptAccess: "always",
-			bgcolor: "",
-			wmode: "transparent" // can cause issues with FP settings & webcam
-		};
-		var attributes = {
-			id:"Teste"
-		};
-		swfobject.embedSWF(
-			"atividades/atividade01.swf", 
-			"chamadivdaatividade", "550", "250", "10.0.0", 
-			"atividades/expressInstall.swf", 
-			flashvars, params, attributes);
-	</script>
+	
 		
     <script>
 		var flashvars = {};
@@ -67,7 +48,6 @@
 		<div class="titulo-modulo-aula"> Aula 1: The Importance Of English Today<span></div>
 		</h2>
 	</div>
-	<div class="acoes"></div>
 </div>
 
 <div id="conteudo">

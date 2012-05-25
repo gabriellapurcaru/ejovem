@@ -13,7 +13,7 @@
     </div>
 </div>
 
-<div id="box-explicacao-tabela-left">
+<div id="box-explicacao-video-animacao">
    <embed height="100%" width="100%" name="plugin" src="img/dialogo01.swf" type="application/x-shockwave-flash" />
 </div>
 

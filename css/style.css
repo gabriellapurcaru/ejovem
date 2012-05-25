@@ -39,6 +39,6 @@
  */
 .control {display:block;width:39px;height:30px;text-indent:-10000px;position:absolute;cursor: pointer;}
 #leftControl {top: 200px;left:0;}
-#rightControl {right: 5px;top: 175px;background:transparent url("../imgs/seta_rigth.png") no-repeat 0 0;}
+#rightControl {right: 5px;top: 190px;background:transparent url("../imgs/seta_rigth.png") no-repeat 0 0;}
 
 

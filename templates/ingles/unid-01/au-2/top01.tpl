@@ -3,26 +3,26 @@
 
 <div id="meio">
 <h3>Introdução</h3>
-<div id="box-dialogo">
 
-<div id="texto">
-<p><b>Olá a todos!</b></p>
-
-<p>Sejam bem vindo a mais uma lession do nosso curso de Inglês.</p>
-<p>Na <b>Lesson 02 - Reading  Strategies</b> você aprenderá estratégias de leitura para uma melhor interpretação textual.</p>
-<p><b>Let's go!</b></p>
-
-</div>
-<div id="img-person">
-<img src="../../../imgs/personagem_corpo.png"/>
-</div>
+<div id="boxDigitacao">
+    <div class="item">
+        Olá! Na aula passada aprendemos a importância da língua inglesa. Nesta aula você irá ter contato com o texto sobre o Rei do Pop, Michael Jackson, aprendendo sobre as estratégias de leitura existentes na língua inglesa. Vamos começar?
+    </div> 
 </div>
 
+<div id="boxDialogo">
+<div class="box-digitacao">
+    <div class="areaTexto"></div>
+    <div id="img-person">
+        <img src="../../../imgs/personagem_corpo.png"/>
+    </div>
+</div>    
+</div>
 
-
+</div>
 <div id="rodape">
 	<div id="navegacao">
-		<span>Página 1 de 7</span>
+		<span>Página 1 de 9</span>
 		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>	

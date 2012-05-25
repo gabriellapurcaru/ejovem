@@ -23,7 +23,7 @@
 </div>
 <div id="rodape">
 	<div id="navegacao">
-		<span>Página 1 de 6</span>
+		<span>Página 1 de 7</span>
 		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>	

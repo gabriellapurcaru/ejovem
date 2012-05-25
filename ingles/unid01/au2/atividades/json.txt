@@ -1,7 +1,7 @@
 ﻿{
 	"palavras":
 	[
-		{ "pt": "Gato", 	"en": "Cat" }, 
+		{ "pt": "eeee", 	"en": "Cat" }, 
 		{ "pt": "Cachorro",	"en": "Dog" }, 
 		{ "pt": "Árvore",	"en": "Tree" }, 
 		{ "pt": "Água", 	"en": "Water" }, 
