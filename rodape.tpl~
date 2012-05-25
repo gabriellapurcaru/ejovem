@@ -1,7 +1,3 @@
-<script>
-	var el = document.getElementsByTagName("body")[0];
-	el.className = "";
-</script>
 
 <script type="text/javascript">
 $(document).ready(function(){
