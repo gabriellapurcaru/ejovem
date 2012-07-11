@@ -4,16 +4,13 @@
 <div id="meio">
 
 <h3> Atividade de Reflexão</h3>
-<div id="box-atividade">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Observe o gráfico de barras ao lado que apresenta o número de falantes de inglês como segunda língua e responda a pergunta que se segue clicando na barra correspondente à resposta correta.</p>
-    </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-</div>
 
-<div id="explicacao">
- <embed height="100%" width="100%" type="application/x-shockwave-flash" src="img/atividade_pag4.swf" name="plugin">
+<div id="center">
+<div id="atividade">
+<p>Observe o gráfico de barras ao lado que apresenta o número de falantes de inglês como segunda língua e responda a pergunta que se segue clicando na barra correspondente à resposta correta.</p>
+<div id="explicacao" style="text-align:center;">
+ <embed width="550" height="380" type="application/x-shockwave-flash" src="img/atividade.swf" name="plugin">
+</div>
 </div>
 </div>
 
