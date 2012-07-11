@@ -5,9 +5,7 @@
 	<link href="../../../css/jvst.css" media="all" type="text/css" rel="stylesheet">
     <link href="../../../css/abas-tabela.css" media="all" type="text/css" rel="stylesheet">
     <link href="../../../css/style.css" media="all" type="text/css" rel="stylesheet">
-   
-    <link href="../../../js/jquery.qtip.css" media="all" type="text/css" rel="stylesheet">
-    <link href="../../../js/jquery.qtip.min.css" media="all" type="text/css" rel="stylesheet">
+    <link href="../../../css/hot.css" media="all" type="text/css" rel="stylesheet">
     
 	<script type="text/javascript" src="../../../js/jquery.js"></script>
 	<script type="text/javascript" src="../../../js/swfobject.js"></script>	
@@ -15,31 +13,10 @@
 	<script type="text/javascript" src="../../../js/jquery.qtip.js"></script>
 	<script type="text/javascript" src="../../../js/jquery-1.3.2.min.js"></script>                                                      	
 	<script type="text/javascript" src="../../../js/slider.js"></script>
-	<script type="text/javascript" src="../../../js/qtip/jquery.qtip.js"></script>
-	<script type="text/javascript" src="../../../js/qtip/jquery.qtip.min.js"></script>  
 		
 	<title>Projeto E-Jovem</title>	
 	
-	<script src="../../../js/swfobject.js"></script>
-	<script>
-		var flashvars = {};
-		var params = {
-			menu: "false",
-			scale: "noScale",
-			allowFullscreen: "true",
-			allowScriptAccess: "always",
-			bgcolor: "",
-			wmode: "transparent" // can cause issues with FP settings & webcam
-		};
-		var attributes = {
-			id:"Teste"
-		};
-		swfobject.embedSWF(
-			"atividades/atividade01.swf", 
-			"chamadivdaatividade", "550", "250", "10.0.0", 
-			"atividades/expressInstall.swf", 
-			flashvars, params, attributes);
-	</script>
+	
 		
     <script>
 		var flashvars = {};
@@ -61,7 +38,7 @@
 			flashvars, params, attributes);
 	</script>
 </head>
-<body>
+<body onload="StartUp()" id="TheBody">
 <div id="c">
 <div id="bdy">
 	
@@ -72,7 +49,6 @@
 		<div class="titulo-modulo-aula"> Aula 1: The Importance Of English Today<span></div>
 		</h2>
 	</div>
-	<div class="acoes"></div>
 </div>
 
 <div id="conteudo">
