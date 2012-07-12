@@ -5,7 +5,8 @@
 	<link href="../../../css/jvst.css" media="all" type="text/css" rel="stylesheet">
     <link href="../../../css/abas-tabela.css" media="all" type="text/css" rel="stylesheet">
     <link href="../../../css/style.css" media="all" type="text/css" rel="stylesheet">
-
+    <link href="../../../css/hot.css" media="all" type="text/css" rel="stylesheet">
+    
 	<script type="text/javascript" src="../../../js/jquery.js"></script>
 	<script type="text/javascript" src="../../../js/swfobject.js"></script>	
 	<script type="text/javascript" src="../../../js/questionario.js"></script>	
@@ -37,7 +38,7 @@
 			flashvars, params, attributes);
 	</script>
 </head>
-<body>
+<body onload="StartUp()" id="TheBody">
 <div id="c">
 <div id="bdy">
 	
