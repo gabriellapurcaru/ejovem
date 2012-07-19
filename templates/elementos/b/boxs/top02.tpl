@@ -3,31 +3,30 @@
 
 <div id="meio">
 
-<h3>Box Video</h3>
+<h3>BOX INTRODUÇÃO (BI01)</h3>
 
 <div id="boxDigitacao">
     <div class="item">
-    Em alguns países, o inglês é visto como uma segunda língua, isto é, é a língua mais falada depois da língua materna, que no caso do Brasil seria o Português. Assista ao vídeo ao lado e veja a importância de se aprender o inglês para o mercado de trabalho.
+        Corpo
     </div> 
 </div>
 
-<div id="content">
-	<div id="texto">
-		<img src="../../../imgs/e01.png"/>
-		<div class="areaTexto"></div>
-	</div>
-	<div id="midia">
-		video
-	</div>
+<div id="boxDialogo">
+<div class="box-digitacao">
+    <div class="areaTexto"></div>
+    <div id="img-person">
+        <img src="../../../imgs/personagem_corpo.png"/>
+    </div>
+</div>    
 </div>
 
 
 
-
+</div>
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 2 de 8</span>
+			<span>Página 2 de 14</span>
 		<a href="top03.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>	
