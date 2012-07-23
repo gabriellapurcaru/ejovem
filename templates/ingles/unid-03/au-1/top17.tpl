@@ -13,18 +13,18 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, acesse o site http://www.eslfast.com/easydialogs/index.html, escolha um diálogo e o acompanhe através do áudio e texto.  Have fun! 
-	       </p> 
+	       <p>Corpo</p> 
         </div>
     </div>
 </div>
+
 
 </div>	
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top16.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 17 de 18</span>
-		<a href="top18.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+			<span>Página 17 de 17</span>
+		
 	</div>
 </div>
 

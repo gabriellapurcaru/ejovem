@@ -2,41 +2,34 @@
 {menu}
 
 <div id="meio">
-<h3>Introducing</h3>
+<h3>  <a href=""  title="Introdução"/> Introduction</h3>
 
-<div id="box-atividade">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Pratique os diálogos acima, substituindo as frases por informações verdadeiras sobre você. </p>
+<div id="boxDigitacao">
+    <div class="item">
+       Conhecer e aprender a pronunciar corretamente as letras do alfabeto inglês é um passo importante para o bom aprendizado do idioma. O alfabeto inglês possui 26 letras e está baseado no alfabeto latino.
+Como em outros idiomas, devemos ter em mente que as letras do alfabeto inglês podem sofrer alterações de pronúncia dependendo da palavra ou até mesmo da frase em que está sendo utilizada.
+Por isso, é indispensável que se preste bastante atenção às atividades de compreensão auditiva e as dicas fornecidas durante as aulas para entendermos e captarmos melhor os sons.Vamos nessa?
+
+    </div> 
+</div>
+
+<div id="boxDialogo">
+<div class="box-digitacao">
+    <div class="areaTexto"></div>
+    <div id="img-person">
+        <img src="../../../imgs/personagem_corpo.png"/>
     </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+</div>    
 </div>
-<div id="explicacao">
-	<table width="100%">
-		<tbody>
-		<tr>
-          <td>What is your name? </td>
-          <td>My name is ___</td>
-        </tr>
-        <tr>
-          <td>Nice to meet you </td>
-          <td>Nice to meet you too</td>
-        </tr>
-        <tr>
-          <td>How do you do?</td>
-          <td>How old are you?</td>
-        </tr>
-      
-      </tbody>
-	</table>
-</div>
-</div>
+
+
+
 
 </div>	
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 18</span>
+			<span>Página 8 de 17</span>
 		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>	
 	</div>
 </div>
