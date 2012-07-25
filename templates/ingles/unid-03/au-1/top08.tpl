@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3>  <a href=""  title="Introdução"/> Introduction</h3>
+<h3> Introduction</h3>
 
 <div id="boxDigitacao">
     <div class="item">
@@ -29,7 +29,7 @@ Por isso, é indispensável que se preste bastante atenção às atividades de c
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 17</span>
+			<span>Página 8 de 18</span>
 		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>	
 	</div>
 </div>

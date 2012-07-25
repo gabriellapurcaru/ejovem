@@ -21,7 +21,7 @@
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 14 de 17</span>
+			<span>Página 14 de 18</span>
 		<a href="top15.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>

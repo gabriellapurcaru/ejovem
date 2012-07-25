@@ -2,10 +2,11 @@
 {menu}
 
 <div id="meio">
-<h3>3.Spelling</h3>
+<h3>Spelling</h3>
 
 <div id="boxExplicacao">    
     <div id="boxExplicacaoTexto">
+
         <p>Spelling em português significa soletrar, quando perguntamos, alguém para soletrar o nome, em inglês dizemos how do you spell your name, please?
 Vamos treinar o spelling?
 </p>
@@ -22,7 +23,7 @@ Vamos treinar o spelling?
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 12 de 17</span>
+			<span>Página 12 de 18</span>
 		<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>

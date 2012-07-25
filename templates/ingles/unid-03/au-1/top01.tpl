@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3><span class="GapSpan" id="GapSpan1">
+<h3>   <a href=""  title="Considerações iniciais"/>  Initial considerations</h3>
  
 <div id="box-introducao">
 <div id="img-person">
@@ -23,7 +23,7 @@ Que todos tenham um ótimo estudo!
 </div>
 <div id="rodape">
 	<div id="navegacao">
-		<span>Página 1 de 17</span>
+		<span>Página 1 de 18</span>
 		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>	

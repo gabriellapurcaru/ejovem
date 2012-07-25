@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3>Brush up!</h3>
+<h3> </h3>
 
 <div id="center">
 <div id="atividade">
@@ -70,7 +70,7 @@
 <div class="FeedbackText" id="FeedbackContent"></div>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
-
+</div>
 <!-- BeginBottomNavButtons -->
 
 
@@ -87,7 +87,7 @@
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 5 de 17</span>
+			<span>Página 5 de 18</span>
 		<a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>

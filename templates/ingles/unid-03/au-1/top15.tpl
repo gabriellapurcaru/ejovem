@@ -15,26 +15,24 @@
 	<div id="Instructions">Preencha os diagolos abaixo de acordo com as frases do quadro. , em seguida, pressione "Verificar" para verificar as respostas. Use o bot&#x00E3;o "Sugestão" para obter uma letra da resposta se tiver d&#x00FA;vidas. Voc&#x00EA; tamb&#x00E9;m pode clicar no bot&#x00E3;o "[?]" Bot&#x00E3;o para obter uma pista. Note que voc&#x00EA; vai perder pontos se voc&#x00EA; pedir dicas ou pistas!</div>
 </div>
 
-
-
-  
-
-  <table width="536" bgcolor="#66CC00" >
-    <tr>
-      <td ><strong>Susi, this is my friend Zeca. </strong></td>
-      <td ><strong>I’m from Recife, Pernambuco. And you? </strong></td>
-    </tr>
-    <tr>
-      <td><strong>How do you spell Mayer?</strong></td>
-      <td><strong>My name is Pedro.</strong></td>
-    </tr>
-    <tr>
-      <td><strong>I’m fine, and you?</strong></td>
-      <td><strong>What’s  your name?</strong></td>
-    </tr>
-  </table>
-  <div id="MainDiv" class="StdDiv">
-
+<div id="table">
+    <table widtd="100%">
+	    <tbody>
+	        <tr>
+			    <td>Susi, this is my friend Zeca.</td>
+			    <td>How do you spell Mayer?</td>
+			    <td>I’m fine, and you?</td>
+		    </tr>
+		    <tr>
+			    <td>I’m from Recife, Pernambuco. And you?</td>
+			    <td>What’s your name?</td>
+			    <td>My name is Pedro.</td>
+		    </tr>	
+            
+	
+        </tbody>
+    </table>
+</div>
 <!-- These top buttons hidden; reveal if required -->
 <!--
 <button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
@@ -82,7 +80,7 @@
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top14.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 15 de 17</span>
+			<span>Página 15 de 18</span>
 		<a href="top16.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>
