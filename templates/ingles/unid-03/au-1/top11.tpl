@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3>Dictation</h3>
+<h3> <a href=""  title="Ditado"/>  Dictation </a></h3>
 <div id="box-atividade">
 <div class="ba-esq">
     <div class="ba-balao">

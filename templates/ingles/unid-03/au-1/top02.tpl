@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3>  <a href=""  title="Introdução"/> Introduction</h3>
+<h3>  <a href=""  title="Introdução"/> Introduction </a></h3>
 
 <div id="boxDigitacao">
     <div class="item">

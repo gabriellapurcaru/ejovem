@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3>   <a href=""  title="Passando a vista"/>  Brush up</h3>
+<h3>   <a href=""  title="Passando a vista"/>  Brush up </a></h3>
 
 
 </div>

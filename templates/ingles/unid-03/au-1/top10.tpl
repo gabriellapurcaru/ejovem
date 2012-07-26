@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3> Dictation</h3>
+<h3> <a href=""  title="Ditado"/>  Dictation </a></h3>
 
 <div id="box-center-video">
     <div id="box-dir">
@@ -15,11 +15,9 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            http://www.youtube.com/watch?v=iiuy8P7Ps70&feature=player_embedded
-         </div>
-        <div id="box-video-esq-img">
+            <embed autoplay="false" src="../../../ingles/unid03/au1/video/RealEnglishLesson3.mp4" width="363" height="229"box-video-esq-img">            
             <img src="../../../imgs/e11.png">
-        </div>
+      </div>
     
     </div>
 </div>

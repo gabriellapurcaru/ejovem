@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3>Practice</h3>
+<h3><a href=""  title="Pratica"/>Practice </a></h3>
 
 <div id="box-atividade">
 <div class="ba-esq">

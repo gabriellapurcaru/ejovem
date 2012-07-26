@@ -2,7 +2,7 @@
 {menu}
 
 <div id="meio">
-<h3>Spelling</h3>
+<h3>  <a href=""  title="Ortografia"/> Spelling </a></h3>
 
 <div id="boxExplicacao">    
     <div id="boxExplicacaoTexto">
