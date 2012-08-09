@@ -4,7 +4,7 @@
 <div id="meio">
 <h3>Brush up!</h3>
 
-
+<embed height="100%" width="100%" name="plugin" src="../../../ingles/unid03/au2/video/s01.swf" type="application/x-shockwave-flash" />
 
 </div>
 <div id="rodape">
