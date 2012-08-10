@@ -2,26 +2,36 @@
 {menu}
 
 <div id="meio">
-<h3>  <a href=""  title="Introdução"/> Introduction </a> </h3>
 
-<div id="boxDigitacao">
-    <div class="item">
-       Conhecer e aprender a pronunciar corretamente as letras do alfabeto inglês é um passo importante para o bom aprendizado do idioma. O alfabeto inglês possui 26 letras e está baseado no alfabeto latino.
-Como em outros idiomas, devemos ter em mente que as letras do alfabeto inglês podem sofrer alterações de pronúncia dependendo da palavra ou até mesmo da frase em que está sendo utilizada.
-Por isso, é indispensável que se preste bastante atenção às atividades de compreensão auditiva e as dicas fornecidas durante as aulas para entendermos e captarmos melhor os sons.Vamos nessa?
+<h3> <a href="" title="Números de telefone">TELEPHONE NUMBERS </a></h3>
 
-    </div> 
-</div>
-
-<div id="boxDialogo">
-<div class="box-digitacao">
-    <div class="areaTexto"></div>
-    <div id="img-person">
-        <img src="../../../imgs/personagem_corpo.png"/>
+<div id="box-exemplo">
+<div class="ba-esq">
+    <div class="ba-balao">
+        <p>Agora que você já sabe como são os números em inglês veja alguns exemplos de como eles podem ser usando em uma frase.</p>
     </div>
-</div>    
+    <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
 </div>
 
+<div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique para ver os exemplos<span></div>
+<div class="panel">
+    <p> <a href="" title="Qual o número do seu telefone?" > What’s your telephone number? </a> </p>   
+    <p> <a href="" title="É o 33469892" > It’s 33469892 (three three four six – nine eight nine two). </a> </p> <br /> 
+     
+    <p> <a href="" title="Qual o seu número de casa?" > What’s your home number?  </a> </p> 
+     <p> <a href="" title="É o 32147904" > It’s 32147904 (three two one four – seven nine oh four  </a> </p> <br />
+     
+     <p> <a href="" title="Qual o número do seu cellular?" > What’s your cellphone number? </a> </p>
+     <p> <a href="" title="É o 93210286" > It’s 93210286 ( nine three two one – oh two eight six) </a> </p><br />
+     
+    <p> Caso você não entenda o que foi dito, você pode utilizar as seguintes frases:</p> <br />
+      <p> <a href="" title="Você pode repetir isso, por favor?" > Can you repeat that, please?  </a> </p>
+     <p> <a href="" title="Desculpa, eu não entendo. Repita, por favor!" > Sorry, I don’t understand it. Repeat it, please. </a> </p><br />
+    
+    
+     
+</div>
+</div>
 
 
 

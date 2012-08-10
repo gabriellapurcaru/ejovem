@@ -3,21 +3,31 @@
 
 <div id="meio">
 
-<div id="box-atividade">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Ouça as letras e digite a letraque você escuta. 
-Vamos lá? 
-</p>
+<h3> <a href="" title="Dizendo as datas"> Saying dates </a></h3>
+
+<div id="box-explicacao-tabela">
+    <div id="box-explicacao-tabela-texto">
+    <p>Explicação</p>
     </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+    <div id="box-explicacao-tabela-img">
+        <img src="../../../imgs/e09.png"/>    
+    </div>
 </div>
-<div id="explicacao">
-	<div id="atividade02">
-		<p>Atividade</p>
-	</div>
+
+<div id="box-explicacao-tabela-left">
+	<table width="100%">
+		<tbody>
+			<tr>Com relação às datas, em inglês, os dias do mês vão para forma ordinal.
+Exemplos:  
+On July 20th ou on the 20th of July (No dia 20 de julho)
+The English test will be on the 23rd. (A prova de ingles será no dia 23.)
+Bruno was born on March 10th. (O Bruno nasceu no dia 10 de março.)
+Agora, vamos aprender como dizer os meses do ano em inglês.
+</tr>
+		</tbody>
+	</table>
 </div>
-</div>
+
 
 
 

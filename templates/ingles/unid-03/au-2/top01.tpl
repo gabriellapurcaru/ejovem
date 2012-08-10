@@ -2,7 +2,8 @@
 {menu}
 
 <div id="meio">
-<h3>introduction</h3>
+<h3> <a href= "" title= "Introdução" > introduction </a>  </h3>
+ 
  <div id="boxDigitacao">
     <div class="item">
       Hello! Na aula passada reforçamos nossos estudos sobre como fazer um diálogo, aprendemos o alfabeto e como soletrar uma palavra, além também de conhecermos palavras novas. Nesta aula vamos aprender sobre os números.

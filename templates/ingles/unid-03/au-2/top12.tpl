@@ -2,20 +2,27 @@
 {menu}
 
 <div id="meio">
-<h3>3.Spelling</h3>
 
-<div id="boxExplicacao">    
-    <div id="boxExplicacaoTexto">
-        <p>Spelling em português significa soletrar, quando perguntamos, alguém para soletrar o nome, em inglês dizemos how do you spell your name, please?
-Vamos treinar o spelling?
-</p>
+<h3> <a href="" title="Dizendo as datas"> Saying dates </a></h3>
+
+<div id="box-center-video">
+    <div id="box-dir">
+		  <div id="balao-azul">
+		    <p>Assista ao lado um vídeo</p>
+		  </div>
+		  <div id="person">
+		      <img src="../../../imgs/e10.png">
+		  </div>
     </div>
+    <div id="box-esq">
+        <div id="box-video-esq-video">
+            http://www.youtube.com/watch?v=Ywgh-_RDb4Q&feature=related
+         </div>
+        <div id="box-video-esq-img">
+            <img src="../../../imgs/e11.png">
+        </div>
     
-    <div id="boxExplicacaoImg">
-        <img src="../../../imgs/e06.png"/>    
     </div>
-</div>
-
 </div>
 
 </div>	

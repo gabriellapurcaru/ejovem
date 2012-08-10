@@ -2,22 +2,26 @@
 {menu}
 
 <div id="meio">
-<h3>Practice</h3>
 
-<div id="box-atividade">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>
-Você irá fazer uma revisão do que aprendeu até agora.  Let´s go!  <br />
-Relacione as colunas de acordo com os seus significados.
-</p>
+<h3> <a href="" title="Leia mais"> Learn more </a></h3>
+
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+        <div id="texto">
+            <p>Vá a seção conheça mais para saber curiosidades sobre a aula. Você verá como  sobre o uso do hífen nos números escritos por extenso. Depois, acesse a parte de vocabulário e reveja as palavras novas que aprendeu nesta aula</p>
+        </div>
+        <div class="box-person">
+                <img src="../../../imgs/e13.png"/>
+        </div>
     </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	    	<p>Corpo</p>
+	    	
+        </div>
+    </div>
 </div>
-<div id="explicacao">
-	
-</div>
-</div>
+
 
 </div>	
 <div id="rodape">
