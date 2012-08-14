@@ -1,5 +1,7 @@
 {topo}
+{tituloAula}
 {menu}
+
 
 <div id="meio">
 <h3>Practice</h3>

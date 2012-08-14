@@ -1,4 +1,5 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
@@ -16,38 +17,38 @@
 			<tr>
 				<th>Grafia original</th>
 				<th>Grafia aportuguesada</th>
-				<th>Áudio</th>
+				<th>Audio</th>
 			</tr>
 			<tr>
 				<td>Bang -bang</td>
 				<td>Bangue-bangue</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 				<td>Baseboll</td>
 				<td>Beiseboll</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>	
             <tr>
 				<td>Box</td>
 				<td>Boxe</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 				<td>Bulldog</td>
 				<td>Buldogue</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>	
             
              <tr>
 				<td>Cocktail</td>
 				<td>Coquetel</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 				<td>Container</td>
 				<td>Contêiner</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>	
 	</table>
 </div>

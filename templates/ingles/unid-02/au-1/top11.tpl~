@@ -1,6 +1,6 @@
 {topo}
+{tituloAula}
 {menu}
-
 <div id="meio">
 <h3>Personal Pronouns</h3>
 
@@ -141,6 +141,17 @@
         <tr>
           <td>They</td>
           <td>Eles, elas (neutro)</td>
+          <td>
+          <div id="audio">
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="25" height="20"
+                codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">
+                <param name="movie" value="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" />
+                <param name="wmode" value="transparent" />
+                <embed wmode="transparent" width="25" height="20" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30"
+                type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+            </object>	
+        </div>
+          </td>
         </tr>             
       </tbody>
 
@@ -152,7 +163,7 @@
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 8</span>
+			<span>Página 11 de 18</span>
 		<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>

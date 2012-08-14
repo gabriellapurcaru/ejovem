@@ -15,27 +15,9 @@
 <div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique para ver os exemplos<span></div>
 <div class="panel">
     <p>The president Dilma spoke to the nation yesterday. She promised a new package.</p>
-    <p>It rains a lot in London.</p>
+    
     <hr>
-    <p>Não, o <b>senhor</b> poderia me lembrar, por favor?</p>
-    <p>No <b>Sir</b>, could you remember me, please?</p>
-	<hr>
-	<table width="100%">
-		<thead>
-			<tr>
-				<td>Sr. Antonio Ferreira</td>
-				<td>Mr. Robert Shafter</td>
-			</tr>
-			<tr>
-			    <td>Srta. Carla Teixeira </td>
-				<td>Miss. Catherine Jones</td>
-			</tr>	
-			<tr>
-			    <td>Dona Marcia Freitas</td>
-				<td>Dra. Tereza Oliveira</td>
-			</tr>				
-		</thead>
-	</table>
+    <p>It rains a lot in London.</p>
 </div>
 </div>
 
@@ -43,7 +25,7 @@
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 8</span>
+			<span>Página 12 de 18</span>
 		<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>

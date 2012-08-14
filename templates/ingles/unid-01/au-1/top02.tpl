@@ -1,5 +1,7 @@
 {topo}
+{tituloAula}
 {menu}
+
 
 <div id="meio">
 <h3>A Importância do Inglês no Mundo</h3>

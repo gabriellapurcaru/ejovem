@@ -45,11 +45,5 @@
 <div id="topo">
 	<h3><img src="../../../imgs/logo.png"/></h3>
 	<div class="titulo_aula">
-		<h2>Unidade 1. Getting Ready For The Course
-		<div class="titulo-modulo-aula"> Aula 1: The Importance Of English Today<span></div>
-		</h2>
-	</div>
-</div>
 
-<div id="conteudo">
 
