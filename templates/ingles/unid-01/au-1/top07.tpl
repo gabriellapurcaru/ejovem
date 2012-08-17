@@ -1,4 +1,5 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
@@ -17,38 +18,38 @@
 			<tr>
 				<td>Email</td>
 				<td>Email</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 				<td>Password</td>
 				<td>Senha</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>	
             <tr>
 				<td>To send</td>
 				<td>Enviar</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 				<td>To reply</td>
 				<td>Responder</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>	
             
              <tr>
 				<td>To log on</td>
 				<td>Entrar</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 				<td>To print</td>
 				<td>Imprimir</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>	
 			<tr>
 				<td>Document</td>
 				<td>Documento</td>
-				<td>audio</td>
+				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>	
 		</tdead>
 	</table>

@@ -38,7 +38,7 @@
 			flashvars, params, attributes);
 	</script>
 </head>
-<body onload="StartUp()" id="TheBody">
+<body onLoad="StartUp()" id="TheBody">
 <div id="c">
 <div id="bdy">
 	

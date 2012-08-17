@@ -1,4 +1,5 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">

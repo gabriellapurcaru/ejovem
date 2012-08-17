@@ -1,4 +1,5 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
@@ -7,7 +8,7 @@
 <div id="box-center-conclusao">
     <div id="box-esq">
         <div class="box-person">
-        	<img src="../../../imgs/e15.png"/>
+<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">   
         </div>
     </div>
     <div id="box-dir">

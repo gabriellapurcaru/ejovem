@@ -136,7 +136,7 @@ $("#coin-slider").coinslider();
 </div>
 
 
-<div id="rodape">
+<div id="box-rodape">
 	 @2012. Projeto e-Jovem - Todos os direitos reservados
 </div>
 

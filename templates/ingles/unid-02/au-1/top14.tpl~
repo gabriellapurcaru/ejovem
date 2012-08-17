@@ -15,10 +15,8 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            <object width="400" height="250"><param name="movie" value="http://www.youtube.com/v/k9_iQim8Mtw&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/k9_iQim8Mtw&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="400" height="250"></embed></object>
-
-
-        </div>
+            <object type="application/x-shockwave-flash" style="width:400px;height:250px;" data="http://www.youtube.com/v/sAW3f4KGSn4"><param name="movie" value="http://www.youtube.com/v/sAW3f4KGSn4" /><param name="wmode" value="transparent" /></object>
+         </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">
         </div>
@@ -29,8 +27,9 @@
 </div>	
 <div id="rodape">
 	<div id="navegacao">
-		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 8</span>
+		<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+			<span>Página 14 de 18</span>
+		<a href="top15.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>
 

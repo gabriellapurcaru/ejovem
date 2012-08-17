@@ -1,6 +1,6 @@
 {topo}
+{tituloAula}
 {menu}
-
 <div id="meio">
 <h3>Introducing</h3>
 
