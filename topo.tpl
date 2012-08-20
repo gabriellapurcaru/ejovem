@@ -3,17 +3,25 @@
 <head>
 	<link href="../../../css/main.css" media="all" type="text/css" rel="stylesheet">
 	<link href="../../../css/jvst.css" media="all" type="text/css" rel="stylesheet">
-    <link href="../../../css/abas-tabela.css" media="all" type="text/css" rel="stylesheet">
-    <link href="../../../css/style.css" media="all" type="text/css" rel="stylesheet">
-    <link href="../../../css/hot.css" media="all" type="text/css" rel="stylesheet">
-    
+    	<link href="../../../css/abas-tabela.css" media="all" type="text/css" rel="stylesheet">
+    	<link href="../../../css/style.css" media="all" type="text/css" rel="stylesheet">
+    	<link href="../../../css/hot.css" media="all" type="text/css" rel="stylesheet">
+    	<link href="../../../css/jquery.ennui.contentslider.css" rel="stylesheet" type="text/css" media="screen,projection" />
+	
 	<script type="text/javascript" src="../../../js/jquery.js"></script>
 	<script type="text/javascript" src="../../../js/swfobject.js"></script>	
 	<script type="text/javascript" src="../../../js/questionario.js"></script>	
-	<script type="text/javascript" src="../../../js/jquery.qtip.js"></script>
 	<script type="text/javascript" src="../../../js/jquery-1.3.2.min.js"></script>                                                      	
 	<script type="text/javascript" src="../../../js/slider.js"></script>
+	<script type="text/javascript" src="../../../js/jquery.qtip-1.0.0-rc3.min.js"></script> 
+	
+	<script type="text/javascript" src="../../../js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="../../../js/jquery.ennui.contentslider.js"></script>
 		
+	<script src="../../../js/jquery.chili-2.2.js" type="text/javascript"></script>
+	<script src="../../../js/chili/recipes.js" type="text/javascript"></script>
+
+	
 	<title>Projeto E-Jovem</title>	
 	
 	
@@ -43,7 +51,7 @@
 <div id="bdy">
 	
 <div id="topo">
-	<h3><img src="../../../imgs/logo.png"/></h3>
+	<div class="logo"><img src="../../../imgs/logo.png"/></div>
 	<div class="titulo_aula">
 
 
