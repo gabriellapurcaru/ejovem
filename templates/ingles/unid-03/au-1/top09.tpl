@@ -14,7 +14,7 @@
 </div>
 <div id="explicacao">
 	<div id="atividade02">
-		<p>Animação ou imagem</p>
+		<p><embed height="100%" width="100%" name="plugin" src="../../../ingles/unid03/au1/video/alphastart.swf" type="application/x-shockwave-flash" /></p>
 	</div>
 </div>
 </div>
