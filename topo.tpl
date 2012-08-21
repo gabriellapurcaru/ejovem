@@ -21,6 +21,9 @@
 	<script src="../../../js/jquery.chili-2.2.js" type="text/javascript"></script>
 	<script src="../../../js/chili/recipes.js" type="text/javascript"></script>
 
+	<script type="text/javascript" src="../../../js/menu-abas.js"></script>
+	<link rel="stylesheet" type="text/css" href="../../../css/menu-abas.css"/>
+
 	
 	<title>Projeto E-Jovem</title>	
 	

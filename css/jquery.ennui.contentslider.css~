@@ -28,7 +28,7 @@
     color:#333;
     text-decoration:none;
   }
-.cs_article p {
+/*.cs_article p {
   font-size:85%;
   line-height:1.5em;
   color:#777;
@@ -36,7 +36,7 @@
 .cs_article .readmore {
   font-size:80%;
 }
-
+*/
 /*
  ******************************************************************************
  * These styles may be affected by the plugin, so avoid changing them if 
@@ -73,7 +73,7 @@
   top:0;
   left:0;
   display:block;
-  width:700px;
+  width:900px;
   height:400px;
   margin:0 auto;
   padding:0;
@@ -84,7 +84,7 @@
   margin:10px 26px 5px 67%;
   text-align:left;
 }
-.cs_article img {
+/*.cs_article img {
   position:absolute;
   top:0;
   left:0;
@@ -104,7 +104,7 @@
   width:26%;
   margin:0 6% 1% 68%;
   text-align:right;
-}
+}*/
 .cs_leftBtn, .cs_rightBtn {
   position:absolute;
   top:0;

@@ -1,4 +1,36 @@
-
+<script type="text/javascript">
+$(document).ready(function()
+{
+	/* Cache a reference to our tab element */
+	var tabs = $('#demo-tabs');
+ 
+	/* Initialise the tabs first - important! */
+	tabs.tabs()
+ 
+	/* 
+	 * Selector needs changing here to match your elements.
+	 * 
+	 * Notice the second argument to the $() constructor, which tells
+	 * jQuery to use that as the top-level element to search down from.
+	 */
+	$('[id^="tabs"] a', tabs).each(function() {
+		$(this).qtip({
+			content: 'Sample tooltip within tab content',
+			position: {
+				/*
+				 * We'll stick the tooltip within the tab content div, so that if we change
+				 * tabs, the tooltip will be hidden along with the rest of the tab contents
+				 */
+				container: $(this).parents('[id^="tabs"]')
+			},
+			style: {
+				classes: 'ui-tooltip-shadow',
+				widget: true // Blend it in with the Themeroller styles
+			}
+		})
+	})
+});
+</script>
 <script type="text/javascript">
 	$(function() {
 		$('#one').ContentSlider({

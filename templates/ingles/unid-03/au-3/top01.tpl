@@ -1,13 +1,15 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>introduction</h3>
- <div id="boxDigitacao">
+
+<h3><a href="#" title="Introdução">Introduction</a></h3>
+
+<div id="boxDigitacao">
     <div class="item">
-      Hello! Na aula passada reforçamos nossos estudos sobre como fazer um diálogo, aprendemos o alfabeto e como soletrar uma palavra, além também de conhecermos palavras novas. Nesta aula vamos aprender sobre os números.
-Os números apresentam um papel importante em nossas vidas. Sempre vivemos rodeados por eles e os utilizamos a todo instante. Com eles podemos executar as tarefas mais simples do dia-a-dia, tais como, contar nosso dinheiro, ordenar uma fila, expressar códigos, resolver problemas etc.
-Nessa lição, aprenderemos, principalmente, como utilizar e identificar os números e suas funções, em diferentes contextos. Vale lembrar que nesta lição, entretanto, concentraremos nossos esforços no aprendizado dos números cardinais e ordinais
+      Hello! 
+Nessa lição, além de uma breve revisão do conteúdo apresentado na unidade 3, daremos continuidade ao aprendizado de como se apresentar a alguém e obter informações pessoais de outras pessoas, principalmente, sobre o local de origem/nascimento delas.
 
     </div> 
 </div>
@@ -22,11 +24,19 @@ Nessa lição, aprenderemos, principalmente, como utilizar e identificar os núm
 </div>
 
 
+
+
 </div>
 <div id="rodape">
 	<div id="navegacao">
-		<span>Página 1 de 17</span>
+		<span>Página 1 de 10</span>
 		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 	</div>
-</div>	
+</div>
+
+<?php 
+include_once '../contaArqs.php';
+$pag = 1;
+?>
+	
 {rodape}

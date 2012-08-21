@@ -3,7 +3,27 @@
 
 <div id="meio">
 
-<h3>BOX EXPLICAÇÃO (BEX04)</h3>
+
+<h3> BOX EXPLICAÇÃO</h3>
+
+<div id="box-explicacao-tabela">
+    <div id="box-explicacao-tabela-texto">
+    <p>Explicação</p>
+    </div>
+    <div id="box-explicacao-tabela-img">
+        <img src="../../../imgs/e09.png"/>    
+    </div>
+</div>
+
+<div id="box-explicacao-tabela-left">
+	<table width="100%">
+		<tbody>
+			<tr>Corpo</tr>
+		</tbody>
+	</table>
+</div>
+
+
 
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
