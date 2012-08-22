@@ -4,7 +4,7 @@
 
 <div id="meio">
 
-<h3>Considerações Iniciais</h3>
+<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
 
 <div id="box-introducao">
 <div id="img-person">
@@ -34,10 +34,5 @@
 		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>
-
-<?php 
-include_once '../contaArqs.php';
-$pag = 1;
-?>
 	
 {rodape}

@@ -1,4 +1,72 @@
 <script type="text/javascript">
+$(document).ready(function()
+{
+	/* Cache a reference to our tab element */
+	var tabs = $('#demo-tabs');
+ 
+	/* Initialise the tabs first - important! */
+	tabs.tabs()
+ 
+	/* 
+	 * Selector needs changing here to match your elements.
+	 * 
+	 * Notice the second argument to the $() constructor, which tells
+	 * jQuery to use that as the top-level element to search down from.
+	 */
+	$('[id^="tabs"] a', tabs).each(function() {
+		$(this).qtip({
+			content: 'Sample tooltip within tab content',
+			position: {
+				/*
+				 * We'll stick the tooltip within the tab content div, so that if we change
+				 * tabs, the tooltip will be hidden along with the rest of the tab contents
+				 */
+				container: $(this).parents('[id^="tabs"]')
+			},
+			style: {
+				classes: 'ui-tooltip-shadow',
+				widget: true // Blend it in with the Themeroller styles
+			}
+		})
+	})
+});
+</script>
+<script type="text/javascript">
+	$(function() {
+		$('#one').ContentSlider({
+			width : '900px',
+			height : '400px',
+			speed : 800,
+			easing : 'easeInOutBack'
+		});
+	});
+	$(function() {
+		$('#two').ContentSlider({
+			width : '700px',
+			height : '400px',
+			speed : 400,
+			easing : 'easeOutQuad',
+			textResize : true
+		});
+	});
+</script>
+
+<script type="text/javascript">
+// Create the tooltips only on document load
+$(document).ready(function() 
+{
+   // Notice the use of the each() method to acquire access to each elements attributes
+   $('h3 a[title]').each(function()
+   {
+      $(this).qtip({
+         content: $(this).attr('tooltip'), // Use the tooltip attribute of the element for the content
+         style: 'dark' // Give it a crea mstyle to make it stand out
+      });
+   });
+});
+</script>
+
+<script type="text/javascript">
 $(document).ready(function(){
   var currentPosition = 0;
   var slideWidth = 300;

@@ -1,0 +1,76 @@
+{topo}
+{tituloAula}
+{menu}
+
+
+<div id="meio">
+
+<h3> Atividade de Reflexão</h3>
+
+<div id="center">
+
+
+<div id="demo-tips">
+	<div class="structure"> </div>
+</div>
+
+
+</div>
+
+</div>
+<div id="rodape">
+	<div id="navegacao">
+		<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+			<span>Página 4 de 10</span>
+		<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+	</div>
+</div>
+
+<script type="text/javascript">
+var at = [
+	'right bottom'
+],
+my = [
+	'left bottom'
+],
+styles = [
+	 'dark'
+];
+ 
+// Create the tooltips only on document load
+$(document).ready(function()
+{
+// Loop through the my array
+for(var i = 0; i < my.length; i++)
+{
+$('.structure')
+
+	.removeData('qtip') 
+	.qtip({
+		content: {
+			text: 'At its ' + at[i], 
+			title: {
+				text: 'My ' + my[i],
+				button: true
+			}
+		},
+		position: {
+			my: my[i], 
+			at: at[i] 
+		},
+		show: {
+			event: false, 
+			ready: true
+		},
+		hide: false, 
+		style: {
+			classes: 'ui-tooltip-shadow ui-tooltip-' + styles[i]
+		}
+	});
+}
+});
+
+</script>
+
+
+{rodape}

@@ -4,7 +4,7 @@
 
 
 <div id="meio">
-<h3>A Importância do Inglês no Mundo</h3>
+<h3><a href="#" title="A Importância do Inglês no Mundo">The Importance of English in the World</a></h3>
 
 <div id="boxDigitacao">
     <div class="item">
