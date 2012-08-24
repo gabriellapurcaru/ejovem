@@ -1,23 +1,31 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>  <a href=""  title="Ortografia"/> Spelling </a></h3>
-
-<div id="box-atividade">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Let´s practice what you learn! Veja o exemplo do dialogo ao lado e leia de acordo com o que você aprendeu no alphabet (alfabeto).</p>
+<h3>  <a href=""  title="Conclusão"/> Conclusion </a></h3>
+<div id="box-center-conclusao">
+    <div id="box-esq">
+        <div class="box-person">
+        	<img src="../../../imgs/e15.png"/>
+        </div>
     </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-</div>
-<div id="explicacao">
-	<div id="atividade02">
-		<p>Animação ou imagem</p>
+    <div id="box-dir">
+	<div id="texto">
+	<p>Nesta  atividade 
+aprendemos  como 
+perguntamos  sobre  nossas 
+preferências,  do  que 
+gostamos  e  do  que  não 
+gostamos.  Na  próxima 
+atividade iremos falar sobre 
+família. See you soon!</p>
+
 	</div>
+    </div>
 </div>
-</div>
-</div>	
+
+
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

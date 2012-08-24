@@ -1,29 +1,11 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3> <a href="" title="Introdução" />Introduction</a></h3>
+<h3> <a href="" title="Foco na Gramatica" />Grammar Focus</a></h3>
 
-<div id="boxDigitacao">
-    <div class="item">
-       Conhecer e aprender a pronunciar corretamente as letras do alfabeto inglês é um passo importante para o bom aprendizado do idioma. O alfabeto inglês possui 26 letras e está baseado no alfabeto latino.
-Como em outros idiomas, devemos ter em mente que as letras do alfabeto inglês podem sofrer alterações de pronúncia dependendo da palavra ou até mesmo da frase em que está sendo utilizada.
-Por isso, é indispensável que se preste bastante atenção às atividades de compreensão auditiva e as dicas fornecidas durante as aulas para entendermos e captarmos melhor os sons.Vamos nessa?
-
-    </div> 
-</div>
-
-<div id="boxDialogo">
-<div class="box-digitacao">
-    <div class="areaTexto"></div>
-    <div id="img-person">
-        <img src="../../../imgs/personagem_corpo.png"/>
-    </div>
-</div>    
-</div>
-
-
-
+<embed height="100%" width="100%" name="plugin" src="../../../ingles/unid04/au1/video/digtela08.swf" type="application/x-shockwave-flash" />
 
 </div>	
 <div id="rodape">

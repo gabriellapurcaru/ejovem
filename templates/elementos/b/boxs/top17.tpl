@@ -19,12 +19,7 @@
 </div>
 </div>
 
-<div id="atividade">
-<p>Instrução</p>
-<div id="explicacao">
-Atividade
-</div>
-</div>
+
 
 
 

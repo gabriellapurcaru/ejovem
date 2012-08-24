@@ -1,22 +1,18 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>  <a href=""  title="Ortografia"/> Spelling </a></h3>
+<h3>  <a href=""  title="Foco Na Gramatica"/> GRAMMAR FOCUS </a></h3>
 
-<div id="boxExplicacao">    
-    <div id="boxExplicacaoTexto">
+<div id="center">
 
-        <p>Spelling em português significa soletrar, quando perguntamos, alguém para soletrar o nome, em inglês dizemos how do you spell your name, please?
-Vamos treinar o spelling?
-</p>
-    </div>
-    
-    <div id="boxExplicacaoImg">
-        <img src="../../../imgs/e06.png"/>    
-    </div>
+<div id="atividade">
+<p>Instrução</p>
+<div id="explicacao">
+Atividade
 </div>
-
+</div>
 </div>
 
 </div>	

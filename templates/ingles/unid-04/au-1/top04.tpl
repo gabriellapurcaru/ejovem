@@ -1,22 +1,10 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>   <a href=""  title="Passanso a vista"/>   Brush up </a></h3>
+<h3>   <a href=""  title="Exercicio"/>  Exercise  </a></h3>
 
-
-
-<div id="boxExplicacao">    
-    <div id="boxExplicacaoTexto">
-        <p>Observe  as palavras que estão no quadrado para completar os dialogos a seguir.</p>
-    </div>
-    
-    <div id="boxExplicacaoImg">
-        <img src="../../../imgs/e06.png"/>    
-    </div>
-</div>
-
-</div>
 
 </div>
 <div id="rodape">
