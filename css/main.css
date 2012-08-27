@@ -345,6 +345,7 @@ div#box-explicacao-tabela-left p{margin:3px 0px;}
 /* Atividade */
 
 div#center{height: 400px;margin: 0 auto;padding-top: 30px; text-align: left;width: 770px;}
+div#animacao .swf{text-align:center;}
 div#box-esquerda{float: left;width: 300px;}
 div#box-direita{float:right;width: 450px}
 

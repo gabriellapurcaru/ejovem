@@ -1,9 +1,14 @@
+</h2>
+</div>
+</div>
+
+<div id="conteudo">
 <div id="box-esq">
 
 	<div class="b">	
 		<div id="box-personagem">
 			<img src="../../../imgs/personagem.jpg"/><br />
-			<h5>Maria da Felicidade</h5>
+			<h5>Perfil da Bia</h5>
 			
 		</div>
 		<div id="box-menu">

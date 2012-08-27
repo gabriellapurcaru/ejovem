@@ -19,10 +19,8 @@
 </div>
 
 <div id="box-direita">
-<div id="explicacao">
-<h6>Anglicismo </h6>	
-<p>É um termo ou expressão da língua inglesa introduzida a outra língua, seja devido à necessidade de designar objetos ou fenômenos novos, para os quais não existe designação adequada na língua alvo, seja por qualquer motivo como, por exemplo, dificuldades em traduções. Caracteriza-se por vício de linguagem.</p>
-</div>
+<embed width="450" height="300" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/anglicismo.swf" name="plugin"> 
+
 </div>
 </div>
 
