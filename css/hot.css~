@@ -123,7 +123,7 @@ div.Feedback {
 	background-color: #C0C0C0;
 	left: 33%;
 	width: 34%;
-	top: 33%;
+	top: 37%;
 	z-index: 1;
 	border-style: solid;
 	border-width: 1px;

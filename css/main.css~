@@ -1,14 +1,14 @@
-html {
+/*html {
     height: 100% !important;
     margin-bottom: 1px;
 }
 html, body, form, fieldset {
     margin: 0;
     padding: 0;
-}
+}*/
 
 img{border:0px;}
-body{
+/*body{
     background: url("../imgs/bdy_aulas.jpg") repeat scroll 0 0 transparent;
     color: #000000;
     font-family: arial,calibre,clean,sans-serif;
@@ -18,7 +18,7 @@ body{
     font-variant: normal;
     font-weight: normal;
     line-height: 150%;text-align:center;
-}
+}*/
 .subtitulo {
 	color:#006666;
 	padding-top:15px;
@@ -51,7 +51,9 @@ p.titulo{color: #006666; width: 100%; float: left;font-size: 16px;}
 a{color:#0174A7;text-decoration:none;}
 a:hover{text-decoration:underline;}
 
-h2{bottom: 50px;color: #1C2A47;font-size: 18px;margin: 0 0 0 225px;overflow: hidden;}
+.titulo-unidade-aula{bottom: 50px;color: #1C2A47;font-size: 18px;margin: 0 0 0 225px;overflow: hidden;}
+.titulo-modulo-aula {background-color: #FFFFFF;color: #666;font-size: 12px;font-weight:overflow: hidden;normal;margin: 0;padding: 5px; margin: 0 0 0 225px;}
+
 h1{background:#EDEDED;border: 1px solid #999999;font-size: 14px;margin: 0;padding:3px 5px;}
 h5{margin:0px; padding:2px;color:#006666;}
 h3{background-color: #BFE3F4;
@@ -60,7 +62,7 @@ h3{background-color: #BFE3F4;
     border-style: solid;
     border-width: 1px 1px 1px 0;
     box-shadow: 1px 2px 0 2px #67AAC9;
-    padding: 7px 0 7px 30px;
+    padding: 0 0 0 15px;
     width: 91%;text-align: left;}
 h3 a{color:#333;}
 div#meio p.quadro{border: 1px solid #999999;margin: 0 0 10px;;padding: 10px;}
@@ -78,7 +80,7 @@ div#topo .acoes{
     text-align: right;}
     
 
-.titulo-modulo-aula {background-color: #FFFFFF;color: #666;font-size: 12px;font-weight: normal;margin: 0;padding: 5px;}
+
 
 .titulo-modulo-aula span {
     color: #187298;
@@ -124,7 +126,7 @@ div#menu ul li a:hover{color:#fff;text-decoration:underline;}
 div#conteudo #meio #menu-navegacao h3{float:left;}
 div#conteudo #meio #menu-navegacao #navegacao{float:right;font-size:11px;}
         
-div#conteudo #meio{background: #FFFFFF;border: 1px dashed #DDDDDD;float: right;padding:0px ; text-align: center;width:790px;height: 520px;}
+div#conteudo #meio{background: #FFFFFF;border: 1px dashed #DDDDDD;float: right;padding:0px ; text-align: center;width:790px;height: 580px;}
 div#conteudo #meio .legenda{font-size:10px; font-style:italic; padding: 0 0 0 30px;}
 div.panel,p.flip {margin:0 0 10px;padding: 2px 10px;text-align:center;float:left; width:98%;background:url("../imgs/bg.png") repeat-x;border-radius: 5px 5px 5px 5px;border:solid 1px #c3c3c3;text-align:justify;cursor:pointer;color:#fff;}
 div.panel{display:none;color:#000;background:#fff;}
@@ -331,40 +333,45 @@ div#boxExplicacaoEsq{background: url("../imgs/e07.png") no-repeat scroll 0 0 tra
 hr{border: 1px dashed #DDDDDD;}
 
 div#box-explicacao-tabela{margin-left: 30px;width: 235px;float:left;}
-div#box-explicacao-tabela-texto{background-color: #B8D3E0;border-radius: 10px 10px 10px 10px;margin-left: 30px;min-height: 100px;padding: 10px;width: 200px;}
+div#box-explicacao-tabela-texto{background-color: #B8D3E0;border-radius: 10px 10px 10px 10px;margin: 0 10px;min-height: 100px;padding: 10px;}
+div#box-explicacao-tabela-img{margin-top:30px;text-align:center;}
 
-div#box-explicacao-tabela-left{border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;min-height: 300px;margin-right: 30px;width: 400px;padding:10px;background: #E7EFB4;}
-div#box-explicacao-video-animacao{border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;height: 300px;margin-right: 30px;width: 400px;padding:10px;background: #E7EFB4;}
+div#box-explicacao-tabela-left{border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;min-height: 300px;width:100%;padding:10px;background: #E7EFB4;}
+div#box-explicacao-video-animacao{border: 1px solid #96CDCD;box-shadow: 2px 2px #C6CCCF;float: right;height: 300px;width:100%;padding:10px;background: #fff;}
 div#box-explicacao-tabela-barra{border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;height: 400px;margin-right: 30px;width: 400px;padding:10px;background: #E7EFB4;overflow: auto;}
-div#box-explicacao-texto{border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;height: 400px;font-size:12px;margin-right: 5px;width: 452px;padding:10px;background: #E7EFB4;overflow: auto;}
+div#box-explicacao-texto{border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;height: 400px;font-size:12px;margin-right: 5px;padding:10px;background: #E7EFB4;overflow: auto;}
 
 div#box-explicacao-tabela-left p{margin:3px 0px;}
 /* Atividade */
 
-div#center{width:700px;margin:0 auto;text-align: left;}
-div#atividade{background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;min-height: 200px;padding: 10px;width: 100%;}
+div#center{height: 400px;margin: 0 auto;padding-top: 30px; text-align: left;width: 770px;}
+div#box-esquerda{float: left;width: 300px;}
+div#box-direita{float:right;width: 450px}
+
+div#atividade{background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;float: right;min-height: 200px;padding: 10px;}
 div#atividade .quadro{border: 1px solid #2C2C2C;font-weight: bold;margin: 0 auto;padding: 10px;width: 300px;}
 
 /* Box Exemplo */
 div#box-exemplo{margin:10px 0px;float: left;}
 div#box-exemplo .ba-esq{float: left;width: 350px;}
 div#box-exemplo .ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 270px;}
-div#box-exemplo .ba-esq .ba-img{text-align: center;margin-top:-2px;}
+div#box-exemplo .ba-esq .ba-img{text-align: center;margin-top:20px;}
 div#box-exemplo #explicacao{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;} 
 
-div#box-exemplo  div.panel,div.flip {padding: 2px 10px;text-align:center;float:left; width:385px;background:#19314c;border-radius: 5px 5px 5px 5px;text-align:justify;cursor:pointer;color:#fff;}
+div#box-exemplo  div.panel,div.flip {padding: 10px;text-align:center;float:left; width:385px;background:#19314c;border-radius: 5px 5px 5px 5px;text-align:justify;cursor:pointer;color:#fff;}
 div#box-exemplo div.panel{display:none;color:#000;background:#fff;}
 div#box-exemplo  div.panel,div.flip span{float: left;margin: 7px 0 0;}
 div#box-exemplo  div.panel,div.flip img{float:left;}
 div#box-exemplo div.panel p{margin:2px 0px;}
 
 /* Box Atividade */
-div#box-atividade{margin: 70px 0px;width: 700px;}
-div#box-atividade .ba-esq{float: left;width: 350px;}
-div#box-atividade .ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 200px;text-align: left;}
-div#box-atividade .ba-esq .ba-img{text-align: center;margin-top:-2px;}
-div#box-atividade #explicacao{float: right;min-height: 200px;width: 300px;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;} 
-div#box-atividade #explicacao table{}
+div#box-atividade{}
+.ba-esq{}
+.ba-esq .ba-balao{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 200px;text-align: left;}
+.ba-esq .ba-img{text-align: center;margin-top:-2px;}
+.ba-esq .bl-img{text-align: center;margin-top:30px;}
+#explicacao{float: right;min-height: 200px;width: 100%;border: 1px solid #DDDDDD;padding:10px;background: #E7EFB4;border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;} 
+
 
 /* Box video */
 div#content{width:770px;margin: 10px 0;float: left;font-size: 13px;padding: 0 30px;}
@@ -422,10 +429,10 @@ div#box-center div#box-dir{width:250px;float: left;}
 div#box-center div#box-esq{width:440px;float: right;text-align: center;}
 
 /* Box Video */
-div#box-center-video{width:700px;margin:0 auto;height:400px;background:#678DC5;padding-top:10px;}
-div#box-center-video div#box-dir{width:250px;float: left;}
+div#box-center-video{	margin:0 auto;height:400px;background:#678DC5;padding-top:10px;}
+div#box-center-video div#box-dir{width:250px;float: left;margin-left: 5px;}
 div#box-center-video div#box-esq{width:440px;float: right;text-align: center;}
-div#box-center-video div#box-dir div#balao-azul{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 200px;text-align: left;min-height: 110px;background:#fff;}
+div#box-center-video div#box-dir div#balao-azul{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 290px;text-align: left;min-height: 110px;background:#fff;}
 div#box-center-video div#box-dir div#person{text-align:center;margin:-2px;}
 div#box-video-esq-video{border: 1px solid #DDDDDD;height: 300px;width: 400px;height: 250px;width: 400px;background: #F7F9E1;padding: 5px;}
 
@@ -473,5 +480,5 @@ div#vocabulario #box-dir table {float: right;width: 250px;}
 div#rede{background-color: #2C2C2C;border: 1px solid #000000;color: #FFFFFF;float: left;width: 100%;}
 div#rede .foto_bia{border: 1px solid #FFFFFF;float: left;height: 57px;width: 60px;}
 div#rede .bia_texto{float: right;width: 630px;}
-div#rede .bia_texto p.bia_diz{}
+div#rede .bia_texto p.bia_diz{font-weight: bold;}
 

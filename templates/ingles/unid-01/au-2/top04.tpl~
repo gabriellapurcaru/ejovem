@@ -1,19 +1,24 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
+<h3><a href="#" title="Estratégias de Leitura">Reading strategies</a></h3>
 
-<h3>Reading</h3>
+<div id="center">
 
-<div id="box-explicacao-tabela">
-    <div id="box-explicacao-tabela-texto">
-	    <p>Agora que conhece as estratégias, leia o texto ao lado tentando identificar os falsos cognatas. Ao terminar clique em conferir cognatas e confira sua resposta.</p>
+<div id="box-esquerda">
+
+<div class="ba-esq">
+    <div class="ba-balao">
+        <p>Agora que conhece as estratégias, leia o texto ao lado tentando identificar os falsos cognatas. Ao terminar clique em conferir cognatas e confira sua resposta.</p>
     </div>
-    <div id="box-explicacao-tabela-img">
-        <img src="../../../imgs/e09.png"/>    
-    </div>
+    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+</div>
 </div>
 
+
+<div id="box-direita">
 <div id="box-explicacao-texto">
 	<div id="audio">
 		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="25" height="20"
@@ -31,14 +36,16 @@
 	<p>	Twice inducted into the Rock and Roll Hall of Fame, his other achievements feature multiple Guinness World Records – including the “Most Successful Entertainer of All Time” – 13 Grammy Awards, 17 number one singles (including the four number ones with Jackson 5), and estimated sales of over 750 million records world-wide. He was also a notable philanthropist and humanitarian who donated and raised millions of dollars through his own Heal the World Foundation, and support of 39 other charities. </p>
 	<p>Jackson’s personal life generated significant controversy. His changing appearance was noticed from the early 1980s, with changes to the shape of his nose and to the color of his skin drawing media publicity. He was accused in 1993 of child sexual abuse, although no charges were brought. He married twice, first in 1994 and again in 1996, and brought up three children, one born to a surrogate mother. In 2005, he was tried and acquitted of child molestation allegations. While preparing for the This Is It concert tour in 2009, Jackson died at the age of 50 in Los Angeles, California, after suffering from cardiac arrest. His memorial service was broadcast live round the world. </p>
 </div>
+</div>
+</div>
 
 </div>
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 4 de 9</span>
-		<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 4 de 9</span>
+<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+</div>
 </div>
 
 {rodape}

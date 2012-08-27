@@ -1,3 +1,4 @@
+
 <script type="text/javascript">
 $(document).ready(function()
 {
@@ -57,6 +58,21 @@ $(document).ready(function()
 {
    // Notice the use of the each() method to acquire access to each elements attributes
    $('h3 a[title]').each(function()
+   {
+      $(this).qtip({
+         content: $(this).attr('tooltip'), // Use the tooltip attribute of the element for the content
+         style: 'dark' // Give it a crea mstyle to make it stand out
+      });
+   });
+});
+</script>
+
+<script type="text/javascript">
+// Create the tooltips only on document load
+$(document).ready(function() 
+{
+   // Notice the use of the each() method to acquire access to each elements attributes
+   $(' a[title]').each(function()
    {
       $(this).qtip({
          content: $(this).attr('tooltip'), // Use the tooltip attribute of the element for the content

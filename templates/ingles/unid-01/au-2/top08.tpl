@@ -2,35 +2,30 @@
 {tituloAula}
 {menu}
 
-
 <div id="meio">
-<h3>Learn more</h3>
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
 
-<div id="box-center-saiba-mais">
+<div id="box-center-conclusao">
     <div id="box-esq">
-        <div id="texto">
-            <p>Você sabe como dizer como uma pessoa ou objeto, por exemplo, é alto em inglês? Se não, vamos aprendê-lo agora! </p>
-        </div>
         <div class="box-person">
-                <img src="../../../imgs/e13.png"/>
+<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">   
         </div>
     </div>
     <div id="box-dir">
-        <div id="box-dir-explicacao">
-	    	<p>Os adjetivos tall, high e loud significam alto. No entanto, há particularidades que devem ser levadas em conta na hora de usá-los. Veja:</p>
-	    	<p><b>tall</b>: normalmente, diz respeito à estatura de pessoas, podendo ser empregado também para qualificar edifícios e árvores.</p>
-	    	<p>Para ver exemplos e saber mais vá a seção Conheça Mais.</p>
-        </div>
+	<div id="texto">
+	<p>Nesta aula você aprendeu sobre as palavras cognatas e como elas estão presentes no nosso cotidiano podendo nos ajudar a entender as palavras em inglês. Assim também como scanning e outras estratégias de leitura que nos auxiliam na leitura e compreensão de texto.  </p>
+	<p>Até a próxima aula, Bye!</p>
+
+	</div>
     </div>
 </div>
 
 </div>	
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 9</span>
-		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 8 de 8</span>
+</div>
 </div>
 
 {rodape}
