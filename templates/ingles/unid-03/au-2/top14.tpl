@@ -1,14 +1,15 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
+<h3> <a href="" title="Idade e data de nascimento">Age and date birth</a></h3>
 
-<h3> <a href="" title="Idade e data de nascimento"> Age and  date birth </a></h3>
-
+<div id="center">
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
-		    <p>Assista ao lado um vídeo</p>
+		    <p><a href="" title="Watch the video and learn more about dates! ">Veja o vídeo e aprenda mais sobre datas!</a></p>
 		  </div>
 		  <div id="person">
 		      <img src="../../../imgs/e10.png">
@@ -23,6 +24,8 @@
         </div>
     
     </div>
+</div>
+
 </div>
 </div>	
 <div id="rodape">

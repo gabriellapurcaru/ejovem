@@ -57,9 +57,9 @@
 </tr>
 
 <tr>
-<td>L <span class="GapSpan" id="GapSpan0"> <input style="width: 10px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> ON</td>
-<td>F <span class="GapSpan" id="GapSpan1"><input style="width: 10px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> WER</td>
-<td>D <span class="GapSpan" id="GapSpan2"><input style="width: 10px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> G</td>
+<td>L <span class="GapSpan" id="GapSpan0"> <input style="width: 20px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> ON</td>
+<td>F <span class="GapSpan" id="GapSpan1"><input style="width: 20px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> WER</td>
+<td>D <span class="GapSpan" id="GapSpan2"><input style="width: 20px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> G</td>
 </tr>
 
 <tr>
@@ -69,8 +69,8 @@
 </tr>
 
 <tr>
-<td>CA <span class="GapSpan" id="GapSpan3"><input style="width: 10px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-<td>BA <span class="GapSpan" id="GapSpan4"><input style="width: 10px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>	
+<td>CA <span class="GapSpan" id="GapSpan3"><input style="width: 20px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>BA <span class="GapSpan" id="GapSpan4"><input style="width: 20px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>	
 <td></td>
 </tr>
 
@@ -101,7 +101,7 @@
 <div id="rodape">
 <div id="navegacao">
 <a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 9 de 18</span>
+	<span>Página 9 de 14</span>
 <a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>

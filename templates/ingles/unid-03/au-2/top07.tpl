@@ -1,14 +1,15 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
+<h3><a href="" title="Aula em vídeo">Video lession</a></h3>
 
-<h3>BOX VÍDEO (BV01)</h3>
-
+<div id="center">
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
-		    <p>Escute a pronuncia dos números mais uma vez e tente repetir. </p>
+		    <p>Assista o vídeo ao lado e escute a pronuncia dos números, pratique sua pronuncia repetindo os números mais de uma vez.</p>
 		  </div>
 		  <div id="person">
 		      <img src="../../../imgs/e10.png">
@@ -24,7 +25,8 @@
     
     </div>
 </div>
-	
+
+</div>	
 </div>	
 <div id="rodape">
 	<div id="navegacao">

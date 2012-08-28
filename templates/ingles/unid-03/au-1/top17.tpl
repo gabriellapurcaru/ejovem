@@ -4,7 +4,8 @@
 
 <div id="meio">
 <h3> <a href=""  title="Saiba mais"/>Learn More </a></h3>
-
+<div id="center">
+	
 <div id="box-center-saiba-mais">
     <div id="box-esq">
 
@@ -20,7 +21,7 @@
     </div>
 </div>
 
-
+</div>
 </div>	
 <div id="rodape">
 	<div id="navegacao">

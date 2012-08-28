@@ -1,147 +1,107 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
+<h3><a href="" title="Conhecendo os números">Knowing the numbers</a></h3>
+<div id="center">
 
-<h3><a href="" title="Conhecendo os números"> Knowing the numbers</a></h3>
-
-<div id="box-explicacao-tabela">
-    <div id="box-explicacao-tabela-texto">
-    <p>Veja a tabela ao lado, ela representa os números cardinais.</p>
+<div id="box-esquerda">
+<div class="ba-esq">
+    <div class="ba-balao">
+        <p>Veja a tabela ao lado, ela representa os números cardinais.</p>
+		<p>Passe o mouse sobre os números para ver o significado e depois exercite a pronuncia.</p> 
     </div>
-    <div id="box-explicacao-tabela-img">
-        <img src="../../../imgs/e09.png"/>    
-    </div>
+    <div class="bl-img"><img src="../../../imgs/e16.png"/></div>
+</div>
 </div>
 
-<div id="box-explicacao-tabela-left">
-	<table width="100%">
+<div id="box-direita">
+	<table class="table table-striped">
 		<tbody>
          <tr>
-			<td>1 </td>
-            <td> one </td>
-            <td>20 </td>
-            <td>twenty </td>
+			<td><a href="" title="1">one</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+            <td><a href="" title="2">two</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+            <td><a href="" title="3">three</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
           </tr>
           <tr> 
-            <td> 2 </td>
-            <td> two </td>
-            <td> 21 </td>
-            <td> twenty-one </td>
+            <td><a href="" title="4">four</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+            <td><a href="" title="5">five</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+            <td><a href="" title="6">six</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
          </tr>   
          <tr> 
-            <td> 3 </td>
-            <td> three </td>
-            <td> 22 </td>
-            <td> twenty-two </td>
+            <td><a href="" title="7">seven</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+            <td><a href="" title="8">eight</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+            <td><a href="" title="9">nine</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
          </tr> 
           <tr> 
-            <td> 4 </td>
-            <td> four </td>
-            <td> 30 </td>
-            <td> thirtieth </td>
+            <td><a href="" title="10">ten</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="11">eleven</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="12">twelve</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
          </tr> 
             <tr> 
-            <td> 5 </td>
-            <td> five </td>
-            <td> 31 </td>
-            <td> thirty-one </td>
+            <td><a href="" title="13">thirteen</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="14">fourteen</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="15">fifteen</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
          </tr>      
          
          <tr> 
-            <td> 6 </td>
-            <td> six </td>
-            <td> 32 </td>
-            <td> thirty-two </td>
+            <td><a href="" title="16">sixteen</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="17">seventeen</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+            <td><a href="" title="18">eighteen</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
          </tr>  
           <tr> 
-            <td> 7 </td>
-            <td> seven </td>
-            <td> 40 </td>
-            <td> forty </td>
+            <td><a href="" title="19">nineteen</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="20">twenty</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="21">twenty-one</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
          </tr>   
          
           <tr> 
-            <td> 8 </td>
-            <td> eight </td>
-            <td> 41 </td>
-            <td> forty-one </td>
+            <td><a href="" title="22">twenty-two</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="30">thirtieth</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="50">fifth</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
          </tr> 
            
           <tr> 
-            <td> 9 </td>
-            <td> nine </td>
-            <td> 42 </td>
-            <td> forty-two </td>
+            <td><a href="" title="60">sixth</a></td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td> <a href="" title="70">seventh</a> </td>
+            <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+            <td><a href="" title="80">eighth</a></td>
+            <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
          </tr> 
          
-          <tr> 
-            <td> 10 </td>
-            <td> ten </td>
-            <td> 50 </td>
-            <td> fifty </td>
-         </tr> 
-           <tr> 
-            <td> 11</td>
-            <td> eleven </td>
-            <td> 60 </td>
-            <td> sixty </td>
-         </tr>  
-         <tr> 
-            <td> 12</td>
-            <td> twelve </td>
-            <td> 70 </td>
-            <td> seventy </td>
-         </tr>  
-          <tr> 
-            <td> 13</td>
-            <td> thirteen </td>
-            <td> 80 </td>
-            <td> eighty </td>
-         </tr> 
-         
-          <tr> 
-            <td> 14</td>
-            <td> fourteen </td>
-            <td> 90 </td>
-            <td> ninety </td>
-         </tr>  
-         <tr> 
-            <td> 15</td>
-            <td> fifteen </td>
-            <td> 100 </td>
-            <td> one/a hundred </td>
-         </tr>        
-           <tr> 
-            <td> 16</td>
-            <td> sixteen </td>
-            <td> 101 </td>
-            <td> one hundred and one </td>
-         </tr> 
-          </tr>        
-           <tr> 
-            <td> 17</td>
-            <td> seveteen </td>
-            <td> 1000 </td>
-            <td> one/a thousand</td>
-         </tr> 
-          <tr> 
-            <td> 18</td>
-            <td> eighteen </td>
-            <td> 1.000.000 </td>
-            <td> one/a million</td>
-         </tr> 
-          <tr> 
-            <td> 19</td>
-            <td> nineteen </td>
-            
-         </tr>
+          
 		</tbody>
    </table>
 </div>
+</div>
 
-
-
+</div>
 </div>
 <div id="rodape">
 	<div id="navegacao">

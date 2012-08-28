@@ -4,7 +4,6 @@
 
 <div id="meio">
 <h3><a href="#" title="Iniciando">Introducing</a></h3>
-
 <div id="center">
 
 <div id="boxDigitacao">
@@ -21,7 +20,6 @@
     </div>
 </div>    
 </div>
-
 
 </div>
 </div>

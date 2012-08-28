@@ -1,9 +1,19 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<embed height="100%" width="100%" name="plugin" src="../../../ingles/unid03/au2/video/v02.swf" type="application/x-shockwave-flash" />
+<div id="center">	
 
+<div id="box-explicacao-video-animacao">	
+	<h6>A idade e data de nascimento de uma pessoa são informações importantes. Mas como dizemos isso em Inglês?
+	Veja o exemplo!</h6>
+	<div class="swf">
+		<embed height="100%" width="100%" name="plugin" src="../../../ingles/unid03/au2/video/v02.swf" type="application/x-shockwave-flash" />
+	</div>	
+</div>
+
+</div>
 </div>	
 <div id="rodape">
 	<div id="navegacao">

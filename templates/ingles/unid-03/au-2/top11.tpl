@@ -1,20 +1,25 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
 
 <h3> <a href="" title="Dizendo as datas"> Saying dates </a></h3>
+<div id="center">
 
+<div id="box-esquerda">
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
-    <p>Explicação</p>
+    <p>Com relação às datas, em inglês, os dias do mês vão para forma ordinal.</p> <p>Veja os exemplos:</p>
     </div>
     <div id="box-explicacao-tabela-img">
-        <img src="../../../imgs/e09.png"/>    
+        <img src="../../../imgs/e17.png"/>    
     </div>
 </div>
+</div>
 
-<div id="box-explicacao-tabela-left">
+<div id="box-direita">
+<div id="box-explicacao-video-animacao">
 	<table width="100%">
 		<tbody>
 			<tr>Com relação às datas, em inglês, os dias do mês vão para forma ordinal.
@@ -27,11 +32,11 @@ Agora, vamos aprender como dizer os meses do ano em inglês.
 		</tbody>
 	</table>
 </div>
+</div>
 
 
 
-
-
+</div>
 </div>	
 <div id="rodape">
 	<div id="navegacao">
