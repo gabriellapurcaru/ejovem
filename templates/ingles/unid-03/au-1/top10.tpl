@@ -1,26 +1,30 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3> <a href=""  title="Ditado"/>  Dictation </a></h3>
+<h3><a href="" title="Ditado">Dictation</a></h3>
+<div id="center">
 
-<div id="box-center-video">
-    <div id="box-dir">
-		  <div id="balao-azul">
-		    <p>O vídeo ao lado irá ajudar nos seus conhecimentos sobre o alfabeto inglês.  Assista o vídeo e depois pratique o alfabeto.</p>
-		  </div>
-		  <div id="person">
-		      <img src="../../../imgs/e10.png">
-		  </div>
+<div id="box-esquerda">
+<div id="box-explicacao-tabela">
+    <div id="box-explicacao-tabela-texto">
+    <p>Nessa aula, <a href="#" title="Apresentando-se!">Introducing Yourself</a>, irmos aprender a dialogar na língua inglesa.</p> 
+    <p>Para começar veja o diálogo ao lado e veja como é usado o pronome pessoal.</p>
     </div>
-    <div id="box-esq">
-        <div id="box-video-esq-video">
-            <embed autoplay="false" src="../../../ingles/unid03/au1/video/RealEnglishLesson3.mp4" width="363" height="229"box-video-esq-img">            
-            <img src="../../../imgs/e11.png">
-      </div>
-    
+    <div id="box-explicacao-tabela-img">
+        <img src="../../../imgs/e17.png"/>    
     </div>
 </div>
+</div>
+
+<div id="box-direita">
+<div id="box-explicacao-video-animacao">
+    <embed width="440px" height="300px" type="application/x-shockwave-flash" src="img/dialogo01.swf" name="plugin">
+</div>
+</div>
+
+</div>	
 </div>	
 <div id="rodape">
 	<div id="navegacao">

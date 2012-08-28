@@ -1,9 +1,11 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
+<h3><a href="#" title="Iniciando">Introducing</a></h3>
 
-<h3>  Introdução da aula </h3>
+<div id="center">
 
 <div id="boxDigitacao">
     <div class="item">
@@ -22,10 +24,11 @@
 
 
 </div>
+</div>
 <div id="rodape">
-	<div id="navegacao">
-		<span>Página 1 de 9</span>
-		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+	<span>Página 1 de 9</span>
+<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
+</div>
 </div>	
 {rodape}

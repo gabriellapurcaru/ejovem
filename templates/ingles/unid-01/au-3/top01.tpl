@@ -8,7 +8,7 @@
 <div id="center">
 <div id="boxDigitacao">
     <div class="item">
-        Olá! Na aula passada aprendemos a importância da língua inglesa. Nesta aula você irá ter contato com o texto sobre o Rei do Pop, Michael Jackson, aprendendo sobre as estratégias de leitura existentes na língua inglesa. Vamos começar?
+        Olá! Na aula passada aprendemos a estratégias de leitura que nos auxiliam na leitura e compreensão de texto Nesta lição, veremos que já falamos algumas palavras em inglês cuja similaridade com palavras da língua portuguesa é notória, não necessariamente exprimindo o mesmo significado. São as chamadas palavras cognatas. Lembra?
     </div> 
 </div>
 
@@ -25,7 +25,7 @@
 </div>
 <div id="rodape">
 <div id="navegacao">
-<span>Página 1 de 8</span>
+<span>Página 1 de 6</span>
 <a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>	

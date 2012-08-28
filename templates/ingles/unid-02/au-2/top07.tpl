@@ -1,68 +1,133 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>Dialogue</h3>
+<h3><a href="#" title="Saiba mais">Learn more</a></h3>
 
 <div id="center">
-<div id="atividade">
-<div class="quadro">
-HELLO - THIS - IS - NICE - MEET - IS - I'M
-</div>
-<table cellpadding="10px">
-<thead>
-<tr>
-<td colspan="2"><b>Complete o diálogo abaixo com as palavras do quadro:</b><br /><br />
-<b>Julia</b>:	Hi, Nelia.<br />
-<b>Nelia</b>:	Oh, _________ , Julia. <br />
-<b>Julia</b>:	Nelia, ________is my friend Jorge. Jorge, this _______ Nelia.<br />
-<b>Nelia</b>:	_________ to meet you, Jorge.<br />
-<b>Jorge</b>:	Nice to _________ you too.<br /> 
-<b>Julia</b>:	Jorge __________ a university student. <br />
-<b>Nelia</b>:	Really? <br />
-<b>Jorge</b>:	Yeah. And what do you do? <br />
-<b>Nelia</b>:	________ a dentist. <br />
 
-</tr>
-	<tr>
-		<td colspan="2"> <b>Marque a sequência correta:</b></td>   
-	</tr>
-</thead>
-
-<tbody>
-	<tr>
-		<td>
-			<form name="f1" >
-				<input type="radio" name = 'r1' value="1" />Hello - This - Is - Nice - Meet - Is - I´m <br /> 
-				<input type="radio" name = 'r1' value="2" />Is - This - Nice - Is - I´m - Meet<br /> 
-				<input type="radio" name = 'r1' value="3" />Nice - Is - Nice - This - Meet - Is - I´m <br /> 
-				<input type="radio" name = 'r1' value="4" />Hello - Is - Nice - Meet - Is - I´m - This<br />  
-				
-				<div id ="anima">
-					<input type = "button" name = "form1" value = "Confira" onclick = resposta(r1,1,'Parabéns!') /> 
-				</div>
-				
-			  	<script> 
-				 	$("\#anima").click(function () { $("#labelTotal").toggle("slow"); });
-			   	</script>
-			</form>                        
-		</td>
-		<td valign ="top">
-			<div id ="labelTotal"> </label>                        
-		</td>
-	</tr>
-</tbody>
-</table>
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+        <div id="texto">
+            <p>Essas palavras são expressões que pode ser usadas em uma conversação. Essa atividade irá lhe auxiliar no aprendizado auditivo e escrito. Clique nas palavras e pratique sua pronuncia. </p>
+        </div>
+        <div class="box-person">
+                <img src="../../../imgs/e13.png"/>
+        </div>
+    </div>
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	       
+       	<table width="100%">
+			<tbody>
+			<tr>
+		      <td>Hello, Hi</td>
+		      <td>Olá, Oi</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <tr>
+		      <td>Good morning</td>
+		      <td>Bom dia</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <tr>
+		      <td>Good night</td>
+		      <td>Boa noite</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <tr>
+		      <td>Good-bye, bye</td>
+		      <td>Adeus, Tchau</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <tr>
+		      <td>See you soon</td>
+		      <td>Até logo</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <tr>
+		      <td>See you later</td>
+		      <td>Até breve</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <tr>
+		      <td>Please</td>
+		      <td>Por favor</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <tr>
+		      <td>Thank you</td>
+		      <td>Obrigado</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <tr>
+		      <td>You're welcome</td>
+		      <td>De nada</td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		    </tr>
+		    <!--
+		    <tr>
+		      <td>Excuse me</td>
+		      <td>Desculpe, Com licença</td>
+		      <td>audio</td>
+		    </tr>
+		    
+		    <tr>
+		      <td>Sorry</td>
+		      <td>Desculpe</td>
+		      <td>audio</td>
+		    </tr>
+		    <tr>
+		      <td>Congratulations</td>
+		      <td>Parabéns</td>
+		      <td>audio</td>
+		    </tr>
+		    <tr>
+		      <td>Good luck</td>
+		      <td>Boa sorte</td>
+		      <td>audio</td>
+		    </tr>
+		    <tr>
+		      <td>Hey</td>
+		      <td>Ei</td>
+		      <td>audio</td>
+		    </tr>
+		    <tr>
+		      <td>What's up?</td>
+		      <td>Como vai?, E aí?</td>
+		      <td>audio</td>
+		    </tr>
+		    <tr>
+		      <td>How are you?</td>
+		      <td>Como vai?, Tudo bom?</td>
+		      <td>audio</td>
+		    </tr>
+		    <tr>
+		      <td>How are you doing?</td>
+		      <td>Como está?</td>
+		      <td>audio</td>
+		    </tr>
+		    <tr>
+		      <td>How's it going?</td>
+		      <td>Como vai?</td>
+		      <td>audio</td>
+		    </tr>-->
+		  </tbody>
+		</table>
+		<p>Veja mais palavras em vocabulário</p>
+        </div>
+    </div>
 </div>
-</div>
 
+</div>
 </div>	
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 7 de 9</span>
-		<a href="top08.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>  
+	<span>Página 7 de 8</span>
+<a href="top08.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a> 
+</div>
 </div>
 
 {rodape}

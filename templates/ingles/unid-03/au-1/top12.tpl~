@@ -1,49 +1,29 @@
 {topo}
+{tituloAula}
 {menu}
-
 <div id="meio">
-<h3>Grammar Focus</h3>
+<h3>  <a href=""  title="Ortografia"/> Spelling </a></h3>
 
-<div id="box-exemplo">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>É importante dizer que, em inglês, todo verbo necessita de um sujeito expresso. Logo, sujeito oculto não é admitido, salvo em raríssimas exceções e em linguagem muito coloquial, informal. No caso de verbos impessoais, utiliza-se <b>it</b>.</p>
+<div id="boxExplicacao">    
+    <div id="boxExplicacaoTexto">
+
+        <p>Spelling em português significa soletrar, quando perguntamos, alguém para soletrar o nome, em inglês dizemos how do you spell your name, please?
+Vamos treinar o spelling?
+</p>
     </div>
-    <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
+    
+    <div id="boxExplicacaoImg">
+        <img src="../../../imgs/e06.png"/>    
+    </div>
 </div>
 
-<div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique para ver os exemplos<span></div>
-<div class="panel">
-    <p>The president Dilma spoke to the nation yesterday. She promised a new package.</p>
-    <p>It rains a lot in London.</p>
-    <hr>
-    <p>Não, o <b>senhor</b> poderia me lembrar, por favor?</p>
-    <p>No <b>Sir</b>, could you remember me, please?</p>
-	<hr>
-	<table width="100%">
-		<thead>
-			<tr>
-				<td>Sr. Antonio Ferreira</td>
-				<td>Mr. Robert Shafter</td>
-			</tr>
-			<tr>
-			    <td>Srta. Carla Teixeira </td>
-				<td>Miss. Catherine Jones</td>
-			</tr>	
-			<tr>
-			    <td>Dona Marcia Freitas</td>
-				<td>Dra. Tereza Oliveira</td>
-			</tr>				
-		</thead>
-	</table>
-</div>
 </div>
 
 </div>	
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 8</span>
+			<span>Página 12 de 18</span>
 		<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>

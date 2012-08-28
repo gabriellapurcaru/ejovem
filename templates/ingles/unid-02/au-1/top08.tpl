@@ -3,81 +3,30 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Pronomes Pessoais">Personal Pronouns</a></h3>
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
 
 <div id="center">
-
-<div id="box-esquerda">
-<div id="box-explicacao-tabela">
-    <div id="box-explicacao-tabela-texto">
-    <p>A correspondência com os pronomes em português é apresentada na tabela ao lado:</p>
+<div id="box-center-conclusao">
+    <div id="box-esq">
+        <div class="box-person">
+<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">   
+        </div>
     </div>
-    <div id="box-explicacao-tabela-img">
-        <img src="../../../imgs/e17.png"/>    
+    <div id="box-dir">
+	<div id="texto">
+	<p>Nessa atividade estudamos os pronomes de tratamento, assim como novas palavras que nos ajudaram a nos comunicar em inglês. </p>
+	<p>Até breve!, Bye!</p>
+
+	</div>
     </div>
 </div>
 </div>
-
-<div id="box-direita">
-<h6>Subject pronoun - Caso reto-sujeito</h6>
- 
-<div id="box-direita">
-<table class="table table-striped">
-<tdead>
-<tr>
-<td>Eu</td>
-<td>I</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-<tr>
-<td>You</td>
-<td>Você, Tu</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-<tr>
-<td>He</td>
-<td>Ele</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-<tr>
-<td>She</td>
-<td>Ela</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-
-<tr>
-<td>It</td>
-<td>Ele, ela (neutro)</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-<tr>
-<td>We</td>
-<td>Nós</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-<tr>
-<td>You</td>
-<td>Vocês, Vós </td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-<tr>
-<td>They</td>
-<td>Eles, elas (neutro)</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>		
-</tdead>
-</table>
-</div>
-</div>
-</div>
-
 
 </div>	
 <div id="rodape">
 <div id="navegacao">
-<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 8 de 15</span>
-<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+<a href="top14.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 15 de 15</span>
 </div>
 </div>
 

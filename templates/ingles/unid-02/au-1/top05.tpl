@@ -3,9 +3,9 @@
 {menu}
 
 <div id="meio">
-<h3>Introducing</h3>
-
+<h3><a href="#" title="Iniciando">Introducing</a></h3>
 <div id="center">
+
 <div id="box-esquerda">
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
@@ -20,11 +20,11 @@
 
 <div id="box-direita">
 <div id="box-explicacao-video-animacao">
-    <embed height="100%" width="100%" type="application/x-shockwave-flash" src="img/dialogo01.swf" name="plugin">
+    <embed width="440px" height="300px" type="application/x-shockwave-flash" src="img/dialogo01.swf" name="plugin">
 </div>
 </div>
-</div>
-	
+
+</div>	
 </div>	
 <div id="rodape">
 <div id="navegacao">
