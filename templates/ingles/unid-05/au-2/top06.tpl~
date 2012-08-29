@@ -1,31 +1,26 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>Introducing</h3>
+<h3><a href="#" title="Praticando">Practice</a></h3>
 
-<div id="boxDigitacao">
-    <div class="item">
-       Nessa aula, Introducing Yourself    ( Apresentando-se) irmos aprender a dialogar na língua inglesa. Vamos nessa?
-    </div> 
+<div id="center">
+<div id="animacao">
+<p>Vamos rever o que aprendemos até agora?</p>
+<div class="swf">
+<embed width="650" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_michael.swf" name="plugin"> 
+</div>
+</div>
 </div>
 
-<div id="boxDialogo">
-<div class="box-digitacao">
-    <div class="areaTexto"></div>
-    <div id="img-person">
-        <img src="../../../imgs/personagem_corpo.png"/>
-    </div>
-</div>    
-</div>
-
-
-</div>
+</div>	
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 5 de 7</span>
-		<a href="top07.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+<a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 6 de 8</span>
+<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 </div>
+</div>
+
 {rodape}

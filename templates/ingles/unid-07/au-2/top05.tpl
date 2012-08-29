@@ -1,94 +1,105 @@
 {topo}
+{tituloAula}
 {menu}
 
+
 <div id="meio">
-<h3>Brush up!</h3>
+<h3><a href="#" title="Exercitando">Exercising</a></h3>
 
 <div id="center">
-<div id="atividade">
-
-
-
-
-<script src="js/Atividade_03_unidade_III.js" type="text/javascript"></script></head>
-
-
-
-	
-
-<div id="InstructionsDiv" class="StdDiv">
-	<div id="Instructions">Preencha todas as lacunas, em seguida, pressione "Verificar" para verificar as respostas. Use o bot&#x00E3;o "Sugest&#x00E3;o" para obter uma letra da resposta se tiver d&#x00FA;vidas. Note que voc&#x00EA; vai perder pontos se voc&#x00EA; pedir dicas.</div>
+<div id="box-esquerda">
+<div class="ba-esq">
+    <div class="ba-balao">
+        <p>Você sabe o significado de cada cognata encontrado?</p>
+		<p>Vamos testar seus conhecimentos! Marque a opção que é semelhante a cada cognata.</p>
+    </div>
+    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>
-
-  <br /> <table width="252" border="1" cellpadding="0" cellspacing="0" bgcolor="#00CC99">
-       <tbody><tr> 
-       
-     <td width="39"> <div align="center"><strong>  are </strong></div></td>
-     <td width="39"> <div align="center"><strong> morning</strong></div></td>
-     <td width="39"> <div align="center"><strong> fine </strong></div></td>
-    
-     </tr></tbody> </table>
-     
-
-
-<div id="MainDiv" class="StdDiv">
-
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Sugest&#x00E3;o&nbsp;</button>
-
-
- -->
- 
-<div id="ClozeDiv"> <font size="+1">
-<form id="Cloze" method="post" action="" onsubmit="return false;">
-<div class="ClozeBody"> 1. Good morning <br />
-   Sam! How <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></span> you? <br />
-     <br />
-        2. Good <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> Anne! <br /> I&#x00B4;m <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, thanks 
-</div>
-</form>
-</font>
-</div>
-
-
-
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Sugest&#x00E3;o&nbsp;</button>
-
 
 </div>
 
+<div id="box-direita">
+<div id="explicacao">
+<h5>Marque a correta</h5>
+<div id="slideshow">
+    <div id="slidesContainer">
+      <div class="slide">
+        <p><b>01. Music</b><BR>
+            <input type="radio" name="sel_banco" id="sel_1" value="correto" onclick="b='b';"> Música<BR>
+            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Musa<BR>
+            <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Som<BR>
+        </p>
 
+        <p> 
+            <input type="button" onclick="validar()" value="Conferir">
+        </p>
+      </div>
+      <div class="slide">
+        <p><b>02. Dance</b><BR>
+            <input type="radio" name="sel_banco" id="sel_1" value="errada" onclick="b='c';"> Dançarino<BR>
+            <input type="radio" name="sel_banco" id="sel_2" value="correto" onclick="b='b';"> Dança<BR>
+            <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Movimentos<BR>
+        </p>
+        <p> 
+            <input type="button" onclick="validar()" value="Conferir">
+        </p> 
+      </div>
+      <div class="slide">
+        <p><b>03. Culture</b><BR>
+            <input type="radio" name="sel_banco" id="sel_1" value="correto" onclick="b='b';"> Cultura<BR>
+            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Costura<BR>
+            <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Raça<BR>
+        </p>
 
-<div class="Feedback" id="FeedbackDiv">
-<div class="FeedbackText" id="FeedbackContent"></div>
-<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+        <p> 
+            <input type="button" onclick="validar()" value="Conferir">
+        </p>
+      </div>
+	  <div class="slide">
+        <p><b>04. Color</b><BR>
+            <input type="radio" name="sel_banco" id="sel_1" value="correto" onclick="b='b';"> Cor<BR>
+            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Desenho<BR>
+            <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Pintar<BR>
+        </p>
+
+        <p> 
+            <input type="button" onclick="validar()" value="Conferir">
+        </p>
+      </div>  
+      <div class="slide">
+        <p><b>05. Publicity</b><BR>
+            <input type="radio" name="sel_banco" id="sel_1" value="errada" onclick="b='b';"> Povo<BR>
+            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Público<BR>
+            <input type="radio" name="sel_banco" id="sel_3" value="correto" onclick="b='c';"> Publicidade<BR>
+        </p>
+
+        <p> 
+            <input type="button" onclick="validar()" value="Conferir">
+        </p>
+      </div>     
+      <div class="slide">
+        <p><b>06. Artist</b><BR>
+            <input type="radio" name="sel_banco" id="sel_1" value="errada" onclick="b='b';"> Artesão<BR>
+            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Hábil<BR>
+            <input type="radio" name="sel_banco" id="sel_3" value="correto" onclick="b='c';"> Artista<BR>
+        </p>
+
+        <p> 
+            <input type="button" onclick="validar()" value="Conferir">
+        </p>
+      </div>   
+    </div>
+    </div>
 </div>
-
-<!-- BeginBottomNavButtons -->
-
-
-
-<!-- EndBottomNavButtons -->
-
-<!-- BeginSubmissionForm -->
-
-<!-- EndSubmissionForm -->
-
+</div>
 </div>
 
 </div>
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 5 de 17</span>
-		<a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 5 de 8</span>
+<a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+</div>
 </div>
 {rodape}

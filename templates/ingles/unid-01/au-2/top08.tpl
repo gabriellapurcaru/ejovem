@@ -4,6 +4,7 @@
 
 <div id="meio">
 <h3><a href="#" title="Conclusão">Conclusion</a></h3>
+<div id="center">
 
 <div id="box-center-conclusao">
     <div id="box-esq">
@@ -20,6 +21,7 @@
     </div>
 </div>
 
+</div>
 </div>	
 <div id="rodape">
 <div id="navegacao">

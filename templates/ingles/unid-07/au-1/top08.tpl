@@ -1,37 +1,39 @@
 {topo}
+{tituloAula}
 {menu}
 
+
 <div id="meio">
-<h3> <a href="" title="Introdução" />Introduction</a></h3>
 
-<div id="boxDigitacao">
-    <div class="item">
-       Conhecer e aprender a pronunciar corretamente as letras do alfabeto inglês é um passo importante para o bom aprendizado do idioma. O alfabeto inglês possui 26 letras e está baseado no alfabeto latino.
-Como em outros idiomas, devemos ter em mente que as letras do alfabeto inglês podem sofrer alterações de pronúncia dependendo da palavra ou até mesmo da frase em que está sendo utilizada.
-Por isso, é indispensável que se preste bastante atenção às atividades de compreensão auditiva e as dicas fornecidas durante as aulas para entendermos e captarmos melhor os sons.Vamos nessa?
+<h3><a href="#" title="Saiba mais">Learn More</a></h3>
 
-    </div> 
-</div>
-
-<div id="boxDialogo">
-<div class="box-digitacao">
-    <div class="areaTexto"></div>
-    <div id="img-person">
-        <img src="../../../imgs/personagem_corpo.png"/>
+<div id="center">
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+        <div id="texto">
+            <p>Já que estamos falando sobre a importância do aprendizado de outras línguas e o uso de palavras, termos oriundos do idioma inglês no português, vamos aprender um pouco mais sobre os estrangeirismos. </p>
+        </div>
+        <div class="box-person">
+                <img src="../../../imgs/e13.png"/>
+        </div>
     </div>
-</div>    
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	    	<p>Segundo o site Dicionário Informal (2012), o estrangeirismo trata-se de todo e qualquer emprego de palavras, expressões e construções estrangeiras em nosso idioma.</p>
+	    	<p>Entre na seção Conheça Mais e saiba um pouco mais da importância do inglês</p>
+	    	
+        </div>
+    </div>
 </div>
 
-
-
-
-</div>	
+</div>
+</div>
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 18</span>
-		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>	
-	</div>
+<div id="navegacao">
+<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 8 de 9</span>
+<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+</div>
 </div>
 
 {rodape}

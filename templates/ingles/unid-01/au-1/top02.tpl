@@ -9,7 +9,7 @@
 <div id="center">
 <div id="boxDigitacao">
     <div class="item">
-        Olá, alunos! Nessa lição temos como objetivo reconhecer a importância da língua inglesa no mercado de trabalho e no nosso dia a dia
+        Olá, alunos! Nessa lição temos como objetivo reconhecer a importância da língua inglesa no mercado de trabalho e no nosso dia a dia.
     </div> 
 </div>
 

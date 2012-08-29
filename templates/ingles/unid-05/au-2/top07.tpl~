@@ -1,29 +1,36 @@
 {topo}
+{tituloAula}
 {menu}
 
+
 <div id="meio">
+<h3><a href="#" title="Saiba mais">Learn more</a></h3>
 
-<h3>Introducing</h3>
-<div id="box-explicacao-tabela">
-    <div id="box-explicacao-tabela-texto">
-    <p>Ouça cada frase ao lado e em seguida tente ler o dialogo completo</p>
+<div id="center">
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+
+        <div class="box-person">
+                <img src="../../../imgs/e13.png"/>
+        </div>
     </div>
-    <div id="box-explicacao-tabela-img">
-        <img src="../../../imgs/e09.png"/>    
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	    	<p>Vá a sessão conheça mais para saber curiosidades sobre a aula. Acesse a parte de vocabulário reveja as palavras novas que aprendeu nesta aula.</p>
+	    	<p> Reforce seus conhecimentos na sessão de gramática.</p>
+
+        </div>
     </div>
 </div>
-
-<div id="box-explicacao-tabela-left">
-    <embed height="100%" width="100%" type="application/x-shockwave-flash" src="img/dialogo01.swf" name="plugin">
 </div>
-	
+
 </div>	
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 7 de 7</span>
-		<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>	
-	</div>
+<div id="navegacao">
+<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 7 de 8</span>
+<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+</div>
 </div>
 
 {rodape}
