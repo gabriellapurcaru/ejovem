@@ -1,10 +1,11 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-
-<h3> <a href="" title="Números de telefone">TELEPHONE NUMBERS </a></h3>
-
+<h3><a href="" title="Números de telefone">Telephone numbers</a></h3>
+<div id="center">
+	
 <div id="box-exemplo">
 <div class="ba-esq">
     <div class="ba-balao">
@@ -13,8 +14,10 @@
     <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
 </div>
 
-<div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique para ver os exemplos<span></div>
+<div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique aqui para ver os exemplos<span></div>
 <div class="panel">
+	<h6> Passe o mouse sobre as frases:</h6>	
+    
     <p> <a href="" title="Qual o número do seu telefone?" > What’s your telephone number? </a> </p>   
     <p> <a href="" title="É o 33469892" > It’s 33469892 (three three four six – nine eight nine two). </a> </p> <br /> 
      
@@ -24,7 +27,7 @@
      <p> <a href="" title="Qual o número do seu cellular?" > What’s your cellphone number? </a> </p>
      <p> <a href="" title="É o 93210286" > It’s 93210286 ( nine three two one – oh two eight six) </a> </p><br />
      
-    <p> Caso você não entenda o que foi dito, você pode utilizar as seguintes frases:</p> <br />
+    <h6> Caso você não entenda o que foi dito, você pode utilizar as seguintes frases:</h6>	
       <p> <a href="" title="Você pode repetir isso, por favor?" > Can you repeat that, please?  </a> </p>
      <p> <a href="" title="Desculpa, eu não entendo. Repita, por favor!" > Sorry, I don’t understand it. Repeat it, please. </a> </p><br />
     
@@ -34,7 +37,7 @@
 </div>
 
 
-
+</div>
 </div>	
 <div id="rodape">
 	<div id="navegacao">

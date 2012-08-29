@@ -1,15 +1,15 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>  Introduction</h3>
-
+<h3><a href="" title="Aula em vídeo">Lession Video</a></h3>
+<div id="center">
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
-		    <p>How old are you? 
-Ficou perdido agora? Assista ao vídeo e depois tente responder a pergunta a cima. 
-</p>
+		    <p>How old are you?</p>
+		 	<p>Ficou perdido agora? Assista ao vídeo e depois tente responder a pergunta a cima.</p>
 		  </div>
 		  <div id="person">
 		      <img src="../../../imgs/e10.png">
@@ -26,6 +26,7 @@ Ficou perdido agora? Assista ao vídeo e depois tente responder a pergunta a cim
     </div>
 </div>
 
+</div>
 </div>
 <div id="rodape">
 	<div id="navegacao">

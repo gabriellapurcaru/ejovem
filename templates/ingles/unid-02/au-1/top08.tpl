@@ -3,43 +3,31 @@
 {menu}
 
 <div id="meio">
-<h3>Introducing</h3>
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
 
-<div id="box-atividade">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Pratique os diálogos acima, substituindo as frases por informações verdadeiras sobre você. </p>
+<div id="center">
+<div id="box-center-conclusao">
+    <div id="box-esq">
+        <div class="box-person">
+<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">   
+        </div>
     </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-</div>
-<div id="explicacao">
-	<table width="100%">
-		<tbody>
-		<tr>
-          <td>What is your name? </td>
-          <td>My name is ___</td>
-        </tr>
-        <tr>
-          <td>Nice to meet you </td>
-          <td>Nice to meet you too</td>
-        </tr>
-        <tr>
-          <td>How do you do?</td>
-          <td>How old are you?</td>
-        </tr>
-      
-      </tbody>
-	</table>
+    <div id="box-dir">
+	<div id="texto">
+	<p>Nessa atividade estudamos os pronomes de tratamento, assim como novas palavras que nos ajudaram a nos comunicar em inglês. </p>
+	<p>Até breve!, Bye!</p>
+
+	</div>
+    </div>
 </div>
 </div>
 
 </div>	
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 18</span>
-		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>	
-	</div>
+<div id="navegacao">
+<a href="top14.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 15 de 15</span>
+</div>
 </div>
 
 {rodape}

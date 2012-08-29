@@ -1,10 +1,12 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
 
 <h3> <a href="" title="Dizendo as datas"> Saying dates </a></h3>
 
+<div id="center">
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
@@ -25,6 +27,7 @@
     </div>
 </div>
 
+</div>	
 </div>	
 <div id="rodape">
 	<div id="navegacao">

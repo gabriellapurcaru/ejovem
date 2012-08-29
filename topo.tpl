@@ -7,6 +7,13 @@
     	<link href="../../../css/style.css" media="all" type="text/css" rel="stylesheet">
     	<link href="../../../css/hot.css" media="all" type="text/css" rel="stylesheet">
     	<link href="../../../css/jquery.ennui.contentslider.css" rel="stylesheet" type="text/css" media="screen,projection" />
+    	<link href="../../../css/bootstrap/bootstrap.css" rel="stylesheet" type="text/css" media="screen,projection" />
+    	<link href="../../../css/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen,projection" />
+    	<link href="../../../css/bootstrap/bootstrap-responsive.css" rel="stylesheet" type="text/css" media="screen,projection" />
+    	<link href="../../../css/bootstrap/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" media="screen,projection" />
+
+    	<link href="../../../js/bootstrap/bootstrap.min.js" rel="stylesheet" type="text/css" media="screen,projection" />
+    	<link href="../../../js/bootstrap/bootstrap.js" rel="stylesheet" type="text/css" media="screen,projection" />
 	
 	<script type="text/javascript" src="../../../js/jquery.js"></script>
 	<script type="text/javascript" src="../../../js/swfobject.js"></script>	
@@ -26,28 +33,7 @@
 
 	
 	<title>Projeto E-Jovem</title>	
-	
-	
-		
-    <script>
-		var flashvars = {};
-		var params = {
-			menu: "false",
-			scale: "noScale",
-			allowFullscreen: "true",
-			allowScriptAccess: "always",
-			bgcolor: "",
-			wmode: "transparent" // can cause issues with FP settings & webcam
-		};
-		var attributes = {
-			id:"Teste"
-		};
-		swfobject.embedSWF(
-			"atividades/atividade02.swf", 
-			"atividade02", "550", "250", "10.0.0", 
-			"atividades/expressInstall.swf", 
-			flashvars, params, attributes);
-	</script>
+
 </head>
 <body onLoad="StartUp()" id="TheBody">
 <div id="c">

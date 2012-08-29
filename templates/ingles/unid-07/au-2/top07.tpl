@@ -1,79 +1,38 @@
 {topo}
+{tituloAula}
 {menu}
 
+
 <div id="meio">
+<h3><a href="#" title="Saiba mais">Learn more</a></h3>
+
 <div id="center">
-<div id="atividade">
-
-
-
-
-<script src="js/ativi_05.js" type="text/javascript"></script></head>
-
-
-<div id="InstructionsDiv" class="StdDiv">
-	<div id="Instructions">Preencha todas as lacunas, em seguida, pressione "Verificar" para verificar as respostas. Use o bot&#x00E3;o "Sugest&#x00E3;o" para obter uma letra da resposta se tiver d&#x00FA;vidas. Note que voc&#x00EA; vai perder pontos se voc&#x00EA; pedir dicas.</div>
-</div>
-
- <br /> <table width="252" border="1" cellpadding="0" cellspacing="0" bgcolor="#00CC99">
-       <tbody><tr> 
-       
-     <td width="39"> <div align="center"><strong>  We </strong></div></td>
-     <td width="39"> <div align="center"><strong> See</strong></div></td>
- 
-    
-     </tr></tbody> </table>
-     
-
-
-
-<div id="MainDiv" class="StdDiv">
-
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Sugest&#x00E3;o&nbsp;</button>
-
-
- -->
- 
-<div id="ClozeDiv">
-<form id="Cloze" method="post" action="" onsubmit="return false;">
-<div class="ClozeBody">
-<br />1. Anne, <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> have to go tchau!<br /><br />2. Tchau and <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> tomorrow! 
-</div>
-</form>
-</div>
-
-
-
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Sugest&#x00E3;o&nbsp;</button>
-
-
-</div>
-
-
-
-<div class="Feedback" id="FeedbackDiv">
-<div class="FeedbackText" id="FeedbackContent"></div>
-<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
-</div>
-
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+        <div id="texto">
+            <p>Você sabe como dizer como uma pessoa ou objeto, por exemplo, é alto em inglês? Se não, vamos aprendê-lo agora! </p>
+        </div>
+        <div class="box-person">
+                <img src="../../../imgs/e13.png"/>
+        </div>
+    </div>
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	    	<p>Os adjetivos tall, high e loud significam alto. No entanto, há particularidades que devem ser levadas em conta na hora de usá-los. Veja:</p>
+	    	<p><b>tall</b>: normalmente, diz respeito à estatura de pessoas, podendo ser empregado também para qualificar edifícios e árvores.</p>
+	    	<p>Para ver exemplos e saber mais vá a seção Conheça Mais.</p>
+        </div>
+    </div>
 </div>
 </div>
-	
+
 </div>	
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 7 de 17</span>
-		<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>	
-	</div>
+<div id="navegacao">
+<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 7 de 8</span>
+<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+</div>
 </div>
 
 {rodape}

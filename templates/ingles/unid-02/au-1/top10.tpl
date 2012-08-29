@@ -3,37 +3,39 @@
 {menu}
 
 <div id="meio">
-<h3>Personal Pronouns</h3>
+<h3>Grammar Focus</h3>
 
-<div id="boxExplicacao">    
-    <div id="boxExplicacaoTexto">
-        <div id="slideshow">
-        <div id="slidesContainer">
-          <div class="slide">
-            <p>Os pronomes pessoais podem ser definidos como sendo aqueles que indicam uma das três pessoas do discurso: a que se fala, a com quem se fala e a de quem se fala. </p>
-          </div>
-          <div class="slide">
-            <p>Nesta lição, estudaremos os pronomes pessoais do caso reto. Esses pronomes desempenham a função sintática de sujeito da oração.</p>
-            <p>São os pronomes eu, tu, ele, ela, nós, vós, eles, elas. </p>
-             
-          </div>
-          
-        </div>
-        </div>
+<div id="center">
+<div id="box-exemplo">
+<div class="ba-esq">
+    <div class="ba-balao">
+        <p>Além dos significados básicos de ser e estar, o <b>verbo to be</b> também é muito empregado no sentido de ficar (tornar-se).</p>
     </div>
-    
-    <div id="boxExplicacaoImg">
-        <img src="../../../imgs/e06.png"/>    
-    </div>
+    <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
+</div>
+
+<div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique para ver os exemplos<span></div>
+<div class="panel">
+
+<table class="table table-striped">
+<tdead>
+<tr><td><a href="#" title="O Paulo é meu melhor amigo.">Paul is my best friend</a></td></tr>
+<tr><td><a href="#" title="A Alice estará no clube.">Alice <b>will be</b> at the club.</a></td></tr>
+<tr><td><a href="#" title="Nós ficariamos muito gratos a você se você pudesse fazer este favor.">We <b>would be</b> very grateful to you if you could do us this favor.</a></td></tr>
+</tdead>
+</table>   
+
+</div>
 </div>
 
 </div>	
+</div>	
 <div id="rodape">
-	<div id="navegacao">
-		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 10 de 18</span>
-		<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 10 de 15</span>
+<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+</div>
 </div>
 
 {rodape}

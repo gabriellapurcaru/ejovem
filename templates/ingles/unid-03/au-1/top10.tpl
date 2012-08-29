@@ -1,31 +1,34 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3> <a href=""  title="Ditado"/>  Dictation </a></h3>
+<h3><a href="" title="Vamos praticar o que você aprendeu!">Let´s practice what you learn!</a></h3>
+<div id="center">
 
-<div id="box-center-video">
-    <div id="box-dir">
-		  <div id="balao-azul">
-		    <p>O vídeo ao lado irá ajudar nos seus conhecimentos sobre o alfabeto inglês.  Assista o vídeo e depois pratique o alfabeto.</p>
-		  </div>
-		  <div id="person">
-		      <img src="../../../imgs/e10.png">
-		  </div>
+<div id="box-esquerda">
+<div id="box-explicacao-tabela">
+    <div id="box-explicacao-tabela-texto">
+    <p>Veja o exemplo do dialogo ao lado e leia de acordo com o que você aprendeu no <a href="" title="alfabeto">alphabet </a></p>
     </div>
-    <div id="box-esq">
-        <div id="box-video-esq-video">
-            <embed autoplay="false" src="../../../ingles/unid03/au1/video/RealEnglishLesson3.mp4" width="363" height="229"box-video-esq-img">            
-            <img src="../../../imgs/e11.png">
-      </div>
-    
+    <div class="ba-img">
+        <img  src="../../../imgs/e05.png"/>    
     </div>
 </div>
+</div>
+
+<div id="box-direita">
+<div id="box-explicacao-video-animacao">
+    <embed width="440px" height="300px" type="application/x-shockwave-flash" src="img/dialogo01.swf" name="plugin">
+</div>
+</div>
+
+</div>	
 </div>	
 <div id="rodape">
 	<div id="navegacao">
 		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 10 de 18</span>
+			<span>Página 10 de 14</span>
 		<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>

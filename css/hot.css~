@@ -6,7 +6,7 @@
 #table td{border:1px solid #000000;}
 
 div.Titles{
-	padding: 0.5em;;
+	padding: 0 5px 0 30px;
 	text-align: center;
 	color: #000000;
 }
@@ -123,7 +123,7 @@ div.Feedback {
 	background-color: #C0C0C0;
 	left: 33%;
 	width: 34%;
-	top: 33%;
+	top: 37%;
 	z-index: 1;
 	border-style: solid;
 	border-width: 1px;
@@ -406,36 +406,21 @@ div.ShortAnswer{
 }
 
 .FuncButton {
-	text-align: center;
-	border-style: solid;
-
-	border-left-color: #ffffff;
-	border-top-color: #ffffff;
-	border-right-color: #7f7f7f;
-	border-bottom-color: #7f7f7f;
-	color: #000000;
-	background-color: #FFFFFF;
-
-	border-width: 2px;
-	padding: 3px 6px 3px 6px;
-	cursor: pointer;
+background-color: #49AFCD;
+    background-image: -moz-linear-gradient(center top , #5BC0DE, #2F96B4);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    color: #FFFFFF;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
 
 .FuncButtonUp {
-	color: #FFFFFF;
-	text-align: center;
-	border-style: solid;
-
-	border-left-color: #ffffff;
-	border-top-color: #ffffff;
-	border-right-color: #7f7f7f;
-	border-bottom-color: #7f7f7f;
-
-	background-color: #000000;
-	color: #FFFFFF;
-	border-width: 2px;
-	padding: 3px 6px 3px 6px;
-	cursor: pointer;
+background-color: #49AFCD;
+    background-image: -moz-linear-gradient(center top , #5BC0DE, #2F96B4);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    color: #FFFFFF;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
 
 .FuncButtonDown {

@@ -2,65 +2,38 @@
 {tituloAula}
 {menu}
 
+
 <div id="meio">
-<h3>Atividade de Fixação</h3>
 
-<div id="box-atividade">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Ao lado estão algumas palavras, cuja grafia original inglesa convive com uma palavra aportuguesada (correspondente). Grosso modo, essas palavras já fazem parte do nosso dia-a-dia.</p>
+<h3><a href="#" title="Saiba mais">Learn More</a></h3>
+
+<div id="center">
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+        <div id="texto">
+            <p>Já que estamos falando sobre a importância do aprendizado de outras línguas e o uso de palavras, termos oriundos do idioma inglês no português, vamos aprender um pouco mais sobre os estrangeirismos. </p>
+        </div>
+        <div class="box-person">
+                <img src="../../../imgs/e13.png"/>
+        </div>
     </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-</div>
-<div id="explicacao">
-	<table widtd="100%">
-			<tr>
-				<th>Grafia original</th>
-				<th>Grafia aportuguesada</th>
-				<th>Audio</th>
-			</tr>
-			<tr>
-				<td>Bang -bang</td>
-				<td>Bangue-bangue</td>
-				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-			</tr>
-			<tr>
-				<td>Baseboll</td>
-				<td>Beiseboll</td>
-				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-			</tr>	
-            <tr>
-				<td>Box</td>
-				<td>Boxe</td>
-				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-			</tr>
-			<tr>
-				<td>Bulldog</td>
-				<td>Buldogue</td>
-				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-			</tr>	
-            
-             <tr>
-				<td>Cocktail</td>
-				<td>Coquetel</td>
-				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-			</tr>
-			<tr>
-				<td>Container</td>
-				<td>Contêiner</td>
-				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-			</tr>	
-	</table>
-</div>
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	    	<p>Segundo o site Dicionário Informal (2012), o estrangeirismo trata-se de todo e qualquer emprego de palavras, expressões e construções estrangeiras em nosso idioma.</p>
+	    	<p>Entre na seção Conheça Mais e saiba um pouco mais da importância do inglês</p>
+	    	
+        </div>
+    </div>
 </div>
 
-</div>	
+</div>
+</div>
 <div id="rodape">
-	<div id="navegacao">
-        <a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>  
-		<span>Página 8 de 10</span>
-        <a href="top09.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a> 
-	</div>
+<div id="navegacao">
+<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 8 de 9</span>
+<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+</div>
 </div>
 
 {rodape}

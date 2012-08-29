@@ -1,9 +1,11 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>Introdução da aula</h3>
+<h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 
+<div id="center">
 <div id="boxDigitacao">
     <div class="item">
        Nesta aula você irá revisar o que foi visto durante esta Unidade 2. Iremos fazer atividades sobre apresentação e saudação para fixar o que aprendeu nas aulas. 
@@ -19,7 +21,7 @@
 </div>    
 </div>
 
-
+</div>
 </div>
 <div id="rodape">
 	<div id="navegacao">
