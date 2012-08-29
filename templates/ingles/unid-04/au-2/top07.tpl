@@ -1,69 +1,25 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<div id="center">
-<div id="atividade">
+<h3> <a href="#" title="Foco na gramatica"> GRAMMAR FOCUS</a></h3>
 
 
-
-
-<script src="js/ativi_05.js" type="text/javascript"></script></head>
-
-
-<div id="InstructionsDiv" class="StdDiv">
-	<div id="Instructions">Preencha todas as lacunas, em seguida, pressione "Verificar" para verificar as respostas. Use o bot&#x00E3;o "Sugest&#x00E3;o" para obter uma letra da resposta se tiver d&#x00FA;vidas. Note que voc&#x00EA; vai perder pontos se voc&#x00EA; pedir dicas.</div>
+<div id="box-exemplo">
+<div class="ba-esq">
+    <div class="ba-balao">
+        <p>Você notou que nós usamos o pronome prossessivo nos exercícios anteriores? Para utilizá-lo, você coloca um apóstrofo + s após o nome 
+do possuidor, que sempre virá antes da coisa possuída. Veja os exemplos:</p>
+    </div>
+    <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
 </div>
 
- <br /> <table width="252" border="1" cellpadding="0" cellspacing="0" bgcolor="#00CC99">
-       <tbody><tr> 
-       
-     <td width="39"> <div align="center"><strong>  We </strong></div></td>
-     <td width="39"> <div align="center"><strong> See</strong></div></td>
- 
-    
-     </tr></tbody> </table>
-     
-
-
-
-<div id="MainDiv" class="StdDiv">
-
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Sugest&#x00E3;o&nbsp;</button>
-
-
- -->
- 
-<div id="ClozeDiv">
-<form id="Cloze" method="post" action="" onsubmit="return false;">
-<div class="ClozeBody">
-<br />1. Anne, <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> have to go tchau!<br /><br />2. Tchau and <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> tomorrow! 
-</div>
-</form>
-</div>
-
-
-
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Sugest&#x00E3;o&nbsp;</button>
-
-
-</div>
-
-
-
-<div class="Feedback" id="FeedbackDiv">
-<div class="FeedbackText" id="FeedbackContent"></div>
-<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
-</div>
-
+<div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique para ver os exemplos<span></div>
+<div class="panel">
+    <p>Kate´<strong>s</strong> cat ( o gato da Kate)<br />
+Margaret´<strong>s</strong>  house   (a   casa   da Margaret)<br />
+Beth´<strong>s</strong>  boyfriend (o namorado da Beth)</p>    
 </div>
 </div>
 	
