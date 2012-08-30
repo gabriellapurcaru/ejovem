@@ -35,7 +35,7 @@
 	<title>Projeto E-Jovem</title>	
 
 </head>
-<body onLoad="StartUp()" id="TheBody">
+<body onLoad="StartUp()" id="TheBody" style="background-color: #F1F1F1;">
 <div id="c">
 <div id="bdy">
 	
