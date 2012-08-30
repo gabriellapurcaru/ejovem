@@ -1,3 +1,4 @@
+body{background-color: #F1F1F1;}
 /*html {
     height: 100% !important;
     margin-bottom: 1px;
@@ -51,8 +52,8 @@ p.titulo{color: #006666; width: 100%; float: left;font-size: 16px;}
 a{color:#0174A7;text-decoration:none;}
 a:hover{text-decoration:underline;}
 
-.titulo-unidade-aula{bottom: 50px;color: #1C2A47;font-size: 18px;margin: 0 0 0 225px;overflow: hidden;}
-.titulo-modulo-aula {background-color: #FFFFFF;color: #666;font-size: 12px;font-weight:overflow: hidden;normal;margin: 0;padding: 5px; margin: 0 0 0 225px;}
+.titulo-unidade-aula{bottom: 50px;color: #FFFFFF;font-size: 18px;overflow: hidden;}
+.titulo-modulo-aula {color: #FFFFFF;font-size: 12px;font-weight:overflow: hidden;normal;margin: 0;padding: 5px; }
 
 h1{background:#EDEDED;border: 1px solid #999999;font-size: 14px;margin: 0;padding:3px 5px;}
 h5{margin:0px; padding:2px;color:#006666;}
@@ -67,12 +68,14 @@ h3{background-color: #BFE3F4;
 h3 a{color:#333;}
 div#meio p.quadro{border: 1px solid #999999;margin: 0 0 10px;;padding: 10px;}
 
+.titulo_aula{float: right; width: 660px;}
+
 div#c{float: left;width: 100%;}
 div#bdy{margin: 0 auto;width:950px;text-align: left;height:700px;}
-div#topo {border:1px dashed #DDDDDD;background-color: #FFFFFF; color:#fff;line-height: normal;padding:10px;margin:20px 0px 5px 0px;}
+div#topo {background-color: #4aa1bd; color:#fff;line-height: normal;padding:10px;margin:20px 0px 0px 0px;width: 930px;float:left;}
 div#topo .autores{font-size:12px;}
-div#topo .logo img{background-color: #FFFFFF;border: 4px solid #FFFFFF;border-radius: 2px 2px 2px 2px;height: 32px;width: 200px;}
-div#topo .logo{background: none repeat scroll 0 0 rgba(0, 0, 0, 0.3);border-radius: 3px 3px 3px 3px;box-shadow: 0 1px 1px rgba(0, 0, 0, 0.07);display: block;margin-top: -23px;padding: 1px;position: absolute;}
+div#topo .logo img{background-color: #FFFFFF;border: 4px solid #FFFFFF;border-radius: 2px 2px 2px 2px;height: 41px;width: 250px;}
+div#topo .logo{background: none repeat scroll 0 0 #4AA1BD;border-radius: 3px 3px 3px 3px;box-shadow: 0 1px 1px #FFFFFF;display: block;margin-top: -23px;padding: 1px;position: absolute;}
 div#topo .acoes{
     float: right;
     max-width: 500px;
@@ -87,15 +90,15 @@ div#topo .acoes{
     font-size: 15px;
     vertical-align: baseline;
 }
-div#conteudo{min-height: 500px; width: 100%;float:left;}
+div#conteudo{min-height: 500px; width: 948px; border: 1px solid #4AA1BD;float:left;}
 
-div#box-esq{color: #999999;float: left;font-family: inherit;width: 155px;}
+div#box-esq{color: #999999;float: left;font-family: inherit;width: 155px;padding: 0 2px;}
 
 div#box-menu{float: left;width: 100%;}
 
 div.b{width:100%;float:left;}
-div#titulo-box-menu{float: left;width: 136px;background-color: #FFFFFF;border: 1px dashed #DDDDDD; padding: 0 6px;margin-bottom: 3px;border-radius: 3px;-moz-border-radius:3px;height: 32px;_padding:  0 6px; /* this did the trick. Only IE6 should process this line */}
-div#box-personagem{float: left;padding: 5px;width: 136px; border: 1px dashed #DDDDDD;margin-bottom: 5px;background-color:#fff;text-align: center;}
+div#titulo-box-menu{float: left;width: 141px;background-color: #FFFFFF;padding: 6px;margin-bottom: 3px;border-radius: 3px;-moz-border-radius:3px;height: 32px;_padding:  0 6px; /* this did the trick. Only IE6 should process this line */}
+div#box-personagem{float: left;padding: 5px;width: 142px; margin-bottom: 5px;background-color:#fff;text-align: center;}
 div#box-cursos{float: left;width: 100%;}
 div#box-cursos .curso01{float: left;width: 100%;}
 .img{float: left;}
@@ -126,7 +129,7 @@ div#menu ul li a:hover{color:#fff;text-decoration:underline;}
 div#conteudo #meio #menu-navegacao h3{float:left;}
 div#conteudo #meio #menu-navegacao #navegacao{float:right;font-size:11px;}
         
-div#conteudo #meio{background: #FFFFFF;border: 1px dashed #DDDDDD;float: right;padding:0px ; text-align: center;width:790px;height: 580px;}
+div#conteudo #meio{background: #FFFFFF;float: right;padding:0px ; text-align: center;width:788px;height: 580px;}
 div#conteudo #meio .legenda{font-size:10px; font-style:italic; padding: 0 0 0 30px;}
 div.panel,p.flip {margin:0 0 10px;padding: 2px 10px;text-align:center;float:left; width:98%;background:url("../imgs/bg.png") repeat-x;border-radius: 5px 5px 5px 5px;border:solid 1px #c3c3c3;text-align:justify;cursor:pointer;color:#fff;}
 div.panel{display:none;color:#000;background:#fff;}
@@ -480,6 +483,6 @@ div#vocabulario #box-dir table {float: right;width: 250px;}
 
 div#rede{background-color: #2C2C2C;border: 1px solid #000000;color: #FFFFFF;float: left;width: 100%;}
 div#rede .foto_bia{border: 1px solid #FFFFFF;float: left;height: 57px;width: 60px;}
-div#rede .bia_texto{float: right;width: 690px;}
+div#rede .bia_texto{float: right;width: 670px;}
 div#rede .bia_texto p.bia_diz{font-weight: bold;}
 

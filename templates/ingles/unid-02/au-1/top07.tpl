@@ -11,7 +11,7 @@
 <img src="../../../imgs/rede_personagem.jpg"/>
 </div>
 <div class="bia_texto">
-<p class="bia_diz">Professora Bia diz:</p>
+<p class="bia_diz">Teacher Bia diz:</p>
     <div class="areaTexto"></div>
 </div>
 </div>

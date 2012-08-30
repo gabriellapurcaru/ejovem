@@ -1,20 +1,33 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
 
-<h3>Brush up!</h3>
+<h3> <a href="#" title="Pratica"> Practice</a></h3>
 
-<div id="boxExplicacao">    
-    <div id="boxExplicacaoTexto">
-        <p>Observe  as palavras que estão no quadrado para completar os dialogos a seguir.</p>
-    </div>
-    
-    <div id="boxExplicacaoImg">
-        <img src="../../../imgs/e06.png"/>    
-    </div>
+<div id="center">
+
+<div id="two" class="contentslider">
+<div class="cs_wrapper">
+<div class="cs_slider">
+
+
+<!-- Inicio cs_article -->
+<div class="cs_article">
+	<img src="../../../ingles/unid04/au2/img/familia.png".png" alt="Familia" />
 </div>
+<!-- End cs_article -->
 
+<div class="cs_article">
+	<embed height="100%" width="100%" name="plugin" src="../../../ingles/unid04/au2/video/uni4_aula2.swf" type="application/x-shockwave-flash" />
+
+</div><!-- End cs_article -->
+
+
+</div>
+</div>
+</div>
 </div>
 
 </div>

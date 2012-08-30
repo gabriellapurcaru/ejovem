@@ -1,23 +1,9 @@
 {topo}
+{tituloAula} 
 {menu}
 
 <div id="meio">
-<h3>3.Spelling</h3>
-
-<div id="boxExplicacao">    
-    <div id="boxExplicacaoTexto">
-        <p>Spelling em português significa soletrar, quando perguntamos, alguém para soletrar o nome, em inglês dizemos how do you spell your name, please?
-Vamos treinar o spelling?
-</p>
-    </div>
-    
-    <div id="boxExplicacaoImg">
-        <img src="../../../imgs/e06.png"/>    
-    </div>
-</div>
-
-</div>
-
+<h3>  <a href=""  title="Vamos praticar"/> Let´s practice?  </a> </h3>
 </div>	
 <div id="rodape">
 	<div id="navegacao">
