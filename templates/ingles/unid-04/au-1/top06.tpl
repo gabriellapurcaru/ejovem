@@ -3,8 +3,6 @@
 {menu}
 
 <div id="meio">
-
-
 <div id="center">
 
 <div id="rede">
@@ -21,7 +19,8 @@ Observe como formamos as frases na negativa, e veja os
 exemplos a seguir.</p>
 </div>
 </div>
-</div>
+
+
 </div>
 </div>
 <div id="rodape">

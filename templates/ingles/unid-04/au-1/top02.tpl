@@ -3,7 +3,8 @@
 {menu}
 
 <div id="meio">
-<h3>  <a href=""  title="Introdução"/> Introduction </a></h3>
+<h3><a href="" title="Introdução"/> Introduction </a></h3>
+<div id="center">
 
 <script src="js/tela_02.js" type="text/javascript"></script></head>
 <div id="center">
@@ -35,13 +36,6 @@
 
 <div id="MainDiv" class="StdDiv">
 
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-
- -->
  
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onSubmit="return false;">
@@ -71,6 +65,7 @@
 </div>
 <!-- End cs_article -->
 
+</div>
 </div>
 </div>
 </div>

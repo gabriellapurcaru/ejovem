@@ -19,11 +19,10 @@
 
 <div id="box-direita">
 <div id="box-explicacao-video-animacao">
-   <embed height="100%" width="100%" name="plugin" src="img/dialogo01.swf" type="application/x-shockwave-flash" />
+   <embed height="320px" width="430px" name="plugin" src="img/dialogo01.swf" type="application/x-shockwave-flash" />
 </div>
 </div>
 
-</div>
 </div>
 </div>
 <div id="rodape">

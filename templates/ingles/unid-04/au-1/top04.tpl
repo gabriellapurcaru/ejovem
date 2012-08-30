@@ -4,8 +4,9 @@
 
 <div id="meio">
 <h3>   <a href=""  title="Exercicio"/>  Exercise  </a></h3>
+<div id="center">
 
-
+</div>
 </div>
 <div id="rodape">
 	<div id="navegacao">

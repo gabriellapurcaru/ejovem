@@ -576,10 +576,9 @@ a:hover {
 .container-fluid:after {
   clear: both;
 }
-
-p {
+'/*p {
   margin: 0 0 10px;
-}
+}*/
 
 .lead {
   margin-bottom: 20px;

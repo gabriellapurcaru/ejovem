@@ -3,8 +3,9 @@
 {menu}
 
 <div id="meio">
-<h3> <a href=""  title="Cosiderações iniciais"/> Initial considerations</a></h3>
- <div id="box-introducao">
+<h3> <a href="" title="Cosiderações iniciais"/> Initial considerations</a></h3>
+<div id="center">
+<div id="box-introducao">
 <div id="img-person">
     <img src="../../../imgs/e12.png"/>
 </div>
@@ -27,7 +28,7 @@ Bons estudos!</p>
 </div>
 </div>
 
-
+</div>
 </div>
 <div id="rodape">
 	<div id="navegacao">

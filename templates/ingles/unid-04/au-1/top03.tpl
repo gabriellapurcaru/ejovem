@@ -3,8 +3,8 @@
 {menu}
 
 <div id="meio">
-<h3>   <a href=""  title="Falando sobre gostos e desgostos "/>  TALKING ABOUT LIKES AND DISLIKES </a></h3>
-
+<h3><a href=""  title="Falando sobre gostos e desgostos "/>  TALKING ABOUT LIKES AND DISLIKES </a></h3>
+<div id="center">
 <div id="boxDigitacao">
     <div class="item">
         Nesta  lição,  aprenderemos 
@@ -28,6 +28,7 @@ negativo e interrogativo.
 </div>    
 </div>
 
+</div>
 </div>
 <div id="rodape">
 	<div id="navegacao">

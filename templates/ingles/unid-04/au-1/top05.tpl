@@ -4,11 +4,9 @@
 
 <div id="meio">
 <h3>   <a href=""  title="Foco na Gramatica"/>  GRAMMAR FOCUS  </a></h3>
-
-
 <div id="center">
 
-<div id="box-atividade">
+<div id="box-esquerda">
 <div class="ba-esq">
     <div class="ba-balao">
         <p>Em inglês, os verbos mais 
@@ -21,7 +19,9 @@ lado:</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>
+</div>
 
+<div id="box-direita">
 <div id="explicacao">
 <div id="demo-tabs">
 
@@ -50,8 +50,6 @@ She certainly will enjoy her trip to Spain. (Ela certamente
 adorará sua viagem à Espanha)</p>
 </div>
 
-
-</div>
 
 </div>
 </div>

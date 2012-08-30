@@ -21,7 +21,6 @@
 <div id="box-direita">
 
 </div>
-</div>
 
 </div>
 </div>

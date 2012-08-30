@@ -4,9 +4,11 @@
 
 <div id="meio">
 <h3> <a href="" title="Foco na Gramatica" />Grammar Focus</a></h3>
-
+<div id="center">
+	
 <embed height="100%" width="100%" name="plugin" src="../../../ingles/unid04/au1/video/digtela08.swf" type="application/x-shockwave-flash" />
 
+</div>
 </div>	
 <div id="rodape">
 	<div id="navegacao">

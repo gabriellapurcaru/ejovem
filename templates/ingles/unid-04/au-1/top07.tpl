@@ -5,7 +5,7 @@
 <div id="meio">
 <div id="center">
 
-<div id="box-atividade">
+<div id="box-esquerda">
 <div class="ba-esq">
     <div class="ba-balao">
         <p>Clique nas palavras 
@@ -16,7 +16,9 @@ com do, does e did.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>
+</div>
 
+<div id="box-direita">
 <div id="explicacao">
 <div id="demo-tabs">
 

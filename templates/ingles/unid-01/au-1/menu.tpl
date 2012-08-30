@@ -45,11 +45,11 @@
 			<h5>Meus Amigos</h5>
 			<div class="curso01">
 				<div class="img"><img src="../../../imgs/personagem_info.jpg"/></div>
-				<div class="nome_curso"><h5>Davi da Informática</h5></div>
+				<div class="nome_curso">Davi da Informática</div>
 			</div>
 			<div class="curso02">
 				<div class="img"><img src="../../../imgs/personagem_ptps.jpg"/></div>
-				<div class="nome_curso"><h5>João do PTPS</h5></div>			
+				<div class="nome_curso">João do PTPS</div>			
 			</div>
 		</div>
 </div>	

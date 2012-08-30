@@ -27,9 +27,9 @@
 <td><img src="img/img02.png"/></td>
 </tr>
 <tr>
-<td><a href="#" title="Documentário">Documentary</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-<td><a href="#" title="Realite Show">Reality Show</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
-<td><a href="#" title="Novos Programas">News program</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Documentário">Documentary</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Realite Show">Reality Show</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+<td><a href="#" title="Novos Programas">News program</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
 <td><img src="img/img02.png"/></td>
@@ -37,9 +37,9 @@
 <td><img src="img/img02.png"/></td>
 </tr>
 <tr>
-<td><a href="#" title="Novela">Soap Opera</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-<td><a href="#" title="Filme de Terror">Horror movie</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
-<td><a href="#" title="Comédia">Comedy</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Novela">Soap Opera</a> <br/><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Filme de Terror">Horror movie</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+<td><a href="#" title="Comédia">Comedy</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 <td><img src="img/img02.png"/></td>
@@ -47,9 +47,9 @@
 <td><img src="img/img02.png"/></td>
 </tr>
 <tr>
-<td><a href="#" title="Ficção Científica">Science fiction</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
-<td><a href="#" title="Animação">Animation</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-<td><a href="#" title="Filme de Ação">Action Movie</a> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Ficção Científica">Science fiction</a> <br/><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+<td><a href="#" title="Animação">Animation</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Filme de Ação">Action Movie</a> <br/><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 </tdead>
 </table>
