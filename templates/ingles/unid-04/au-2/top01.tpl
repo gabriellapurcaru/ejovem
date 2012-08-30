@@ -1,14 +1,18 @@
 {topo}
+{tituloAula}
 {menu}
 
 <div id="meio">
-<h3>introduction</h3>
- <div id="boxDigitacao">
+<h3><a href="#" title="Introdução">Introduction </a></h3>
+ 
+<div id="boxDigitacao">
     <div class="item">
-      Hello! Na aula passada reforçamos nossos estudos sobre como fazer um diálogo, aprendemos o alfabeto e como soletrar uma palavra, além também de conhecermos palavras novas. Nesta aula vamos aprender sobre os números.
-Os números apresentam um papel importante em nossas vidas. Sempre vivemos rodeados por eles e os utilizamos a todo instante. Com eles podemos executar as tarefas mais simples do dia-a-dia, tais como, contar nosso dinheiro, ordenar uma fila, expressar códigos, resolver problemas etc.
-Nessa lição, aprenderemos, principalmente, como utilizar e identificar os números e suas funções, em diferentes contextos. Vale lembrar que nesta lição, entretanto, concentraremos nossos esforços no aprendizado dos números cardinais e ordinais
-
+        Hello! Bem vindo a mais uma lição, 
+você agora irá aprender a falar de 
+maneira prática e simplificada sobre 
+os membros da família, o caso 
+possessivo e o uso dos pronomes 
+substantivos e adjetivos. Ready?
     </div> 
 </div>
 
@@ -20,6 +24,7 @@ Nessa lição, aprenderemos, principalmente, como utilizar e identificar os núm
     </div>
 </div>    
 </div>
+
 
 
 </div>
