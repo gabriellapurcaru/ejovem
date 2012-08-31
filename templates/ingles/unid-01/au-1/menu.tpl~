@@ -35,7 +35,7 @@
 		</div>
 		
 		<div id="box-cursos">
-			<h5>Amigos</h5>
+			<h5>Meus Amigos</h5>
 			<div class="curso01">
 				<div class="img"><img src="../../../imgs/personagem_info.jpg"/></div>
 				<div class="nome_curso">Davi da <span style="font-size:11px;">Informática</span></div>
