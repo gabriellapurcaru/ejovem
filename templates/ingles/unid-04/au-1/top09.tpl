@@ -17,9 +17,8 @@
 
 <div id="box-direita">
 <div id="explicacao">
-	<div id="atividade02">
 		<p>Animação ou imagem</p>
-	</div>
+	
 </div>
 </div>
   

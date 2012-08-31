@@ -390,7 +390,6 @@ div#video .video .legenda-video{font-size: 10px;font-style: italic;padding: 0 0 
 
 
 /* */
-div#gallery{width: 100%;float:left;}
 ul#palavras_cruzada {padding:0 130px 0px 210px; width: 500px;float:left;}
 .palavras_cruzada {float: left;list-style: none outside none;width: 50px;}
 
@@ -459,3 +458,6 @@ div#rede .foto_bia{border: 1px solid #FFFFFF;float: left;height: 57px;width: 60p
 div#rede .bia_texto{float: right;width: 670px;}
 div#rede .bia_texto p.bia_diz{font-weight: bold;}
 
+#gallery {background-color: #fff;padding: 1px;width:width: 96%;margin-bottom: 20px;}
+#gallery ul {list-style: none;}
+#gallery ul li {display: inline;background-image: none;}

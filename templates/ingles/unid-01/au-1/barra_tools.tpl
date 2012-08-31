@@ -1,4 +1,4 @@
-<div id="rodape">
+<div class="navbar-inner">
 <div id="links_menu">
 <div class="link">
 	<a href="img/impresso.odt"><img src="../../../imgs/icone_pdf.png"/></a>
