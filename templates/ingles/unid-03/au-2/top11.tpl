@@ -38,7 +38,8 @@ Agora, vamos aprender como dizer os meses do ano em inglês.
 
 </div>
 </div>	
-<div id="rodape">
+
+{barra_tools}
 	<div id="navegacao">
 		<a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 11 de 17</span>

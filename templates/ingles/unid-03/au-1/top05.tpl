@@ -28,7 +28,8 @@ Por isso, é indispensável que se preste bastante atenção às atividades de c
 
 </div>
 </div>
-<div id="rodape">
+
+{barra_tools}
 	<div id="navegacao">
 		<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 5 de 14</span>

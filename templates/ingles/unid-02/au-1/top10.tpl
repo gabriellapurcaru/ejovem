@@ -16,7 +16,7 @@
 
 <div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique para ver os exemplos<span></div>
 <div class="panel">
-
+<h6>Passe o mouse sobre as frase</h6>
 <table class="table table-striped">
 <tdead>
 <tr><td><a href="#" title="O Paulo é meu melhor amigo.">Paul is my best friend</a></td></tr>
@@ -30,7 +30,7 @@
 
 </div>	
 </div>	
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 10 de 15</span>

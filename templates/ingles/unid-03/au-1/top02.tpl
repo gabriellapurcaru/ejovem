@@ -4,7 +4,7 @@
 
 
 <div id="meio">
-<h3><a href="" title="Introdução"> Introduction </a></h3>
+<h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 <div id="center">
 
 <div id="boxDigitacao">
@@ -26,7 +26,8 @@ Antes de iniciarmos a unidade 03 propriamente dita, faremos uma pequena revisão
 
 </div>
 </div>
-<div id="rodape">
+
+{barra_tools}
 <div id="navegacao">
 <a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 2 de 14</span>

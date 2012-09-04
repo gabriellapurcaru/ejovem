@@ -3,10 +3,14 @@
 {menu}
 
 <div id="meio">
+<h3><a href="#" title="Praticando">Practicing</a></h3>
 
-Atividade a  ser repensada...
+<div id="center">
+
 </div>
-<div id="rodape">
+</div>
+
+{barra_tools}
 	<div id="navegacao">
 		<a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 6 de 10</span>

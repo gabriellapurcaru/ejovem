@@ -25,7 +25,8 @@
 
 </div>
 </div>
-<div id="rodape">
+
+{barra_tools}
 <div id="navegacao">
 <a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 2 de 9</span>

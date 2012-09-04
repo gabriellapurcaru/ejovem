@@ -16,7 +16,7 @@
 
 <div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique aqui para ver os exemplos<span></div>
 <div class="panel">
-
+<h6>Passe o mouse sobre as frase</h6>
 <table class="table table-striped">
 <tdead>
 <tr>
@@ -33,7 +33,7 @@
 
 </div>
 </div>	
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 9 de 15</span>

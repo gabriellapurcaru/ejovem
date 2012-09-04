@@ -4,19 +4,21 @@
 
 
 <div id="meio">
-
-
-<h3><a href="#" title="Pratica"> Pratice</a></h3>
-
+<h3><a href="#" title="Praticando">Praticing</a></h3>
+<div id="center">
+	
+<div id="box-esquerda">
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
     <p>Explicação</p>
     </div>
     <div id="box-explicacao-tabela-img">
-        <img src="../../../imgs/e09.png"/>    
+        <img src="../../../imgs/e17.png"/>    
     </div>
 </div>
+</div>
 
+<div id="box-direita">
 <div id="box-explicacao-tabela-left">
 	<table width="100%">
 		<tbody>
@@ -24,9 +26,12 @@
 		</tbody>
 	</table>
 </div>
+</div>
 
 </div>
-<div id="rodape">
+</div>
+
+{barra_tools}
 	<div id="navegacao">
 		<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 2 de 10</span>

@@ -3,9 +3,9 @@
 {menu}
 
 <div id="meio">
-
-<h3><a href="#" title="Introdução">Introduction</a></h3>
-
+<h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
+<div id="center">
+	
 <div id="boxDigitacao">
     <div class="item">
       Hello! 
@@ -23,20 +23,14 @@ Nessa lição, além de uma breve revisão do conteúdo apresentado na unidade 3
 </div>    
 </div>
 
-
-
-
 </div>
-<div id="rodape">
+</div>
+
+{barra_tools}
 	<div id="navegacao">
 		<span>Página 1 de 10</span>
 		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 </div>
-
-<?php 
-include_once '../contaArqs.php';
-$pag = 1;
-?>
 	
 {rodape}

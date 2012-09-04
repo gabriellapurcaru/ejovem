@@ -21,7 +21,8 @@
 
 </div>
 </div>	
-<div id="rodape">
+
+{barra_tools}
 	<div id="navegacao">
 		<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 13 de 14</span>

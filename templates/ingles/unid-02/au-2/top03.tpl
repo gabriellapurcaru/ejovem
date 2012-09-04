@@ -26,7 +26,8 @@ No entanto, quando nos dirigimos a alguém que possui um prestígio social mais 
 
 </div>
 </div>
-<div id="rodape">
+
+{barra_tools}
 <div id="navegacao">
 <a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 3 de 9</span>

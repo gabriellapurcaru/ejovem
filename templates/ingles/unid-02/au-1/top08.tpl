@@ -3,30 +3,66 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Conclusão">Conclusion</a></h3>
-
+<h3><a href="#" title="Pronome Pessoal">Personal Pronouns</a></h3>
 <div id="center">
-<div id="box-center-conclusao">
-    <div id="box-esq">
-        <div class="box-person">
-<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">   
-        </div>
-    </div>
-    <div id="box-dir">
-	<div id="texto">
-	<p>Nessa atividade estudamos os pronomes de tratamento, assim como novas palavras que nos ajudaram a nos comunicar em inglês. </p>
-	<p>Até breve!, Bye!</p>
 
+	<div id="box-esquerda">
+	<div class="ba-esq">
+	    <div class="ba-balao">
+	        <p>A correspondência com os pronomes em português é apresentada na tabela ao lado.</p>
+	    </div>
+	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>
-    </div>
-</div>
-</div>
+	</div>
 
+	<div id="box-direita">
+	<div id="box-explicacao-video-animacao">
+		<table class="table table-striped">
+		<tdead>
+		<tr>
+			<td><b>I</b></td>
+			<td><b>You</b></td>
+			<td><b>He</b></td>
+		</tr>
+		<tr>
+			<td>Eu</td>
+			<td>Você, tu</td>
+			<td>Ele</td>
+		</tr>
+		<tr>
+			<td><b>She</b></td>
+			<td><b>It</b></td>
+			<td><b>We</b></td>
+		</tr>
+		<tr>
+			<td>Ela</td>
+			<td>Ele/Ela (Neutro)</td>
+			<td>Nós</td>
+		</tr>
+		<tr>
+			<td><b>You</b></td>
+			<td><b>They</b></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Vocês, Vós</td>
+			<td>Eles, Elas (Neutro)</td>
+			<td></td>
+		</tr>
+		</tdead>
+		</table>
+	
+	</div>
+	</div>
+	
+
+</div>
 </div>	
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
-<a href="top14.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 15 de 15</span>
+<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 8 de 15</span>
+<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>
 

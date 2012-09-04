@@ -33,23 +33,16 @@
 				<div class="texto_menu"><a href="gramatica.php">Gramática</a></div>
 			</div>
 		</div>
-		<div id="links_menu">
-			<div class="link">
-				<a href="img/impresso.odt"><img src="../../../imgs/icone_pdf.png"/></a>
-			</div>	
-			<div class="link">
-				<a href="midias.php"><img src="../../../imgs/iconefotos.png"/></a>
-			</div>
-		</div>
+
 		<div id="box-cursos">
-			<h5>Meus Amigos</h5>
+			<h5>Amigos</h5>
 			<div class="curso01">
 				<div class="img"><img src="../../../imgs/personagem_info.jpg"/></div>
-				<div class="nome_curso"><div class="nome_curso">Davi da Informática</div></div>
+				<div class="nome_curso">Davi da <span style="font-size:11px;">Informática</span></div>
 			</div>
 			<div class="curso02">
 				<div class="img"><img src="../../../imgs/personagem_ptps.jpg"/></div>
-				<div class="nome_curso"><div class="nome_curso">João do PTPS</div></div>			
+				<div class="nome_curso">João do PTPS</div>			
 			</div>
 		</div>
 </div>	

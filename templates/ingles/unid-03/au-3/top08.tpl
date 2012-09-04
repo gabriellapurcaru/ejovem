@@ -3,11 +3,10 @@
 {menu}
 
 <div id="meio">
-
-
-  
-<h3> BOX EXPLICAÇÃO</h3>
-
+<h3><a href="#" title="Aula em vídeo">Video lesson</a></h3>
+<div id="center">
+	
+<div id="box-esquerda">	
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
     <p>Vamos fazer uma revisão do que aprendemos?
@@ -15,10 +14,12 @@ O dialogo irá mostrar como se faz uma reserva de hotel, leia e escute, depois t
 </p>
     </div>
     <div id="box-explicacao-tabela-img">
-        <img src="../../../imgs/e09.png"/>    
+        <img src="../../../imgs/e17.png"/>    
     </div>
 </div>
+</div>
 
+<div id="box-direita">
 <div id="box-explicacao-tabela-left">
 	<table width="100%">
 		<tr>
@@ -92,10 +93,12 @@ O dialogo irá mostrar como se faz uma reserva de hotel, leia e escute, depois t
           </tr>
 	</table>
 </div>
+</div>
 
-
+</div>
 </div>	
-<div id="rodape">
+
+{barra_tools}
 	<div id="navegacao">
         <a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>  
 		<span>Página 8 de 10</span>

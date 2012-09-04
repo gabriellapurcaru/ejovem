@@ -3292,9 +3292,9 @@ a.label:hover,a.badge:hover{color:#fff;text-decoration:none;cursor:pointer}
 
 
 
-.label-info,.badge-info{background-color:#3a87ad} 
+.label-info,.badge-info{background-color:#3a87ad;} 
 
-
+.label-info a{color:#fff;}
 
 .label-info[href],.badge-info[href]{background-color:#2d6987} 
 

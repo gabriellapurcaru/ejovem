@@ -4,9 +4,8 @@
 
 
 <div id="meio">
-
-
-<h3><a href="#" title="Leia Mais "> Learn More</a></h3>
+<h3><a href="#" title="Saiba Mais "> Learn More</a></h3>
+<div id="center">
 
 <div id="box-center-saiba-mais">
     <div id="box-esq">
@@ -23,7 +22,9 @@
 </div>
 
 </div>
-<div id="rodape">
+</div>
+
+{barra_tools}
 	<div id="navegacao">
 		<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 9 de 10</span>

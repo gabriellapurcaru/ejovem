@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Iniciando">Introducing</a></h3>
+<h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
@@ -26,7 +26,7 @@
 
 </div>	
 </div>	
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 5 de 15</span>

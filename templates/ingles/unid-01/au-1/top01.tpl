@@ -27,8 +27,6 @@
 	<p><b>Let's go!</b></p>
 </div>
 </div>
-
-
 </div>
 </div>
 

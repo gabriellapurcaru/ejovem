@@ -4,11 +4,9 @@
 
 
 <div id="meio">
-
-
-<a href="#" title="Falando sobre a origem">  Talking About Origin </a>
-<br /><br /><br />
-
+<h3><a href="#" title="Aula em vídeo">Video lesson</a></h3>
+<div id="center">
+	
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
@@ -29,9 +27,10 @@
     </div>
 </div>
 
-
 </div>
-<div id="rodape">
+</div>
+
+{barra_tools}
 	<div id="navegacao">
 		<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 5 de 10</span>

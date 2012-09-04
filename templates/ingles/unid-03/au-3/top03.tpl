@@ -4,10 +4,14 @@
 
 
 <div id="meio">
+<h3><a href="#" title="Praticando">Praticing</a></h3>
 
+<div id="center">
 
 </div>
-<div id="rodape">
+</div>
+
+{barra_tools}
 	<div id="navegacao">
 		<a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 3 de 10</span>
