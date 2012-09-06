@@ -13,10 +13,24 @@
     	<link href="../../../css/bootstrap/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" media="screen,projection" />
 
 	
-	<script type="text/javascript" src="../../../js/bootstrap/_bootstrap.js"></script>
-	<script type="text/javascript" src="../../../js/bootstrap/_bootstrap-min.js"></script>
-	<script type="text/javascript" src="../../../js/bootstrap/bootstrap-dropdown.js"></script>
-	<script type="text/javascript" src="../../../js/jquery.js"></script>
+	
+    <script src="../../../assets/js/jquery.js"></script>
+    <script src="../../../assets/js/google-code-prettify/prettify.js"></script>
+    <script src="../../../assets/js/bootstrap-transition.js"></script>
+    <script src="../../../assets/js/bootstrap-alert.js"></script>
+    <script src="../../../assets/js/bootstrap-modal.js"></script>
+    <script src="../../../assets/js/bootstrap-dropdown.js"></script>
+    <script src="../../../assets/js/bootstrap-scrollspy.js"></script>
+    <script src="../../../assets/js/bootstrap-tab.js"></script>
+    <script src="../../../assets/js/bootstrap-tooltip.js"></script>
+    <script src="../../../assets/js/bootstrap-popover.js"></script>
+    <script src="../../../assets/js/bootstrap-button.js"></script>
+    <script src="../../../assets/js/bootstrap-collapse.js"></script>
+    <script src="../../../assets/js/bootstrap-carousel.js"></script>
+    <script src="../../../assets/js/bootstrap-typeahead.js"></script>
+    <script src="../../../assets/js/bootstrap-affix.js"></script>
+    <script src="../../../assets/js/application.js"></script>
+
 	<script type="text/javascript" src="../../../js/swfobject.js"></script>	
 	<script type="text/javascript" src="../../../js/questionario.js"></script>	
 	<script type="text/javascript" src="../../../js/jquery-1.3.2.min.js"></script>                                                      	
