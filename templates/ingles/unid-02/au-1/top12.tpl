@@ -3,13 +3,13 @@
 {menu}
 
 <div id="meio">
-<h3>Grammar Focus</h3>
-
+<h3><a href="#" title="Foco na gramática">Grammar in Focus</a></h3>
 <div id="center">
+
 <div id="atividade">
 <p>Vamos colocar em prática o que aprendeu? Para isso observe as frase ao lado, e coloque-as  em ordem para formar o diálogo.</p>
-<div style="text-align:center;">
-	
+<div class="swf">
+	<embed width="750px" height="400" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>   
 </div>
 </div>
 </div>

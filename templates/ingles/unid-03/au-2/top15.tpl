@@ -8,7 +8,7 @@
 <div id="center">
 	
 <div id="atividade">
-	<h6>Let´s practice? Associe as datas à esquerda com suas formas por extenso à direita:</h6>
+	<h6>Let´s practice? </p><p>Associe as datas à esquerda com suas formas por extenso à direita:</h6>
 	<div style="margin-left:60px;">
 	<div id="MainDiv" class="StdDiv">
 	<div id="ClozeDiv">

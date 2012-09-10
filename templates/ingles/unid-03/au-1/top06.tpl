@@ -6,7 +6,7 @@
 <h3><a href="" title="Alfabeto">Alphabet</a></h3>
 <div id="center">
 
-<div id="atividade">
+<div id="explicacao">
 <div class="swf">
 	<embed width="650px" height="400px" name="plugin" src="../../../ingles/unid03/au1/video/alphastart.swf"  name="wmode" wmode="transparent" type="application/x-shockwave-flash" />
 </div>

@@ -6,18 +6,12 @@
 <h3><a href="#" title="Exercício de revisão">Exercise review</a></h3>
 <div id="center">
 
-<div id="box-esquerda">
-<div class="ba-esq">
-    <div class="ba-balao">
+<div id="atividade">
+
         <p>Maria está apresentando sua amiga Renata a Anderson. Renata é de Recife. Coloque as frases seguintes em ordem para formar uma conversa.</p>
-    </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-</div>
-</div>
 
-<div id="box-direita">
-<div id="explicacao">
-
+<div class="swf">
+<embed width="750px" height="400" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>  
 </div>
 </div>
 

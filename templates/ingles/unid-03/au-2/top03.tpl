@@ -8,7 +8,7 @@
 
 <div class="animacao">
 <h6>Os numerais são utilizados para qualificar os seres/objetos em termos numéricos, ou seja, para atribuir quantidade aos seres/objetos ou para situá-los em determinada sequência. Veja ao lado os tipos de numerais.</h6>
-<embed height="100%" width="100%" name="plugin" src="../../../ingles/unid03/au2/video/s01.swf" type="application/x-shockwave-flash" />
+<embed height="400px" width="650px" name="plugin" src="../../../ingles/unid03/au2/video/s01.swf" type="application/x-shockwave-flash" />
 </div>
 
 </div>

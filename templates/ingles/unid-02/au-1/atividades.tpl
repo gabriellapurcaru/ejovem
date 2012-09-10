@@ -1,96 +1,98 @@
 {topo}
+{tituloAula}
 {menu}
+
 <div id="meio">
+<h3><a href="#" title="Atividades">Activities</a></h3>
+<div id="center">
+<div class="tabbable">
+  <ul class="nav nav-tabs">
+    <li class="active"><a href="#tab1" data-toggle="tab">Atividade 01</a></li>
+	<li><a href="#tab2" data-toggle="tab">Atividade 02</a></li>
+  </ul>
+  <div class="tab-content">
+    <div class="tab-pane active" id="tab1">
+      	
+		<p>Vamos colocar em prática o que aprendeu? Para isso observe as frase ao lado, e coloque-as em ordem para formar o diálogo.</p>
+	<embed width="750px" height="400" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>  
 
-<h3>Atividade 01: Identificar as palavras em inglês presente no seu dia-a-dia</h3>
+	</div>
+	<div class="tab-pane" id="tab2">
+      	
+		<div id="explicacao">
+<script src="js/tela13.js" type="text/javascript"></script>	
+<table class="table table-striped" style="margin-bottom: 8px;">
+<tbody>
+<tr> 
+<td style="padding:2px;" width="39"> <div align="center"><strong> name’s</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> Hi</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> I’m </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> you </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> I’m </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> meet </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> you</strong></div></td>
 
-<div class="Block">
-<div class="Block-body">
-<div class="BlockContent">
-<div class="PostContent">
+</tr>
+</tbody> 
+</table>
+	<div id="MainDiv" class="StdDiv">
 
-<center>
-<div id="gallery">
-<div class="legenda">Clique nas imagens para amplia-las e depois escreva as palavras que você viu em Inglês em cada imagem.</div>
-<ul id="palavras_cruzada">
 
-	<li class="palavras_cruzada">
-		<a href="img/img1.png" title="Imagem 1">
-			<img src="img/icon1.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img2.png" title="Imagem 2">
-			<img src="img/icon2.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img3.png" title="Imagem 3">
-			<img src="img/icon3.png" width="40" height="40" alt="" />
-		</a>	
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img4.png" title="Imagem 4">
-			<img src="img/icon4.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img5.png" title="Imagem 5">
-			<img src="img/icon5.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img6.png" title="Imagem 6">
-			<img src="img/icon6.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img7.png" title="Imagem 7">
-			<img src="img/icon7.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img8.png" title="Imagem 8">
-			<img src="img/icon8.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-</ul>
-</div>
+	<div id="ClozeDiv">
+	<form style="margin:0px;"  id="Cloze" method="post" action="" onsubmit="return false;">
+	<div class="ClozeBody">
+	<b>A</b>: Hello, my <span class="GapSpan" id="GapSpan0"><input class="span1"  type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Roberto. <br />
+	<b>B</b>: <span class="GapSpan" id="GapSpan1"><input class="span1" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, Roberto, I'm Walter. <span class="GapSpan" id="GapSpan2"> 
+<input class="span1" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> from Rio de Janeiro. Where are <span class="GapSpan" id="GapSpan3"><input class="span1" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> from?<br />
+<b>A</b>: <span class="GapSpan" id="GapSpan4"><input class="span1"  type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> from S&#x00E3;o Paulo.<br />
+<b>B</b>: Nice to <span class="GapSpan" id="GapSpan5"><input class="span1" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> you.<br />
+<b>A</b>: Good to meet <span class="GapSpan" id="GapSpan6"><input class="span1" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> too. 
 
-<br/>                                                              
-<object width="550" height="250">
-	<param name="movie" value="img/atividade.swf"></param>
-	<param name="allowFullScreen" value="true"></param>
-	<param name="allowscriptaccess" value="always"></param>
-	<embed src="img/atividade.swf" type="application/x-shockwave-flash" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" width="550" height="250"></embed>
-</object>                                                                  
+<table class="table table-striped" style="margin-bottom: 8px;">
+<tbody>
+<tr> 
+<td style="padding:2px;" width="39"> <div align="center"><strong> I’m </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> your </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> I’m </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> Nice </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> meet</strong></div></td>
 
-</center>                                                                 
-</div>
-<div id="button-box">            
-<span class="button-wrapper">
-<span class="l"> </span>
-<span class="r"> </span>
+</tr>
+</tbody> 
+</table>
 
-</span>                                                             
-<span class="button-wrapper">
-<span class="l"> </span>
-<span class="r"> </span>
-</span>
-</div>
-</div>
-</div>
-</div>
-<h3>Atividade 02: Escutar o audio e procurar no quadro as palavra presentes no </h3>
 
-<p>Escute o audio e depois procure no quadro, as palavras que usamos no nosso dia a dia.</p> 
-<div id="caca-palavras">
-	<div id="audio"><embed src="../audio/faixa1.mp3" width="50" height="50" autostart="false" hiddn=”false”></embed></div>
-	<img src="img/e01.jpg"/>
-</div>
+<b>A</b>: Hi, <span class="GapSpan" id="GapSpan7"><input class="span1" type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Tatiana Santos. What's <span class="GapSpan" id="GapSpan8"><input class="span1" type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> name? <br />
+<b>B</b>: <span class="GapSpan" id="GapSpan9"><input class="span1" type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Carlos Santana. <br /><b>A</b>: <span class="GapSpan" id="GapSpan10"><input class="span1" type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> to meet you, Carlos. <br /><b>B</b>: Nice to <span class="GapSpan" id="GapSpan11"><input class="span1" type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> you too.
+	</div>
+	</form>
+	</div>
+
+	<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+	<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+	</div>
+
+
+
+	<div class="Feedback" id="FeedbackDiv">
+	<div class="FeedbackText" id="FeedbackContent"></div>
+	<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+	</div>
 	
+</div>
 
+	</div>
+		
+    </div>
+  </div>
+</div>
 
+</div>
+</div>	
+{barra_tools}
 
+<div id="navegacao">
+
+</div>
 
 {rodape}

@@ -15,7 +15,7 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, acesse o site http://www.eslfast.com/easydialogs/index.html, escolha um diálogo e o acompanhe através do áudio e texto.  Have fun! 
+	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, acesse o site http://www.eslfast.com/easydialogs/index.html, escolha um diálogo e o acompanhe através do áudio e texto. </p><p> Have fun! </p>
 	       </p> 
         </div>
     </div>

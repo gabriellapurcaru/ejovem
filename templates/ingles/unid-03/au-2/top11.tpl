@@ -20,14 +20,19 @@
 
 <div id="box-direita">
 <div id="box-explicacao-video-animacao">
-	<table width="100%">
+<h6>Passe o mouse sobre as frases.</h6>
+	<table class="table table-condensed">
 		<tbody>
-			<tr>Com relação às datas, em inglês, os dias do mês vão para forma ordinal.
-Exemplos:  
-On July 20th ou on the 20th of July (No dia 20 de julho)
-The English test will be on the 23rd. (A prova de ingles será no dia 23.)
-Bruno was born on March 10th. (O Bruno nasceu no dia 10 de março.)
-Agora, vamos aprender como dizer os meses do ano em inglês.
+			<tr>
+<td><a href="" title="No dia 20 de julho"> On July 20th ou on the 20th of July </a> </td>
+</tr>
+<tr>
+<td><a href="" title="O teste de Inglês será no dia 23."> The English test will be on the 23rd. </a> </td>
+</tr>
+<tr>
+<td><a href="" title="Bruno nasceu em 10 de março."> Bruno was born on March 10th. </a> </td>
+</tr>
+</td>
 </tr>
 		</tbody>
 	</table>
