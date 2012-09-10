@@ -19,7 +19,7 @@
     <div id="box-dir">
         <div id="box-dir-explicacao">
 	       
-       	<table width="100%">
+       	<table class="table">
 			<tbody>
 			<tr>
 		      <td>Hello, Hi</td>

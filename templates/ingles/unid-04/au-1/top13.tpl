@@ -3,9 +3,8 @@
 {menu}
 
 <div id="meio">
-
-<h3>  <a href=""  title="Leia Mais"/> Learm More </a></h3>
-
+<h3><a href=""  title="Saiba Mais"/> Learm More </a></h3>
+<div id="center">
 
 <div id="box-center-saiba-mais">
     <div id="box-esq">
@@ -27,12 +26,10 @@
 
 </div>
 </div>	
-<div id="rodape">
+{barra_tools}
 	<div id="navegacao">
 		<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 13 de 14</span>
 		<a href="top14.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
-</div>
-
 {rodape}

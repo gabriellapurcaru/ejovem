@@ -19,6 +19,7 @@
 </div>
 <div id="box-direita">
 <div id="explicacao">
+   <embed height="300px" width="430px" name="plugin" name="wmode" wmode="transparent"  src="swf/atividade01.swf" type="application/x-shockwave-flash" />
 	
 </div>
 </div>

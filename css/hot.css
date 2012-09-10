@@ -92,7 +92,7 @@ div.ExerciseText{
 }
 
 .FeedbackText, .FeedbackText span.CorrectAnswer, .FeedbackText span.Guess, .FeedbackText span.Answer{
-	color: #000000;
+	color: #3A87AD;
 }
 
 .LeftItem{
@@ -120,8 +120,8 @@ select{
 }
 
 div.Feedback {
-	background-color: #C0C0C0;
-	left: 33%;
+	background-color: #D9EDF7;
+	left: 38%;
 	width: 34%;
 	top: 37%;
 	z-index: 1;
@@ -129,10 +129,11 @@ div.Feedback {
 	border-width: 1px;
 	padding: 5px;
 	text-align: center;
-	color: #000000;
+	color: #3A87AD;
 	position: absolute;
 	display: none;
 	font-size: 100%;
+	border-color: #BCE8F1;
 }
 
 
