@@ -8,13 +8,16 @@
 <div id="center">
 
 <div id="atividade">
-<p>Usando as palavras do quadro abaixo, arraste-as formando 3 frases obedecendo essa sequência: </p>
+<h6>Usando as palavras do quadro abaixo, arraste-as formando 3 frases obedecendo essa sequência: <b>SUJEITO</b> + </b>VERBO</b> + <b>OBJETO</b></h6>
+<div class="swf">
+<embed width="650" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade02.swf" name="plugin"> </div>
+</div>
 </div>
 
 
 </div>
 </div>
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 5 de 6</span>

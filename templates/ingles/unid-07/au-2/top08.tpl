@@ -4,6 +4,7 @@
 
 <div id="meio">
 <h3><a href="#" title="Conclusão">Conclusion</a></h3>
+<div id="center">
 
 <div id="box-center-conclusao">
     <div id="box-esq">
@@ -20,8 +21,9 @@
     </div>
 </div>
 
+</div>
 </div>	
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 8 de 8</span>

@@ -62,7 +62,7 @@
 </div>
 
 </div>
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 6 de 9</span>

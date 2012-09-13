@@ -5,8 +5,8 @@
 <div id="meio">
 
 <h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
-
 <div id="center">
+
 <div id="box-introducao">
 <div id="img-person">
     <img src="../../../imgs/e12.png"/>
@@ -27,14 +27,14 @@
 	<p><b>Let's go!</b></p>
 </div>
 </div>
+</div>
+</div>
 
-</div>
-</div>
-<div id="rodape">
-	<div id="navegacao">
-		<span>Página 1 de 10</span>
-		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+{barra_tools}
+
+<div id="navegacao">
+	<span>Página 1 de 10</span>
+	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
 {rodape}
