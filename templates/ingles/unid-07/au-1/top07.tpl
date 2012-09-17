@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 <div id="meio">
-<h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
+<h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
 
 <div id="atividade">

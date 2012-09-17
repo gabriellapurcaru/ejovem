@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Pronome Pessoal">Personal Pronouns</a></h3>
+<h3><a href="#" title="Foco na gramática!">Grammar on focus</a></h3>
 <div id="center">
 
 	<div id="box-esquerda">

@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
+<h3><a href="#" title="Foco na gramática!">Grammar on focus</a></h3>
 <div id="center">
 
 <div class="alert alert-success">
