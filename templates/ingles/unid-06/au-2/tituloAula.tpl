@@ -1,2 +1,3 @@
-<div class="titulo-unidade-aula">Unit 1. Getting Ready For The Course </div>
-<div class="titulo-modulo-aula">Lesson 02 - Reading Strategies</div>
+<div class="titulo-unidade-aula">Unit 6 - Talking About Likes, Needs And Wants</div>
+<div class="titulo-modulo-aula">Lesson 02 - Saying what you like, need and want to do</div>
+

@@ -33,7 +33,7 @@
 				<div class="texto_menu"><a href="gramatica.php">Gramática</a></div>
 			</div>
 		</div>
-		
+
 		<div id="box-cursos">
 			<h5>Amigos</h5>
 			<div class="curso01">

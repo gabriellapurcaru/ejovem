@@ -464,7 +464,7 @@ h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:normal;line-he
 
 
 
-h1{font-size:36px;line-height:40px} 
+h1{font-size:16px;line-height:40px} 
 
 
 
@@ -476,7 +476,7 @@ h3{font-size:18px;line-height:40px}
 
 
 
-h4{font-size:18px;line-height:20px} 
+h4{font-size:18px;line-height:20px;color:#4AA1BD;} 
 
 
 
@@ -652,7 +652,7 @@ label{display:block;margin-bottom:5px}
 
 
 
-select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="color"],.uneditable-input{display:inline-block;height:20px;padding:4px 6px;margin-bottom:9px;font-size:14px;line-height:20px;color:#555;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px} 
+select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="color"],.uneditable-input{display:inline-block;height:15px;padding:4px 6px;margin-bottom:5px;font-size:14px;line-height:15px;color:#555;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px} 
 
 
 
@@ -1080,7 +1080,7 @@ table{max-width:100%;background-color:transparent;border-collapse:collapse;borde
 
 
 
-.table th,.table td{padding:8px;line-height:20px;text-align:left;vertical-align:top;border-top:1px solid #ddd} 
+.table th,.table td{padding:8px;line-height:20px;text-align:left;vertical-align:top;border-top:1px solid #ddd;} 
 
 
 
@@ -2348,7 +2348,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 
 
 
-.nav{margin-bottom:20px;margin-left:0;list-style:none} 
+.nav{margin-bottom:5px;margin-left:0;list-style:none} 
 
 
 
