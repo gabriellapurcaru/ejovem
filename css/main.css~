@@ -37,7 +37,7 @@ a:hover{text-decoration:underline;}
 
 h1{background:#EDEDED;border: 1px solid #999999;font-size: 14px;margin: 0;padding:3px 5px;}
 
-h3{text-align:left; padding: 0 0 0 15px;width: 91%;}
+h3{text-align:left; padding: 0 0 0 15px;}
 h3 a{color: #4AA1BD;font-size: 26px;font-weight: normal;}
 
 div#meio p.quadro{border: 1px solid #999999;margin: 0 0 10px;;padding: 10px;}
