@@ -18,12 +18,12 @@
 
 <div id="box-direita">
 <table class="table table-striped">
-<tr>
-<th>Verbo auxiliar</td>
-<th>Sujeito</td>
-<th>Verbo principal</td>
-<th>Complemento</td>
-</tr>
+<th>
+<td>Verbo auxiliar</td>
+<td>Sujeito</td>
+<td>Verbo principal</td>
+<td>Complemento</td>
+</th>
 <tr>
 <td>Do</td>
 <td>you</td>

@@ -27,7 +27,7 @@ img{border:0px;}
 	background-position: right top;
 }
 
-p.titulo{color: #006666; width: 100%; float: left;font-size: 16px;}
+p.titulo{color: #666; margin-left: 24px;float: left;font-size: 12px;}
 
 a{color:#0174A7;text-decoration:none;}
 a:hover{text-decoration:underline;}
@@ -335,6 +335,7 @@ div#atividade{
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);width: 97%;}
 
 div#atividade .quadro{border: 1px solid #2C2C2C;font-weight: bold;margin: 0 auto;padding: 10px;width: 300px;}
+table.padrao{width:90%; max-width: 90%;border: 1px solid #2C2C2C;padding:2px;margin:0px 0px 3px 0px;}
 
 /* Box Exemplo */
 div#box-exemplo{margin:10px 0px;float: left;}
@@ -464,7 +465,7 @@ div#vocabulario #box-dir table {float: right;width: 250px;}
 
 div#rede{background-color: #2C2C2C;border: 1px solid #000000;color: #FFFFFF;float: left;width: 100%;}
 div#rede .foto_bia{border: 1px solid #FFFFFF;float: left;height: 57px;width: 60px;}
-div#rede .bia_texto{float: right;width: 670px;}
+div#rede .bia_texto{float: right;width:695px;}
 div#rede .bia_texto p.bia_diz{font-weight: bold;}
 
 #gallery {background-color: #fff;padding: 1px;width:width: 96%;margin-bottom: 20px;}

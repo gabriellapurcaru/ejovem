@@ -652,7 +652,7 @@ label{display:block;margin-bottom:5px}
 
 
 
-select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="color"],.uneditable-input{display:inline-block;height:15px;padding:4px 6px;margin-bottom:5px;font-size:14px;line-height:15px;color:#555;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px} 
+select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="color"],.uneditable-input{display:inline-block;height:20px;padding:4px 6px;margin-bottom:5px;font-size:14px;line-height:20px;color:#555;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px} 
 
 
 
@@ -1080,7 +1080,7 @@ table{max-width:100%;background-color:transparent;border-collapse:collapse;borde
 
 
 
-.table th,.table td{padding:8px;line-height:20px;text-align:left;vertical-align:top;border-top:1px solid #fff} 
+.table th,.table td{padding:5px;line-height:20px;text-align:left;vertical-align:top;border-top:1px solid #ddd;} 
 
 
 
@@ -1148,7 +1148,7 @@ table{max-width:100%;background-color:transparent;border-collapse:collapse;borde
 
 
 
-table [class*=span],.row-fluid table [class*=span]{display:table-cell;float:none;margin-left:0} 
+table [class*=span],.row-fluid table [class*=span]{/*display:table-cell;*/float:none;margin-left:0} 
 
 
 
@@ -2144,7 +2144,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 
 
 
-.btn-group{position:relative;*margin-left:.3em;font-size:0;white-space:nowrap} 
+.btn-group{position:relative;*margin-left:.3em;font-size:0;white-space:nowrap;float:left;} 
 
 
 

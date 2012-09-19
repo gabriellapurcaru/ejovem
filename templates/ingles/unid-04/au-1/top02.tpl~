@@ -35,6 +35,7 @@ is - 5:10 a.m - know - is - speak - is - did - is
 <b>B</b>: Do you <span class="GapSpan" id="GapSpan4"><input class="span1" type="text" id="Gap4" onFocus="TrackFocus(4)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> what time <span class="GapSpan" id="GapSpan5"><input class="span1" type="text" id="Gap5" onFocus="TrackFocus(5)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> it? Sure. It&#x00B4;s 17:10.<br />
 <b>A</b>: What <span class="GapSpan" id="GapSpan6"><input class="span1" type="text" id="Gap6" onFocus="TrackFocus(6)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> you say? <br />
 <b>B</b>: I said it&#x00B4;s <span class="GapSpan" id="GapSpan7"><input class="span1" type="text" id="Gap7" onFocus="TrackFocus(7)" onBlur="LeaveGap()" class="GapBox" size="7"></input></span> <br />
+<b>A</b>: Thanks.
 </div>
 </form>
 </div>

@@ -27,7 +27,7 @@ img{border:0px;}
 	background-position: right top;
 }
 
-p.titulo{color: #006666; width: 100%; float: left;font-size: 16px;}
+p.titulo{color: #666; margin-left: 24px;float: left;font-size: 12px;}
 
 a{color:#0174A7;text-decoration:none;}
 a:hover{text-decoration:underline;}
@@ -299,7 +299,7 @@ ul.degrade li a:hover {
 
 p.cabecario{color: #006666; width: 100%; float: left;font-size: 16px;margin:5px 0px;}
 p.explica{margin:0px;font-size:11px;}
-p{margin: 5px 0;}
+
 div#boxExplicacao{margin: 0 auto;width: 450px;}
 div#boxExplicacaoTexto{background: #F2F4BD;border-radius: 85px 85px 85px 85px;height: 223px;padding:18px 25px 0;width: 300px;   }
 div#boxExplicacaoImg{float: left;width: 100%;}
@@ -335,6 +335,7 @@ div#atividade{
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);width: 97%;}
 
 div#atividade .quadro{border: 1px solid #2C2C2C;font-weight: bold;margin: 0 auto;padding: 10px;width: 300px;}
+table.padrao{width:90%; max-width: 90%;border: 1px solid #2C2C2C;padding:2px;margin:0px 0px 3px 0px;}
 
 /* Box Exemplo */
 div#box-exemplo{margin:10px 0px;float: left;}
