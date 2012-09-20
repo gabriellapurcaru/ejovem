@@ -11,20 +11,15 @@
 </div>
 
 <div id="texto">
-	<p>Na unidade passada, aprendemos o alfabeto em 
-inglês,  como  dizer  os  números  ordinais  e 
-cardinais, as datas e meses do ano, além de como 
-prestar  informações  pessoais  a  nosso  respeito, 
-como  por  exemplo,  nosso  número  de  telefone, 
-idade, número de documentos, endereço etc.
-Nesta  unidade,  falaremos  sobre  como  emitir 
-opiniões em inglês, expressar gostos, preferências 
-e veremos também, de forma simplificada, como 
-exprimir  o  que  sentimos  e  pensamos  a  respeito 
-dos membros de nossas famílias e entes queridos.
-Além disso, faremos uma breve revisão acerca do 
-conteúdo visto nas unidades passadas.
-Bons estudos!</p>
+	<p>Na unidade passada, aprendemos o alfabeto em inglês,  como  dizer  os  números  ordinais  e 
+cardinais, as datas e meses do ano, além de como prestar  informações  pessoais  a  nosso  respeito, 
+como  por  exemplo,  nosso  número  de  telefone, idade, número de documentos, endereço, etc.</p>
+<p>Nesta  unidade,  falaremos  sobre  como  emitir opiniões em inglês, expressar gostos, preferências 
+e veremos também, de forma simplificada, como exprimir  o  que  sentimos  e  pensamos  a  respeito 
+dos membros de nossas famílias e entes queridos.</p>
+<p>Além disso, faremos uma breve revisão acerca do 
+conteúdo visto nas unidades passadas.</p>
+<p><span class="label label-info"><a class="" href="#" title="Bons estudos!">Good studies!</a></span></p>
 </div>
 </div>
 

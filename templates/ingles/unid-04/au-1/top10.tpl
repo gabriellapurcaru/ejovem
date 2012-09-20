@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href=""  title="Exercitando"/>  Exercising </a></h3>
+<h3><a href=""  title="Exercitando">Exercising </a></h3>
 <div id="center" style="padding-top: 0px;">
 	
 <div id="ClozeDiv">
@@ -11,7 +11,7 @@
 <div class="ClozeBody">
 	<script src="js/tela_10.js" type="text/javascript"></script>
 	<h6><a href=""  title="Change these sentences to negative."/>Passe as frase para a forma negativa.</a></h6>
-	<table class="table table-bordered">
+	<table class="table table-bordered" >
 	<tdead>
 	<tr>
 		<td>1. I went to the cinema yesterday</td>

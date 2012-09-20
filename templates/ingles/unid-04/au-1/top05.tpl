@@ -9,20 +9,14 @@
 <div id="box-esquerda">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Em inglês, os verbos mais 
-utilizados para expressar 
-gostos e preferências são 
-o enjoy e o like. Veja como 
-eles podem ser ultilizados, 
-clique nas palavras ao 
-lado:</p>
+        <p>Em inglês, os verbos mais utilizados para expressar gostos e preferências são o enjoy e o like. </p>
+		<p>Veja como eles podem ser ultilizados, clique nas palavras ao lado:</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>
 </div>
 
 <div id="box-direita">
-<div id="explicacao">
 <div id="demo-tabs">
 
 <ul>
@@ -30,28 +24,23 @@ lado:</p>
 <li><a href="#tabs-2">Enjoy</a></li>
 </ul>
 
-<div id="tabs-1">
-<p>
-                                          
-<strong>Like:</strong> significa gostar, apreciar algo concreto ou abstrato.
-Exemplos:
-Sam likes ice-cream. (O Sam gosta de sorvete)
-Would you like to go hiking next Sunday? (Você gostaria de
-fazer uma excursão- a pé- no próximo domingo?)</p>
+<div id="tabs-1">                                          
+<h4>Significa gostar, apreciar algo concreto ou abstrato. </h4>
+
+<p><span class="label label-info"><a title="O Sam gosta de sorvete" href="#" class="">Sam likes ice-cream.</a></span></p> 
+<p><span class="label label-info"><a title="Você gostaria de
+fazer uma excursão a pé no próximo domingo?" href="#" class="">Would you like to go hiking next Sunday?</a></span></p> 
 </div>
 
 <div id="tabs-2">
-<p>
-<strong>Enjoy:</strong> quer dizer gostar, apreciar, desfrutar algo abstrato
-ou semi-abstrato
-Exemplos:
-Did you enjoy the beach? (Você gostou da praia?)
-She certainly will enjoy her trip to Spain. (Ela certamente
-adorará sua viagem à Espanha)</p>
-</div>
-
+<h4>Quer dizer gostar, apreciar, desfrutar algo abstrato
+ou semi-abstrato</h4>
+<p><span class="label label-info"><a title="Ela certamente
+adorará sua viagem à Espanha" href="#" class="">She certainly will enjoy her trip to Spain.</a></span></p> 
+<p><span class="label label-info"><a title="Você gostou da praia?" href="#" class="">Did you enjoy the beach?</a></span></p> 
 
 </div>
+
 </div>
 </div>
 

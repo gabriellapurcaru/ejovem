@@ -6,8 +6,8 @@
     	<link href="../../../css/abas-tabela.css" media="all" type="text/css" rel="stylesheet">
     	<link href="../../../css/style.css" media="all" type="text/css" rel="stylesheet">
     	<link href="../../../css/hot.css" media="all" type="text/css" rel="stylesheet">
+		<link href="../../../css/bootstrap/docs.css" media="all" type="text/css" rel="stylesheet">
     	<link href="../../../css/jquery.ennui.contentslider.css" rel="stylesheet" type="text/css" media="screen,projection" />
-    	<!--<link href="../../../css/bootstrap/bootstrap.css" rel="stylesheet" type="text/css" media="screen,projection" />-->
     	<link href="../../../css/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen,projection" />
     	<link href="../../../css/bootstrap/bootstrap-responsive.css" rel="stylesheet" type="text/css" media="screen,projection" />
     	<link href="../../../css/bootstrap/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" media="screen,projection" />

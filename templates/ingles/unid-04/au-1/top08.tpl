@@ -3,10 +3,10 @@
 {menu}
 
 <div id="meio">
-<h3><a href=""  title="Foco na Gramatica"/>Grammar in focus</a></h3>
+<h3><a href="" title="Foco na Gramatica">Grammar in focus</a></h3>
 <div id="center">
-	
-<embed height="100%" width="100%" name="plugin" src="../../../ingles/unid04/au1/video/digtela08.swf" type="application/x-shockwave-flash" />
+<h6>Veja o diálogo com um exemplo usando do, does e did. Utilize a seta para ver o diálogo completo.</h6>	
+<embed width="750px" height="400px" name="plugin" src="../../../ingles/unid04/au1/video/digtela08.swf" type="application/x-shockwave-flash" />
 
 </div>
 </div>	

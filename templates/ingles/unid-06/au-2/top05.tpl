@@ -4,14 +4,14 @@
 
 
 <div id="meio">
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Foco na gramática">Grammar in focus</a></h3>
 
 <div id="center">
 <div id="box-esquerda">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Você sabe o significado de cada cognata encontrado?</p>
-		<p>Vamos testar seus conhecimentos! Marque a opção que é semelhante a cada cognata.</p>
+        <p>Agora que você já viu alguns exemplos de como dizer o que você gosta e não gosta, você terá que saber a estrutura para formar as frases no infinitivo.</p>
+		<p>Veja ao lado:</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>
@@ -19,86 +19,43 @@
 </div>
 
 <div id="box-direita">
-<div id="explicacao">
-<h5>Marque a correta</h5>
-<div id="slideshow">
-    <div id="slidesContainer">
-      <div class="slide">
-        <p><b>01. Music</b><BR>
-            <input type="radio" name="sel_banco" id="sel_1" value="correto" onclick="b='b';"> Música<BR>
-            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Musa<BR>
-            <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Som<BR>
-        </p>
-
-        <p> 
-            <input type="button" onclick="validar()" value="Conferir">
-        </p>
-      </div>
-      <div class="slide">
-        <p><b>02. Dance</b><BR>
-            <input type="radio" name="sel_banco" id="sel_1" value="errada" onclick="b='c';"> Dançarino<BR>
-            <input type="radio" name="sel_banco" id="sel_2" value="correto" onclick="b='b';"> Dança<BR>
-            <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Movimentos<BR>
-        </p>
-        <p> 
-            <input type="button" onclick="validar()" value="Conferir">
-        </p> 
-      </div>
-      <div class="slide">
-        <p><b>03. Culture</b><BR>
-            <input type="radio" name="sel_banco" id="sel_1" value="correto" onclick="b='b';"> Cultura<BR>
-            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Costura<BR>
-            <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Raça<BR>
-        </p>
-
-        <p> 
-            <input type="button" onclick="validar()" value="Conferir">
-        </p>
-      </div>
-	  <div class="slide">
-        <p><b>04. Color</b><BR>
-            <input type="radio" name="sel_banco" id="sel_1" value="correto" onclick="b='b';"> Cor<BR>
-            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Desenho<BR>
-            <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Pintar<BR>
-        </p>
-
-        <p> 
-            <input type="button" onclick="validar()" value="Conferir">
-        </p>
-      </div>  
-      <div class="slide">
-        <p><b>05. Publicity</b><BR>
-            <input type="radio" name="sel_banco" id="sel_1" value="errada" onclick="b='b';"> Povo<BR>
-            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Público<BR>
-            <input type="radio" name="sel_banco" id="sel_3" value="correto" onclick="b='c';"> Publicidade<BR>
-        </p>
-
-        <p> 
-            <input type="button" onclick="validar()" value="Conferir">
-        </p>
-      </div>     
-      <div class="slide">
-        <p><b>06. Artist</b><BR>
-            <input type="radio" name="sel_banco" id="sel_1" value="errada" onclick="b='b';"> Artesão<BR>
-            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Hábil<BR>
-            <input type="radio" name="sel_banco" id="sel_3" value="correto" onclick="b='c';"> Artista<BR>
-        </p>
-
-        <p> 
-            <input type="button" onclick="validar()" value="Conferir">
-        </p>
-      </div>   
-    </div>
-    </div>
-</div>
-</div>
+<h4>A fórmula para essa estrutura é:</h4>
+<table class="table">
+  <tbody>
+  <tr class="success">
+      <td><b>SUJEITO</b></td>
+      <td><b>VERBO</b></td>
+      <td><b>INFINITIVO</b></td>
+      <td><b>COMPLEMENTO</b></td>
+    </tr>
+    <tr class="success">
+      <td>I</td>
+      <td>Like</td>
+      <td>to study</td>
+      <td>English</td>
+    </tr>
+    <tr class="success">
+      <td>I</td>
+      <td>need</td>
+      <td>to clean</td>
+      <td>my bedroom.</td>
+    </tr>
+    <tr class="success">
+      <td>I</td>
+      <td>want</td>
+      <td>to go</td>
+      <td>to the movies.</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
+</div>
 </div>
 {barra_tools}
 <div id="navegacao">
 <a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 5 de 8</span>
+	<span>Página 5 de 11</span>
 <a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>

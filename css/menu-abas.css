@@ -28,9 +28,9 @@
 
 .ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button{font-family:Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;font-size:1em;}
 
-.ui-widget-content{border:1px solid #ddd;background:#eee url(images/ui-bg_highlight-soft_100_eeeeee_1x100.png) 50% top repeat-x;color:#333;}
+.ui-widget-content{border:1px solid #ddd;color:#333;}
 
-.ui-widget-content a{color:#333;}
+.ui-widget-content a{color:#fff;}
 
 .ui-widget-header{border:1px solid #e78f08;background:#f6a828 url(images/ui-bg_gloss-wave_35_f6a828_500x100.png) 50% 50% repeat-x;color:#fff;font-weight:bold;}
 
@@ -598,7 +598,7 @@ button.ui-button::-moz-focus-inner{border:0;padding:0;}
 
 .ui-slider-vertical .ui-slider-range-max{top:0;}
 
-.ui-tabs{position:relative;padding:.2em;zoom:1;width:100%;}
+.ui-tabs{position:relative;padding:.2em;zoom:1;}
 
 
 

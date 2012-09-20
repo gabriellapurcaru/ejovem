@@ -20,12 +20,9 @@
 
 
 </div>	
-<div id="rodape">
-	<div id="navegacao">
-		<a href="top16.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 17 de 17</span>
-		
-	</div>
+{barra_tools}
+<div id="navegacao">
+	<a href="top16.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 17 de 17</span>
 </div>
-
 {rodape}

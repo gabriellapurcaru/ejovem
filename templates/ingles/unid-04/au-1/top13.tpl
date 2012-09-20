@@ -9,7 +9,7 @@
 <div id="box-center-saiba-mais">
     <div id="box-esq">
         <div id="texto">
-            <p>Fala</p>
+            <p>Vamos aprender um pouco mais sobre a construção would rather?</p>
         </div>
         <div class="box-person">
                 <img src="../../../imgs/e13.png"/>
@@ -17,7 +17,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	    	<p>Corpo</p>
+	    	<p>Vá a sessão conheça mais para saber curiosidades sobre a aula.</p>
+	    	<p>Também acesse a parte de vocabulário e gramática, reveja as palavras novas que aprendeu nesta aula.</p>
 	    	
         </div>
     </div>

@@ -8,12 +8,14 @@
 <div id="box-center-conclusao">
     <div id="box-esq">
         <div class="box-person">
-        	<img src="../../../imgs/e15.png"/>
+        	<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">
         </div>
     </div>
     <div id="box-dir">
 		<div id="texto">
-			<p>Nesta  atividade aprendemos  como perguntamos  sobre  nossas preferências,  do  que gostamos  e  do  que  não gostamos.  Na  próxima atividade iremos falar sobre família. See you soon!</p>
+			<p>Nesta  atividade aprendemos  como perguntamos  sobre  nossas preferências,  do  que gostamos  e  do  que  não gostamos.  Na  próxima atividade iremos falar sobre família.</p>
+			<p><span class="label label-info"><a title="Vejo você em breve!" href="#" class="">See you soon!</a></span></p> 
+			<p></p>
 		</div>
     </div>
 </div>
@@ -24,6 +26,5 @@
 	<div id="navegacao">
 		<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 14 de 14</span>
-		<a href="top15.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 {rodape}

@@ -20,40 +20,29 @@ com do, does e did.</p>
 </div>
 
 <div id="box-direita">
-<div id="explicacao">
 <div id="demo-tabs">
 
 <ul>
 <li><a href="#tabs-1">Do</a></li>
-<li><a href="#tabs-2">does</a></li>
-<li><a href="#tabs-3">did</a></li>
+<li><a href="#tabs-2">Does</a></li>
+<li><a href="#tabs-3">Did</a></li>
 </ul>
 
 <div id="tabs-1">
-<p>
-<strong>do:</strong> don´t = do not
-I don´t like pizza 
-( eu não gosto de 
-pizza)</p>
+<h4>don´t = do not</h4>
+<p><span class="label label-info"><a title="Eu não gosto de pizza" href="#" class="">I don´t like pizza</a></span></p> 
 
 </div>
 
 <div id="tabs-2">
-<p>
-<strong>does:</strong> doesn´t= does 
-not
-She doesn´t like 
-samba ( ela não 
-gosta de samba)</p>
+
+<h4>doesn´t= does not</h4>
+<p><span class="label label-info"><a title="Ela não gosta de samba" href="#" class="">She doesn´t like samba</a></span></p> 
 </div>
 
 <div id="tabs-3">
-<p>
-<strong>did:</strong> didn´t= did not
- 
-We didn´t see her 
-( nós não a vimos)</p>
-</div>
+<h4>didn´t= did not</h4>
+<p><span class="label label-info"><a title="Nós não a vimos" href="#" class="">We didn´t see her </a></span></p>
 
 </div>
 </div>

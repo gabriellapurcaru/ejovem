@@ -3,7 +3,9 @@
 {menu}
 
 <div id="meio">
-<h3> <a href="#" title="Vídeo"> Video</a></h3>
+<h3> <a href="#" title="Aula em vídeo">Lesson in video</a></h3>
+
+<div id="center">
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
@@ -25,11 +27,11 @@
 </div>
 
 </div>
-<div id="rodape">
-	<div id="navegacao">
-		<a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 6 de 17</span>
-		<a href="top07.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+</div>
+{barra_tools}
+<div id="navegacao">
+	<a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 6 de 17</span>
+	<a href="top07.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 {rodape}
