@@ -1,0 +1,53 @@
+{topo}
+{tituloAula}
+{menu}
+
+<div id="meio">
+<h3><a href="#" title="Foco na Gramática: presente simples">Focus on grammar: simple present tense</a></h3>
+<div id="center">
+
+<div id="box-esquerda">
+<div class="ba-esq">
+    <div id="box-explicacao-tabela-texto">
+	<p>Vejamos agora a <b>forma negativa</b>. Lembra-se que é necessário um <b>auxiliar</b> para fazer a negativa?</p>
+	<p>O auxiliar para a 3ª pessoa é <b>does</b> e para as outras pessoas, o auxiliar é <b>do</b>.</p>
+	<p>Veja as frases ao lado com as sentenças negativa.</p>
+    </div>
+    <div id="box-explicacao-tabela-img">
+        <img src="../../../imgs/e17.png"/>    
+    </div>
+</div>
+</div>
+
+<div id="box-direita">
+<div id="box-explicacao-video-animacao">
+<table class="table table-striped">
+<tdead>
+<tr>
+<td>I don´t work at night</b></td>
+<td>Eu não trabalho a noite</td>
+</tr>	
+
+<tr>
+<td>She doesn´t need to sleep</td>
+<td>Ela não precisa dormir</td>
+</tr>
+
+
+</thead>
+</table> 
+
+</div>
+</div>
+
+</div>
+</div>
+<div id="rodape">
+<div id="navegacao">
+<a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 11 de 14</span>
+<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+</div>
+</div>
+
+{rodape}

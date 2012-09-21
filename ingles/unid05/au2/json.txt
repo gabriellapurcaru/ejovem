@@ -1,0 +1,8 @@
+﻿{
+	"palavras":
+	[
+		{ "pt": "Apelido do Michael", 	"en": "1971" }, 
+		{ "pt": "Começou sua carreira",	"en": "King of  Pop" }, 
+		{ "pt": "Vídeos fizeram mais sucesso",	"en": "Billie Jean, Beat it, Thriller" }
+	]
+}

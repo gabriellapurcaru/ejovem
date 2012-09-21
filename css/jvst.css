@@ -1,0 +1,79 @@
+.vtabs {
+	/* a border is required for IE otherwise the tab panels will not be aligned correctly. */
+	position: relative;  border: 1px dotted #ffffff;
+}
+.vtabs .vtabs-tab-column {
+	position: absolute; left: 0; margin: 0; width: 170px; min-width: 170px;
+}
+.vtabs .vtabs-tab-column ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+/* css for tab that is open */
+.vtabs .vtabs-tab-column ul li.open, .vtabs .vtabs-tab-column ul li.closed {
+	background-color:  #D5E5FF;
+	margin: 0px;
+	padding:10px;
+	margin-bottom: 1px;
+	/* round corners do not work in IE */
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	border-top: 1px dotted #999999;
+	border-bottom: 1px dotted #999999;
+	border-left: 1px dotted #999999;
+	min-height:20px;
+	z-index: 10;
+	text-align:left;
+}
+/* css for tab that is closed */
+.vtabs .vtabs-tab-column ul li.closed {
+	background-color: #fff;
+	border-right: 1px dotted #777777;
+	background-image: url("images/ClosedTabBackground.png");
+	background-repeat:repeat-x;	
+}
+/* css for tab hover */	
+.vtabs .vtabs-tab-column ul li:hover {
+	text-decoration: underline;
+	background-image: url("images/ClosedTabBackgroundHover.png");
+	background-repeat:repeat-x;
+	color:#0174A7;		
+}
+/* css for link on tab that's open */
+.vtabs .vtabs-tab-column ul li a.open, .vtabs .vtabs-tab-column ul li a.closed {
+	color: #0174A7;
+  font: 11px Helvetica,Arial,sans-serif;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+/* css for link on tab that's closed */
+.vtabs .vtabs-tab-column ul li a.closed {
+	color: #0174A7;
+}	
+.vtabs .vtabs-content-column {
+	padding: 0px;
+	margin: 0px;
+}
+/* css for the content panels */
+.vtabs .vtabs-content-column .vtabs-content-panel {
+	background-color: #D5E5FF;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin: 0px;
+	-moz-border-radius-topright: 3px;
+	-moz-border-radius-bottomright: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;	
+	-webkit-border-bottom-left-radius: 3px;
+	border-top: 1px dotted #999999;
+	border-bottom: 1px dotted #999999;
+	border-right: 1px dotted #999999;
+	border-left: 1px dotted #999999;
+}

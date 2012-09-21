@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html><head>
+        <title>ISEN - Inscrições</title>
+        <link rel="stylesheet" href="21_arquivos/main.css">
+        <script type="text/javascript" src="21_arquivos/jquery-1.js"></script>
+        <script type="text/javascript" src="21_arquivos/jquery-ui-1.js"></script>
+        <script type="text/javascript" src="21_arquivos/jquery_002.js"></script>
+        <script type="text/javascript" src="21_arquivos/jquery.js"></script>
+        <script type="text/javascript" src="21_arquivos/slides.js"></script>
+        <script type="text/javascript" src="21_arquivos/coin-slider.js"></script>
+
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="layout" content="main">
+        
+        
+    
+        <script type="text/javascript" src="21_arquivos/application.js"></script>
+
+    </head>
+    <body>
+        <div id="spinner" class="spinner" style="display:none;">
+            <img src="21_arquivos/spinner.gif" alt="Loading...">
+        </div>
+        
+
+        <div class="body">
+            <div id="box-info">
+            
+                <div class="message">Sua Inscrição foi efetuada com sucesso, para garantir sua vaga efetue o pagamento.</div>
+            
+
+            <div class="fc2">
+                <p>
+                    <label>Nome: gabriella</label>
+                </p>
+                <p>
+                    <label>CPF: 021.340.054-52</label>
+                </p>
+            </div>
+
+            <div class="fc2">
+                <p>
+                    <label>Endereço: rua das cores 33  - 43.444-33 </label>
+                </p>
+                <p>
+                    <label>fortaleza/ce</label>
+                </p>
+            </div>
+
+            <div class="fc2">
+                <p>
+                    <label>Telefone: (45)4444.4444 / (44)4444.4444</label>
+                </p>
+
+            </div>
+
+            <div class="fc2">
+                <p>
+                    <label>Instituição: unofor</label>
+                </p>
+                <p>
+                    <label>Profissão: fraeesd</label>
+                </p>
+                <p>Valor: 990.00</p>
+            </div>
+
+            <h1>Efetuar Pagamento</h1>
+                <div style="float:left;margin: 10px 0;width: 100%;">
+                <form target="pagseguro" method="post" action="https://pagseguro.uol.com.br/v2/checkout/payment.html">
+
+                    <!-- Campos obrigatórios -->
+                    <input name="receiverEmail" value="raphaeldj.campos@gmail.com" type="hidden">
+                    <input name="currency" value="BRL" type="hidden">
+                    <input name="encoding" value="UTF-8" type="hidden">
+                    <input name="redirectURL" value="http://www.isen.org.br/" type="hidden">
+
+
+                    <!-- Itens do pagamento (ao menos um item é obrigatório) -->
+                    <input name="itemId1" value="isen2012" type="hidden">
+                    <input name="itemDescription1" value="Inscricao ISEN" type="hidden">
+                    <input name="itemAmount1" value="990.00" type="hidden">
+                    <input name="itemQuantity1" value="1" type="hidden">
+
+                    <!-- Código de referência do pagamento no seu sistema (opcional) -->
+                    <input name="reference" value="inscricaoIsen" type="hidden">
+                    <!-- Dados do comprador (opcionais) -->
+                    <input name="senderName" value="gabriella" type="hidden">
+                    <input name="senderEmail" value="gabriellapurcaru@gmail.com" type="hidden">
+                    <input name="shippingAddressPostalCode" value="43.444-33" type="hidden">
+                    <input name="shippingAddressStreet" value="rua das cores" type="hidden">
+                    <input name="shippingAddressNumber" value="33" type="hidden">
+                    <input name="shippingAddressComplement" value="" type="hidden">
+
+
+                    <!-- submit do form (obrigatório) -->
+                    <input name="submit" src="21_arquivos/120x53-pagar.gif" alt="Pague com PagSeguro" type="image">
+                </form>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+</body></html>

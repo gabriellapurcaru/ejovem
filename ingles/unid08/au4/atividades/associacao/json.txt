@@ -1,0 +1,10 @@
+﻿{
+	"palavras":
+	[
+		{ "pt": "Gato", 	"en": "Cat" }, 
+		{ "pt": "Cachorro",	"en": "Dog" }, 
+		{ "pt": "Árvore",	"en": "Tree" }, 
+		{ "pt": "Água", 	"en": "Water" }, 
+		{ "pt": "Chuva", 	"en": "Rain" }
+	]
+}
