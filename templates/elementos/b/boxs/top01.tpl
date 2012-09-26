@@ -2,17 +2,21 @@
 {tituloAula}
 {menu}
 
-<div id="meio">
-<h3>Templates</h3>
-<div id="center">
+<h2 id="body-copy">Templates</h2>
+<h4>Duas colunas</h4>
+<pre class="prettyprint linenums">
+&lt;div id="box-esquerda"&gt;
+  &lt;p&gt;&lt;texto a esquerda&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id="box-direita"&gt;
+  &lt;p&gt;&lt;texto a direita&lt;/p&gt;
+&lt;/div&gt;
+</pre>
 
 
-</div>
-</div>
 {barra_tools}
 	<div id="navegacao">
-		<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 7 de 14</span>
-		<a href="top08.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+			<span>Página 1</span>
+		<a href="top02.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 {rodape}

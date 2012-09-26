@@ -1,14 +1,13 @@
 {topo}
 {tituloAula}
 {menu}
-<div id="meio">
-<div id="center">
+
 <h2 id="body-copy">Box Considerações Iniciais</h2>
 
 	<div id="boxDigitacao">
 	    <div class="item">
 	        Olá, alunos! Nessa lição temos como objetivo reconhecer a importância da língua inglesa no mercado de trabalho e no nosso dia a dia.
-	    </div> 
+	    </div>
 	</div>
 
 	<div id="boxDialogo">
@@ -17,14 +16,13 @@
 	    <div id="img-person">
 	        <img src="../../../imgs/personagem_corpo.png"/>
 	    </div>
-	</div>    
+	</div>
 	</div>
 
-</div>
-</div>
 {barra_tools}
 	<div id="navegacao">
-		<span>Página 1 de 14</span>
-		<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
+		<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+			<span>Página 4</span>
+		<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 {rodape}

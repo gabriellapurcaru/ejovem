@@ -14,6 +14,8 @@
 She’s 27 years old. My husband’s name is <b>Jeremias</b>. He’s 34 years old. We have two children: a son and a daughter. My son’s name is <b>Rafael</b>. He’s 2 years old.
 My daughter’s name is <b>Bianca</b>, and she’s only 6 months old! My family is very beautiful! 
 </p>
+<embed width="650" height="200" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="img/familia.swf" name="plugin">
+	
 
 
 </div>

@@ -21,15 +21,12 @@
 
 <div class="cs_article">
 	<embed height="100%" width="100%" name="plugin" src="../../../ingles/unid04/au2/video/uni4_aula2.swf" type="application/x-shockwave-flash" />
-
 </div><!-- End cs_article -->
-
-
-</div>
 </div>
 </div>
 </div>
 
+</div>
 </div>
 {barra_tools}
 <div id="navegacao">

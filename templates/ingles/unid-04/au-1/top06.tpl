@@ -20,8 +20,9 @@ Observe como formamos as frases na negativa, e veja os
 exemplos a seguir.</p>
 </div>
 </div>
-
-
+<div class="swf">
+<embed width="650px" height="400px" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="img/envelope_cartao.swf" name="plugin">
+</div>
 </div>
 </div>
 {barra_tools}

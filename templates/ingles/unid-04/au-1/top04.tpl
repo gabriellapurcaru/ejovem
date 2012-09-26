@@ -5,6 +5,12 @@
 <div id="meio">
 <h3>   <a href=""  title="Exercicio"/>  Exercise  </a></h3>
 <div id="center">
+	<div id="atividade">
+		<div class="swf">
+	<embed width="650px" height="400px" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="img/colar_duas_colunas.swf" name="plugin">
+</div>
+</div>
+
 
 </div>
 </div>

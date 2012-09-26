@@ -1,14 +1,10 @@
 {topo}
+{tituloAula}
 {menu}
 
-<div id="meio">
-
-<h3>EXEMPLO ABA</h3>
-
-<div id="center">
+<h2 id="body-copy">Box Abas</h2>
 
 <div id="demo-tabs">
-
 <ul>
 <li><a href="#tabs-1">Aba 01</a></li>
 <li><a href="#tabs-2">Aba 02</a></li>
@@ -35,14 +31,10 @@ Vestibulum non ante. Class aptent taciti sociosqu ad litora torquent per conubia
 
 </div>
 
-
+{barra_tools}
+<div id="navegacao">
+	<a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 11</span>
+	<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 </div>
-</div>
-<div id="rodape">
-	<div id="navegacao">
-		<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 14 de 14</span>
-	</div>
-</div>
-
 {rodape}

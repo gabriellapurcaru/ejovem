@@ -2,9 +2,7 @@
 {tituloAula}
 {menu}
 
-<div id="meio">
-<div id="center">
-<h2 id="body-copy">Atividades</h2>	
+<h2 id="body-copy">Atividades</h2>
 <div class="bs-docs-example">
 	<div id="box-atividade">
 	<div class="ba-esq">
@@ -24,12 +22,10 @@
 	</div>
 </div>
 
-</div>
-</div>
 {barra_tools}
 	<div id="navegacao">
-		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 8 de 14</span>
-		<a href="top09.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+		<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+			<span>Página 2</span>
+		<a href="top03.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 {rodape}
