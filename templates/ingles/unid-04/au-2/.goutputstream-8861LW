@@ -5,7 +5,6 @@
 <div id="meio">
 <h3><a href="" title="Foco na Gramatica">Grammar in focus</a></h3>
 <div id="center">
-<h6>Observe o quadro a seguir sobre os pronomes adjetivos e substantivos.</h6>
 <div id="box-explicacao-video-animacao">
 <table class="table table-striped">
 <tr>
@@ -68,7 +67,7 @@
 {barra_tools}
 <div id="navegacao">
 	<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-		<span>Página 10 de 14</span>
+		<span>Página 10 de 17</span>
 	<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 </div>
 {rodape}
