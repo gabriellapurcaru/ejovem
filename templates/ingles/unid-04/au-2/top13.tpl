@@ -14,7 +14,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Agora que você já está craque, vá a seção Conheça Mais para aprender como se fala algumas expressões em inglês. Te espero lá!</p> 
+	<p>Vamos aprender um pouco mais sobre o caso possessivo e suas particularidades.</p>       
+	<p>Agora que você já está craque, vá a seção Conheça Mais para aprender como se fala algumas expressões em inglês. Te espero lá!</p> 
         </div>
     </div>
 </div>

@@ -23,19 +23,50 @@
 
 <div id="box-direita">
 <div id="box-explicacao-video-animacao">
-Fazer no flash
+	<table class="table table-striped">
+	<tdead>
+	<h6>Em português:<br /> Sem o artigo</h6>
+	</tr>	
+
+	<tr>
+	<td>Eu sou estudante.</td>
+	</tr>
+
+	<tr>
+	<td>Eu sou ator.</td>
+	</tr>
+	<tr>
+	</thead>
+	</table>
+
+	<table class="table table-striped">
+	<tdead>
+
+
+	<h6>Em inglês: <br />
+	Com o artigo indefinido “a” ou “an”
+	</h6>	
+
+	<tr>
+	<td>I’m a student.</td>
+	</tr>
+
+	<tr>
+	<td>I’m an actor.</td>
+	</tr>
+	</thead>
+	</table>
 </div>
 </div>
 
 
 </div>	
 </div>	
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 7 de 14</span>
 <a href="top08.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-</div>
 </div>
 
 {rodape}

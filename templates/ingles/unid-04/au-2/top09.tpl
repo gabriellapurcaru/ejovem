@@ -5,6 +5,10 @@
 <div id="meio">
 <h3>  <a href="" title="Foco na gramática">Grammar in focus</a></h3>
 <div id="center">
+	<div id="swf">
+
+	<embed width="750" height="450" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/s01.swf" name="plugin"> 
+</div>
 
 </div>
 </div>
