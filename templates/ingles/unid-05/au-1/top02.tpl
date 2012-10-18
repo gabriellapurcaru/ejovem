@@ -6,19 +6,10 @@
 <div id="meio">
 <h3><a href="#" title="Relembrando!">Brush up!</a></h3>
 <div id="center">
-
-<div id="box-esquerda">
-
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Vamos relembrar o que vimos na unidade 4 sobre a família?</p>
-	<p>Complete os espaços em branco com a resposta correta. </p>
-    </div>
-    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+<h6>Vamos relembrar o que vimos na unidade 4 sobre a família? Complete os espaços em branco com a resposta correta. </h6>
+<div class="alert alert-info">
+	<embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia.swf" name="plugin">
 </div>
-</div>
-
-<div id="box-direita">
 
 </div>
 

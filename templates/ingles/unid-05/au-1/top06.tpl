@@ -6,9 +6,9 @@
 <h3><a href="#" title="Praticando">Practicing</a></h3>
 <div id="center">
 
-<div id="atividade">
+<div id="box-explicacao-video-animacao">
 <h6>Quando você fala sobre sua família, geralmente você diz o que seus parentes fazem e onde eles trabalham. Leia o parágrafo abaixo e preencha o quadro.</h6>
-
+<embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia_unid5_aula1.swf" name="plugin">
 </div>
 
 </div>

@@ -6,9 +6,8 @@
 <h3>  <a href=""  title="Vamos praticar"/> Let´s practice?  </a> </h3>
 <div id="center">
 
-<div id="atividade">
-<p>Instrução</p>
-
+<div class="alert alert-info">
+	<embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia_unid4_aula2.swf" name="plugin">
 </div>
 
 </div>
