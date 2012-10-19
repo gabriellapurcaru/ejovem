@@ -463,8 +463,8 @@ div#vocabulario #box-dir table {float: right;width: 250px;}
 
 div#rede{background-color: #2C2C2C;border: 1px solid #000000;color: #FFFFFF;float: left;width: 100%;}
 div#rede .foto_bia{border: 1px solid #FFFFFF;float: left;height: 57px;width: 60px;}
-div#rede .bia_texto{float: right;width:695px;}
-div#rede .bia_texto p.bia_diz{font-weight: bold;}
+div#rede .bia_texto{float: right;width:675px;}
+div#rede .bia_texto p.bia_diz{font-weight: normal;}
 
 #gallery {background-color: #fff;padding: 1px;width:width: 96%;margin-bottom: 20px;}
 #gallery ul {list-style: none;}
