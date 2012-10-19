@@ -20,6 +20,10 @@
 	<div id="atividade">
 		<p>Agora vamos fazer a atividade</p>
 	</div>
+	<textarea>
+	<p>Agora vamos fazer a atividade</p>
+	</textarea>
+
 </div>
 
 {barra_tools}

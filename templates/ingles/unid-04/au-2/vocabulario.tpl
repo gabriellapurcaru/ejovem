@@ -8,67 +8,53 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<td>Browser</td>
-		<td>Navegador, Leitor de hipertexto</td>
+		<td>Parents</td>
+		<td>Pais</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Mouse</td>
-		<td>Rato: periférico de computador, em informática</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-		<td>Play</td>
-		<td>Reproduzir, Tocar; Reprodução de música ou vídeo</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-		<td>Tênis</td>
-		<td>Português brasileiro, ou ténis português europeu, calçado de "tennisshoes"</td>
+		<td>Relatives</td>
+		<td>Parentes</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
-
 	<tr>
-		<td>Videoclipe</td>
-		<td>Ou clipe, de “videoclip”</td>
+		<td>Year</td>
+		<td>Ano</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>Email</td>
-	<td>Email</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<td>Password</td>
-	<td>Senha</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-	<td>To send</td>
-	<td>Enviar</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<td>To reply</td>
-	<td>Responder</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		<td>Old</td>
+		<td>Velho (a)</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 
 	<tr>
-	<td>To log on</td>
-	<td>Entrar</td>
+		<td>Nice</td>
+		<td>Simpático</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	</tr>
+	<tr>
+	<td>Reliable</td>
+	<td>Confiável</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>To print</td>
-	<td>Imprimir</td>
+	<td>Friendly</td>
+	<td>Amigável</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-	<td>Document</td>
-	<td>Documento</td>
+	<td>Jealous</td>
+	<td>Ciumento</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
+	<tr>
+	<td>Insecure</td>
+	<td>Inseguro</td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	</tr>	
+
+	
 	</thead>
 	</table>
 

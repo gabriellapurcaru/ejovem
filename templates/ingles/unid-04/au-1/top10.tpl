@@ -5,12 +5,13 @@
 <div id="meio">
 <h3><a href=""  title="Exercitando">Exercising </a></h3>
 <div id="center" style="padding-top: 0px;">
-	
+<div id="atividade">	
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
 	<script src="js/tela_10.js" type="text/javascript"></script>
-	<h6><a href=""  title="Change these sentences to negative."/>Passe as frase para a forma negativa.</a></h6>
+	<h6>Vamos treinar um pouco? Complete os exercícios você aprendeu e faça uma revisão do que aprendeu. <span class="label label-info"><a title="Change these sentences to negative." href="#" class="">Passe as frase para a forma negativa.</a></span></h6>
+	
 	<table class="table table-bordered" >
 	<tdead>
 	<tr>
@@ -66,7 +67,7 @@
 <div class="Feedback" id="FeedbackDiv">
 <div class="FeedbackText" id="FeedbackContent"></div>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
-
+</div>
 </div>
 </div>
 </div>
@@ -74,7 +75,7 @@
 {barra_tools}
 	<div id="navegacao">
 		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 10 de 14</span>
+			<span>Página 10 de 13</span>
 		<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 {rodape}

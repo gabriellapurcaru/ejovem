@@ -8,7 +8,7 @@
 <div id="center">
 <div id="boxDigitacao">
     <div class="item">
-       Hello! Nesta lição iremos aprender sobre simple present tense questions, let´s go?
+	Você aprendeu que é necessário um ajudante para fazer perguntas em inglês – os verbos auxiliares do e does. Vamos praticar a forma interrogativa. 
     </div> 
 </div>
 
@@ -23,10 +23,9 @@
 </div>
 
 </div>
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <span>Página 1 de 8</span>
 <a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
-</div>
 </div>	
 {rodape}

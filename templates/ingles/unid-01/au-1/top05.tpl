@@ -19,7 +19,7 @@
 </div>
 
 <div id="box-direita">
-<embed width="450" height="300" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/anglicismo.swf" name="plugin"> 
+<embed width="450" height="300" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/folha_rasgando.swf" name="plugin"> 
 
 </div>
 </div>

@@ -7,7 +7,7 @@
 <div id="center">
 
 <script src="js/tela_02.js" type="text/javascript"></script></head>
-<div id="center">
+<div id="swf">
 <p class="titulo">Use a seta para navegar<p>
 <div id="two" class="contentslider">
 <div class="cs_wrapper">
@@ -59,7 +59,7 @@ is - 5:10 a.m - know - is - speak - is - did - is
 {barra_tools}
 <div id="navegacao">
 	<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-		<span>Página 2 de 14</span>
+		<span>Página 2 de 13</span>
 	<a href="top03.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
