@@ -20,7 +20,9 @@
 
 <div id="box-direita">
 <div id="box-explicacao-video-animacao">
-    <embed width="440px" height="300px" type="application/x-shockwave-flash" src="img/dialogo01.swf" name="plugin">
+<div class="swf">   
+ <img src="img/dialogo.png">
+</div>
 </div>
 </div>
 

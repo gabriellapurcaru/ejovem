@@ -18,13 +18,14 @@
 
 <div id="box-direita">
 <div id="box-explicacao-video-animacao">
+	<p class="titulo">Passe o mouse sobre as palavras</p>
 
 <table class="table table-striped">
 <tdead>
 <tr>
+<td><img src="img/01.jpeg"/></td>
 <td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
+<td><img src="img/07.jpeg"/></td>
 </tr>
 <tr>
 <td><a href="#" title="Documentário">Documentary</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
@@ -32,9 +33,9 @@
 <td><a href="#" title="Novos Programas">News program</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
+<td><img src="img/02.jpeg"/></td>
+<td><img src="img/08.jpeg"/></td>
+<td><img src="img/03.jpeg"/></td>
 </tr>
 <tr>
 <td><a href="#" title="Novela">Soap Opera</a> <br/><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
@@ -42,9 +43,9 @@
 <td><a href="#" title="Comédia">Comedy</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
+<td><img src="img/09.jpeg"/></td>
+<td><img src="img/04.jpeg"/></td>
+<td><img src="img/06.jpeg"/></td>
 </tr>
 <tr>
 <td><a href="#" title="Ficção Científica">Science fiction</a> <br/><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
@@ -60,12 +61,11 @@
 
 </div>
 </div>
-<div id="rodape">
+{barra_tools}
 <div id="navegacao">
 <a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 3 de 10</span>
 <a href="top04.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-</div>
 </div>	
 
 {rodape}

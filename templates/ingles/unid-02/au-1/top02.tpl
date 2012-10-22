@@ -8,7 +8,7 @@
 <div id="center">
 <div id="boxDigitacao">
     <div class="item">
-        Vamos fazer agora uma breve revisão da unidade anterior. Você se lembra dos falsos cognatos ou false friends, aquelas palavras que costumam enganar a gente por apresentar um significado semelhante com o português? E das estratégias de leitura, como o skimming?  Então, vamos recordá-los?
+        Vamos fazer agora uma breve revisão da unidade anterior. Você se lembra dos falsos cognatos ou false friends, aquelas palavras que costumam enganar a gente por apresentar um significado semelhante com o português? E das estratégias de leitura, como o skimming? Então, vamos recordá-los?
     </div> 
 </div>
 
