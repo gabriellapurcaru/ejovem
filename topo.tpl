@@ -25,7 +25,6 @@
     <script src="../../../assets/js/bootstrap-tooltip.js"></script>
     <script src="../../../assets/js/bootstrap-popover.js"></script>
     <script src="../../../assets/js/bootstrap-button.js"></script>
-    <script src="../../../assets/js/bootstrap-collapse.js"></script>
     <script src="../../../assets/js/bootstrap-carousel.js"></script>
     <script src="../../../assets/js/bootstrap-typeahead.js"></script>
     <script src="../../../assets/js/bootstrap-affix.js"></script>
@@ -36,7 +35,8 @@
 	<script type="text/javascript" src="../../../js/jquery-1.3.2.min.js"></script>                                                      	
 	<script type="text/javascript" src="../../../js/slider.js"></script>
 	<script type="text/javascript" src="../../../js/jquery.qtip-1.0.0-rc3.min.js"></script> 
-	
+
+    
 	<script type="text/javascript" src="../../../js/jquery.easing.1.3.js"></script>
 	<script type="text/javascript" src="../../../js/jquery.ennui.contentslider.js"></script>
 		
