@@ -2,8 +2,7 @@
 {tituloAula}
 {menu}
 
-<h2 id="body-copy">Tela Lesson 1</h2>
-
+<div id="center">
 	<div id="boxDigitacao">
 	    <div class="item">
 	       No dialogo você pode ver que há várias palavras novas, como lunch e dinner. Lunch em português significa almoço dinner quer dizer jantar. Clique nos balões ao lado e veja o nome dos alimentos que podem fazer parte do lunch e dinner.

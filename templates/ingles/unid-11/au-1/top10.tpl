@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-<h2 id="body-copy">Saiba mais</h2>
+<h3><a href="#" title="Saiba mais">Learn more</a></h3>
 
 <div id="box-esquerda">
     <div id="box-explicacao-tabela-texto">

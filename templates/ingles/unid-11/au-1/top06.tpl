@@ -18,9 +18,8 @@
 
 <div id="box-direita">
 	<div id="atividade">
-		<p>Agora vamos fazer a atividade. Clique a seguir:</p>
-        <a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=4460" target="alvo">Atividade</a>
-	</div>
+		<p>Agora vamos fazer a atividade. </p>
+    </div>
 </div>
 
 
