@@ -9,7 +9,9 @@
 <div class="alert alert-success">
 <p>O verbo modal “can” expressa a idéia de habilidade no tempo presente. O verbo deve ser anteposto ao verbo principal. O sentido do verbo na frase indica “poder fazer”, “saber fazer algo” ou “saber como se faz algo”.</p><p> Veja o dialogo:</p>
 </div>
-
+<div class="swf">
+	<img src="img/dialogo.png"/>
+</div>
 </div>	
 </div>	
 {barra_tools}

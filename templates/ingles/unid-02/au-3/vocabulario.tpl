@@ -8,67 +8,37 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<td>Browser</td>
-		<td>Navegador, Leitor de hipertexto</td>
+		<td>See you soon! </td>
+		<td>Vejo você breve!</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Mouse</td>
-		<td>Rato: periférico de computador, em informática</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-		<td>Play</td>
-		<td>Reproduzir, Tocar; Reprodução de música ou vídeo</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-		<td>Tênis</td>
-		<td>Português brasileiro, ou ténis português europeu, calçado de "tennisshoes"</td>
+		<td>See you next week</td>
+		<td>até a próxima semana</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
-
 	<tr>
-		<td>Videoclipe</td>
-		<td>Ou clipe, de “videoclip”</td>
+		<td>See you around </td>
+		<td>Te vejo por ai!</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>Email</td>
-	<td>Email</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<td>Password</td>
-	<td>Senha</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-	<td>To send</td>
-	<td>Enviar</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<td>To reply</td>
-	<td>Responder</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		<td>What´s up? </td>
+		<td>E ai? (giria)</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 
 	<tr>
-	<td>To log on</td>
-	<td>Entrar</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		<td>Good evening</td>
+		<td>Boa noite (ao chegar)</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>To print</td>
-	<td>Imprimir</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-	<td>Document</td>
-	<td>Documento</td>
+	<td>Good night</td>
+	<td>Boa noite (ao ir dormir ou despedi-se)</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
+
 	</thead>
 	</table>
 

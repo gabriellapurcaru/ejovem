@@ -22,9 +22,9 @@
     <table class="table table-striped">
 <tdead>
 <tr>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
+<td><img src="img/01.gif"/></td>
+<td><img src="img/02.gif"/></td>
+<td><img src="img/06.gif"/></td>
 </tr>
 <tr>
 <td><a href="#" title="Receptionist">Dance</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
@@ -32,9 +32,9 @@
 <td><a href="#" title="Receptionist">Ride a bike</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
+<td><img src="img/05.gif"/></td>
+<td><img src="img/04.gif"/></td>
+<td><img src="img/03.gif"/></td>
 </tr>
 <tr>
 <td><a href="#" title="Receptionist">Play socer</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
@@ -42,8 +42,8 @@
 <td><a href="#" title="Receptionist">Cook</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td><img src="img/img02.png"/></td>
-<td><img src="img/img02.png"/></td>
+<td><img src="img/02.gif"/></td>
+<td><img src="img/01.gif"/></td>
 <td></td>
 </tr>
 <tr>

@@ -6,8 +6,11 @@
 <h3><a href="#" title="Forma interrogativa presente simples">Interrogative form this simple</a></h3>
 <div id="center">
 <div id="box-explicacao-video-animacao">	
-<h6>Vamos praticar a forma interrogativa. Lembrando sempre dos auxiliares vistos anteriormente, examine o quadro.</p> <p>Fique atento  à formula para perguntas.</h6>
+<h6>Você aprendeu que é necessário um ajudante para fazer perguntas em Inglês – os verbos auxiliares ‘do’ e ‘does’. Vamos praticar a forma interrogativa.</h6>
+<h6>Lembrando sempre dos auxiliares vistos anteriormente, examine o quadro e fique atento à formula para perguntas</h6>
 <img src="img/interrogativa.png">
+
+<h6>Observe que o verbo principal não se modifica, nem mesmo na 3ª pessoa. Ou seja, o ‘s’ desaparece na pergunta!</h6>
 </div>
 
 </div>

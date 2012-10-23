@@ -8,7 +8,7 @@
 
 <p><a href="#" title="Observe the following sentences:">Observe as seguintes frases:</a></p>
 <div class="swf">
-<img src="img/e01.jpg"/>
+<img src="img/tabela.png"/>
 </div>
 </div>
 </div>	

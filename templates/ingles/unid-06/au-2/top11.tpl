@@ -18,7 +18,7 @@
 
 <p>Na próxima unidade iremos falar sobre habilidades!</p>
 
-<p>See you soon! </p>
+<p><span class="label label-info"><a href="" title="Vejo você em breve!">See you soon!</a></span></p>
 	</div>
     </div>
 </div>
