@@ -5,7 +5,6 @@
 <h3><a href="#" title="Café da manhã">Breakfeast</a></h3>
 <div id="center">
 <div id="box-esquerda">
-
 	<div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">
