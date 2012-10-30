@@ -14,7 +14,6 @@
 	<p>Geralmente, os brasileiros adoram churrasco, 
 será que os americanos também gostam? 
 Iremos ver nessa aula sobre comidas típicas</p>
-	</div>
 </div>
 </div>
 </div>

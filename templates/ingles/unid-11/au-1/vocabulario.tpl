@@ -3,9 +3,9 @@
 {menu}
 
 
-<div id="meio">
-<h3><a href="#" title="Vocabulário">Vocabulary</a></h3>
 <div id="center">
+<h3><a href="#" title="Vocabulário">Vocabulary</a></h3>
+
 <h6>Passe o mouse sobre as frases para ver o que significa</h5>
 <table class="table table-striped">
 <tdead>

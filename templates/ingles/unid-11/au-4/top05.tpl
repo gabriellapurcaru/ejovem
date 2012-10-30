@@ -2,7 +2,9 @@
 {tituloAula}
 {menu}
 
+<h3><a href="#" title="Leia mais">Learn more</a></h3>
 <div id="center">
+
 <div id="box-center-saiba-mais">
     <div id="box-esq">
 
@@ -11,20 +13,17 @@
         </div>
     </div>
     <div id="box-dir">
-      <div id="box-dir-explicacao">
-        <p>Vá a sessão vocabulário para ampliar seus conhecimentos!</p>
-           <p>Clique abaixo:</p>
-           <a href="vocabulario.php" target="_blank" >Vocabulário</a>
-      </div>
+        <div id="box-dir-explicacao">
+	       <p>Vá a sessão vocabulário para ampliar seus conhecimentos!.</p>
+           Clique ao lado: <a href="vocabulario.php" target="_blank" >Vocabulário</a>
+        </div>
     </div>
 </div>
 
-
-
 {barra_tools}
-<div id="navegacao">
-	<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-		<span>Página 5</span>
-	<a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-</div>
+	<div id="navegacao">		
+	    <a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+			<span>Página 5 de 6</span>
+		<a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+	</div>
 {rodape}

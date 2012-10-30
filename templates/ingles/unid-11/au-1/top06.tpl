@@ -8,12 +8,13 @@
 	<div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">
-	        <p>Let´s do an exercise about breakfast? Choose the best option.</p>
+         <a href="#" title="Let´s do an exercise about breakfast? Choose the best option.">Vamos fazer o exercício sobre café da manhã? Escolha a melhor opção.</a>	
+	    </div>
 	    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>
 	</div>
-</div>
+
 
 <div id="box-direita">
 	<div id="atividade">

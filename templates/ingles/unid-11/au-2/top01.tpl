@@ -2,23 +2,20 @@
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Considerações iniciais">Initial considerations</a></h3>
+
+<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
 <div id="center">
 
-	<div id="boxDigitacao">
-	    <div class="item">
-	        Vamos dar um passeio no restaurante. Nessa lição, aprenderemos a ler um cardápio e outras úteis  minúcias 
-	    </div>
-    </div>
+<div id="box-introducao">
+<div id="img-person">
+    <img src="../../../imgs/e12.png"/>
+</div>
 
-	<div id="boxDialogo">
-	<div class="box-digitacao">
-	    <div class="areaTexto"></div>
-	    <div id="img-person">
-	        <img src="../../../imgs/personagem_corpo.png"/>
-	    </div>
-	</div>
-	</div>
+<div id="texto">
+	<p>Vamos dar um passeio no restaurante. Nessa lição, aprenderemos a ler um cardápio e outras úteis  minúcias. </p>
+</div>
+</div>
+</div>
 
 {barra_tools}
 	<div id="navegacao">		
