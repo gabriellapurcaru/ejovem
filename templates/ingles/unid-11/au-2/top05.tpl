@@ -25,13 +25,9 @@
 </ul>
 
 <div id="tabs-1">
-<p>
-</p>
 </div>
 
 <div id="tabs-2">
-<p>
-</p>
 </div>
 
 <div id="tabs-3">
@@ -39,7 +35,7 @@
   <p><span class="label label-info"><a class="" href="#" title="Posso ver o cardápio, por favor?">Can I see the menu, please?</a></span>        </p>
   <p><span class="label label-info"><a class="" href="#" title="Nos temos saladas.">I’ll have the salad.</a></span>      </p>
   <p><span class="label label-info"><a class="" href="#" title="Você vai querer alguma bebida?">Do you want anything to drink?</a></span>
-        </p>
+</p>
 </div>
 
 </div>

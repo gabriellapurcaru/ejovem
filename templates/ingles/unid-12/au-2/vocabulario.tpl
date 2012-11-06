@@ -10,51 +10,43 @@
 <table class="table table-striped">
 <tdead>
 <tr>
-<td><a href="#" title="Porção">Portion</a></td>
+<td><a href="#" title="Rua">Street</a></td>
 <td></td>
-<td><a href="#" title="Batata-frita">French fries</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="#" title="Presunto">Ham</a></td>
-<td></td>
-<td><a href="#" title="Churrasco">Barbecue</a></td>
+<td><a href="#" title="Avenida">Avenue</a></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="#" title="Frutos-do-mar">Seafood</a></td>
+<td><a href="#" title="Loja">Store</a></td>
 <td></td>
-<td><a href="#" title="Peixe">Fish</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="#" title="Camarão">Shrimp</a></td>
-<td></td>
-<td><a href="#" title="Ostra">Oyster</a></td>
+<td><a href="#" title="Centro">Downtown</a></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="#" title="Morango">Strawberry</a></td>
+<td><a href="#" title="Descrever">To describe</a></td>
 <td></td>
-<td><a href="#" title="Suco">Juice</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="#" title="Vinho">Wine</a></td>
-<td></td>
-<td><a href="#" title="Cerveja">Beer</a></td>
+<td><a href="#" title="Shopping">Shopping mall</a></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="#" title="Água">Water</a></td>
+<td><a href="#" title="Piscine">Swimming pool</a></td>
 <td></td>
-<td><a href="#" title="Fazer um pedido">To order</a></td>
+<td><a href="#" title="Livraria">Bookstore</a></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="#" title="Escolha">Choice</a></td>
+<td><a href="#" title="Biblioteca">Library</a></td>
 <td></td>
-<td><a href="#" title="Próprio">Own</a></td>
+<td><a href="#" title="Posto de gasolina">Gas station</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="#" title="Parada de ônibus">Bus stop</a></td>
+<td></td>
+<td><a href="#" title="Rodoviária">Bus station</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="#" title="Estação de trem">Train station</a></td>
 <td></td>
 </tr>
 

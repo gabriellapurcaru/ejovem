@@ -9,7 +9,7 @@
 <div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">
-	        <p>Associe a palavra em Inglês à palavra correspondente em Português. Preste atenção na semelhança entre o Português e o Inglês: essa dica irá ajudá-lo neste exercício.</p>
+	        <p>Compare como falamos dos lugares que existem na vizinhança em Português e em Inglês</p>
 	    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>
@@ -24,7 +24,7 @@
 {barra_tools}
 	<div id="navegacao">
 		<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 4 de 10</span>
+			<span>Página 4 de 11</span>
 		<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 {rodape}
