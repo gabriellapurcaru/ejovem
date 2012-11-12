@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-<h3 id="body-copy"><center><a href="#" title="Saiba mais!">Learn more!</a></h3></center></h3>
+<h3 id="body-copy"><a href="#" title="Saiba mais!">Learn more!</a></h3></h3>
 
 <div id="box-center-saiba-mais">
     <div id="box-esq">
