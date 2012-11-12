@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Brush up!">Recordando!</a></h3>
+<h3><a href="#" title="Recordando!">Brush up!</a></h3>
 <div id="center">
 
 <div id="box-esquerda">

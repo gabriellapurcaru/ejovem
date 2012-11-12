@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Escutando a pronúncia">Listening to pronounce</a></h3>
+<h3><a href="#" title="Escutando a Pronúncia">Listening to Pronounce</a></h3>
 
 <div id="center">
 
