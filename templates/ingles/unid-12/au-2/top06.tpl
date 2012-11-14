@@ -1,6 +1,7 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
+<div id="center">
 
 <h3><a href="#" title="Gramática em foco">Grammar in focus</a></h3>
 <div id="center">
