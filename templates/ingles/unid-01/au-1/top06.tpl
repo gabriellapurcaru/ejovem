@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -28,12 +28,12 @@
 <tr>
 	<td>Mouse</td>
 	<td>Rato: periférico de computador, em informática</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
 	<td>Play</td>
 	<td>Reproduzir, Tocar; Reprodução de música ou vídeo</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 </tdead>
 </table>
@@ -44,13 +44,13 @@
 <tr>
 	<td>Tênis</td>
 	<td>Português brasileiro, ou ténis português europeu, calçado de "tennisshoes"</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 
 <tr>
 	<td>Videoclipe</td>
 	<td>Ou clipe, de “videoclip”</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 
 </thead>
