@@ -37,7 +37,7 @@
 
 <tr>
 <td><a href="#" title="Ideia">Ideia</a></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a06.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 <td><a href="#" title="Fatores">Factors</a></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a07.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
