@@ -3,39 +3,17 @@
 {menu}
 
 <div id="center">
-<h3><p><a class="" href="#" title="Exercitando">Exercising</a></p></h3>
-<script src="js/Atividade01.js" type="text/javascript"></script>
 
-<div id="box-esquerda">
+<h3><a href="#" title="Exercitando">Exercicing</a></h3>
+
 <div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">
-	        <p>Vamos fazer uma revisão dos alimentos que aprendemos? Resolva a cruzadinha.</p>
-	    </div>
+	        <p><a href="#" title="Vamos fazer uma revisão dos alimentos que aprendemos?  Resolva a cruzadinha!">Let's review the foods we learned? Solve the crossword!</a></p>
+		    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-	</div>
-</div>
-</div>
-
-<div id="box-direita">
 <div id="atividade">
-	<p><center> Agora vamos fazer a atividade.</center></p>
-
-	<body onload="StartUp()" id="TheBody" >
-
-	<!-- BeginTopNavButtons -->
-
-	<!-- EndTopNavButtons -->
-
-
-<div id="InstructionsDiv" class="StdDiv">
-        <div id="Instructions">Enter your answers in the gaps. When you have entered all the answers, click on the "Check" button.<br /></div>
-</div>
-
-
-
-
-
+<script src="js/atividade02.js" type="text/javascript"></script>
 <div id="MainDiv" class="StdDiv">
 
 <!-- These top buttons hidden; reveal if required -->
@@ -82,10 +60,13 @@
 <!-- BeginSubmissionForm -->
 
 <!-- EndSubmissionForm -->
-</div>
+
 </div>
 
-
+	
+</div>
+	
+</div>
 
 {barra_tools}
 <div id="navegacao">

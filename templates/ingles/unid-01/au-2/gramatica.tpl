@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -14,28 +14,36 @@
 	<tr>
 		<td>Religion</td>
 		<td>Religião</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 		<td>Human</td>
 		<td>Humano</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 
 	<tr>
 		<td>Television</td>
 		<td>Televisão</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 		<td>Personality</td>
 		<td>Personalidade</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
 		<td>Important</td>
 		<td>Importante</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 		<td>Idea</td>
 		<td>Idéia</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag06.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 
 	</tr>	
 	<tr>
 	<td>Modification</td>
 	<td>Modificação</td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag07.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	<td>Economy</td>
 	<td>Economia</td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag08.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	</tdead>
 	</table>
@@ -48,30 +56,31 @@
 		<th>Palavra</th>
 		<th>Sentido 1</th>
 		<th>Sentido 2</th>
+		<th></th>
 	</tr>	
 
 	<tr>
 		<td>Abstract</td>
 		<td>abstrato</td>
-		<td>resumo</td>
+		<td>resumo</td><td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag09.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
 		<td>Apology</td>
 		<td>apologia</td>
-		<td>desculpas</td>
+		<td>desculpas</td><td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag10.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 
 	</tr>	
 	<tr>
 	<td>Fix</td>
 	<td>fixar</td>
-	<td>consertar</td>
+	<td>consertar</td><td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag11.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	</tdead>
 	</table>
 	<h4>Falsos cognatas:</h4>
 	<p>São palavras que possuem grande semelhança entre uma e outra mas com sentido totalmente diferente. Veja alguns exemplos:</p>
-	<p>Lunch - Almoço - não lanche<br/>
-	Fabric - Tecido - não fabrica</p>
+	<p>Lunch - Almoço - e não "lanche"<br/>
+	Fabric - Tecido - e não "fábrica"</p>
 	<p>Em uma oração:</p>
 	<span class="label label-info"><a class="" href="#" title="Ela tem um gosto muito refinado.">She has a very esquisite taste.</a></span>
 	<p>Esquisite - apurado, refinado - não esquisito</p>

@@ -5,7 +5,7 @@
 	<h3>Animação</h3>
 	<div id="box-atividade">
 	<div class="ba-esq">
-	    <div class="ba-img"><img src="dev/ejovem/ingles/au1/img/mapa.png"/></div>
+	    <div class="ba-img"><EMBED width="360" height="60" src="../../../imgs/mapa.swf"></div>
 	</div>
 	</div>
 
