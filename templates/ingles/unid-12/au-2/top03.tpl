@@ -15,6 +15,7 @@
 
 <div id="atividade">
 		<p>Agora vamos fazer a atividade</p>
+		 Clique ao lado: <a href="atividades.php" >Atividades</a>
 </div>
 
 {barra_tools}
