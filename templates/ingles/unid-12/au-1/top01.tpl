@@ -1,15 +1,14 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
-<h3><a href="#" title="Considerações Iniciais">Initial Considerations</a></h3>
+<div id="meio">
+<h3><a href="#" title="Introdução">Introduction</a></h3>
 <div id="center">
+
 	<div id="boxDigitacao">
-	<div class="item">
-
-  Olá! Como vocês já devem ter percebido, o estudo de uma língua envolve também o estudo de uma cultura. Então, façamos uma ponte entre o Brasil e os países anglófonos (aqueles países que têm o Inglês como língua oficial) e misturar um pouco o estudo do Inglês com Geografia e conhecimentos sobre nosso país?
-
-	</div>
+	    <div class="item">
+	       Olá! Como vocês já devem ter percebido, o estudo de uma língua envolve também o estudo de uma cultura. Então, façamos uma ponte entre o Brasil e os países anglófonos (aqueles países que têm o Inglês como língua oficial) e misturar um pouco o estudo do Inglês com Geografia e conhecimentos sobre nosso país?
+	    </div>
 	</div>
 
 	<div id="boxDialogo">
@@ -20,6 +19,9 @@
 	    </div>
 	</div>
 	</div>
+	</div>
+
+		   
 
 {barra_tools}
 	<div id="navegacao">

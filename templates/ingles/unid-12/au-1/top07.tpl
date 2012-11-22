@@ -25,34 +25,34 @@
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td>Dynamic</td>
+<td>dynamic</td>
 <td>dinâmica</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
 <td>polluted</td>
-<td>Poluída</td>
+<td>poluída</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 <td>crowded</td>
-<td>Lotada</td>
+<td>lotada</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 
 <tr>
 <td>beautiful</td>
-<td>Bonita</td>
+<td>bonita</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td>Friendly</td>
-<td>Amigável</td>
+<td>friendly</td>
+<td>amigável</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
-<td>Stressful</td>
-<td>Estressante</td>
+<td>stressful</td>
+<td>estressante</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 </tdead>

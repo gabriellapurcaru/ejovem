@@ -9,7 +9,7 @@
 	<div id="box-atividade">
 	<div class="ba-esq">
 	<div class="ba-balao">
-	        <p><span class="label label-info"><a class="" href="#" title="See some foods brazilian in english!">Veja alguns dos alimentos brasileiros em inglês!</a></span></p>
+	        <p><h5><a class="" href="#" title="See some foods brazilian in english!">Veja alguns dos alimentos brasileiros em inglês!</h5></a></p>
 	</div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 		</div>

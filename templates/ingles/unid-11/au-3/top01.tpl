@@ -1,28 +1,28 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
 <div id="meio">
-<h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
-
+<h3><a href="#" title="Introdução">Introduction</a></h3>
 <div id="center">
-<div id="box-introducao">
-<div id="img-person">
-    	<img src="../../../imgs/e12.png"/>
+
+	<div id="boxDigitacao">
+	    <div class="item">
+	       Agora, vamos falar do que é nosso! Vamos focar nos produtos e temperos do nosso país. Iremos também ler um texto em inglês sobre um estrangeiro que visitou um restaurante tipicamente brasileiro. Assim, reforçaremos as estratégias de leitura nessa lição. 
+Preparados? Vamos nós, rumo ao saber!
+	    </div>
 	</div>
 
-	<div id="texto">
-<p><b>Olá a todos!</b></p>
-
-<p>Agora, vamos falar do que é nosso! Vamos focar nos produtos e temperos do nosso país. Iremos também ler um texto em inglês sobre um estrangeiro que visitou um restaurante tipicamente brasileiro. Assim, reforçaremos as estratégias de leitura nessa lição.  </p>
-
-<p>Preparados? Vamos nós, rumo ao saber! </p>
-
+	<div id="boxDialogo">
+	<div class="box-digitacao">
+	    <div class="areaTexto"></div>
+	    <div id="img-person">
+	        <img src="../../../imgs/personagem_corpo.png"/>
+	    </div>
 	</div>
 	</div>
+	</div>
 
-	</div>
-	</div>
+
 
 {barra_tools}
 	<div id="navegacao">		
