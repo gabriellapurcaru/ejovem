@@ -1,24 +1,14 @@
 ﻿{topo}
 {tituloAula}
 {menu}
+
+<div id="meio"><h3><a href="#" title="Meu País, Brasil.">My Country, Brazil.</a></h3>
 <div id="center">
 
-<h3>New York/Fortaleza</h3>
-<div id="two" class="contentslider">
-<div class="cs_wrapper">
-<div class="cs_slider">
-	<!-- Inicio cs_article -->
-	<div class="cs_article">
-	<br>
-	<br>	
-	<img src="../../../ingles/unid12/au1/img/dialogo.png".png" alt="Diálogo" />
-	</div>
-	<!-- End cs_article -->
+<embed width="750" height="500" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animacao_aula01top06.swf" name="plugin"> 
 
-	<div class="cs_article">
-		<h6>exemplo só com texto.</h6>
-	</div><!-- End cs_article -->
-</div>
+
+
 </div>
 </div>
 

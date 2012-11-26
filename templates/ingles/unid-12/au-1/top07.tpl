@@ -20,38 +20,38 @@
 <table class="table table-striped">
 <tdead>
 <tr>
-<td>fascinating</td>
+<td>Fascinating</td>
 <td>facinante</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td>dynamic</td>
+<td>Dynamic</td>
 <td>dinâmica</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
-<td>polluted</td>
+<td>Polluted</td>
 <td>poluída</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td>crowded</td>
+<td>Crowded</td>
 <td>lotada</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 
 <tr>
-<td>beautiful</td>
+<td>Beautiful</td>
 <td>bonita</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td>friendly</td>
+<td>Friendly</td>
 <td>amigável</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
-<td>stressful</td>
+<td>Stressful</td>
 <td>estressante</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	

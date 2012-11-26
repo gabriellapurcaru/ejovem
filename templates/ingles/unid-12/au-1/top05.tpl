@@ -3,14 +3,12 @@
 {menu}
 
 <div id="meio">
-<h3><a href="" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Meu País, Brasil.">My Country, Brazil.</a></h3>
 <div id="center">
 
-<div id="atividade">
-	<div class="swf">
-		<img src="img/aula01_top05.png"/>
-	</div>
-</div>
+<embed width="750" height="500" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animacao_aula01top05.swf" name="plugin"> 
+
+
 
 </div>
 </div>
