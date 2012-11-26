@@ -1,9 +1,9 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
 <h3><a href="#" title="Aprenda Mais">Learn More</a></h3>
 <div id="center">
+
 <div id="box-center-saiba-mais">
     	<div id="box-esq">
 

@@ -2,10 +2,8 @@
 {tituloAula}
 {menu}
 
-<div id="center">
-
 <h3><a href="#" title="Exercitando">Exercicing</a></h3>
-
+<div id="center">
 <div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">

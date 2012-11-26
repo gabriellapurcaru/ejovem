@@ -16,6 +16,52 @@
 	</div>
 	</div>
 	<div id="box-direita">
+<div id="box-direita">
+<div id="box-explicacao-video-animacao">
+<table class="table table-striped">
+<tdead>
+<tr>
+<td>img</td>
+<td>Pepper</td>
+<td>Pimenta</td>
+</tr>	
+
+<tr>
+<td>img</td>
+<td>Dendê-oil</td>
+<td>Óleo de dendê</td>
+</tr>
+
+<tr>
+<td>img</td>
+<td>Black beans</td>
+<td>Feijão preto</td>
+</tr>	
+
+<tr>
+<td>img</td>
+<td>Coconut milk</td>
+<td>Leite de coco</td>
+</tr>
+
+<tr>
+<td>img</td>
+<td>Onion</td>
+<td>Cebola</td>
+</tr>
+
+<tr>
+<td>img</td>
+<td>Pork</td>
+<td>Porco</td>
+</tr>	
+
+</thead>
+</table> 
+
+</div>
+</div>
+
 
 
 	</div>

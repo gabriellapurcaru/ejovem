@@ -8,9 +8,7 @@
 <embed width="750" height="500" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animação_texto.swf" name="plugin"> 
 
 
-	
-</div>
-	
+</div>	
 	
 {barra_tools}
 	<div id="navegacao">
