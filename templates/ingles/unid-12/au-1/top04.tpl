@@ -2,12 +2,16 @@
 {tituloAula}
 {menu}
 
-	<h3>Animação</h3>
-	<div id="box-atividade">
-	<div class="ba-esq">
-	    <div class="ba-img"><EMBED width="360" height="60" src="../../../imgs/mapa.swf"></div>
-	</div>
-	</div>
+<div id="meio">
+<h3><a href="#" title="Conhecendo seu país">Knowing your country</a></h3>
+<div id="center">
+
+<embed width="750" height="500" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animacao_aula01top04.swf" name="plugin"> 
+
+
+
+</div>
+</div>
 
 	
 {barra_tools}
