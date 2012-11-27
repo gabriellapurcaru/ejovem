@@ -1,23 +1,25 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-<div id="meio">
+	<div id="meio">
 <h3><a href="#" title="Introdução">Introduction</a></h3>
+
 <div id="center">
-
-	<div id="boxDigitacao">
-	    <div class="item">
-	       Olá! Como vocês já devem ter percebido, o estudo de uma língua envolve também o estudo de uma cultura. Então, façamos uma ponte entre o Brasil e os países anglófonos (aqueles países que têm o Inglês como língua oficial) e misturar um pouco o estudo do Inglês com Geografia e conhecimentos sobre nosso país?
-	    </div>
+<div id="box-introducao">
+<div id="img-person">
+    	<img src="../../../imgs/e12.png"/>
 	</div>
 
-	<div id="boxDialogo">
-	<div class="box-digitacao">
-	    <div class="areaTexto"></div>
-	    <div id="img-person">
-	        <img src="../../../imgs/personagem_corpo.png"/>
-	    </div>
+	<div id="texto">
+<p>Olá! Como vocês já devem ter percebido, o estudo de uma língua envolve
+		   também o estudo de uma cultura. Então, façamos uma ponte entre o Brasil
+		   e os países anglófonos (aqueles países que têm o Inglês como língua oficial) e
+		   misturar um pouco o estudo do Inglês com Geografia e conhecimentos sobre nosso país?
+<p> Ninguém nos segura mais! Pra frente, Brasil! </p>
+
 	</div>
+	</div>
+
 	</div>
 	</div>
 

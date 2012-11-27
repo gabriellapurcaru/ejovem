@@ -19,44 +19,7 @@
 <div class="flip"><img src="../../../imgs/e04.png"/> <span> Clique aqui para ver a atividade.<span></div>
 <div class="panel">
 
-<h6>Usos de palavras ou expressões originais da língua inglesa:</h6>
-<table class="table table-striped">
-<tdead>
-<tr>
-	<td>Browser</td>
-	<td>Navegador, Leitor de hipertexto</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-<tr>
-	<td>Mouse</td>
-	<td>Rato: periférico de computador, em informática</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-<tr>
-	<td>Play</td>
-	<td>Reproduzir, Tocar; Reprodução de música ou vídeo</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-</tdead>
-</table>
-
-<h6>Palavras inglesas aportuguesadas (de uso aceito em geral):</h6>
-<table class="table table-striped">
-<tdead>
-<tr>
-	<td>Tênis</td>
-	<td>Português brasileiro, ou ténis português europeu, calçado de "tennisshoes"</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-
-<tr>
-	<td>Videoclipe</td>
-	<td>Ou clipe, de “videoclip”</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-
-</thead>
-</table>   
+<h6></h6>
 </div>
 </div>
 </div>

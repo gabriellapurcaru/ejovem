@@ -4,23 +4,30 @@
 	<div id="meio">
 <h3><a href="#" title="Introdução">Introduction</a></h3>
 
-<div id="center">
-<div id="box-introducao">
-<div id="img-person">
-    	<img src="../../../imgs/e12.png"/>
+
+	<div id="boxDigitacao">
+	   <p><div id class="item">
+	       
+	   Muitas vezes, quando se estuda uma língua estrangeira,acabamos sabendo muito sobre a cultura dos 
+	   países da língua escolhida e esquecemos-nos de focar em como apresentar de maneira mais apropriada 
+	   o nosso próprio país e cultura.  Expandiremos ainda mais nossos conhecimentos sobre o nosso 
+	   país nesta lição – e em inglês! 
+	   Ninguém nos segura mais! Pra frente, Brasil!
+		   
+	    </div></p>
 	</div>
 
-	<div id="texto">
-<p>Muitas vezes, quando se estuda uma língua estrangeira,acabamos sabendo muito sobre a cultura dos países da língua escolhida e esquecemos-nos de focar em como apresentar de maneira mais apropriada o nosso próprio país e cultura.  Expandiremos ainda mais nossos conhecimentos sobre o nosso país nesta lição – e em inglês!</p>
-
-<p> Ninguém nos segura mais! Pra frente, Brasil! </p>
-
+	<div id="boxDialogo">
+	<div class="box-digitacao">
+	    <div class="areaTexto"></div>
+	    <div id="img-person">
+	        <img src="../../../imgs/personagem_corpo.png"/>
+	    </div>
 	</div>
 	</div>
 
-	</div>
-	</div>
-{barra_tools}
+
+	{barra_tools}
 	<div id="navegacao">
 		<a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
 			<span>Página 3 de 10</span>
