@@ -6,15 +6,15 @@
 
 
 	<div id="boxDigitacao">
-	   <p><div id class="item">
-	       
+	   <div id class="item">
+	       <p>
 	   Muitas vezes, quando se estuda uma língua estrangeira,acabamos sabendo muito sobre a cultura dos 
 	   países da língua escolhida e esquecemos-nos de focar em como apresentar de maneira mais apropriada 
 	   o nosso próprio país e cultura.  Expandiremos ainda mais nossos conhecimentos sobre o nosso 
 	   país nesta lição – e em inglês! 
 	   Ninguém nos segura mais! Pra frente, Brasil!
-		   
-	    </div></p>
+		   </p>
+	    </div>
 	</div>
 
 	<div id="boxDialogo">

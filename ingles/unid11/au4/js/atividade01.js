@@ -445,355 +445,633 @@ function Finish(){
 
 
 
-//JCLOZE CORE JAVASCRIPT CODE
+//JQUIZ CORE JAVASCRIPT CODE
 
-function ItemState(){
-	this.ClueGiven = false;
-	this.HintsAndChecks = 0;
-	this.MatchedAnswerLength = 0;
-	this.ItemScore = 0;
-	this.AnsweredCorrectly = false;
-	this.Guesses = new Array();
-	return this;
+var CurrQNum = 0;
+var CorrectIndicator = 'OK';
+var IncorrectIndicator = 'X';
+var YourScoreIs = 'Your score is ';
+
+//New for 6.2.2.0
+var CompletedSoFar = 'Questions completed so far: ';
+var ExerciseCompleted = 'You have completed the exercise.';
+var ShowCompletedSoFar = true;
+
+var ContinuousScoring = true;
+var CorrectFirstTime = 'Questions answered correctly first time: ';
+var ShowCorrectFirstTime = true;
+var ShuffleQs = false;
+var ShuffleAs = true;
+var DefaultRight = 'Correct!';
+var DefaultWrong = 'Sorry! Try again.';
+var QsToShow = 10;
+var Score = 0;
+var Finished = false;
+var Qs = null;
+var QArray = new Array();
+var ShowingAllQuestions = false;
+var ShowAllQuestionsCaption = 'Show all questions';
+var ShowOneByOneCaption = 'Show questions one by one';
+var State = new Array();
+var Feedback = '';
+var TimeOver = false;
+var strInstructions = '';
+var Locked = false;
+
+//The following variable can be used to add a message explaining that
+//the question is finished, so no further marking will take place.
+var strQuestionFinished = '';
+
+function CompleteEmptyFeedback(){
+	var QNum, ANum;
+	for (QNum=0; QNum<I.length; QNum++){
+//Only do this if not multi-select
+		if (I[QNum][2] != '3'){
+  		for (ANum = 0; ANum<I[QNum][3].length; ANum++){
+  			if (I[QNum][3][ANum][1].length < 1){
+  				if (I[QNum][3][ANum][2] > 0){
+  					I[QNum][3][ANum][1] = DefaultRight;
+  				}
+  				else{
+  					I[QNum][3][ANum][1] = DefaultWrong;
+  				}
+  			}
+  		}
+		}
+	}
 }
 
-var Feedback = '';
-var Correct = 'Correct! Well done.';
-var Incorrect = 'Algumas de suas respostas est&#x00E3;o incorretas.'; 
-var GiveHint = 'A letra correta foi adicionada a resposta,';
-var CaseSensitive = false;
-var YourScoreIs = 'Your score is ';
-var Finished = false;
-var Locked = false;
-var Score = 0;
-var CurrentWord = 0;
-var Guesses = '';
-var TimeOver = false;
+function SetUpQuestions(){
+	var AList = new Array(); 
+	var QList = new Array();
+	var i, j;
+	Qs = document.getElementById('Questions');
+	while (Qs.getElementsByTagName('li').length > 0){
+		QList.push(Qs.removeChild(Qs.getElementsByTagName('li')[0]));
+	}
+	var DumpItem = 0;
+	if (QsToShow > QList.length){
+		QsToShow = QList.length;
+	}
+	while (QsToShow < QList.length){
+		DumpItem = Math.floor(QList.length*Math.random());
+		for (j=DumpItem; j<(QList.length-1); j++){
+			QList[j] = QList[j+1];
+		}
+		QList.length = QList.length-1;
+	}
+	if (ShuffleQs == true){
+		QList = Shuffle(QList);
+	}
+	if (ShuffleAs == true){
+		var As;
+		for (var i=0; i<QList.length; i++){
+			As = QList[i].getElementsByTagName('ol')[0];
+			if (As != null){
+  			AList.length = 0;
+				while (As.getElementsByTagName('li').length > 0){
+					AList.push(As.removeChild(As.getElementsByTagName('li')[0]));
+				}
+				AList = Shuffle(AList);
+				for (j=0; j<AList.length; j++){
+					As.appendChild(AList[j]);
+				}
+			}
+		}
+	}
+	
+	for (i=0; i<QList.length; i++){
+		Qs.appendChild(QList[i]);
+		QArray[QArray.length] = QList[i];
+	}
 
-I = new Array();
+//Show the first item
+	QArray[0].style.display = '';
+	
+//Now hide all except the first item
+	for (i=1; i<QArray.length; i++){
+		QArray[i].style.display = 'none';
+	}		
+	SetQNumReadout();
+	
+	SetFocusToTextbox();
+}
 
-I[0] = new Array();
-I[0][1] = new Array();
-I[0][1][0] = new Array();
-I[0][1][0][0] = '\u0063\u006F\u006F\u006B';
-I[0][2]='';
+function SetFocusToTextbox(){
+//if there's a textbox, set the focus in it
+	if (QArray[CurrQNum].getElementsByTagName('input')[0] != null){
+		QArray[CurrQNum].getElementsByTagName('input')[0].focus();
+//and show a keypad if there is one
+		if (document.getElementById('CharacterKeypad') != null){
+			document.getElementById('CharacterKeypad').style.display = 'block';
+		}
+	}
+	else{
+  	if (QArray[CurrQNum].getElementsByTagName('textarea')[0] != null){
+  		QArray[CurrQNum].getElementsByTagName('textarea')[0].focus();	
+//and show a keypad if there is one
+			if (document.getElementById('CharacterKeypad') != null){
+				document.getElementById('CharacterKeypad').style.display = 'block';
+			}
+		}
+//This added for 6.0.4.11: hide accented character buttons if no textbox
+		else{
+			if (document.getElementById('CharacterKeypad') != null){
+				document.getElementById('CharacterKeypad').style.display = 'none';
+			}
+		}
+	}
+}
 
-I[1] = new Array();
-I[1][1] = new Array();
-I[1][1][0] = new Array();
-I[1][1][0][0] = '\u0070\u006C\u0061\u0079';
-I[1][2]='';
+function ChangeQ(ChangeBy){
+//The following line prevents moving to another question until the current
+//question is answered correctly. Uncomment it to enable this behaviour. 
+//	if (State[CurrQNum][0] == -1){return;}
+	if (((CurrQNum + ChangeBy) < 0)||((CurrQNum + ChangeBy) >= QArray.length)){return;}
+	QArray[CurrQNum].style.display = 'none';
+	CurrQNum += ChangeBy;
+	QArray[CurrQNum].style.display = '';
+//Undocumented function added 10/12/2004
+	ShowSpecialReadingForQuestion();
+	SetQNumReadout();
+	SetFocusToTextbox();
+}
 
-I[2] = new Array();
-I[2][1] = new Array();
-I[2][1][0] = new Array();
-I[2][1][0][0] = '\u0077\u006F\u0072\u006B';
-I[2][2]='';
+var HiddenReadingShown = false;
+function ShowSpecialReadingForQuestion(){
+//Undocumented function for showing specific reading text elements which change with each question
+//Added on 10/12/2004
+	if (document.getElementById('ReadingDiv') != null){
+		if (HiddenReadingShown == true){
+			document.getElementById('ReadingDiv').innerHTML = '';
+		}
+		if (QArray[CurrQNum] != null){
+//Fix for 6.0.4.25
+			var Children = QArray[CurrQNum].getElementsByTagName('div');
+			for (var i=0; i<Children.length; i++){
+			if (Children[i].className=="HiddenReading"){
+					document.getElementById('ReadingDiv').innerHTML = Children[i].innerHTML;
+					HiddenReadingShown = true;
+//Hide the ShowAllQuestions button to avoid confusion
+					if (document.getElementById('ShowMethodButton') != null){
+						document.getElementById('ShowMethodButton').style.display = 'none';
+					}
+				}
+			}	
+		}
+	}
+}
 
-I[3] = new Array();
-I[3][1] = new Array();
-I[3][1][0] = new Array();
-I[3][1][0][0] = '\u0073\u0074\u0075\u0064\u0079';
-I[3][2]='';
+function SetQNumReadout(){
+	document.getElementById('QNumReadout').innerHTML = (CurrQNum+1) + ' / ' + QArray.length;
+	if ((CurrQNum+1) >= QArray.length){
+		if (document.getElementById('NextQButton') != null){
+			document.getElementById('NextQButton').style.visibility = 'hidden';
+		}
+	}
+	else{
+		if (document.getElementById('NextQButton') != null){
+			document.getElementById('NextQButton').style.visibility = 'visible';
+		}
+	}
+	if (CurrQNum <= 0){
+		if (document.getElementById('PrevQButton') != null){
+			document.getElementById('PrevQButton').style.visibility = 'hidden';
+		}
+	}
+	else{
+		if (document.getElementById('PrevQButton') != null){
+			document.getElementById('PrevQButton').style.visibility = 'visible';
+		}
+	}
+}
 
-I[4] = new Array();
-I[4][1] = new Array();
-I[4][1][0] = new Array();
-I[4][1][0][0] = '\u0064\u0061\u006E\u0063\u0065';
-I[4][2]='';
+var I=new Array();
+I[0]=new Array();I[0][0]=100;
+I[0][1]='';
+I[0][2]='0';
+I[0][3]=new Array();
+I[0][3][0]=new Array('Pot','',1,100,1);
+I[0][3][1]=new Array('Cup','',0,0,1);
+I[0][3][2]=new Array('Fork','',0,0,1);
+I[1]=new Array();I[1][0]=100;
+I[1][1]='';
+I[1][2]='0';
+I[1][3]=new Array();
+I[1][3][0]=new Array('Bowl','',0,0,1);
+I[1][3][1]=new Array('Chopping board','',0,0,1);
+I[1][3][2]=new Array('Cup','',1,100,1);
+I[2]=new Array();I[2][0]=100;
+I[2][1]='';
+I[2][2]='0';
+I[2][3]=new Array();
+I[2][3][0]=new Array('Fork and spoon','',1,100,1);
+I[2][3][1]=new Array('Knife and spoon','',0,0,1);
+I[2][3][2]=new Array('Fork and knife','',0,0,1);
+I[3]=new Array();I[3][0]=100;
+I[3][1]='';
+I[3][2]='0';
+I[3][3]=new Array();
+I[3][3][0]=new Array('Fork and knife','',1,100,1);
+I[3][3][1]=new Array('Fork and spoon','',0,0,1);
+I[3][3][2]=new Array('Spoon and knife','',0,0,1);
+I[4]=new Array();I[4][0]=100;
+I[4][1]='';
+I[4][2]='0';
+I[4][3]=new Array();
+I[4][3][0]=new Array('Bowl','',1,100,1);
+I[4][3][1]=new Array('Cooker','',0,0,1);
+I[4][3][2]=new Array('Chopping board','',0,0,1);
+I[5]=new Array();I[5][0]=100;
+I[5][1]='';
+I[5][2]='0';
+I[5][3]=new Array();
+I[5][3][0]=new Array('Frying pan','',1,100,1);
+I[5][3][1]=new Array('Teapot','',0,0,1);
+I[5][3][2]=new Array('Chopping board','',0,0,1);
+I[6]=new Array();I[6][0]=100;
+I[6][1]='';
+I[6][2]='0';
+I[6][3]=new Array();
+I[6][3][0]=new Array('Kettle','',1,100,1);
+I[6][3][1]=new Array('Cooker','',0,0,1);
+I[6][3][2]=new Array('Pot','',0,0,1);
+I[7]=new Array();I[7][0]=100;
+I[7][1]='';
+I[7][2]='0';
+I[7][3]=new Array();
+I[7][3][0]=new Array('Chopping board','',1,100,1);
+I[7][3][1]=new Array('Frying pan','',0,0,1);
+I[7][3][2]=new Array('Kettle','',0,0,1);
+I[8]=new Array();I[8][0]=100;
+I[8][1]='';
+I[8][2]='0';
+I[8][3]=new Array();
+I[8][3][0]=new Array('Plate','',1,100,1);
+I[8][3][1]=new Array('Cup','',0,0,1);
+I[8][3][2]=new Array('Knife','',0,0,1);
+I[9]=new Array();I[9][0]=100;
+I[9][1]='';
+I[9][2]='0';
+I[9][3]=new Array();
+I[9][3][0]=new Array('Cooker','',1,100,1);
+I[9][3][1]=new Array('Spoon','',0,0,1);
+I[9][3][2]=new Array('Fork','',0,0,1);
 
-
-State = new Array();
 
 function StartUp(){
 	RemoveBottomNavBarForIE();
-//Show a keypad if there is one	(added bugfix for 6.0.4.12)
-	if (document.getElementById('CharacterKeypad') != null){
-		document.getElementById('CharacterKeypad').style.display = 'block';
+
+//If there's only one question, no need for question navigation controls
+	if (QsToShow < 2){
+		document.getElementById('QNav').style.display = 'none';
 	}
 	
-
-
-
-
-
-
-	var i = 0;
-
-	State.length = 0;
-	for (i=0; i<I.length; i++){
-		State[i] = new ItemState();
-	}
+//Stash the instructions so they can be redisplayed
+	strInstructions = document.getElementById('InstructionsDiv').innerHTML;
 	
+
+	
+
+	
+
+	
+	CompleteEmptyFeedback();
+
+	SetUpQuestions();
 	ClearTextBoxes();
+	CreateStatusArray();
 	
 
-
+	
+//Check search string for q parameter
+	if (document.location.search.length > 0){
+		if (ShuffleQs == false){
+			var JumpTo = parseInt(document.location.search.substring(1,document.location.search.length))-1;
+			if (JumpTo <= QsToShow){
+				ChangeQ(JumpTo);
+			}
+		}
+	}
+//Undocumented function added 10/12/2004
+	ShowSpecialReadingForQuestion();
 }
 
-function ShowClue(ItemNum){
-	if (Locked == true){return;}
-	State[ItemNum].ClueGiven = true;
-	ShowMessage(I[ItemNum][2]);
+function ShowHideQuestions(){
+	FuncBtnOut(document.getElementById('ShowMethodButton'));
+	document.getElementById('ShowMethodButton').style.display = 'none';
+	if (ShowingAllQuestions == false){
+		for (var i=0; i<QArray.length; i++){
+				QArray[i].style.display = '';
+			}
+		document.getElementById('Questions').style.listStyleType = 'decimal';
+		document.getElementById('OneByOneReadout').style.display = 'none';
+		document.getElementById('ShowMethodButton').innerHTML = ShowOneByOneCaption;
+		ShowingAllQuestions = true;
+	}
+	else{
+		for (var i=0; i<QArray.length; i++){
+				if (i != CurrQNum){
+					QArray[i].style.display = 'none';
+				}
+			}
+		document.getElementById('Questions').style.listStyleType = 'none';
+		document.getElementById('OneByOneReadout').style.display = '';
+		document.getElementById('ShowMethodButton').innerHTML = ShowAllQuestionsCaption;
+		ShowingAllQuestions = false;	
+	}
+	document.getElementById('ShowMethodButton').style.display = 'inline';
 }
 
-function SaveCurrentAnswers(){
-	var Ans = '';
-	for (var i=0; i<I.length; i++){
-		Ans = GetGapValue(i);
-		if ((Ans.length > 0)&&(Ans != State[i].Guesses[State[i].Guesses.length-1])){
-			State[i].Guesses[State[i].Guesses.length] = Ans;
+function CreateStatusArray(){
+	var QNum, ANum;
+//For each item in the item array
+	for (QNum=0; QNum<I.length; QNum++){
+//Check if the question still exists (hasn't been nuked by showing a random selection)
+		if (document.getElementById('Q_' + QNum) != null){
+			State[QNum] = new Array();
+			State[QNum][0] = -1; //Score for this q; -1 shows question not done yet
+			State[QNum][1] = new Array(); //answers
+			for (ANum = 0; ANum<I[QNum][3].length; ANum++){
+				State[QNum][1][ANum] = 0; //answer not chosen yet; when chosen, will store its position in the series of choices
+			}
+			State[QNum][2] = 0; //tries at this q so far
+			State[QNum][3] = 0; //incrementing percent-correct values of selected answers
+			State[QNum][4] = 0; //penalties incurred for hints
+			State[QNum][5] = ''; //Sequence of answers chosen by number
+		}
+		else{
+			State[QNum] = null;
 		}
 	}
 }
 
-function CompileGuesses(){
-	var F = document.getElementById('store');
-	if (F != null){
-		var Temp = '<?xml version="1.0"?><hpnetresult><fields>';
-		var GapLabel = '';
-		for (var i=0; i<State.length; i++){
-			GapLabel = 'Gap ' + (i+1).toString();
-			Temp += '<field><fieldname>' + GapLabel + '</fieldname>';
-			Temp += '<fieldtype>student-responses</fieldtype><fieldlabel>' + GapLabel + '</fieldlabel>';
-			Temp += '<fieldlabelid>JClozeStudentResponses</fieldlabelid><fielddata>';
-			for (var j=0; j<State[i].Guesses.length; j++){
-				if (j>0){Temp += '| ';}
-				Temp += State[i].Guesses[j] + ' ';	
-			}	
-  		Temp += '</fielddata></field>';
-		}
-		Temp += '</fields></hpnetresult>';
-		Detail = Temp;
+
+
+function CheckMCAnswer(QNum, ANum, Btn){
+//if question doesn't exist, bail
+	if (State[QNum].length < 1){return;}
+	
+//Get the feedback
+	Feedback = I[QNum][3][ANum][1];
+	
+//Now show feedback and bail if question already complete
+	if (State[QNum][0] > -1){
+//Add an extra message explaining that the question
+// is finished if defined by the user
+		if (strQuestionFinished.length > 0){Feedback += '<br />' + strQuestionFinished;}
+//Show the feedback
+		ShowMessage(Feedback);
+//New for 6.2.2.1: If you want to mark an answer as correct even when it's the final choice, uncomment this line.
+//		if (I[QNum][3][ANum][2] >= 1){Btn.innerHTML = CorrectIndicator;}else{Btn.innerHTML = IncorrectIndicator;}	
+		return;
 	}
-}
+	
+//Hide the button while processing
+	Btn.style.display = 'none';
 
-function CheckAnswers(){
-	if (Locked == true){return;}
-	SaveCurrentAnswers();
-	var AllCorrect = true;
+//Increment the number of tries
+	State[QNum][2]++;
+	
+//Add the percent-correct value of this answer
+	State[QNum][3] += I[QNum][3][ANum][3];
+	
+//Store the try number in the answer part of the State array, for tracking purposes
+	State[QNum][1][ANum] = State[QNum][2];
+	if (State[QNum][5].length > 0){State[QNum][5] += ' | ';}
+	State[QNum][5] += String.fromCharCode(65+ANum);
+	
+//Should this answer be accepted as correct?
+	if (I[QNum][3][ANum][2] < 1){
+//It's wrong
 
-//Check each answer
-	for (var i = 0; i<I.length; i++){
-
-		if (State[i].AnsweredCorrectly == false){
-//If it's right, calculate its score
-			if (CheckAnswer(i, true) > -1){
-				var TotalChars = GetGapValue(i).length;
-				State[i].ItemScore = (TotalChars-State[i].HintsAndChecks)/TotalChars;
-				if (State[i].ClueGiven == true){State[i].ItemScore /= 2;}
-				if (State[i].ItemScore <0 ){State[i].ItemScore = 0;}
-				State[i].AnsweredCorrectly = true;
-//Drop the correct answer into the page, replacing the text box
-				SetCorrectAnswer(i, GetGapValue(i));
+//Mark the answer
+		Btn.innerHTML = IncorrectIndicator;
+		
+//Remove any previous score unless exercise is finished (6.0.3.8+)
+		if (Finished == false){
+			WriteToInstructions(strInstructions);
+		}	
+		
+//Check whether this leaves just one MC answer unselected, in which case the Q is terminated
+		var RemainingAnswer = FinalAnswer(QNum);
+		if (RemainingAnswer > -1){
+//Behave as if the last answer had been selected, but give no credit for it
+//Increment the number of tries
+			State[QNum][2]++;		
+		
+//Calculate the score for this question
+			CalculateMCQuestionScore(QNum);
+			
+//Get the overall score and add it to the feedback
+			CalculateOverallScore();
+//New for 6.2.2.1
+			var QsDone = CheckQuestionsCompleted();
+			if ((ContinuousScoring == true)||(Finished == true)){
+				Feedback += '<br />' + YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone;
+				WriteToInstructions(YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone);
 			}
 			else{
-//Otherwise, increment the hints for this item, as a penalty
-				State[i].HintsAndChecks++;
-
-//then set the flag
-				AllCorrect = false;
+				WriteToInstructions(QsDone);
 			}
 		}
 	}
+	else{
+//It's right
+//Mark the answer
+		Btn.innerHTML = CorrectIndicator;
+				
+//Calculate the score for this question
+		CalculateMCQuestionScore(QNum);
+		
+//New for 6.2.2.0
+		var QsDone = CheckQuestionsCompleted();
 
-//Calculate the total score
+//Get the overall score and add it to the feedback
+		if (ContinuousScoring == true){
+			CalculateOverallScore();
+			if ((ContinuousScoring == true)||(Finished == true)){
+				Feedback += '<br />' + YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone;
+				WriteToInstructions(YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone);
+			}
+		}
+		else{
+			WriteToInstructions(QsDone);
+		}
+	}
+	
+//Show the button again
+	Btn.style.display = 'inline';
+	
+//Finally, show the feedback	
+	ShowMessage(Feedback);
+	
+//Check whether all questions are now done
+	CheckFinished();
+}
+
+function CalculateMCQuestionScore(QNum){
+	var Tries = State[QNum][2] + State[QNum][4]; //include tries and hint penalties
+	var PercentCorrect = State[QNum][3];
+	var TotAns = GetTotalMCAnswers(QNum);
+	var HintPenalties = State[QNum][4];
+	
+//Make sure it's not already complete
+
+	if (State[QNum][0] < 0){
+//Allow for Hybrids
+		if (HintPenalties >= 1){
+			State[QNum][0] = 0;
+		}
+		else{
+//This line calculates the score for this question
+			if (TotAns == 1){
+				State[QNum][0] = 1;
+			}
+			else{
+				State[QNum][0] = ((TotAns-((Tries*100)/State[QNum][3]))/(TotAns-1));
+			}
+		}
+//Fix for Safari bug added for version 6.0.3.42 (negative infinity problem)
+		if ((State[QNum][0] < 0)||(State[QNum][0] == Number.NEGATIVE_INFINITY)){
+			State[QNum][0] = 0;
+		}
+	}
+}
+
+function GetTotalMCAnswers(QNum){
+	var Result = 0;
+	for (var ANum=0; ANum<I[QNum][3].length; ANum++){
+		if (I[QNum][3][ANum][4] == 1){ //This is an MC answer
+			Result++;
+		}
+	}
+	return Result;
+}
+
+function FinalAnswer(QNum){
+	var UnchosenAnswers = 0;
+	var FinalAnswer = -1;
+	for (var ANum=0; ANum<I[QNum][3].length; ANum++){
+		if (I[QNum][3][ANum][4] == 1){ //This is an MC answer
+			if (State[QNum][1][ANum] < 1){ //This answer hasn't been chosen yet
+				UnchosenAnswers++;
+				FinalAnswer = ANum;
+			}
+		}
+	}
+	if (UnchosenAnswers == 1){
+		return FinalAnswer;
+	}
+	else{
+		return -1;
+	}
+}
+
+
+
+
+
+function CalculateOverallScore(){
+	var TotalWeighting = 0;
 	var TotalScore = 0;
-	for (i=0; i<State.length; i++){
-		TotalScore += State[i].ItemScore;
-	}
-	TotalScore = Math.floor((TotalScore * 100)/I.length);
-
-//Compile the output
-	Output = '';
-
-	if (AllCorrect == true){
-		Output = Correct + '<br />';
-	}
-
-	Output += YourScoreIs + ' ' + TotalScore + '%.<br />';
-	if (AllCorrect == false){
-		Output += Incorrect;
-	}
-	ShowMessage(Output);
-	setTimeout('WriteToInstructions(Output)', 50);
 	
-	Score = TotalScore;
-	CompileGuesses();
+	for (var QNum=0; QNum<State.length; QNum++){
+		if (State[QNum] != null){
+			if (State[QNum][0] > -1){
+				TotalWeighting += I[QNum][0];
+				TotalScore += (I[QNum][0] * State[QNum][0]);
+			}
+		}
+	}
+	if (TotalWeighting > 0){
+		Score = Math.floor((TotalScore/TotalWeighting)*100);
+	}
+	else{
+//if TotalWeighting is 0, no questions so far have any value, so 
+//no penalty should be shown.
+		Score = 100; 
+	}
+}
+
+//New for 6.2.2.0
+function CheckQuestionsCompleted(){
+	if (ShowCompletedSoFar == false){return '';}
+	var QsCompleted = 0;
+	for (var QNum=0; QNum<State.length; QNum++){
+		if (State[QNum] != null){
+			if (State[QNum][0] >= 0){
+				QsCompleted++;
+			}
+		}
+	}
+//Fixes for 6.2.2.2
+	if (QsCompleted >= QArray.length){
+		return ExerciseCompleted;
+	}
+	else{
+		return CompletedSoFar + ' ' + QsCompleted + '/' + QArray.length + '.';
+	}
+}
+
+function CheckFinished(){
+	var FB = '';
+	var AllDone = true;
+	for (var QNum=0; QNum<State.length; QNum++){
+		if (State[QNum] != null){
+			if (State[QNum][0] < 0){
+				AllDone = false;
+			}
+		}
+	}
+	if (AllDone == true){
 	
-	if ((AllCorrect == true)||(Finished == true)){
-	
+//Report final score and submit if necessary
+		CalculateOverallScore();
+		FB = YourScoreIs + ' ' + Score + '%.';
+		if (ShowCorrectFirstTime == true){
+			var CFT = 0;
+			for (QNum=0; QNum<State.length; QNum++){
+				if (State[QNum] != null){
+					if (State[QNum][0] >= 1){
+						CFT++;
+					}
+				}
+			}
+			FB += '<br />' + CorrectFirstTime + ' ' + CFT + '/' + QsToShow;
+		}
+		
+//New for 6.2.2.0
+		FB += '<br />' + ExerciseCompleted;
+		
+		WriteToInstructions(FB);
+		
+		Finished == true;
+
+
 
 
 		TimeOver = true;
 		Locked = true;
+		
+
+
 		Finished = true;
+		Detail = '<?xml version="1.0"?><hpnetresult><fields>';
+		for (QNum=0; QNum<State.length; QNum++){
+			if (State[QNum] != null){
+				if (State[QNum][5].length > 0){
+					Detail += '<field><fieldname>Question #' + (QNum+1) + '</fieldname><fieldtype>question-tracking</fieldtype><fieldlabel>Q ' + (QNum+1) + '</fieldlabel><fieldlabelid>QuestionTrackingField</fieldlabelid><fielddata>' + State[QNum][5] + '</fielddata></field>';
+				}
+			}
+		}
+		Detail += '</fields></hpnetresult>';
 		setTimeout('Finish()', SubmissionTimeout);
 	}
 
 }
 
-function TrackFocus(BoxNumber){
-	CurrentWord = BoxNumber;
-	InTextBox = true;
-}
 
-function LeaveGap(){
-	InTextBox = false;
-}
-
-function CheckBeginning(Guess, Answer){
-	var OutString = '';
-	var i = 0;
-	var UpperGuess = '';
-	var UpperAnswer = '';
-
-	if (CaseSensitive == false) {
-		UpperGuess = Guess.toUpperCase();
-		UpperAnswer = Answer.toUpperCase();
-	}
-	else {
-		UpperGuess = Guess;
-		UpperAnswer = Answer;
-	}
-
-	while (UpperGuess.charAt(i) == UpperAnswer.charAt(i)) {
-		OutString += Guess.charAt(i);
-		i++;
-	}
-	OutString += Answer.charAt(i);
-	return OutString;
-}
-
-function GetGapValue(GNum){
-	var RetVal = '';
-	if ((GNum<0)||(GNum>=I.length)){return RetVal;}
-	if (document.getElementById('Gap' + GNum) != null){
-		RetVal = document.getElementById('Gap' + GNum).value;
-		RetVal = TrimString(RetVal);
-	}
-	else{
-		RetVal = State[GNum].Guesses[State[GNum].Guesses.length-1];
-	}
-	return RetVal;
-}
-
-function SetGapValue(GNum, Val){
-	if ((GNum<0)||(GNum>=I.length)){return;}
-	if (document.getElementById('Gap' + GNum) != null){
-		document.getElementById('Gap' + GNum).value = Val;
-		document.getElementById('Gap' + GNum).focus();
-	}
-}
-
-function SetCorrectAnswer(GNum, Val){
-	if ((GNum<0)||(GNum>=I.length)){return;}
-	if (document.getElementById('GapSpan' + GNum) != null){
-		document.getElementById('GapSpan' + GNum).innerHTML = Val;
-	}
-}
-
-function FindCurrent() {
-	var x = 0;
-	FoundCurrent = -1;
-
-//Test the current word:
-//If its state is not set to already correct, check the word.
-	if (State[CurrentWord].AnsweredCorrectly == false){
-		if (CheckAnswer(CurrentWord, false) < 0){
-			return CurrentWord;
-		}
-	}
-	
-	x=CurrentWord + 1;
-	while (x<I.length){
-		if (State[x].AnsweredCorrectly == false){
-			if (CheckAnswer(x, false) < 0){
-				return x;
-			}
-		}
-	x++;	
-	}
-
-	x = 0;
-	while (x<CurrentWord){
-		if (State[x].AnsweredCorrectly == false){
-			if (CheckAnswer(x, false) < 0){
-				return x;
-			}
-		}
-	x++;	
-	}
-	return FoundCurrent;
-}
-
-function CheckAnswer(GapNum, MarkAnswer){
-	var Guess = GetGapValue(GapNum);
-	var UpperGuess = '';
-	var UpperAnswer = '';
-	if (CaseSensitive == false){
-		UpperGuess = Guess.toUpperCase();
-	}
-	else{
-		UpperGuess = Guess;
-	}
-	var Match = -1;
-	for (var i = 0; i<I[GapNum][1].length; i++){
-		if (CaseSensitive == false){
-			UpperAnswer = I[GapNum][1][i][0].toUpperCase();
-		}
-		else{
-			UpperAnswer = I[GapNum][1][i][0];
-		}
-		if (TrimString(UpperGuess) == UpperAnswer){
-			Match = i;
-			if (MarkAnswer == true){
-				State[GapNum].AnsweredCorrectly = true;
-			}
-		}
-	}
-	return Match;
-}
-
-function GetHint(GapNum){
-	Guess = GetGapValue(GapNum);
-
-	if (CheckAnswer(GapNum, false) > -1){return ''}
-	RightBits = new Array();
-	for (var i=0; i<I[GapNum][1].length; i++){
-		RightBits[i] = CheckBeginning(Guess, I[GapNum][1][i][0]);
-	}
-	var RightOne = FindLongest(RightBits);
-	var Result = I[GapNum][1][RightOne][0].substring(0,RightBits[RightOne].length);
-//Add another char if the last one is a space
-	if (Result.charAt(Result.length-1) == ' '){
-		Result = I[GapNum][1][RightOne][0].substring(0,RightBits[RightOne].length+1);
-	}
-	return Result;
-}
-
-function ShowHint(){
-	if (document.getElementById('FeedbackDiv').style.display == 'block'){return;}
-	if (Locked == true){return;}
-	var CurrGap = FindCurrent();
-	if (CurrGap < 0){return;}
-
-	var HintString = GetHint(CurrGap);
-
-	if (HintString.length > 0){
-		SetGapValue(CurrGap, HintString);
-		State[CurrGap].HintsAndChecks += 1;
-	}
-	ShowMessage(GiveHint);
-}
-
-function TypeChars(Chars){
-	var CurrGap = FindCurrent();
-	if (CurrGap < 0){return;}
-	if (document.getElementById('Gap' + CurrGap) != null){
-		SetGapValue(CurrGap, document.getElementById('Gap' + CurrGap).value + Chars);
-	}
-}
 
 
 
