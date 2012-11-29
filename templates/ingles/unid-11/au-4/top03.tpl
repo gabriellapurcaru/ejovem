@@ -22,7 +22,7 @@
 	    </div>
 		
 	<div class="Titles">
-	<h2 class="ExerciseTitle"></h2>
+	
 
 	<h3 class="ExerciseSubtitle">Quiz</h3>
 
@@ -31,18 +31,19 @@
 </div>
 
 <div id="InstructionsDiv" class="StdDiv">
+	<div id="Instructions"><script src="atividade01.js" type="text/javascript"></script></head>
+
+
+<div id="InstructionsDiv" class="StdDiv">
 	<div id="Instructions"></div>
 </div>
-
-
-
 
 <div id="MainDiv" class="StdDiv">
  
 <div id="QNav" class="QuestionNavigation">
 
 <p style="text-align: right;">
-<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return false;">Show all questions</button>
+<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return true;">Show all questions</button>
 </p>
 
 <div id="OneByOneReadout">
@@ -80,8 +81,12 @@
 </div>
 
 </div>
-
 </div>
+</div>
+</div>
+
+
+
 
 {barra_tools}
 	<div id="navegacao">
