@@ -19,7 +19,6 @@
 <div class="flip"><img src="../../../imgs/e04.png"/> <span> Clique aqui para ver a atividade.<span></div>
 <div class="panel">
 
-<h6></h6>
 </div>
 </div>
 </div>

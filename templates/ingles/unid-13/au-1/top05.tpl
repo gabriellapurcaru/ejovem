@@ -4,7 +4,7 @@
 
 
 <div id="meio">
-<h3><a href="#" title="O inglês no dia-a-dia">The english in day-to-day</a></h3>
+<h3><a href="#" title="...">...</a></h3>
 
 <div id="center">
 <div id="box-esquerda">
@@ -14,8 +14,8 @@
     <div id="box-explicacao-tabela-img">
         <img src="../../../imgs/e17.png"/>
     </div>
-</div>
 
+</div>
 
 </div>
 </div>

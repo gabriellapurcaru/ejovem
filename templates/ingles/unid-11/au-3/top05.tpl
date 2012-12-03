@@ -60,7 +60,6 @@
 <!-- EndSubmissionForm -->
 
 </div>
-
 	
 </div>
 	
