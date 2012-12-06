@@ -17,7 +17,6 @@
 	</div>
 	<div id="box-direita">
 <div id="box-direita">
-<div id="box-explicacao-video-animacao">
 <table class="table table-striped">
 <tdead>
 <tr>
@@ -61,10 +60,6 @@
 
 </div>
 </div>
-
-
-
-	</div>
 	</div>
 
 {barra_tools}
