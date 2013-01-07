@@ -1,9 +1,11 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Breakfeast">Café da manhã</a></h3>
+<h3><a href="#" title="Café da manhã">Breakfeast</a></h3>
+<div id="center">
 
+</div>
 
 {barra_tools}
 	<div id="navegacao">

@@ -1,10 +1,15 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="What other foods and drinks do you know in english?">Que outros alimentos e bebidas você sabe em inglês</a></h3>
+<h3><a href="#" title="Que outros alimentos e bebidas você sabe em inglês?">What other foods and drinks do you know in english?</a></h3>
+<div id="center">
 
 
+
+
+
+</div>
 
 {barra_tools}
 	<div id="navegacao">
