@@ -1,7 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<h3>Faltou o título!** <br> E aqui seria outra animação.</h3>
 <div id="center">
 	<div id="boxDigitacao">
 	    <div class="item">

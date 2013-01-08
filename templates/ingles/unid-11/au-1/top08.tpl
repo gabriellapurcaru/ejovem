@@ -1,7 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<h3>Faltou o Título!*** E a atividade.</h3>
 <div id="center">
 <div id="box-esquerda"> 
 	<div id="box-atividade">
