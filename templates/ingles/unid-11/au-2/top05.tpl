@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -17,27 +17,7 @@
 
 <div id="box-direita">
  
-<div id="demo-tabs">
-<ul>
-<li><a href="#tabs-1">Waiter</a></li>
-<li><a href="#tabs-2">Sir and Ma´am</a></li>
-<li><a href="#tabs-3">Fazendo pedido</a></li>
-</ul>
-
-<div id="tabs-1">
-</div>
-
-<div id="tabs-2">
-</div>
-
-<div id="tabs-3">
-  <p><span class="label label-info"><a class="" href="#" title="Pronto para fazer o pedido?">Are you ready to order?</a></span>      </p>
-  <p><span class="label label-info"><a class="" href="#" title="Posso ver o cardápio, por favor?">Can I see the menu, please?</a></span>        </p>
-  <p><span class="label label-info"><a class="" href="#" title="Nos temos saladas.">I’ll have the salad.</a></span>      </p>
-  <p><span class="label label-info"><a class="" href="#" title="Você vai querer alguma bebida?">Do you want anything to drink?</a></span>
-</p>
-</div>
-
+Animação aqui!!
 </div>
 </div>
 

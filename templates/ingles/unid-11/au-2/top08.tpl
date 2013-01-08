@@ -1,15 +1,15 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Praticando">Praticing</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
 <div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">
-	        <p>Associe a palavra em Inglês à palavra correspondente em Português. Preste atenção na semelhança entre o Português e o Inglês: essa dica irá ajudá-lo neste exercício.</p>
+	        <p>Não se sabe qual é das atividades que vamos colocar aqui.</p>
 	    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>
@@ -18,7 +18,7 @@
 
 <div id="box-direita">
 <div id="atividade">
-		<p>Agora vamos fazer a atividade</p>
+		<p>Qual das atividades? '-'</p>
 </div>
 </div>
 

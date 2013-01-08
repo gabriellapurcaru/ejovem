@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -14,8 +14,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Estamos chegando ao fim de mais uma lesson.</p>
-	       <p>Antes de termina-la vá a sessão vocabulário e aprenda mais uma palavras novas, para ampliar seus conhecimentos!</p>
+	       <p>Estamos chegando ao fim de mais uma lesson.
+	       <br>Antes de termina-la vá a sessão vocabulário e aprenda mais uma palavras novas, para ampliar seus conhecimentos!</p>
       </div>
     </div>
 </div>

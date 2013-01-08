@@ -1,11 +1,14 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
 
+Animação!****
 
+
+</div>
 {barra_tools}
 	<div id="navegacao">		
 	    <a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
