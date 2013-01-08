@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Brush up!">Recordando!</a></h3>
+<h3><a href="#" title="Recordando!">Brush up!</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
@@ -20,15 +20,11 @@
 
 <div id="box-direita">
 	<div id="atividade">
-		<p><script src="unidade_11aula01.js" type="text/javascript"></script></head>
+		<p><script src="js/unidade_11aula01.js" type="text/javascript"></script></head>
 
 <body onload="StartUp()" id="TheBody" >
 
-<!-- BeginTopNavButtons -->
 
-
-
-<!-- EndTopNavButtons -->
 
 <div class="Titles">
         <h2 class="ExerciseTitle"></h2>
@@ -90,15 +86,6 @@
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
 
-<!-- BeginBottomNavButtons -->
-
-
-
-<!-- EndBottomNavButtons -->
-
-<!-- BeginSubmissionForm -->
-
-<!-- EndSubmissionForm -->
  </p>
     </div>
 </div>
@@ -106,7 +93,7 @@
 {barra_tools}
 	<div id="navegacao">
 		<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 2 de 11</span>
+			<span>Página 2 de 10</span>
 		<a href="top03.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 {rodape}

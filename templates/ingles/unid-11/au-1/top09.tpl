@@ -1,29 +1,29 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
+<h3><a href="#" title="Saiba Mais!">Learn More!</a></h3>
 <div id="center">
-<div id="box-esquerda"> 
-	<div id="box-atividade">
-	<div class="ba-esq">
-	    <div class="ba-balao">
-	        <p>Olá, vamos começar!</p>
-	    </div>
-	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-	</div>
-	</div>
-</div>
-<div id="box-direita">
-<div id="atividade">
-		<p>Agora vamos fazer a atividade. </p>
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+
+        <div class="box-person-sem-texto">
+                <img src="../../../imgs/e13.png"/>
+        </div>
     </div>
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	       <p>Está interessado em saber mais alguma comida em Inglês? Então vá a sessão Vocabulário para aumentar ainda mais seu vocabulário!</p>
+        </div>
+    </div>
+</div>
 </div>
 
 
 {barra_tools}
-	<div id="navegacao">
-		<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 9 de 10</span>
-		<a href="top10.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+	<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 9 de 10</span>
+	<a href="top10.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+</div>
 {rodape}
