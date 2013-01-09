@@ -459,8 +459,8 @@ function ItemState(){
 
 var Feedback = '';
 var Correct = 'Correct! Well done.';
-var Incorrect = 'Algumas de suas respostas est&#x00E3;o incorretas.'; 
-var GiveHint = 'A letra correta foi adicionada a resposta,';
+var Incorrect = 'Some of your answers are incorrect. Incorrect answers have been left in place for you to change.'; 
+var GiveHint = 'The next correct letter has been added to the answer.';
 var CaseSensitive = false;
 var YourScoreIs = 'Your score is ';
 var Finished = false;
@@ -475,32 +475,74 @@ I = new Array();
 I[0] = new Array();
 I[0][1] = new Array();
 I[0][1][0] = new Array();
-I[0][1][0][0] = '\u0063\u006F\u006F\u006B';
+I[0][1][0][0] = '\u0062\u006F\u006F\u006B\u0073\u0074\u006F\u0072\u0065';
 I[0][2]='';
-
-I[1] = new Array();
-I[1][1] = new Array();
-I[1][1][0] = new Array();
-I[1][1][0][0] = '\u0070\u006C\u0061\u0079';
-I[1][2]='';
 
 I[2] = new Array();
 I[2][1] = new Array();
 I[2][1][0] = new Array();
-I[2][1][0][0] = '\u0077\u006F\u0072\u006B';
+I[2][1][0][0] = '\u0062\u0075\u0073\u0020\u0073\u0074\u006F\u0070';
 I[2][2]='';
 
 I[3] = new Array();
 I[3][1] = new Array();
 I[3][1][0] = new Array();
-I[3][1][0][0] = '\u0073\u0074\u0075\u0064\u0079';
+I[3][1][0][0] = '\u0064\u0072\u0075\u0067\u0073\u0074\u006F\u0072\u0065';
 I[3][2]='';
 
 I[4] = new Array();
 I[4][1] = new Array();
 I[4][1][0] = new Array();
-I[4][1][0][0] = '\u0064\u0061\u006E\u0063\u0065';
+I[4][1][0][0] = '\u007A\u006F\u006F';
 I[4][2]='';
+
+I[5] = new Array();
+I[5][1] = new Array();
+I[5][1][0] = new Array();
+I[5][1][0][0] = '\u006D\u0061\u006C\u006C';
+I[5][2]='';
+
+I[6] = new Array();
+I[6][1] = new Array();
+I[6][1][0] = new Array();
+I[6][1][0][0] = '\u006D\u006F\u0076\u0069\u0065\u0020\u0074\u0068\u0065\u0061\u0074\u0065\u0072';
+I[6][2]='';
+
+I[7] = new Array();
+I[7][1] = new Array();
+I[7][1][0] = new Array();
+I[7][1][0][0] = '\u006D\u0075\u0073\u0065\u0075\u006D';
+I[7][2]='';
+
+I[8] = new Array();
+I[8][1] = new Array();
+I[8][1][0] = new Array();
+I[8][1][0][0] = '\u0070\u0061\u0072\u006B';
+I[8][2]='';
+
+I[9] = new Array();
+I[9][1] = new Array();
+I[9][1][0] = new Array();
+I[9][1][0][0] = '\u0070\u006F\u0073\u0074\u0020\u006F\u0066\u0066\u0069\u0063\u0065';
+I[9][2]='';
+
+I[10] = new Array();
+I[10][1] = new Array();
+I[10][1][0] = new Array();
+I[10][1][0][0] = '\u0072\u0065\u0073\u0074\u0061\u0075\u0072\u0061\u006E\u0074';
+I[10][2]='';
+
+I[11] = new Array();
+I[11][1] = new Array();
+I[11][1][0] = new Array();
+I[11][1][0][0] = '\u0073\u0075\u0070\u0065\u0072\u006D\u0061\u0072\u006B\u0065\u0074';
+I[11][2]='';
+
+I[12] = new Array();
+I[12][1] = new Array();
+I[12][1][0] = new Array();
+I[12][1][0][0] = '\u0062\u0061\u006E\u006B';
+I[12][2]='';
 
 
 State = new Array();

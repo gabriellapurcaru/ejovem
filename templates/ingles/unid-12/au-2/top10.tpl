@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -14,7 +14,7 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Vá a sessão vocabulário para ampliar seus conhecimentos!.</p>
+	       <p>Vá a sessão vocabulário para ampliar seus conhecimentos!.<br>
            Clique ao lado: <a href="vocabulario.php" target="_blank" >Vocabulário</a>
         </div>
     </div>

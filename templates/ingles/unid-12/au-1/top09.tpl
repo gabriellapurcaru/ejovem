@@ -3,7 +3,7 @@
 {menu}
 
 <h3 id="body-copy"><a href="#" title="Saiba mais!">Learn more!</a></h3></h3>
-
+<div id="center">
 <div id="box-center-saiba-mais">
     <div id="box-esq">
 
@@ -19,7 +19,7 @@ Mais antes de finalizar  vá a sessão vocabulário e amplie seus conhecimentos!
         </div>
     </div>
 </div>
-
+</div>
 
 {barra_tools}
 	<div id="navegacao">

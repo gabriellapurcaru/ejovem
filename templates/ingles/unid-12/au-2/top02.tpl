@@ -1,11 +1,11 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Let's get started!">Vamos começar</a></h3>
-
-
-
+<h3><a href="#" title="Let's get started!">Vamos começar!</a></h3>
+<div id="center">
+ANiMAÇÃO!
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

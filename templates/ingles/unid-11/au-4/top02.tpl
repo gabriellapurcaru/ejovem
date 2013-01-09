@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -25,7 +25,7 @@ brasileiro!</p>
 <div id="box-direita">
 
 <div id="atividade">
-		<p>Agora vamos fazer a atividade</p>
+		<p>Agora vamos fazer a atividade<br>**FALTANDO A ATIVIDADE!**</p>
 </div>
 </div>
 {barra_tools}

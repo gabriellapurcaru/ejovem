@@ -1,15 +1,15 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Gramática em foco">Grammar in focos</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
 	<div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">
-        	<h3><a href="#" title="Now listen to áudio and answer the questions.">Agora ouça o áudio e responda as questões. </a>			            </h3>     
+        	<p><a href="#" title="Now listen to áudio and answer the questions.">Agora ouça o áudio e responda as questões. </a></p>			                 
 	    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>

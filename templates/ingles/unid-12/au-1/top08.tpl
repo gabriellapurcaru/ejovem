@@ -1,10 +1,9 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-<div id="center">
 
 <h3><a href="#" title="Exercitando">Exercicing</a></h3>
-
+<div id="center">
 
 <div id="atividade">
 <p><a href="#" title="Vamos fazer um exercício sobre São Paulo! Complete o espaço com os adjetivos">Let´s do an exercise about São Paulo! Complete the space with the adjectives.</a></p>

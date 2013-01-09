@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-<script src="atividade01.js" type="text/javascript"></script>
+<script src="js/atividade01_quiz.js" type="text/javascript"></script>
 <h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
 
