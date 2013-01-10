@@ -3,20 +3,8 @@
 {menu}
 <h3>Faltou o Título!*** E a atividade.</h3>
 <div id="center">
-<div id="box-esquerda"> 
-	<div id="box-atividade">
-	<div class="ba-esq">
-	    <div class="ba-balao">
-	        <p>Olá, vamos começar!</p>
-	    </div>
-	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-	</div>
-	</div>
-</div>
-<div id="box-direita">
-<div id="atividade">
-		<p>Agora vamos fazer a atividade. </p>
-    </div>
+Animação *Calorias*
+
 </div>
 
 

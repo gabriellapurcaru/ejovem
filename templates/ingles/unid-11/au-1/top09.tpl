@@ -13,7 +13,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Está interessado em saber mais alguma comida em Inglês? Então vá a sessão Vocabulário para aumentar ainda mais seu vocabulário!</p>
+	       <p>Está interessado em saber mais alguma comida em Inglês?
+ Então vá a sessão <a href="vocabulario.php">Vocabulário</a> para aumentar ainda mais seu vocabulário!</p>
         </div>
     </div>
 </div>

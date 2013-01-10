@@ -3,20 +3,23 @@
 {menu}
 <h3>Faltou o título!** <br> E aqui seria outra animação.</h3>
 <div id="center">
-	<div id="boxDigitacao">
-	    <div class="item">
-	       No dialogo você pode ver que há várias palavras novas, como lunch e dinner. Lunch em português significa almoço dinner quer dizer jantar. Clique nos balões ao lado e veja o nome dos alimentos que podem fazer parte do lunch e dinner.
-	    </div>
-	</div>
 
-	<div id="boxDialogo">
-	<div class="box-digitacao">
-	    <div class="areaTexto"></div>
-	    <div id="img-person">
-	        <img src="../../../imgs/personagem_corpo.png"/>
-	    </div>
-	</div>
-	</div>
+<div id="box-esquerda">
+    <div id="box-explicacao-tabela-texto">
+    <p>No diálogo você pode ver que há várias palavras novas, como lunch e dinner. <b>lunch</b> significa almoço, <b>dinner</b> quer dizer jantar. 
+<br>Clique nos balões ao lado e veja o nome dos alimentos que podem fazer parte do lunch e dinner.</p>
+    </div>
+    <div id="box-explicacao-tabela-img">
+        <img src="../../../imgs/e17.png"/>
+    </div>
+</div>
+
+
+
+
+
+	
+</div>
 
 {barra_tools}
 	<div id="navegacao">

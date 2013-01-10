@@ -23,6 +23,6 @@
 {barra_tools}
 	<div id="navegacao">
 		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 10 </span>		
+			<span>Página 10 de 10</span>		
 	</div>
 {rodape}
