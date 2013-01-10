@@ -15,7 +15,6 @@
 </div>
 
 <div id="box-direita">
- 
 <div id="demo-tabs">
 <ul>
 <li><a href="#tabs-1">Waiter</a></li>
@@ -44,8 +43,8 @@
 
 {barra_tools}
 <div id="navegacao">
-	<a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-		<span>Página 11 de 11</span>
-	<a href="top11.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 8 de 11</span>
+	<a href="top09.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 {rodape}
