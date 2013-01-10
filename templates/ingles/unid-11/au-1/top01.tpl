@@ -3,7 +3,7 @@
 {menu}
 
 
-<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
+<h3><a href="#" title="Cosiderações Iniciais">Initial Considerations</a></h3>
 <div id="center">
 
 <div id="box-introducao">
@@ -12,9 +12,15 @@
 </div>
 
 <div id="texto">
+<<<<<<< HEAD
 	<p>Essa lição vai dar o que falar! Nosso destino é o mundo dos restaurantes!<br>
  Vamos falar dos prazeres da culinária! Focaremos muito no vocabulário que é vasto, importantíssimo, mas bem gostoso! Pratique os diálogos e, no seu dia a dia, tente utilizar as palavras aprendidas para uma melhor e mais rápida fixação. Tem comida e bebida para todos os gostos!
 	<br>Esperamos que sua fome de saber esteja aumentando! </p>
+=======
+	<p>Essa lição vai dar o que falar! Nosso destino é o mundo dos restaurantes!</p>
+	<p>Vamos falar dos prazeres da culinária! Focaremos muito no vocabulário que é vasto, importantíssimo, mas bem gostoso! Pratique os diálogos e, no seu dia a dia, tente utilizar as palavras aprendidas para uma melhor e mais rápida fixação. Tem comida e bebida para todos os gostos! </p>
+	<p>Esperamos que sua fome de saber esteja aumentando! </p>
+>>>>>>> origin/master
 </div>
 </div>
 </div>

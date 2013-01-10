@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Let´s get started!">Vamos começar?</a></h3>
+<h3><a href="#" title="Vamos começar?">Let´s get started!</a></h3>
 <div id ="center">
 	<div id="boxDigitacao">
 	    <div class="item">
