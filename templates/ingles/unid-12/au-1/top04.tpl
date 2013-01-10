@@ -5,9 +5,9 @@
 <div id="meio">
 <h3><a href="#" title="Conhecendo seu país">Knowing your country</a></h3>
 <div id="center">
-
-<embed width="750" height="500" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animacao_aula01top04.swf" name="plugin"> 
-
+<div class="swf">
+<embed width="600" height="450" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animacao_aula01top04.swf" name="plugin"> 
+</div>
 
 
 </div>

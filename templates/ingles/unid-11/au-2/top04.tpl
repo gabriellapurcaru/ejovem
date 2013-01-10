@@ -22,30 +22,9 @@
 
 <body onload="StartUp()" id="TheBody" >
 
-<!-- BeginTopNavButtons -->
-
-
-
-<!-- EndTopNavButtons -->
-
-<div class="Titles">
-        <h2 class="ExerciseTitle"></h2>
-
-        <h3 class="ExerciseSubtitle">Gapfill exercise<br /></h3>
-
-
-
-</div>
-
 <div id="InstructionsDiv" class="StdDiv">
-        <div id="Instructions">Enter your answers in the gaps. When you have entered all the answers, click on the "Check" button.<br /></div>
-</div>
+        
 
-
-
-
-
-<div id="MainDiv" class="StdDiv">
 
 <!-- These top buttons hidden; reveal if required -->
 <!--

@@ -14,7 +14,7 @@
     <div id="box-dir">
         <div id="box-dir-explicacao">
 	       <p>Gostou de aprender sobre seu país? 
-Mais antes de finalizar  vá a sessão vocabulário e amplie seus conhecimentos!
+Mas antes de finalizar vá a sessão <a href="vocabulario.php">Vocabulário</a> e amplie seus conhecimentos!
 </p>
         </div>
     </div>

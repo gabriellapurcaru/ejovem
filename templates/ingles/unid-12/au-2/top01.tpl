@@ -6,19 +6,24 @@
 <div id="center">
 
 	<div id="boxDigitacao">
-	    <div class="item">
-	        <p>Faremos uma nova parada em nosso tour: falávamos do nosso país, agora iremos falar sobre a nossa comunidade. Além disso, aprenderemos a forma correta de descrevermos o que estabelecimentos podemosencontrar nela nas formas afirmativa, negativa e interrogativa.</p>
-	    </div>
+	    	<div class="item">
+
+	        <p>Faremos uma nova parada em nosso tour: 
+ falávamos do nosso país, agora iremos falar sobre a nossa comunidade. Além disso, aprenderemos
+ a forma correta de descrevermos quais estabelecimentos podemos encontrar nele nas formas afirmativa, negativa e interrogativa.</p>
+	    
+		</div>
 	</div>
 
 	<div id="boxDialogo">
 	<div class="box-digitacao">
-	    <div class="areaTexto"></div>
+	   <div class="areaTexto"></div>
 	    <div id="img-person">
 	        <img src="../../../imgs/personagem_corpo.png"/>
 	    </div>
 	</div>
 	</div>
+	
 </div>
 
 {barra_tools}
