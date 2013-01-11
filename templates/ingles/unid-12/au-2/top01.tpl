@@ -29,7 +29,7 @@
 {barra_tools}
 
 <div id="navegacao">
-	<span>Página 1 de 11</span>
+	<span>Página 1 de 12</span>
 	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
