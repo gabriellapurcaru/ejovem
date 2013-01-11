@@ -4,8 +4,9 @@
 
 <h3><a href="#" title="Almoço">Lunch</a></h3>
 <div id="center">
-<embed width="750" height="500" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/dialogo_lunch.swf" name="plugin">
-
+<div class="swf">
+<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/dialogo_lunch.swf" name="plugin">
+</div>
 </div>
 {barra_tools}
 	<div id="navegacao">

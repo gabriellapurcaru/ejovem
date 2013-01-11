@@ -1,7 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-<h3><a href="#" title="Aprenda Mais">Learn More</a></h3>
+<h3><a href="#" title="Saiba Mais!">Learn More!</a></h3>
 <div id="center">
 
 <div id="box-center-saiba-mais">
@@ -13,7 +13,7 @@
     	</div>
     	<div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Vá a sessão vocabulário para ampliar seus conhecimentos!</p>
+	       <p>Vá a sessão <a href="vocabulario.php">Vocabulário</a> para ampliar seus conhecimentos!</p>
         </div>
     	</div>
 	</div>

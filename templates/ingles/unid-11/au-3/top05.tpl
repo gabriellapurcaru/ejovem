@@ -2,28 +2,15 @@
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Exercitando">Exercicing</a></h3>
+<h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
-<div id="box-atividade">
-	<div class="ba-esq">
-	    <div class="ba-balao">
-	        <p><a href="#" title="Vamos fazer uma revisão dos alimentos que aprendemos?  Resolva a cruzadinha!">Let's review the foods we learned? Solve the crossword!</a></p>
-		    </div>
-	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+    
+		   
 <div id="atividade">
+<p><a href="#" title="Vamos fazer uma revisão dos alimentos que aprendemos?  Resolva a cruzadinha!">Let's review the foods we learned? Solve the crossword!</a></p>
 <script src="js/atividade02.js" type="text/javascript"></script>
 <div id="MainDiv" class="StdDiv">
 
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
-
- -->
- 
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
@@ -34,7 +21,7 @@
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
+<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Checar&nbsp;</button>
 
 
 <button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
@@ -49,17 +36,7 @@
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
 
-<!-- BeginBottomNavButtons -->
 
-
-
-<!-- EndBottomNavButtons -->
-
-<!-- BeginSubmissionForm -->
-
-<!-- EndSubmissionForm -->
-
-</div>
 	
 </div>
 	

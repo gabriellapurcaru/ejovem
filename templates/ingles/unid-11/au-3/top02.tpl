@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-	<h3><a href="#" title="Conhecendo a comida brasileira">Knowing  the Brazilian</a></h3>
+	<h3><a href="#" title="Conhecendo a comida brasileira">Knowing  the Brazilian food</a></h3>
 	<div id="center">
 
 	<div id="box-esquerda">
@@ -20,37 +20,43 @@
 <table class="table table-striped">
 <tdead>
 <tr>
-<td>img</td>
+<td><img src="img/img01_top02.jpg" WIDTH="60"
+HEIGHT="70" border="10"></td>
 <td>Pepper</td>
 <td>Pimenta</td>
 </tr>	
 
 <tr>
-<td>img</td>
+<td><img src="img/img02_top02.jpg" WIDTH="60"
+HEIGHT="70"></td>
 <td>Dendê-oil</td>
 <td>Óleo de dendê</td>
 </tr>
 
 <tr>
-<td>img</td>
+<td><img src="img/img03_top02.jpg" WIDTH="60"
+HEIGHT="70"></td>
 <td>Black beans</td>
 <td>Feijão preto</td>
 </tr>	
 
 <tr>
-<td>img</td>
+<td><img src="img/img04_top02.jpg" WIDTH="60"
+HEIGHT="70"></td>
 <td>Coconut milk</td>
 <td>Leite de coco</td>
 </tr>
 
 <tr>
-<td>img</td>
+<td><img src="img/img05_top02.jpg" WIDTH="60"
+HEIGHT="70"></td>
 <td>Onion</td>
 <td>Cebola</td>
 </tr>
 
 <tr>
-<td>img</td>
+<td><img src="img/img06_top02.jpg" WIDTH="60"
+HEIGHT="70"></td>
 <td>Pork</td>
 <td>Porco</td>
 </tr>	

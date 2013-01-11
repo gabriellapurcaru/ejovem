@@ -21,17 +21,8 @@
 </tr></a>	
 	    </div>
 		
-	<div class="Titles">
-	
-
-	<h3 class="ExerciseSubtitle">Quiz</h3>
-
-
-
-</div>
-
 <div id="InstructionsDiv" class="StdDiv">
-	<div id="Instructions"><script src="atividade01.js" type="text/javascript"></script></head>
+<div id="Instructions"><script src="atividade01.js" type="text/javascript"></script></head>
 
 
 <div id="InstructionsDiv" class="StdDiv">
@@ -42,9 +33,7 @@
  
 <div id="QNav" class="QuestionNavigation">
 
-<p style="text-align: right;">
-<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return true;">Show all questions</button>
-</p>
+
 
 <div id="OneByOneReadout">
 <button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;">&#x00AB;&#x00AB;</button>
@@ -79,6 +68,9 @@
 <div class="FeedbackText" id="FeedbackContent"></div>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
+<p style="text-align: right;">
+<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return true;">Show all questions</button>
+</p>
 
 </div>
 </div>

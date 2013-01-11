@@ -4,11 +4,11 @@
 
 <h3><a href="#" title="Que outros alimentos e bebidas você sabe em inglês?">What other foods and drinks do you know in english?</a></h3>
 <div id="center">
+<div class="swf">
 
+<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_alimentos.swf" name="plugin">
 
-<embed width="750" height="500" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_alimentos.swf" name="plugin">
-
-
+</div>
 </div>
 
 {barra_tools}

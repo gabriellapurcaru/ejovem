@@ -13,7 +13,7 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Não foi nada difícil, não é mesmo? Não esqueça de revisar o conteúdo para estar prontinho para a próxima aula.<br> <span class="label label-info"><a href="#" title="Nos vemos na próxima aula!">See you next class!</a></span></p>
+		<p>Não foi nada difícil, não é mesmo? Não esqueça de revisar o conteúdo para estar prontinho para a próxima aula.</p> <p><span class="label label-info"><a href="#" title="Nos vemos na próxima aula!">See you next class!</a></span></p>
 
 		</div>
 	    </div>

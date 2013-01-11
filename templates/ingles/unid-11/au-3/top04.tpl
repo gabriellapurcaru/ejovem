@@ -2,11 +2,12 @@
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Conhecendo a comida brasileira">Knowing the Brazilian</a></h3>
+<h3><a href="#" title="Conhecendo a comida brasileira">Knowing the Brazilian Food</a></h3>
 <div id="center">
 
-<embed width="750" height="500" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animação_texto.swf" name="plugin"> 
-
+<div class="swf">
+<embed width="600" height="450" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animação_texto.swf" name="plugin"> 
+</div>
 
 </div>	
 	

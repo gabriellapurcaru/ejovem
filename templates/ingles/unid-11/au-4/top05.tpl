@@ -1,8 +1,8 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Leia mais">Learn more</a></h3>
+<h3><a href="#" title="Saiba Mais!">Learn More!</a></h3>
 <div id="center">
 
 <div id="box-center-saiba-mais">
@@ -14,9 +14,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Vá a sessão vocabulário para ampliar seus conhecimentos!.</p>
-           Clique ao lado: <a href="vocabulario.php" target="_blank" >Vocabulário</a>
-        </div>
+	       <p>Vá a sessão <a href="vocabulario.php" target="_blank" >Vocabulário</a> para ampliar seus conhecimentos!.</p>
+                  </div>
     </div>
 </div>
 
