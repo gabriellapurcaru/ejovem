@@ -6,7 +6,9 @@
 <div id ="center">
 	<div id="boxDigitacao">
 	    <div class="item">
-	        Esse tópico veio em boa hora! Vamos falar de comida! Há muitas palavras para aprender, mas calma! Será, literalmente, bem gostoso! A lição está na mesa! Bom apetite!
+	        <p>Esse tópico veio em boa hora! Vamos falar de comida! 
+Há muitas palavras para aprender, mas calma! Será, literalmente, bem gostoso! 
+A lição está na mesa! Bom apetite!</p>
 	    </div>
 	</div>
 

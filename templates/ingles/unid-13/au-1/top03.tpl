@@ -2,25 +2,34 @@
 {tituloAula}
 {menu}
 
-
-<div id="meio">
-
-<h3><a href="#" title="Vamos começar!">Let's Get Started!</a></h3>
-
+<h3><a href="#" title="Praticando">Praticing</a></h3>
 
 <div id="center">
 
-<div id="box-introducao">
-<div id="img-person">
-    <img src="../../../imgs/e12.png"/>
+<div id="box-center-video">
+    <div id="box-dir">
+		  <div id="balao-azul">
+		    <p>Veja  o  vídeo  ao lado.</p>
+		  </div>
+		  <div id="person">
+		      <img src="../../../imgs/e10.png">
+		  </div>
+    </div>
+    <div id="box-esq">
+        <div id="box-video-esq-video">
+            <object type="application/x-shockwave-flash" style="width:400px;height:250px;" data="http://www.youtube.com/v/qKaq3yo-8Oo"><param name="movie" value="http://www.youtube.com/v/qKaq3yo-8Oo" /><param name="wmode" value="transparent" /></object>
+         </div>
+        <div id="box-video-esq-img">
+            <img src="../../../imgs/e11.png">
+        </div>
+
+    </div>
 </div>
 
-<div id="texto">
-	<p> Nesta lição aprenderemos a falar sobre eventos que ocorrerão – ou que gostaríamos que ocorressem – no futuro.
-<br>Para isso, faremos uso de alguns auxiliares que expressam ideias nesse tempo verbal, em Inglês que aprendemos em lições passadas. </p>
-	</div>
 </div>
 </div>
+
+
 </div>
 
 

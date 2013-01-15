@@ -8,17 +8,12 @@
 
 <div id="center">
 
-<div id="boxDigitacao">
-	    <div class="item">
-	      Before we going to next class, let's remember what we saw on Unit 12 about location and direction? Let's go!
-	    </div>
-	</div>
-
-	<div id="boxDialogo">
-	<div class="box-digitacao">
-	    <div class="areaTexto"></div>
+<div id="box-introducao">
 	    <div id="img-person">
-	        <img src="../../../imgs/personagem_corpo.png"/>
+		<img src="../../../imgs/e12.png"/>
+		</div>
+	<div id="texto">
+	      <p>Before we going to next class, let's remember what we saw on Unit 12 about location and direction? <br>Let's go!</p>
 	    </div>
 	</div>
 </div>

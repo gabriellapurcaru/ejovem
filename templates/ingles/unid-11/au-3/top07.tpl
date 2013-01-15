@@ -14,8 +14,8 @@
 	    <div id="box-dir">
 		<div id="texto">
 		<p>Você certamente foi capaz de identificar aspectos e registrar passagens de um texto muito longo e difícil, numa língua diferente da nossa. Parabéns! Isso não é pouca coisa. Mas, lembre-se: a única forma de melhorarmos nossa capacidade de lidar com textos de qualquer idioma é através da leitura.</p>
-<p>Leia sempre, leia muito. Saiba sempre mais!
-<br><span class="label label-info"><a class="" href="#" title="Nos veremos na próxima aula!">See you next class!</a></span></p>
+<p>Leia sempre, leia muito. Saiba sempre mais!</p>
+<p><span class="label label-info"><a class="" href="#" title="Nos veremos na próxima aula!">See you next class!</a></span></p>
 
 		</div>
 	    	</div>

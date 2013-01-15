@@ -20,7 +20,7 @@
 <tdead>
 
 <tr>
-<td><b>Portugese</b></td>
+<td><b>Portuguese</b></td>
 <td><b>English</b></td>
 </tr>
 
