@@ -349,45 +349,10 @@ document.formulario.elements[i].options[s].selected = true;
 	
 </div>
 
-<p><b><font face="Verdana">
-<a title="English Exercises" href="http://www.englishexercises.org">
-<font size="5">English 
-Exercises</font></a><font size="5"> &gt;
-<font color="#0066FF">
-<a title="future tense Exercises" href="http://www.englishexercises.org/buscador/buscar.asp?nivel=any&age=0&tipo=any&contents=future#thetop"><span>future tense exercises</span></a></font> &gt; Future tense</font></font></b></p>
 <form id="formulario" name="formulario">
 <table border="0" cellpadding="0" cellspacing="0" width="1000" id="table1">
 	<tr>
 		<td align="left" valign="top">
-
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3"><b>FUTURE TENSES</b></font></font></p>
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<br>
-</p>
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3"><b>Remember!: <br></b></font></font></p><p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US"><font face="Verdana, sans-serif"><font size="3"><b>GOING TO
-(planns and predictions based on evidence)</b></font></font></p>
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3"><b>		     PRESENT
-SIMPLE (timetables)</b></font></font></p>
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY"><font face="Verdana, sans-serif"><font size="3"><span lang="en-US"><b>		
-    PRESENT CONTINUOUS (planns or confirmed intentions) </b></span></font></font>
-</p>
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3"><b>		   WILL
-(predictions, offers, promises) </b></font></font>
-</p>
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<br>
-</p>
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3"><b>Put the verb into
-the correct form: present simple, present continuous, going to or
-will.</b></font></font></p>
-<p style="margin-bottom: 0cm; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<br>
-</p>
 <p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
 <font face="Verdana, sans-serif"><font size="3">-I....................(go)
 to the cinema this evening.<input size="8" name="/am going/" type="text"></font></font></p>
@@ -434,7 +399,9 @@ I....................(close) the window. <input size="10" name="/will close/" ty
 	<tr>
 		<td align="left" valign="top">
 <p>&nbsp;</p>
-	<p align="center"><input type="button" value="DONE!" name="B1" onclick="comprobarFormulario()" style="width:80px;height:40px;font-size:20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<hr border=15>	
+	
+	<p align="right"><input type="button" value="Checar!" name="B1" onclick="comprobarFormulario()" style="width:80px;height:35px;font-size:15">
 	<input style="visibility:hidden" type="button" value="Show answers" name="B2" onclick="verSoluciones()" style="width:160;height:43;font-size:20"></p>
 	</td>
 	</tr>

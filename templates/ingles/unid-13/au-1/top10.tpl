@@ -1,14 +1,17 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Foco na gramática">Grammar in focus</a></h3>
 <div id="center">
 
+<div class="swf">
+<embed width="600" height="450" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao02_top10.swf" name="plugin">
 
 
 </div>
-
+</div>
+</div>
 
 {barra_tools}
 <div id="navegacao">
