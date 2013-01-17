@@ -1,7 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-<h3><a href="#" title="Considerações iniciais">Initial considerations</a></h3>
+<h3><a href="#" title="Considerações Iniciais">Initial Considerations</a></h3>
 <div id="center">
 
 	<div id="boxDigitacao">

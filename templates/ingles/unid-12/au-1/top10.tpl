@@ -12,7 +12,8 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Focamos muito no vocabulário nessa lição, não é mesmo? Lembre-se que para aprendermos de verdade essas palavras novas, temos de colocá-las em uso. Não se esqueça delas, pois haverá muito tempo para pô-las em prática nas próximas lições!</p>
+		<p>Focamos muito no vocabulário nessa lição, não é mesmo?</p>
+		<p> Lembre-se que para aprendermos de verdade essas palavras novas, temos de colocá-las em uso. Não se esqueça delas, pois haverá muito tempo para pô-las em prática nas próximas lições!</p>
 		<p><span class="label label-info"><a class="" href="#" title="Vejo você próxima aula">See you next class!</a></span></p>
 		</div>
 	    </div>

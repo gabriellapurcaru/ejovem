@@ -2,12 +2,12 @@
 {tituloAula}
 {menu}
 <div id="meio">
-<h3><a href="#" title="Foco na gramática">Grammar in focus</a></h3>
+<h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 	<div id="center">
 
 <div id="box-esquerda">
     <div id="box-explicacao-tabela-texto">
-    <p>Como seria a forma negativa destas três estruturas?<br>Veja a seguir:</p>
+    <p>Como seria a forma negativa destas três estruturas? Veja a seguir:</p>
     </div>
     <div id="box-explicacao-tabela-img">
         <img src="../../../imgs/e17.png"/>

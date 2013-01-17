@@ -5,21 +5,12 @@
 
 <div id="meio">
 
-<h3><a href="#" title="Vamos começar!">Let's Get Started!</a></h3>
+<h3><a href="#" title="Faltando">....</a></h3>
 
 
 <div id="center">
 
-<div id="box-introducao">
-<div id="img-person">
-    <img src="../../../imgs/e12.png"/>
-</div>
 
-<div id="texto">
-	<p> Nesta lição aprenderemos a falar sobre eventos que ocorrerão – ou que gostaríamos que ocorressem – no futuro.
-<br>Para isso, faremos uso de alguns auxiliares que expressam ideias nesse tempo verbal, em Inglês que aprendemos em lições passadas. </p>
-	</div>
-</div>
 </div>
 </div>
 

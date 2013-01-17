@@ -6,13 +6,7 @@
 <div id="meio">
 <h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
-	
-<div id="box-atividade">
-		</div>
-	<div id="atividade">
-		<p>Agora vamos fazer a atividade</p>
-	</div>
-	</div>
+Animação!
 </div>
 </div>
 
