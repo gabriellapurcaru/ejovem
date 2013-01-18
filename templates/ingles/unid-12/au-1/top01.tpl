@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 	<div id="meio">
-<h3><a href="#" title="Considerações Iniciais">Inicial Consideration</a></h3>
+<h3><a href="#" title="Considerações Iniciais">Inicial Considerations</a></h3>
 
 <div id="center">
 <div id="box-introducao">

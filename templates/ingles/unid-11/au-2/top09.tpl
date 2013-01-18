@@ -1,8 +1,8 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
-<h3><a href="#" title="Saiba mais">Learn more</a></h3>
+<div id="meio">
+<h3><a href="#" title="Saiba Mais">Learn More</a></h3>
 <div id="center">
 
 <div id="box-center-saiba-mais">
@@ -20,7 +20,7 @@ para ampliar seus conhecimentos!</p>
       </div>
     </div>
 </div>
-
+</div>
 {barra_tools}
 <div id="navegacao">
 	<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

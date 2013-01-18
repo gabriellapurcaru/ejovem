@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -19,7 +19,7 @@
 
 <div id="box-direita">
 <div id="box-explicacao-video-animacao">
-	
+<div id="atividade">	
 	<script src="js/atividade01.js" type="text/javascript"></script></head>
 	<div id="MainDiv" class="StdDiv">
 
@@ -51,7 +51,7 @@
 	<div class="FeedbackText" id="FeedbackContent"></div>
 	<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 	</div>
-
+</div>
 		</div>
 </div>
 

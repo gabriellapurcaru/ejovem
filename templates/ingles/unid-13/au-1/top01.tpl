@@ -4,7 +4,7 @@
 
 <div id="meio">
 
-<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
+<h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 <div id="center">
 
 <div id="box-introducao">

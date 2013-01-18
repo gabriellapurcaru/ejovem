@@ -17,53 +17,54 @@
 	</div>
 	<div id="box-direita">
 <div id="box-direita">
+<div id="box-explicacao-video-animacao">
 <table class="table table-striped">
 <tdead>
 <tr>
 <td><img src="img/img01_top02.jpg" WIDTH="60"
 HEIGHT="70" border="10"></td>
-<td>Pepper</td>
+<td><b>Pepper</b></td>
 <td>Pimenta</td>
 </tr>	
 
 <tr>
 <td><img src="img/img02_top02.jpg" WIDTH="60"
 HEIGHT="70"></td>
-<td>Dendê-oil</td>
+<td><b>Dendê-oil</b></td>
 <td>Óleo de dendê</td>
 </tr>
 
 <tr>
 <td><img src="img/img03_top02.jpg" WIDTH="60"
 HEIGHT="70"></td>
-<td>Black beans</td>
+<td><b>Black beans</b></td>
 <td>Feijão preto</td>
 </tr>	
 
 <tr>
 <td><img src="img/img04_top02.jpg" WIDTH="60"
 HEIGHT="70"></td>
-<td>Coconut milk</td>
+<td><b>Coconut milk</b></td>
 <td>Leite de coco</td>
 </tr>
 
 <tr>
 <td><img src="img/img05_top02.jpg" WIDTH="60"
 HEIGHT="70"></td>
-<td>Onion</td>
+<td><b>Onion</b></td>
 <td>Cebola</td>
 </tr>
 
 <tr>
 <td><img src="img/img06_top02.jpg" WIDTH="60"
 HEIGHT="70"></td>
-<td>Pork</td>
+<td><b>Pork</b></td>
 <td>Porco</td>
 </tr>	
 
 </thead>
 </table> 
-
+</div>
 </div>
 </div>
 	</div>

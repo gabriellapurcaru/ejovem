@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -18,9 +18,9 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	    	<p>Os adjetivos tall, high e loud significam alto. No entanto, há particularidades que devem ser levadas em conta na hora de usá-los. Veja:</p>
+	    	<p>Os adjetivos <b>tall</b>, <b>high</b> e <b>loud</b> significam alto. No entanto, há particularidades que devem ser levadas em conta na hora de usá-los. Veja:</p>
 	    	<p><b>tall</b>: normalmente, diz respeito à estatura de pessoas, podendo ser empregado também para qualificar edifícios e árvores.</p>
-	    	<p>Para ver exemplos e saber mais vá a seção Conheça Mais.</p>
+	    	<p>Para ver exemplos e saber mais vá a seção <a href="conheca-mais.php">Conheça Mais.</a></p>
         </div>
     </div>
 </div>

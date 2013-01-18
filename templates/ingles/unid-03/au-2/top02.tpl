@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -8,7 +8,7 @@
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
-		    <p>How old are you?</p>
+		    <p><b>How old are you?</b></p>
 		 	<p>Ficou perdido agora? Assista ao vídeo e depois tente responder a pergunta a cima.</p>
 		  </div>
 		  <div id="person">

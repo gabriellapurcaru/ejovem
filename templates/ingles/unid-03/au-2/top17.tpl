@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -15,7 +15,7 @@
     <div id="box-dir">
 	<div id="texto">
 		<p>Nessa lição aprendemos muita coisa sobre os números. Aprendemos sobre os números cardinais ordinais e sobre as datas. Na próxima lição falaremos sobre origens!</p>
-		<p>See you soon!</p>
+		<p><span class="label label-info"><a href="" title="Até breve!">See you soon!</a><span></p>
 	</div>
     </div>
 </div>

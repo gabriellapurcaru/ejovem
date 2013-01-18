@@ -26,18 +26,18 @@
 </ul>
 
 <div id="tabs-1">
-<b>querer</b>
+<li><b>querer</b></li>
 <p>I want to pass the entrance exam.</p>
 
 </div>
 
 <div id="tabs-2">
-<b>Faria (dever/obrigação)</b>
+<li><b>Faria (dever/obrigação)</b></li>
 <p>I would like to have a car.</p>
 </div>
 
 <div id="tabs-3">
-<b>Vontade (querer/desejo)</b>
+<li><b>Vontade (querer/desejo)</b></li>
 <p>I will get a job next year.</p>
 
 

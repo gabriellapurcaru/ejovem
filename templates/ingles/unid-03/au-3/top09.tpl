@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -16,7 +16,7 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Você sabe como expressar as horas em inglês? Para aprender vá a seção conheça mais. E depois acesse a parte de vocabulário e reveja as palavras novas que aprendeu nesta aula</p> 
+	       <p>Você sabe como expressar as horas em inglês? Para aprender vá a seção <a href="conheca-mais.php">Conheça Mais</a>. E depois acesse a parte de <a href="vocabulario.php">Vocabulário</a> e reveja as palavras novas que aprendeu nesta aula</p> 
         </div>
     </div>
 </div>

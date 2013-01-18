@@ -16,9 +16,9 @@
 <div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique aqui para ver os exemplos<span></div>
 <div class="panel">
 	<p><b>Examples</b><br>
-<li>Davi works in a factory.</li>
-<li>Jaime reads a lot of books.</li>
-<li>She writes e-mails to her friends.</li></p>
+<li><a href="" title=" Davi trabalha em uma fábrica.">Davi works in a factory.</a></li>
+<li><a href="" title=" Jaime lê muitos livros.">Jaime reads a lot of books.</a></li>
+<li><a href="" title="	Ela escreve e-mails para seus amigos.">She writes e-mails to her friends.</a></li></p>
 </div>
 </div>
 

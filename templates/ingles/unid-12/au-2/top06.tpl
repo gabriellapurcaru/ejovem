@@ -1,16 +1,15 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-<h3><a href="#" title="Gramática em foco">Grammar in focus</a></h3>
+<h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
 
-<div class="ba-esq">
-    <div class="ba-balao">
-<p align="center"><a href="#" title="Veja o diálogo e preste atenção!">
-See the dialogue end pay attention!</a><br>Espressões usamos para falar do que tem/existe/há em um determindado lugar:</p>	
-    	</div>
-    	</div>
-	<div class="swf">
+<div id="box-explicacao-video-animacao">
+
+<h6><p align="center"><a href="#" title="Veja o diálogo e preste atenção!">
+See the dialogue end pay attention!</a><br>Espressões usamos para falar do que tem/existe/há em um determindado lugar:</p></h6>
+
+<div class="swf">
 
 <embed width="600" height="450" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao02_top06.swf" name="plugin">
 	</div>

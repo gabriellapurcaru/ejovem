@@ -1,9 +1,9 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3> <a href="#" title="Aula em vídeo">Lesson in video</a></h3>
+<h3> <a href="#" title="Aula em Vídeo">Lesson in Video</a></h3>
 
 <div id="center">
 <div id="box-center-video">

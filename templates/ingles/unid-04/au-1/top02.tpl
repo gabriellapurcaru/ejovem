@@ -1,14 +1,14 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
 <h3><a href="" title="Vamos começar!"/>Let's get started!</a></h3>
 <div id="center">
-
 <script src="js/tela_02.js" type="text/javascript"></script></head>
 <div id="swf">
-<p class="titulo">Use a seta para navegar<p>
+<h6><p class="titulo">Use a seta para navegar<p></h6>
+<br>
 <div id="two" class="contentslider">
 <div class="cs_wrapper">
 <div class="cs_slider">
@@ -38,7 +38,6 @@ is - 5:10 a.m - know - is - speak - is - did - is
 </div>
 </form>
 </div>
-
 <button id="CheckButton2" class="FuncButton" onMouseOver="FuncBtnOver(this)" onFocus="FuncBtnOver(this)" onMouseOut="FuncBtnOut(this)" onBlur="FuncBtnOut(this)" onMouseDown="FuncBtnDown(this)" onMouseUp="FuncBtnOut(this)" onClick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 </div>
@@ -53,9 +52,9 @@ is - 5:10 a.m - know - is - speak - is - did - is
 </div>
 </div>
 </div>
+</div>
+</div>
 
-</div>
-</div>
 {barra_tools}
 <div id="navegacao">
 	<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

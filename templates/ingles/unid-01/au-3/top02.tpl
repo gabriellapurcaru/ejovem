@@ -1,10 +1,10 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 
 <div id="meio">
-<h3><a href="#" title="Palavras conhecidas em inglês">Known words in English</a></h3>
+<h3><a href="#" title="Palavras Conhecidas em Inglês">Known Words in English</a></h3>
 <div id="center">
 <h6>Você já observou que, mesmo morando no Brasil, onde falamos português, vivemos cercados por palavras de outras línguas e que, na maioria das vezes, essas palavras são em inglês?</h6>
 <h6>Clique nas fotografias ao lado. Nelas aparecem palavras em inglêse, no entanto, elas foram tiradas em lugares no Brasil.</h6>

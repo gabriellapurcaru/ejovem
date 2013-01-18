@@ -1,9 +1,9 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3><a href="#" class="brand" title="Pronomes de tratamento">Pronouns of treatment</a></h3>
+<h3><a href="#" class="brand" title="Pronomes de Tratamento">Pronouns of Treatment</a></h3>
 <div id="center">
 
 <div id="rede">

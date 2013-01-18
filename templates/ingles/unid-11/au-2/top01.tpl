@@ -1,12 +1,12 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
-<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
+<div id="meio">
+<h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 <div id="center">
 	<div id="boxDigitacao">
 	    <div class="item">
-	        <p>Vamos dar um passeio no restaurante. Nessa lição, aprenderemos a ler um cardápio e outras úteis!</p>
+	        Vamos dar um passeio no restaurante. Nessa lição, aprenderemos a ler um cardápio e outras úteis!
 	    </div>
 	</div>
 
@@ -19,7 +19,7 @@
 	</div>
 	</div>
 </div>
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

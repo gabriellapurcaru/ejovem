@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Foco na gramática">Grammar in focus</a></h3>
+<h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
 
 <div class="swf">

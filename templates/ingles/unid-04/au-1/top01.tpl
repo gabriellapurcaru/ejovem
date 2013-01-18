@@ -1,9 +1,9 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3> <a href="" title="Cosiderações iniciais"/> Initial considerations</a></h3>
+<h3> <a href="" title="Cosiderações Iniciais"/> Initial Considerations</a></h3>
 <div id="center">
 <div id="box-introducao">
 <div id="img-person">

@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -15,8 +15,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, vá a sessão vocabulário e treine as palavras novas aprendidas na aula. </p>
-			<p>Não esqueça de visitar também a sessão Conheça Mais para ampliar seus conhecimentos! </p><p> Have fun! </p>
+	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, vá a sessão <a href="vocabulario.php">Vocabulário</a> e treine as palavras novas aprendidas na aula. </p>
+			<p>Não esqueça de visitar também a sessão <a href="conheca-mais.php">Conheça Mais</a> para ampliar seus conhecimentos! </p><p><a href="" title="Divirta-se!"> Have fun! </a></p>
 	       </p> 
         </div>
     </div>

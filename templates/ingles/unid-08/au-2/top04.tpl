@@ -1,9 +1,9 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3><a href="#" class="brand" title="Foco na gramática">Grammar on focus</a></h3>
+<h3><a href="#" class="brand" title="Gramática em Foco!">Grammar in Focus</a></h3>
 <div id="center">
 <h4>Você lembra das estruturas de comunicação básica para fazer perguntas, vamos revisá-la? </h4>
 

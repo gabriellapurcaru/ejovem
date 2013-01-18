@@ -1,10 +1,10 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 
 <div id="meio">
-<h3><a href="#" title="Estrutura da língua">Language structure</a></h3>
+<h3><a href="#" title="Estrutura da Língua">Language Structure</a></h3>
 
 <div id="center">
 

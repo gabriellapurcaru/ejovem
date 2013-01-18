@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -14,7 +14,7 @@
     </div>
     <div id="box-dir">
 	<div id="texto">
-	<p>Nesta aula você aprendeu sobre as palavras cognatas e como elas estão presentes no nosso cotidiano podendo nos ajudar a entender as palavras em inglês. Assim também como scanning e outras estratégias de leitura que nos auxiliam na leitura e compreensão de texto.  </p>
+	<p>Nesta aula você aprendeu sobre as palavras <b>cognatas</b> e como elas estão presentes no nosso cotidiano podendo nos ajudar a entender as palavras em inglês. Assim também como <b>scanning</b> e outras estratégias de leitura que nos auxiliam na leitura e compreensão de texto.  </p>
 	<p>Até a próxima aula, Bye!</p>
 
 	</div>

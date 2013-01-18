@@ -1,14 +1,14 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Conhecendo a comida brasileira">Knowing the Brazilian food</a></h3>
 	<div id="center">
 	<div class="swf">
 	<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_03.swf" name="plugin">
 	</div>
 	</div>
-	
+</div>	
 
 {barra_tools}
 	<div id="navegacao">

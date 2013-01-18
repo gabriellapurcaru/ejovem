@@ -1,14 +1,14 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Vamos começar?">Let´s get started!</a></h3>
 <div id ="center">
 	<div id="boxDigitacao">
 	    <div class="item">
-	        <p>Esse tópico veio em boa hora! Vamos falar de comida! 
+	        Esse tópico veio em boa hora! Vamos falar de comida! 
 Há muitas palavras para aprender, mas calma! Será, literalmente, bem gostoso! 
-A lição está na mesa! Bom apetite!</p>
+A lição está na mesa! Bom apetite!
 	    </div>
 	</div>
 
@@ -21,7 +21,7 @@ A lição está na mesa! Bom apetite!</p>
 	</div>
 	</div>
 	</div>
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

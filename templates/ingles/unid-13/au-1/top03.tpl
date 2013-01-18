@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 <div id="meio">
-<h3><a href="#" title="Praticando">Praticing</a></h3>
+<h3><a href="#" title="Praticando">Practicing</a></h3>
 
 <div id="center">
 

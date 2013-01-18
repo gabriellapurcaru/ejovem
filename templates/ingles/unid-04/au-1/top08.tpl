@@ -1,13 +1,16 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
 <h3><a href="" title="Foco na Gramatica">Grammar in focus</a></h3>
 <div id="center">
+<div id="box-explicacao-video-animacao">
+<div class="swf">
 <h6>Veja o diálogo com um exemplo usando do, does e did. Utilize a seta para ver o diálogo completo.</h6>	
 <embed width="750px" height="400px" name="plugin" src="../../../ingles/unid04/au1/video/digtela08.swf" type="application/x-shockwave-flash" />
-
+</div>
+</div>
 </div>
 </div>	
 {barra_tools}

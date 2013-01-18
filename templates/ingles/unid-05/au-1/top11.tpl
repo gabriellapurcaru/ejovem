@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -25,12 +25,12 @@
 <table class="table table-striped">
 <tdead>
 <tr>
-<td>I don´t work at night</b></td>
+<td>I <b>don´t</b> work at night</b></td>
 <td>Eu não trabalho a noite</td>
 </tr>	
 
 <tr>
-<td>She doesn´t need to sleep</td>
+<td>She <b>doesn´t</b> need to sleep</td>
 <td>Ela não precisa dormir</td>
 </tr>
 

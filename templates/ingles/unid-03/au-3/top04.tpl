@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -9,7 +9,7 @@
 <div id="bos-esquerda">
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
-    <p>Geralmente, quando conhecemos alguém de outro país, queremos saber de onde essa pessoa vem, na tabela estão alguns exemplos de países em inglês, confira.</p>
+    <p>Geralmente, quando conhecemos alguém de outro país, queremos saber de onde essa pessoa vem, na tabela estão alguns exemplos de países em inglês, confira:</p>
     </div>
     <div id="box-explicacao-tabela-img">
         <img src="../../../imgs/e17.png"/>    
@@ -20,37 +20,37 @@
 <div id="box-direita">
 	<table class="table table-bordered">
 		<tr>
-			<td>United States (Estados Unidos)</td>
-            <td> Canada (Canadá) </td>
+			<td><b>United States</b> (Estados Unidos)</td>
+            <td><b> Canada</b> (Canadá) </td>
             
           </tr>
           <tr> 
-            <td> Spain (Espanha) </td>
-            <td> Argentina (Argentina) </td>
+            <td><b> Spain</b> (Espanha) </td>
+            <td><b> Argentina</b> (Argentina) </td>
           </tr>  
            <tr> 
-            <td> Portugal (Portugal) </td>
-            <td> Nigeria (Nigéria) </td>
+            <td><b> Portugal </b>(Portugal) </td>
+            <td><b> Nigeria </b>(Nigéria) </td>
           </tr>  
            <tr> 
-            <td> England (Inglaterra) </td>
-            <td>Ghana (Gana) </td>
+            <td><b> England </b>(Inglaterra) </td>
+            <td><b>Ghana </b>(Gana) </td>
           </tr> 
            <tr> 
-            <td> Italy (Itália) </td>
-            <td>Mexico (México) </td>
+            <td><b> Italy </b>(Itália) </td>
+            <td><b>Mexico </b>(México) </td>
           </tr>
            <tr> 
-            <td> Germany (Alemanha) </td>
-            <td>Mexico (México) </td>
+            <td><b> Germany </b>(Alemanha) </td>
+            <td><b>Mexico </b>(México) </td>
           </tr>
           <tr> 
-            <td>China (China) </td>
-            <td>Japan (Japão) </td>
+            <td><b>China </b>(China) </td>
+            <td><b>Japan </b>(Japão) </td>
           </tr>
            <tr> 
-            <td> India (Índia) </td>
-            <td>Russia (Rússia) </td>
+            <td><b> India </b>(Índia) </td>
+            <td><b>Russia </b>(Rússia) </td>
           </tr>
 	</table>
 </div>

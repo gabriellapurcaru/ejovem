@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -17,8 +17,8 @@
 	<p>Com o conteúdo apresentado nesta unidade, esperamos que você tenha aprendido um pouco mais acerca de como obter informações pessoais de alguém, como por exemplo, país de origem, profissão, endereço etc, de como ler e escrever os números em inglês, falar as letras do alfabeto, utilizar datas e expressar as horas em inglês.
 Gostaríamos de enfatizar que, para o bom aprendizado do inglês, você deve resolver todas as atividades propostas e tentar adquirir mais conhecimentos sobre o assunto em gramáticas, sites nas internet, dicionários etc.
 Na próxima unidade, você aprenderá, entre outras coisas, como falar um pouco mais sobre você, sua família, do que você gosta de fazer etc.
-See you in the next lesson!
-</p>
+</p><p><span class="label label-info"><a href="" title="Vejo você na próxima aula!">See you in the next lesson!</a><span></p>
+
 
 	</div>
     </div>

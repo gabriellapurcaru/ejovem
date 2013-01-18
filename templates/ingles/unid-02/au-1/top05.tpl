@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -9,7 +9,7 @@
 <div id="box-esquerda">
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
-    <p>Nessa aula, <span class="label label-info"><a href="#" title="Apresentando-se!">Introducing Yourself</a></span>, irmos aprender a dialogar na língua inglesa.</p> 
+    <p>Nessa aula, <span class="label label-info"><a href="#" title="Apresentando-se!">Introducing Yourself</a></span>, iremos aprender a dialogar na Língua Inglesa.</p> 
     <p>Para começar veja o diálogo ao lado e veja como é usado o pronome pessoal.</p>
     </div>
     <div id="box-explicacao-tabela-img">

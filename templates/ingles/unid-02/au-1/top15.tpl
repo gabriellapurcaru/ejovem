@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -14,7 +14,7 @@
     </div>
     <div id="box-dir">
 	<div id="texto">
-	<p>Nesta aula você aprendeu sobre como realizar um dialogo, aprendeu também sobre o verbo to be, e o que significado de várias palavras novas em inglês.</p>
+	<p>Nesta aula você aprendeu sobre como realizar um dialogo, aprendeu também sobre o verbo <b>to be</b>, e o que significado de várias palavras novas em inglês.</p>
 	<p>Até a próxima, Bye!</p>
 
 	</div>

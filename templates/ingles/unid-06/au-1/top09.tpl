@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -15,7 +15,7 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Está curioso para revisar as palavras que você conheceu nessa aula? Vá a sessão gramática e revise as palavras novas. 
+	       <p>Está curioso para revisar as palavras que você conheceu nessa aula? Vá a sessão <a href="gramatica.php">Gramática</a> e revise as palavras novas. 
 	       </p> 
         </div>
     </div>

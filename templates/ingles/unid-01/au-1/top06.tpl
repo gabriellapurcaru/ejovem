@@ -9,7 +9,7 @@
 <div id="box-exemplo">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Ao lado você poderá ver alguns exemplos sobre usos de palavras ou expressões originais da língua inglesa, confira.</p>
+        <p>Ao lado você poderá ver alguns exemplos sobre usos de palavras ou expressões originais da Língua Inglesa, confira.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
 </div>

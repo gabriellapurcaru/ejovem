@@ -1,13 +1,13 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Foco na gramática!">Grammar on focus</a></h3>
+<h3><a href="#" title="Foco na Gramática!">Grammar in Focus</a></h3>
 <div id="center">
 
 <div class="alert alert-success">
-<p>O verbo modal “can” expressa a idéia de habilidade no tempo presente. O verbo deve ser anteposto ao verbo principal. O sentido do verbo na frase indica “poder fazer”, “saber fazer algo” ou “saber como se faz algo”.</p><p> Veja o dialogo:</p>
+<p>O verbo modal “<b>can</b>” expressa a idéia de habilidade no tempo presente. O verbo deve ser anteposto ao verbo principal. O sentido do verbo na frase indica “poder fazer”, “saber fazer algo” ou “saber como se faz algo”.</p><p> Veja o dialogo:</p>
 </div>
 <div class="swf">
 	<img src="img/dialogo.png"/>

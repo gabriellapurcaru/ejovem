@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -20,7 +20,7 @@
     <div id="box-dir">
         <div id="box-dir-explicacao">
 	    	<p>Segundo o site Dicionário Informal (2012), o estrangeirismo trata-se de todo e qualquer emprego de palavras, expressões e construções estrangeiras em nosso idioma.</p>
-	    	<p>Entre na seção Conheça Mais e saiba um pouco mais da importância do inglês</p>
+	    	<p>Entre na seção <a href="conheca-mais.php">Conheça Mais</a> e saiba um pouco mais sobre a importância do inglês</p>
 	    	
         </div>
     </div>

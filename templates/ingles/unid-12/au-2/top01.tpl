@@ -2,15 +2,15 @@
 {tituloAula}
 {menu}
 
-<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
+<h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 <div id="center">
 
 	<div id="boxDigitacao">
 	    	<div class="item">
 
-	        <p>Faremos uma nova parada em nosso tour: 
+	        Faremos uma nova parada em nosso tour: 
  falávamos do nosso país, agora iremos falar sobre a nossa comunidade. Além disso, aprenderemos
- a forma correta de descrevermos quais estabelecimentos podemos encontrar nele nas formas afirmativa, negativa e interrogativa.</p>
+ a forma correta de descrevermos quais estabelecimentos podemos encontrar nele nas formas afirmativa, negativa e interrogativa.
 	    
 		</div>
 	</div>

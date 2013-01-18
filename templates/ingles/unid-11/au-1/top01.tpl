@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 
-
+<div id="meio">
 <h3><a href="#" title="Cosiderações Iniciais">Initial Considerations</a></h3>
 <div id="center">
 
@@ -20,7 +20,7 @@
 	</div>
 </div>
 </div>
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 			<span>Página 1 de 10</span>

@@ -4,7 +4,7 @@
 
 <div id="meio">
 
-<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
+<h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 <div id="center">
 
 <div id="boxDigitacao">
@@ -29,7 +29,7 @@
 {barra_tools}
 
 <div id="navegacao">
-	<span>Página 1 de 10</span>
+	<span>Página 1 de 5</span>
 	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	

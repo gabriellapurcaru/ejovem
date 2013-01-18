@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -15,7 +15,7 @@
     <div id="box-dir">
 	<div id="texto">
 	<p>Nesta unidade aprendemos sobre habilidades. Habilidades físicas, intelectuais e acadêmicas nos diferenciam uns dos outros. Somos indivíduos únicos por esta razão! Pratique falar de suas habilidades e das de seus amigos e mantenha na mente e no coração a ideia de aprender inglês – ele pode ser um excelente diferencia par você no mercado de trabalho. O seu futuro começa agora mesmo. </p>
-	<p>See you soon!</p>
+	<p><span class="label label-info"><a href="" title="Até breve!">See you soon!</a></span></p>
 
 	</div>
     </div>

@@ -16,48 +16,49 @@
 </div>
 
 <div id="box-direita">
+<div id="box-explicacao-video-animacao">
 <table class="table table-striped">
 <tdead>
 <tr>
-<td>Fascinating</td>
+<td><b>Fascinating</b></td>
 <td>Facinante</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td>Dynamic</td>
+<td><b>Dynamic</b></td>
 <td>Dinâmica</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
-<td>Polluted</td>
+<td><b>Polluted</b></td>
 <td>Poluída</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td>Crowded</td>
+<td><b>Crowded</b></td>
 <td>Lotada</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 
 <tr>
-<td>Beautiful</td>
+<td><b>Beautiful</b></td>
 <td>Bonita</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
-<td>Friendly</td>
+<td><b>Friendly</b></td>
 <td>Amigável</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
-<td>Stressful</td>
+<td><b>Stressful</b></td>
 <td>Estressante</td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 </tdead>
 </table>
 </div>
-
+</div>
 
 </div>	
 
