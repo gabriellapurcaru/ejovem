@@ -12,7 +12,7 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Nessa lição falamos um pouco sobre o futuro e aprendemos como utilizar os verbos que precisamos para formar as frases como <b>get </b>e <b>want </b>. Na próxima aula iremos continuar o assunto.</p>
+		<p>Nessa lição falamos um pouco sobre o futuro e aprendemos como utilizar os verbos que precisamos para formar as frases como <b>Get </b>e <b>Want</b>. Na próxima aula iremos continuar o assunto.</p>
 		<p><span class="label label-info"><a href="#" title="Nos vemos em breve!">See you soon!</span></a></p>
 
 		</div>

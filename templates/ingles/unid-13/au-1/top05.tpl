@@ -341,81 +341,55 @@ document.formulario.elements[i].options[s].selected = true;
 
 
 </script>
-<base target="_blank">
 </head>
-<body  topmargin="10" leftmargin="10" rightmargin="10" bottommargin="10" bgcolor="#99FF66" OnLoad="self.focus();">
-
-<div style="display:none; position: absolute; width: 580px; height: 400px; z-index: 1; left: 10px; top: 10px" id="floatLayer">
-	
-</div>
-
+<body>
 <form id="formulario" name="formulario">
-<table border="0" cellpadding="0" cellspacing="0" width="1000" id="table1">
+<table>
+<tbody>
 	<tr>
-		<td align="left" valign="top">
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-I....................(go)
-to the cinema this evening.<input size="8" name="/am going/" type="text"></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-Look at those clouds!
-It.......................(rain) <input size="9" name="/will rain/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-I'm too tired to walk
-home. I think I................(take) a taxi. <input size="9" name="/will take/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-.............................(the
-film/begin) at 3.30 or 4.30? <input size="24" name="/When does the film begin/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-He..............................(not/use)
-the car this evening, so you can have it. <input size="12" name="/is not using/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-I bought this T-shirt
-but it's too big. I think
-I...............................(return/it). <input size="18" name="/am going to return/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-Who.................................(you/invite)
-to your birthday's party? <input size="16" name="/are you going to/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-I.........................(not/go)
-out this evening. I..........................(stay) at home. <input size="13" name="/am not going/" type="text">  <input size="16" name="/am going to stay/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-Sue.......................(come)
-to see us tomorrow. She.......................(travel) by train and
-her train …....................(arrive) at 10.15. <input size="9" name="/is coming/" type="text"> <input size="13" name="/is travelling/" type="text"> <input size="7" name="/arrives/" type="text"> <br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-'Would you like tea or
-coffee?' 'I..................(have) a coffee, please. <input size="9" name="/will have/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-(Suddenly) I've decided not to
-stay here any longer! Tomorrow I.........................(look) for
-somewhere else to stay. <input size="9" name="/will look/" type="text"><br></font></font></p>
-<p style="margin-bottom: 0cm; font-weight: normal; line-height: 150%;" align="JUSTIFY" lang="en-US">
-<font face="Verdana, sans-serif"><font size="3">-It's a bit cold. The
-window is open and you decide to close it. You say: I think
-I....................(close) the window. <input size="10" name="/will close/" type="text"><br></font></font></p>
+<td>
+<font size="3">- I....................(go) to the cinema this evening.</td>
+<tr>
+<td><input size="8" name="/am going/" type="text"></td></tr>
+<tr><td>- Look at those clouds! It.......................(rain)</td></tr>
+<tr><td><input size="9" name="/will rain/" type="text"></td></tr>
+<tr><td>- I'm too tired to walk home. I think I................(take) a taxi.</td></tr>
+<tr><td><input size="9" name="/will take/" type="text"></td></tr>
 
-    </td>
-	</tr>
-	<tr>
-		<td align="left" valign="top">
-<p>&nbsp;</p>
-<hr border=15>	
-	
-	<p align="right"><input type="button" value="Checar!" name="B1" onclick="comprobarFormulario()" style="width:80px;height:35px;font-size:15">
-	<input style="visibility:hidden" type="button" value="Show answers" name="B2" onclick="verSoluciones()" style="width:160;height:43;font-size:20"></p>
-	</td>
-	</tr>
+<tr><td>- .............................(the film/begin) at 3.30 or 4.30?</td></tr> 
+<tr><td><input size="24" name="/When does the film begin/" type="text"></td></tr>
+
+<tr><td>- He..............................(not/use)the car this evening, so you can have it.</td></tr> 
+<tr><td><input size="12" name="/is not using/" type="text"></td></tr>
+
+<tr><td>- I bought this T-shirt but it's too big. I think I...............................(return/it).</td></tr> 
+<tr><td><input size="18" name="/am going to return/" type="text"></td></tr>
+
+<tr><td>- Who.................................(you/invite) to your birthday's party? </td></tr>
+<tr><td><input size="16" name="/are you going to/" type="text"></td></tr>
+
+<tr><td>- I.........................(not/go) out this evening. I..........................(stay) at home.</td></tr> 
+<tr><td><input size="13" name="/am not going/" type="text">  <input size="16" name="/am going to stay/" type="text"></td></tr>
+
+
+<tr><td>- Sue.......................(come) to see us tomorrow. She.......................(travel) by train and her train …....................(arrive) at 10.15.</td></tr>
+<tr><td><input size="9" name="/is coming/" type="text"> <input size="13" name="/is travelling/" type="text"> <input size="7" name="/arrives/" type="text"></td></tr> 
+
+<tr><td>- 'Would you like tea or coffee?' 'I..................(have) a coffee, please.</td></tr> 
+<tr><td><input size="9" name="/will have/" type="text"></td></tr>
+
+<tr><td>- (Suddenly) I've decided not to stay here any longer! Tomorrow I.........................(look) for somewhere else to stay.</td></tr> 
+<tr><td><input size="9" name="/will look/" type="text"></td></tr>
+ 
+<tr><td>- It's a bit cold. The window is open and you decide to close it. You say: I think I....................(close) the window.</td></tr> 
+<tr><td><input size="10" name="/will close/" type="text"></td></tr>
+ 
+</tbody>
 </table>
-</form>
-<p>&nbsp;</p>
+<input class="FuncButton" type="button" value="Verificar" name="B1" onclick="comprobarFormulario()" style="width:80px;height:35px;font-size:15;">	
 
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-2079983-4");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-</body>
-</html>
+<input class="FuncButton" style="visibility:hidden" type="button" value="Show answers" name="B2" onclick="verSoluciones()" style="width:160;height:43;font-size:20"></p>
+</form>
 </div>
 </div>
 </div>

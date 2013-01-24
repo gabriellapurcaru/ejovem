@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 <div id="meio">
-<h3><a href="#" title="Saiba Mais!">Learn More!</a></h3>
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
 <div id="center">
 
 <div id="box-center-conclusao">
