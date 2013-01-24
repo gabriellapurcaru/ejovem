@@ -4,10 +4,8 @@
 <h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
 
-<div id="box-explicacao-video-animacao">
-
 <h6><p align="center"><a href="#" title="Veja o diálogo e preste atenção!">
-See the dialogue end pay attention!</a><br>Espressões usamos para falar do que tem/existe/há em um determindado lugar:</p></h6>
+See the dialogue and pay attention!</a><br>Espressões que usamos para falar do que Tem/Existe/Há em um determindado lugar:</p></h6>
 
 <div class="swf">
 

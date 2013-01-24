@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Gramática em FOco">Grammar in FOcus</a></h3>
+<h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
 <div id="box-esquerda">
     <div id="box-explicacao-tabela-texto">
@@ -17,7 +17,7 @@
 	<div id="box-direita">
 
 		<div class="swf">
-	
+<h6>Clique na seta para continuar lendo o texto.</h6>	
 <embed width="450" height="350" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animacao01_top07.swf" name="plugin"> 
 
 		</div>

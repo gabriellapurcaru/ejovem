@@ -18,28 +18,28 @@
 	<table class="table table-striped">
 <tdead>
 <tr>
-<td><b>SUBJECT</b></td>
-<td><b>NEGATIVE AUX</b></td>
-<td><b>VERB</b></td>
-<td><b><b>COMPLEMENT</b></td>
+<th>SUBJECT</th>
+<th>NEGATIVE AUX</th>
+<th>VERB</th>
+<th>COMPLEMENT</th>
 </tr>
 <tr>
-<td>I</td>
-<td>do not</td>
-<td>want</td>
-<td>to get married</td>
+<td style="text-align:center">I</td>
+<td style="text-align:center"><i>do not</i></td>
+<td style="text-align:center">want</td>
+<td style="text-align:center">to get married</td>
 </tr>	
 <tr>
-<td>I</td>
-<td>would not</td>
-<td>like</td>
-<td>to move to Recife</td>
+<td style="text-align:center">I</td>
+<td style="text-align:center"><i>would not</i></td>
+<td style="text-align:center">like</td>
+<td style="text-align:center">to move to Recife</td>
 </tr>
 <tr>
-<td>I</td>
-<td>will not</td>
-<td>travel</td>
-<td>to Rio</td>
+<td style="text-align:center">I</td>
+<td style="text-align:center"><i>will not</i></td>
+<td style="text-align:center">travel</td>
+<td style="text-align:center">to Rio</td>
 </tr>	
 </tdead>
 </table>
