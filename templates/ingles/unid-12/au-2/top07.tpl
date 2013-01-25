@@ -6,7 +6,8 @@
 <div id="center">
 
 <div class="swf">
-<embed width="600" height="450" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao02_top06.swf" name="plugin">
+<h6>Clique na seta para continuar o diálogo.</h6>
+<embed width="600" height="450" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao02_top07.swf" name="plugin">
 </div>
 </div>
 

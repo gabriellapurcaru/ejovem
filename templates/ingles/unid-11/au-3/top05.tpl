@@ -5,11 +5,10 @@
 <h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
     
-		   
+<h6>Relacione</h6>		   
 <div id="atividade">
 <script src="js/atividade02.js" type="text/javascript"></script>
 <div id="MainDiv" class="StdDiv">
-
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">

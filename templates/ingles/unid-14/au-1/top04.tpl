@@ -4,10 +4,13 @@
 
 
 <div id="meio">
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Gramática em Foco!">Grammar in Focus</a></h3>
 <div id="center">
-	<div class="swf">	
-	Animação
+	<div class="swf">
+<h6>Clique na seta para continuar vendo o diálogo.</h6>
+<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_01-top04.swf" name="plugin">
+	
+	
 	</div>
 	</div>
 </div>

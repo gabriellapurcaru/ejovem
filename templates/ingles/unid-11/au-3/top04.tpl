@@ -6,6 +6,7 @@
 <div id="center">
 
 <div class="swf">
+<h6>Clique na seta para continuar lendo o texto.</h6>
 <embed width="600" height="450" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animação_texto.swf" name="plugin"> 
 </div>
 

@@ -5,6 +5,7 @@
 <h3><a href="#" title="Meu País, Brasil.">My Country, Brazil.</a></h3>
 <div id="center">
 	<div class="swf">
+<h6>Clique na seta para continuar o diálogo.
 <embed width="600" height="450" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/animacao_aula01top06.swf" name="plugin"> 
 	</div>
 
