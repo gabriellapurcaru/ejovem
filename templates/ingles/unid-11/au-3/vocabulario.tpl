@@ -7,39 +7,39 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<td>Cut</td>
-		<td>corte</td>
+		<th>Cut</th>
+		<td>Corte</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Flour</td>
-		<td>farinha</td>
+		<th>Flour</th>
+		<td>Farinha</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-		<td>Dry</td>
-		<td>seco</td>
+		<th>Dry</th>
+		<td>Seco</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Pork</td>
-		<td>carne de porco</td>
+		<th>Pork</th>
+		<td>Carne de Porco</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 
 	<tr>
-		<td>Bean</td>
-		<td>feijão</td>
+		<th>Bean</th>
+		<td>Feijão</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>Cozy</td>
-	<td>aconchegante</td>
+	<th>Cozy</th>
+	<td>Aconchegante</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>Environment</td>
-	<td>ambiente</td>
+	<th>Environment</th>
+	<td>Ambiente</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	</thead>
