@@ -47,7 +47,8 @@
 	<link rel="stylesheet" type="text/css" href="../../../css/menu-abas.css"/>
 
 	
-	<title>Projeto E-Jovem</title>	
+	<title>Projeto E-Jovem</title>
+	<meta charset="utf-8">	
 
 </head>
 <body onLoad="StartUp()" id="TheBody">

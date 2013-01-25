@@ -13,8 +13,8 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Nessa lição falamos um pouco sobre comidas, especialmente comidas típicas do Brasil e do Ceará.</p>
-		<p>Na próxima lição iremos falar novamente sobre direções e lugares.</p>
+		<p>Nessa lição falamos um pouco sobre comidas, especialmente comidas típicas do Brasil e do Ceará.
+		<br>Na próxima lição iremos falar novamente sobre direções e lugares.</p>
 		<p><span class="label label-info"><a href="#" tittle="Nos vemos em breve!">See you soon!</a></span>
 
 		</div>

@@ -8,65 +8,34 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<td>Browser</td>
-		<td>Navegador, Leitor de hipertexto</td>
+		<th>To move</th>
+		<td>Mudar-se, mover-se;</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Mouse</td>
-		<td>Rato: periférico de computador, em informática</td>
+		<th>To graduate</th>
+		<td>Graduar-se, formar-se;</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-		<td>Play</td>
-		<td>Reproduzir, Tocar; Reprodução de música ou vídeo</td>
+		<th>To travel</th>
+		<td>Viajar;</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Tênis</td>
-		<td>Português brasileiro, ou ténis português europeu, calçado de "tennisshoes"</td>
+		<th>Trip</th>
+		<td>Viagem;</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 
 	<tr>
-		<td>Videoclipe</td>
-		<td>Ou clipe, de “videoclip”</td>
+		<th>Goal</th>
+		<td>Objetivo;</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>Email</td>
-	<td>Email</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<td>Password</td>
-	<td>Senha</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-	<td>To send</td>
-	<td>Enviar</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<td>To reply</td>
-	<td>Responder</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-
-	<tr>
-	<td>To log on</td>
-	<td>Entrar</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<td>To print</td>
-	<td>Imprimir</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-	<td>Document</td>
-	<td>Documento</td>
+	<th>At least</th>
+	<td>Pelo menos.</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	</thead>

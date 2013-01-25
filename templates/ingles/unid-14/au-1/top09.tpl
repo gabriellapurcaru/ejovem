@@ -7,7 +7,7 @@
 
 <div id="center">
 	<div class="swf">
-<h6>Clique na seta a direita para dar continuação ao diálogo.</h6>
+<h6>Clique na seta à direita para dar continuação ao diálogo.</h6>
 <embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao03_top09.swf" name="plugin">
 		
 	</div>
