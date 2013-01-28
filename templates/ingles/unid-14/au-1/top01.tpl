@@ -16,7 +16,7 @@
 <p><b>Olá a todos!</b></p>
 <p>Nesta e nas próximas unidades, utilizaremos os tópicos estudados anteriormente com um enfoque bem diferente.</p>
 <p>Vamos falar sobre aspectos do nosso Estado, fazendo uso da Língua Inglesa. Hoje, vamos colocar um pouco mais de tempero nesse idioma falando sobre a nossa cozinha regional.</p>
-<p><b>Vamos lá!</p>
+<p><b>Vamos lá!</b></p>
 	</div>
 	</div>
 
