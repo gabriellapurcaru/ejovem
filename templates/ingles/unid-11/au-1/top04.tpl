@@ -5,7 +5,7 @@
 <h3><a href="#" title="Que outros alimentos e bebidas você sabe em inglês?">What other foods and drinks do you know in english?</a></h3>
 <div id="center">
 <div class="swf">
-
+<h6>Clique na seta para continuar vendo a explicação.</h6>
 <embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_alimentos.swf" name="plugin">
 
 </div>
