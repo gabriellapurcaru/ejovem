@@ -11,7 +11,8 @@
 	</div>
 
 	<div id="texto">
-<p>Olá! Como vocês já devem ter percebido, o estudo de uma língua envolve
+<p><b>Olá!</b></p> 
+		   <p>Como vocês já devem ter percebido, o estudo de uma língua envolve
 		   também o estudo de uma cultura. Então, façamos uma ponte entre o Brasil
 		   e os países anglófonos (aqueles países que têm o Inglês como língua oficial) e
 		   misturar um pouco o estudo do Inglês com Geografia e conhecimentos sobre nosso país?
