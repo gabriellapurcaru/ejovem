@@ -14,7 +14,11 @@
 
 	<div id="texto">
  <p><b>Olá a todos!</b></p>
-	<p>Muita gente costuma fazer algum tipo de lista com objetivos e planos para o futuro. Se você é uma dessas pessoas, esta unidade lhe fará muito bem! Se você acreditar que seu futuro começa hoje, seus esforços se fortalecerão também aqui. Este é mais um passo na intenção de estar mais bem preparado para o futuro. </p>
+	<p>Muita gente costuma fazer algum tipo de lista com objetivos e planos para o futuro.
+ Se você é uma dessas pessoas, esta unidade lhe fará muito bem! Se você acreditar que seu futuro
+ começa hoje, seus esforços se fortalecerão também aqui. Este é mais um passo na intenção de estar
+ mais bem preparado para o futuro. </p>
+<p><b>Let's go!</b></p>
 	</div>
 	</div>
 
