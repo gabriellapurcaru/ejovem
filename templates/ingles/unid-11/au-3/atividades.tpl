@@ -11,8 +11,9 @@
   </ul>
   <div class="tab-content">
     <div class="tab-pane active" id="tab1">
-      	<h6>Relacione as colunas:</h6>
+      
 	<div id="atividade">
+	<h6>Relacione as colunas:</h6>
 		<script src="js/atividade02.js" type="text/javascript"></script>
 <div id="MainDiv" class="StdDiv">
 <div id="ClozeDiv">

@@ -4,9 +4,9 @@
 
 <h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
-    
-<h6>Relacione</h6>		   
+   
 <div id="atividade">
+<h6>Relacione as colunas:</h6>
 <script src="js/atividade02.js" type="text/javascript"></script>
 <div id="MainDiv" class="StdDiv">
 <div id="ClozeDiv">

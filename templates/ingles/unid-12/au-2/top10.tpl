@@ -7,6 +7,16 @@
 
 <div id="atividade">
 <p>Agora vamos fazer a atividade!</p>
+<script language="javascript" type="text/javascript">
+
+   document.write("Hello World!")
+   //alert("Minha primeira mensagem!")
+a = 2
+b = 9
+c = a + b
+
+alert(c)
+</script>
 
 	</div>
 	
