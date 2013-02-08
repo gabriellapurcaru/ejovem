@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -13,12 +13,9 @@
 
 <div id="texto">
 <p><b>Olá a todos!</b></p>
-
-<p>Cortesia e boas maneiras são a essência da boa educação. O desenvolvimento de um bom relacionamento depende, sobremaneira, do nosso comportamento social. Assim, devemos ser corteses, tanto em sociedade quanto no lar e zelarmos por uma convivência agradável a partir da apresentação pessoal e da maneira de cumprimentar aquele com quem se fala. </p>
-
-<p>Nesse sentido, nessa unidade você poderá aprender entre outros aspectos, como se apresentar a outra pessoa, perguntar pelo nome de alguém, o uso adequado de pronomes pessoais do caso reto e de tratamento, os tempos simples do verbo to be, expressões idiomáticas e de saudações e de despedida.</p>
-
-<p>Para o bom aprendizado do conteúdo, no decorrer das lições, serão apresentados exercícios de fixação e de revisão. Bons estudos!</p>
+<p>As insformações pessoais, como o próprio nome já diz, servem para nos identificar ou permitir que conheçamos melhor uma pessoa. Normalmente, essas informações são solicitadas quando vamos a umaentrevista de emprego, quando temos que preencher um cadastro ou inscrição qualquer, por exemplo. Em breve, no decorrer desta unidade, veremos como podemos dar ou pedir esse tipo de informação.</p>
+<p>Nesse sentido, aprenderemos aqui um pouco mais sobre os números (ordinais e cardinais). Conhecer e saber os números em inglês é importante para entendermos ou fornecermos informações sobre nosso número de telefone, idade, número de documentos, endereço etc. Além disso, no decorrer das lições da unidade 03, apresentaremos também o alfabeto em inglês, como dizer e utilizar datas e meses do ano e faremos uma breve revisão do conteúdo abordado na unidade.</p>
+<p>Que todos tenham um ótimo estudo!</p>
 
 <p><b>Let's go!</b></p>
 
