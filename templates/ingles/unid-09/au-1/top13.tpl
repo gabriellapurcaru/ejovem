@@ -25,8 +25,8 @@
 </div>	
 {barra_tools}
 <div id="navegacao">
-<a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 11 de 11</span>
+<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 13 de 13</span>
 </div>
 </div>
 
