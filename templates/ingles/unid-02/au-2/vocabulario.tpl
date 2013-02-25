@@ -8,87 +8,87 @@
 	<table class="table">
 		<tbody>
 		<tr>
-	      <td>Hello, Hi</td>
+	      <th>Hello, Hi</th>
 	      <td>Olá, Oi</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-			<td>Good morning</td>
+			<th>Good morning</th>
 		      <td>Bom dia</td>
 		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
 
 	    <tr>
-	      <td>Good night</td>
+	      <th>Good night</th>
 	      <td>Boa noite</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-		      <td>Good-bye, bye</td>
+		      <th>Good-bye, bye</th>
 		      <td>Adeus, Tchau</td>
 		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
 
 	    <tr>
-	      <td>See you soon</td>
+	      <th>See you soon</th>
 	      <td>Até logo</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-		      <td>See you later</td>
+		      <th>See you later</th>
 		      <td>Até breve</td>
 		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av06.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
 
 	    <tr>
-	      <td>Please</td>
+	      <th>Please</th>
 	      <td>Por favor</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av07.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	      <td>Thank you</td>
+	      <th>Thank you</th>
 	      <td>Obrigado</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av08.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
 
 	    <tr>
-	      <td>You're welcome</td>
+	      <th>You're welcome</th>
 	      <td>De nada</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av09.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	      <td>Excuse me</td>
+	      <th>Excuse me</th>
 	      <td>Desculpe, Com licença</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av10.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
 	    
 	    <tr>
-	      <td>Sorry</td>
+	      <th>Sorry</th>
 	      <td>Desculpe</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av11.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	      <td>Congratulations</td>
+	      <th>Congratulations</th>
 	      <td>Parabéns</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av12.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
 
 	    <tr>
-	      <td>Good luck</td>
+	      <th>Good luck</th>
 	      <td>Boa sorte</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av13.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	      <td>Hey</td>
+	      <th>Hey</th>
 	      <td>Ei</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av14.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
 
 	    <tr>
-	      <td>What's up?</td>
+	      <th>What's up?</th>
 	      <td>Como vai?, E aí?</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av15.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	      <td>How are you?</td>
+	      <th>How are you?</th>
 	      <td>Como vai?, Tudo bom?</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av17.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
 
 	    <tr>
-	      <td>How are you doing?</td>
+	      <th>How are you doing?</th>
 	      <td>Como está?</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av16.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	      <td>How's it going?</td>
+	      <th>How's it going?</th>
 	      <td>Como vai?</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av18.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	      </tr>
 	      <tr>
-	      <td>Bye!</td>
+	      <th>Bye!</th>
 	      <td>Tchau!</td>
 	      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av19.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	    </tr>
