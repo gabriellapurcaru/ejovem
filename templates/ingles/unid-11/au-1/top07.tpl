@@ -1,17 +1,14 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-<h3>Faltou o título!** <br> E aqui seria outra animação.</h3>
+<div id="meio">
+<h3><a href="#" title="Almoço e Jantar">Lunch and Dinner</a></h3>
 <div id="center">
 
-<div id="box-esquerda">
-    <div id="box-explicacao-tabela-texto">
-    <p>No diálogo você pode ver que há várias palavras novas, como lunch e dinner. <b>lunch</b> significa almoço, <b>dinner</b> quer dizer jantar. 
-<br>Clique nos balões ao lado e veja o nome dos alimentos que podem fazer parte do lunch e dinner.</p>
-    </div>
-    <div id="box-explicacao-tabela-img">
-        <img src="../../../imgs/e17.png"/>
-    </div>
+<div class="swf">
+<h6>Clique na seta para continuar vendo a explicação.</h6>
+<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao04_lunchedinner.swf" name="plugin">
+
 </div>
 
 
@@ -19,6 +16,7 @@
 
 
 	
+</div>
 </div>
 
 {barra_tools}
