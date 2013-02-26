@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -19,7 +19,7 @@
 </div>
 
 <div id="box-direita">
-	<p class="titulo">Passe o mouse sobre as palavras</p>
+	<h6><p class="titulo">Passe o mouse sobre as palavras</p></h6>
 	<table class="table table-striped">
 		<tbody>
 			<tr>

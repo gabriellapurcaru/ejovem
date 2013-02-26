@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -8,25 +8,35 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<td>Trip</td>
-		<td>Viagem</td>
+		<th>Shopkeeper</th>
+		<td>Logista</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Cycle</td>
-		<td>andar de bicicleta</td>
+		<th>Baker</th>
+		<td>Padeiro</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-		<td>Boss</td>
-		<td>Chefe</td>
+		<th>Sailor</th>
+		<td>Marinheiro</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Pay Bills</td>
-		<td>Pagar contas</td>
+		<th>Unemployed</th>
+		<td>Desempregado</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
+	</tr>
+	<tr>
+		<th>Playwrirght</th>
+		<td>Dramaturgo</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	</tr>
+	<tr>
+		<th>Postman</th>
+		<td>Carteiro</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	</tr>			
 
 	
 	</thead>
