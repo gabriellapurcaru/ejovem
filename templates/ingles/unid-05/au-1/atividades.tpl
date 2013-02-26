@@ -1,92 +1,79 @@
-{topo}
+﻿{topo}
 {menu}
 <div id="meio">
 
 <h3>Atividade 01: Identificar as palavras em inglês presente no seu dia-a-dia</h3>
 
-<div class="Block">
-<div class="Block-body">
-<div class="BlockContent">
-<div class="PostContent">
+<div class="tabbable">
+  <ul class="nav nav-tabs">
+    	<li class="active"><a href="#tab1" data-toggle="tab">Atividade 01</a></li>
+	<li><a href="#tab2" data-toggle="tab">Atividade 02</a></li>
+	<li><a href="#tab3" data-toggle="tab">Atividade 03</a></li>
+  </ul>
+  <div class="tab-content">
+    <div class="tab-pane active" id="tab1">
+      		<div id="box-explicacao-video-animacao">
+<h6>Nesse exercício você deverá escrever o trabalho correto em cada imagem, relacionado com a tabela. Depois ouça e escolha o emprego certo, e por ultimo preencha a cruzadinha. Concentre-se!</h6>
+		</div>	
+  </div>
+ 
 
-<center>
-<div id="gallery">
-<div class="legenda">Clique nas imagens para amplia-las e depois escreva as palavras que você viu em Inglês em cada imagem.</div>
-<ul id="palavras_cruzada">
+    <div class="tab-pane active" id="tab2">
+	<div id="box-explicacao-video-animacao">
+<h6>Quando você fala sobre sua família, geralmente você diz o que seus parentes fazem e onde eles trabalham. Leia o parágrafo abaixo e preencha o quadro.</h6>
+<embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia_unid5_aula1.swf" name="plugin">
+</div>
+	</div>
+    
+	
+	<div class="tab-pane active" id="tab3">
+		<div id="box-explicacao-video-animacao">	
+           <h6>Vamos testar se você entendeu a forma correta do verbo?
+<br> Complete as frases com as palavras ao lado, formando as frase na sua forma <b>afirmativa</b>.</h6>
+    			<div id="atividade">	
+			<script src="js/atividade01.js" type="text/javascript"></script></head>
+			<div id="MainDiv" class="StdDiv">
 
-	<li class="palavras_cruzada">
-		<a href="img/img1.png" title="Imagem 1">
-			<img src="img/icon1.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img2.png" title="Imagem 2">
-			<img src="img/icon2.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img3.png" title="Imagem 3">
-			<img src="img/icon3.png" width="40" height="40" alt="" />
-		</a>	
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img4.png" title="Imagem 4">
-			<img src="img/icon4.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img5.png" title="Imagem 5">
-			<img src="img/icon5.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img6.png" title="Imagem 6">
-			<img src="img/icon6.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img7.png" title="Imagem 7">
-			<img src="img/icon7.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-	<li class="palavras_cruzada">
-		<a href="img/img8.png" title="Imagem 8">
-			<img src="img/icon8.png" width="40" height="40" alt="" />
-		</a>
-	</li>
-</ul>
+			<div id="ClozeDiv">
+			<form id="Cloze" method="post" action="" onsubmit="return false;">
+			<div class="ClozeBody">
+		
+		<table class="table table-striped">
+		<tdead>
+		<tr>
+		<td> I <span class="GapSpan" id="GapSpan0"><input class="input-mini" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> in Maracanau, in Cear&#x00E1;. (LIVE)</td>
+		</tr>	
+		<tr><td>Jo&#x00E3;o <span class="GapSpan" id="GapSpan1"><input class="input-mini" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> rock and roll. (LIKE)</td></tr>
+		<tr><td> We <span class="GapSpan" id="GapSpan2"><input class="input-mini" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a hamburger. (WANT)</td></tr>
+		<tr><td>You <span class="GapSpan" id="GapSpan3"><input class="input-mini" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> at the state university. (WORK)</td></tr>
+		<tr><td>Susana <span class="GapSpan" id="GapSpan4"><input class="input-mini" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> Portuguese. (TEACH)</td></tr>
+		<tr><td>Paulo <span class="GapSpan" id="GapSpan5"><input class="input-mini" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> English. (STUDY)</td></tr>
+		<tr><td>You <span class="GapSpan" id="GapSpan6"><input class="input-mini" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> one brother. (HAVE)</td></tr>
+		<tr><td>Tom <span class="GapSpan" id="GapSpan7"><input class="input-mini" type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> three sisters. (HAVE)</td></tr>
+		</thead>
+		</table>
+	</div>
+	</form>
+	</div>
+	<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+	<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+	</div>
+	<div class="Feedback" id="FeedbackDiv">
+	<div class="FeedbackText" id="FeedbackContent"></div>
+	<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+	</div>
+</div>
+		</div>
 </div>
 
-<br/>                                                              
-<object width="550" height="250">
-	<param name="movie" value="img/atividade.swf"></param>
-	<param name="allowFullScreen" value="true"></param>
-	<param name="allowscriptaccess" value="always"></param>
-	<embed src="img/atividade.swf" type="application/x-shockwave-flash" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" width="550" height="250"></embed>
-</object>                                                                  
 
-</center>                                                                 
-</div>
-<div id="button-box">            
-<span class="button-wrapper">
-<span class="l"> </span>
-<span class="r"> </span>
 
-</span>                                                             
-<span class="button-wrapper">
-<span class="l"> </span>
-<span class="r"> </span>
-</span>
-</div>
-</div>
-</div>
-</div>
-<h3>Atividade 02: Escutar o audio e procurar no quadro as palavra presentes no </h3>
 
-<p>Escute o audio e depois procure no quadro, as palavras que usamos no nosso dia a dia.</p> 
-<div id="caca-palavras">
-	<div id="audio"><embed src="../audio/faixa1.mp3" width="50" height="50" autostart="false" hiddn=”false”></embed></div>
-	<img src="img/e01.jpg"/>
+</div>
+	</div>
+	</div>
+	</div>
+	</div>
 </div>
 	
 

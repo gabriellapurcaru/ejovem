@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -28,8 +28,8 @@
 			<tr>
 			<td><img src="img/img01.png"/></td>
 			<td><img src="img/img02.png"/></td>
-			<td><img src="img/img03.png"/></td>
 			<td><img src="img/img04.png"/></td>
+			<td><img src="img/img03.png"/></td>
 			</tr>
 			<tr>
 			<td><span class="GapSpan" id="GapSpan0"><input class="span1" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>

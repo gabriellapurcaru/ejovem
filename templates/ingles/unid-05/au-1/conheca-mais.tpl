@@ -1,19 +1,25 @@
-{topo}
+﻿{topo}
 {menu}
 <div id="meio">
-<h3>Conheça Mais</h3>
+<h3><a href="#" title="Conheça Mais">Learn More</a></h3>
+<div id="center">
+	<h4>Vamos aprender um pouco mais sobre construção!</h4>
+<div id="box-explicacao-video-animacao">
+	<h3>The Simple Present Tense</h3>
+	<p><b>The Simple Present Tense</b> expressa um fato, um acontecimento ou <b>ações habituais no Presente.</b> Vejamos alguns exemplos abaixo:
+<ul>
+<li>I <b>go</b> to school every day.</li>
+<li>She <b>works</b> at Starbucks.</li>
+<li>Classes <b>start</b> at seven.</li>
+<li>I always <b>listen</b> to the radio.</li>
+</ul>
 
-<div id="boxs">
-	<div class="box-texto">
-		<div class="img">
-			<img src="../../../imgs/iconesaibamais.png" title="Fonte da Imagem: http://www.shutterstock.com/cat-23-Illustrations-Clip-Art.html#id=30958903" />
-		</div>
-		<div class="texto">
-			<h5>Conheça mais</h5> 
-			<p>Veja o artigo de Denise Farias Rocha uma Especialista em Língua Inglesa, Professora do Centro de Línguas vivas da Católica de Goiás fala sobre a Importância do Inglês no Mundo.</p>		
-			<p>Clique <a href="http://www.omelhoringles.com/artigo2.php" target="_blank">aqui</a> para ler o artigo</p>
-		</div>
-	</div>		
+<p><b>The Simple Present Tense</b> pode expressar também verdades universais e ações futuras planejadas. Vejamos os exemplos abaixo:</p>
+<ul>
+<li>Birds <b>fly.</b></li>
+<li>The train <b>leaves</b> in ten minutes.</li>
+</ul>
+</div>
 </div>
 </div>	
 {rodape}
