@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -14,7 +14,7 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Agora que você já está craque, vá a seção Conheça Mais para aprender como se fala algumas expressões em inglês. Te espero lá!</p> 
+	       <p>Agora que você já está craque, vá a seção <a href="conheca-mais.php">Conheça Mais</a> para aprender como se fala algumas expressões em inglês. Te espero lá!</p> 
         </div>
     </div>
 </div>
