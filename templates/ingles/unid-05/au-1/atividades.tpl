@@ -2,7 +2,8 @@
 {menu}
 <div id="meio">
 
-<h3>Atividade 01: Identificar as palavras em inglês presente no seu dia-a-dia</h3>
+<h3><a href="#" title="Atividades">Activities</a></h3>
+<div id="center">
 
 <div class="tabbable">
   <ul class="nav nav-tabs">
@@ -20,12 +21,13 @@
 
     <div class="tab-pane active" id="tab2">
 	<div id="box-explicacao-video-animacao">
+
 <h6>Quando você fala sobre sua família, geralmente você diz o que seus parentes fazem e onde eles trabalham. Leia o parágrafo abaixo e preencha o quadro.</h6>
 <embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia_unid5_aula1.swf" name="plugin">
 </div>
 	</div>
     
-	
+
 	<div class="tab-pane active" id="tab3">
 		<div id="box-explicacao-video-animacao">	
            <h6>Vamos testar se você entendeu a forma correta do verbo?
@@ -75,7 +77,7 @@
 	</div>
 	</div>
 </div>
-	
+</div>	
 
 
 

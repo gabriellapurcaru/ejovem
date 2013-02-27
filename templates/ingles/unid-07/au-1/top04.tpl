@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -27,9 +27,9 @@
 <td><img src="img/06.gif"/></td>
 </tr>
 <tr>
-<td><a href="#" title="Receptionist">Dance</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-<td><a href="#" title="Receptionist">Drive</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
-<td><a href="#" title="Receptionist">Ride a bike</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Dançar">Dance</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Dirigir">Drive</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+<td><a href="#" title="Andar de bicicleta">Ride a bike</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
 <td><img src="img/05.gif"/></td>
@@ -37,9 +37,9 @@
 <td><img src="img/03.gif"/></td>
 </tr>
 <tr>
-<td><a href="#" title="Receptionist">Play socer</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-<td><a href="#" title="Receptionist">Use yhe computer</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
-<td><a href="#" title="Receptionist">Cook</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Jogar Futebol">Play soccer</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Utilizar o computador">Use the computer</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+<td><a href="#" title="Cozinhar">Cook</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 <td><img src="img/02.gif"/></td>
@@ -47,8 +47,8 @@
 <td></td>
 </tr>
 <tr>
-<td><a href="#" title="Receptionist">Swim</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-<td><a href="#" title="Receptionist">Play the guitar</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
+<td><a href="#" title="Nadar">Swim</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Tocar guitarra">Play the guitar</a><br /> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
 <td></td>
 </tr>
 </tdead>
@@ -62,7 +62,7 @@
 {barra_tools}
 <div id="navegacao">
 <a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 4 de 15</span>
+	<span>Página 4 de 13</span>
 <a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>
