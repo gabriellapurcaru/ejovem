@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -8,12 +8,12 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<td>Noon</td>
+		<th>Noon</th>
 		<td>Meio dia</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Midnight</td>
+		<th>Midnight</th>
 		<td>Meia noite</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
