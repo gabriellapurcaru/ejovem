@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -18,9 +18,96 @@
 </div>
 
 <div id="box-direita">
-<div id="explicacao">
+<div id="atividade">
 	<div id="atividade02">
-		<p>Atividade</p>
+	<script src="js/UNI03_Aul_01.js" type="text/javascript"></script></head>
+<!-- BeginTopNavButtons -->
+<!-- EndTopNavButtons -->
+<div id="MainDiv" class="StdDiv">
+
+<!-- These top buttons hidden; reveal if required -->
+<!--
+<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+
+
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+
+
+ -->
+ 
+<div id="ClozeDiv">
+<form id="Cloze" method="post" action="" onsubmit="return false;">
+<div class="ClozeBody">
+
+<table>
+<tbody>
+<tr>
+<th>1-</th> 
+<td>&nbsp;<span class="GapSpan" id="GapSpan0">
+	<input style="width: 60px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2"></input>
+</span></td> 
+<tr>
+<th>2-</th> 
+<td>&nbsp;<span class="GapSpan" id="GapSpan1">
+	<input style="width: 60px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2"></input>
+</span></td>
+</tr>
+<tr>
+<th>3-</th> 
+<td>&nbsp;<span class="GapSpan" id="GapSpan2">
+	<input style="width: 60px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2"></input>
+</span> </td>
+</tr>
+<th>4-</th>
+<td>&nbsp;<span class="GapSpan" id="GapSpan3">
+	<input style="width: 60px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2"></input>
+</span> </td>
+<tr>
+<th>5-</th>
+<td>&nbsp;<span class="GapSpan" id="GapSpan4">
+<input style="width: 60px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input>
+</span> </td>
+</tr>
+<tr>
+<th>6-</th> 
+<td>&nbsp;<span class="GapSpan" id="GapSpan5">
+	<input style="width: 60px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="2"></input>
+</span> </td>
+</tr>
+<th>7-</th> 
+<td>&nbsp;<span class="GapSpan" id="GapSpan6">
+	<input style="width: 60px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="2"></input>
+</span> </td>
+<tr>
+<th>8-</th> 
+<td>&nbsp;<span class="GapSpan" id="GapSpan7">
+	<input style="width: 60px;" type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="2"></input>
+</span></td>
+</tr>
+</tbody>
+</table> 
+</div>
+</form>
+</div>
+
+<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+
+
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+
+
+</div>
+
+
+
+<div class="Feedback" id="FeedbackDiv">
+<div class="FeedbackText" id="FeedbackContent"></div>
+<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+</div>
+	</div>
+
+
+</p>
 	</div>
 </div>
 </div>

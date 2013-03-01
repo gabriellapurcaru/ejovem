@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -15,7 +15,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, vá a sessão conheça mais e vocabulário. Assim você aprenderá ainda mais como dizer as horas em inglês.</p> 
+	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, vá a sessão <a href="conheca-mais.php">Conheça Mais</a> e 
+<a href="vocabulario.php">Vocabulário</a>. Assim você aprenderá ainda mais como dizer as horas em inglês.</p> 
 <p><span class="label label-info"><a href="#" title="Divirta-se!">Have fun!</a></span></p>
 <p>  </p>
 	       </p> 
