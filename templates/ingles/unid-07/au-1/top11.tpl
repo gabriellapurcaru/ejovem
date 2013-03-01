@@ -32,9 +32,9 @@
 </div>	
 {barra_tools}
 <div id="navegacao">
-<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 10 de 13</span>
-<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+<a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 11 de 14</span>
+<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>
 

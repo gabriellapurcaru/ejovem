@@ -14,7 +14,7 @@
     </div>
     <div id="box-dir">
 	<div id="texto">
-		<p>Nessa atividade estudamos o <a href="" title="alfabeto">alphabet</a> em inglês e sobre <a href="" title="soletração">spelling</a>.</p>
+		<p>Nessa atividade estudamos o <a href="" title="alfabeto">Alphabet</a> em inglês e sobre <a href="" title="soletração">Spelling</a>.</p>
 		<p>Na próxima aula iremos estudar sobre os números.	</p>
 		<p><span class="label label-info"><a href="#" title="Nos vemos em breve!">See you soon!</a></span></p>
 	</div>

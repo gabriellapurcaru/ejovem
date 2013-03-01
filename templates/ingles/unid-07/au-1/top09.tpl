@@ -34,7 +34,7 @@
 		</table>
 		
 		<div class="alert alert-error">
-			<p>A estrutura da frase é a mesma, mas o significado é um pouco diferente, o verbo ‘can’ indica possibilidade.</p>
+			<p>A estrutura da frase é a mesma, mas o significado é um pouco diferente, o verbo ‘<b>can</b>’ indica possibilidade.</p>
 
         </div>
 	</div>
@@ -45,9 +45,9 @@
 </div>	
 {barra_tools}
 <div id="navegacao">
-<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 8 de 13</span>
-<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 9 de 14</span>
+<a href="top10.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>
 

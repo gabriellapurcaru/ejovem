@@ -19,6 +19,7 @@
 <p>Nos fins de semana, a coisa muda um pouco, mas parte das atividades listadas acima ainda se repete. Felizmente temos a chance de ir à praia, ao shopping, comer fora e ficar mais tempo com as pessoas que amamos. Mas a dona rotina sempre estará conosco. </p>
 
 <p>Então, vamos aprender a lidar com ela também em inglês! </p>
+<p><b>Let's go!</b></p>
 
 </div>
 </div>
