@@ -1,9 +1,9 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3><a href=""  title="Foco na Gramatica"/>Grammar in focus</a></h3>
+<h3><a href=""  title="Foco na Gramatica"/>Grammar in Focus</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
@@ -13,7 +13,7 @@
 e veja alguns 
 exemplos de 
 formas negativas 
-com do, does e did.</p>
+com <b>do</b>, <b>does</b> e <b>did</b>.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>
@@ -29,19 +29,19 @@ com do, does e did.</p>
 </ul>
 
 <div id="tabs-1">
-<h4>don´t = do not</h4>
+<h4>don´t  =  do not</h4>
 <p><span class="label label-info"><a title="Eu não gosto de pizza" href="#" class="">I don´t like pizza</a></span></p> 
 
 </div>
 
 <div id="tabs-2">
 
-<h4>doesn´t= does not</h4>
+<h4>doesn´t  =  does not</h4>
 <p><span class="label label-info"><a title="Ela não gosta de samba" href="#" class="">She doesn´t like samba</a></span></p> 
 </div>
 
 <div id="tabs-3">
-<h4>didn´t= did not</h4>
+<h4>didn´t  =  did not</h4>
 <p><span class="label label-info"><a title="Nós não a vimos" href="#" class="">We didn´t see her </a></span></p>
 
 </div>

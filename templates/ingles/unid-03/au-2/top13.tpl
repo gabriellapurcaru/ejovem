@@ -1,9 +1,9 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3><a href="" title="Idade e data de nascimento"> Age and date of birth </a></h3>
+<h3><a href="" title="Idade e data de nascimento"> Age and Date of Birth </a></h3>
 <div id="center">	
 
 <div id="box-explicacao-video-animacao">	

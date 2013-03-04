@@ -1,57 +1,57 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3><a href="" title="Idade e data de nascimento"> Age and date birth </a></h3>
+<h3><a href="" title="Idade e data de nascimento"> Age and Date Birth </a></h3>
 
 <div id="center">
 	
 <div id="atividade">
 	<h6>Let´s practice? </p><p>Associe as datas à esquerda com suas formas por extenso à direita:</h6>
-	<div style="margin-left:60px;">
+	
 	<div id="MainDiv" class="StdDiv">
 	<div id="ClozeDiv">
 	<form id="Cloze" method="post" action="" onsubmit="return false;">
 	<div class="ClozeBody">
 	
-	<table >
+	<table>
+	<tbody>
 		 <tr>
-		  	<td><b>COLUNA A </b></td>
-		    <td> </td>
-		  	<td><b>COLUNA B</b></td>
+		<td width=50%><b>COLUNA A </b></td>
+		<td><b>COLUNA B</b></td>
 		  </tr>
 	  <tr>
-	  	<td>(1) 09/12/2003 </td>
-	    <td> </td>
-	  	<td><span class="GapSpan" id="GapSpan0"><input style="width: 30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> December ninth, two thousand and three</td>
+	  	<td width=50%><b>1 - </b> 09/12/2003 </td>
+	      	<td><span class="GapSpan" id="GapSpan0"><input style="width: 30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> December ninth, two thousand and three</td>
 	  </tr>
 
 	  <tr>
-	  	<td>(2) 12/09/2003</td>
-	    <td> </td>
+	  	<td><b>2 - </b> 12/09/2003</td>
+	    
 	  	<td><span class="GapSpan" id="GapSpan1"><input style="width: 30px;"  type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> July ninth, nineteen sixty-eight</td>
 	  </tr>
 
 	  <tr>
-	  	<td>(3) 06/27/1986</td>
-	    <td> </td>
+	  	<td><b>3 - </b> 06/27/1986</td>
+	    
 	  	<td><span class="GapSpan" id="GapSpan2"><input style="width: 30px;"  type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> June twenty-seventh, nineteen eighty-six</td>
 	  </tr>
 
 	  <tr>
-	  	<td>(4) 09/09/1968 </td>
-	    <td> </td>
+	  	<td><b>4 - </b> 09/09/1968 </td>
+	    
 	  	<td><span class="GapSpan" id="GapSpan3"><input style="width: 30px;"  type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> September ninth, nineteen sixty-eight</td>
 	  </tr>
 
 	  <tr>
-	  	<td>(5) 07/09/1968 </td>
-	    <td> </td>
+	  	<td><b>5 - </b> 07/09/1968 </td>
+	    
 	  	<td><span class="GapSpan" id="GapSpan4"><input  style="width: 30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> September twelfth, two thousand and three</td>
 	  </tr>
-
-	</table>	
+	</tbody>
+	</table>
+	<br />	
 	</div>
 	</div>
 	</form>
@@ -72,7 +72,7 @@
 	<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 	</div>
 
-	</div>
+	
 	</div>
 
 </div>

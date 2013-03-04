@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="" title="Aula em vídeo">Lession Video</a></h3>
+<h3><a href="" title="Aula em Vídeo">Lession Video</a></h3>
 <div id="center">
 <div id="box-center-video">
     <div id="box-dir">

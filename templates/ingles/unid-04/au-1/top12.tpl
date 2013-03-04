@@ -17,8 +17,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	    	<p>Vá a sessão <a href="conheca-mais.php">conheça Mais</a> para saber curiosidades sobre a aula.</p>
-	    	<p>Também acesse a parte de <a href="vocabulario.php">vocabulário</a> e <a href="gramatica.php">Gramática</a>, reveja as palavras novas que aprendeu nesta aula.</p>
+	    	<p>Vá a sessão <a href="conheca-mais.php">Conheça Mais</a> para saber curiosidades sobre a aula.</p>
+	    	<p>Também acesse a parte de <a href="vocabulario.php">Vocabulário</a> e <a href="gramatica.php">Gramática</a>, reveja as palavras novas que aprendeu nesta aula.</p>
 	    	
         </div>
     </div>

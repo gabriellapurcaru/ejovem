@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3> <a href="" title="Leia mais"> Learn more </a></h3>
+<h3> <a href="" title="Leia Mais"> Learn More </a></h3>
 <div id="center">
 	
 <div id="box-center-saiba-mais">

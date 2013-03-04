@@ -1,10 +1,10 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
 
-<h3> <a href="" title="Dizendo as datas"> Saying dates </a></h3>
+<h3> <a href="" title="Dizendo as Datas"> Saying Dates </a></h3>
 
 <div id="center">
 <div id="box-center-video">

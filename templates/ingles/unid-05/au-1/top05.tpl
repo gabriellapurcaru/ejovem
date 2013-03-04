@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -8,7 +8,10 @@
 <div id="center">
 
 <div id="box-explicacao-video-animacao">
-<h6>Nesse exercício você deverá escrever o trabalho correto em cada imagem, relacionado com a tabela. Depois ouça e escolha o emprego certo, e por ultimo preencha a cruzadinha. Concentre-se!</h6>
+<h6>Nesse exercício você deverá escrever o trabalho correto em cada imagem, relacionado com a tabela. Depois ouça e escolha o emprego certo, e por ultimo preencha a cruzadinha. Concentre-se!</ -->
+
+<!-- EndSubmissionForm -->
+
 
 </div>
 

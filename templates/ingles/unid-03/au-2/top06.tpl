@@ -1,10 +1,10 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
 
-<h3><a href="" title="Os números ordinais">The ordinal numbers.</a></h3>
+<h3><a href="" title="Os Números Ordinais">The Ordinal Numbers.</a></h3>
 <div id="center">
 
 <div id="box-esquerda">

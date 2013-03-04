@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -7,20 +7,25 @@
 <div id="center">
 <div class="tabbable">
   <ul class="nav nav-tabs">
-    <li class="active"><a href="#tab1" data-toggle="tab">Atividade 01</a></li>
+    	<li class="active"><a href="#tab1" data-toggle="tab">Atividade 01</a></li>
+	<li><a href="#tab2" data-toggle="tab">Atividade 02</a></li>
   </ul>
-  <div class="tab-content">
-    <div class="tab-pane active" id="tab1">
-      	
-	<div id="atividade">
-		<p>Observe o gráfico de barras ao lado que apresenta o número de falantes de inglês como segunda língua e responda a pergunta que se segue clicando na barra correspondente à resposta correta.</p>
-	<div style="text-align:<embed width="445" height="330" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="img/atividade.swf" name="plugin">
-	</div>
-	</div>
-		
-    </div>
-  </div>
 </div>
+  <div class="tab-content">
+    	<div class="tab-pane active" id="tab1">
+      		<div id="explicacao-video-animacao">
+		<h6>Agora, coloque as informações no local correto:</h6>
+<embed height="400px" width="650px" name="plugin" src="swf/atividade01.swf" type="application/x-shockwave-flash" />
+		</div>
+	</div>
+	
+
+  	<div class="tab-pane active" id="tab2">
+		<div id="atividade">
+		</div>
+	</div>	
+  </div>
+  
 
 </div>
 </div>	

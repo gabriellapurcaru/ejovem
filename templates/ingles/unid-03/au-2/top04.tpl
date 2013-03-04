@@ -1,9 +1,9 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3><a href="" title="Conhecendo os números">Knowing the numbers</a></h3>
+<h3><a href="" title="Conhecendo os Números">Knowing the Numbers</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
