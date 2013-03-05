@@ -81,11 +81,12 @@
 			</div>
 	</div>
 	
+	
 	<div class="tab-pane active" id="tab3">
 		<div id="atividade">
 	
 	<h6>Associe as datas à esquerda com suas formas por extenso à direita:</h6>
-	
+	<script src="js/atividade_uni_III_tela_15.js" type="text/javascript"></script>
 	<div id="MainDiv" class="StdDiv">
 	<div id="ClozeDiv">
 	<form id="Cloze" method="post" action="" onsubmit="return false;">
@@ -154,7 +155,7 @@
 	</div>
 		
     	</div>
-  
+  	
 </div>
 </div>
 {barra_tools}
