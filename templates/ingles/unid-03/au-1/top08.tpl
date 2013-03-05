@@ -39,57 +39,85 @@
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
 
-<table>
+<table style="margin-left:130px;">
 <tbody>
 <tr>
 <th>1-</th> 
 <td>&nbsp;<span class="GapSpan" id="GapSpan0">
 	<input style="width: 60px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2"></input>
-</span></td> 
+</span></td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td> 
+</tr>
+
 <tr>
 <th>2-</th> 
 <td>&nbsp;<span class="GapSpan" id="GapSpan1">
 	<input style="width: 60px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2"></input>
 </span></td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
+
 <tr>
 <th>3-</th> 
 <td>&nbsp;<span class="GapSpan" id="GapSpan2">
 	<input style="width: 60px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2"></input>
 </span> </td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
+
+<tr>
 <th>4-</th>
 <td>&nbsp;<span class="GapSpan" id="GapSpan3">
 	<input style="width: 60px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2"></input>
 </span> </td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+</tr>
+
 <tr>
 <th>5-</th>
 <td>&nbsp;<span class="GapSpan" id="GapSpan4">
 <input style="width: 60px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input>
 </span> </td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
+
 <tr>
 <th>6-</th> 
 <td>&nbsp;<span class="GapSpan" id="GapSpan5">
 	<input style="width: 60px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="2"></input>
 </span> </td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
+
+<tr>
 <th>7-</th> 
 <td>&nbsp;<span class="GapSpan" id="GapSpan6">
 	<input style="width: 60px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="2"></input>
 </span> </td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+</tr>
+
 <tr>
 <th>8-</th> 
 <td>&nbsp;<span class="GapSpan" id="GapSpan7">
 	<input style="width: 60px;" type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="2"></input>
 </span></td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 </tbody>
 </table> 
 </div>
 </form>
 </div>
-
+<br />
 <button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
