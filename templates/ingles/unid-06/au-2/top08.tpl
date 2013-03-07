@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -7,7 +7,7 @@
 
 <div id="center">
 <div id="atividade">
-<h6>Reencreva as frase colocando os verbos na sua forma no infinitivo, como no exemplo.</h6>
+<h6>Reescreva as frases colocando os verbos na sua forma no infinitivo, como no exemplo.</h6>
 <script src="js/atividade02.js" type="text/javascript"></script>
 
 <div id="MainDiv" class="StdDiv">
