@@ -34,10 +34,11 @@
 <td width=70%>09:05 - nine <b>oh</b> five</td><td>16:02 - four <b>oh</b> two</td>
 </tr>
 </table>
-<p align="justify"><b><i>ii</i>)</b>A segunda opção, mais utilizada pelos britânicos, divide a hora em duas partes: uma que vai de 0 a 30 minutos, aí usa-se a expressão <b>past</b> que significa <b>passado</b> e a outra que vai de 31 a 59 minutos, em que se utiliza a palavra <b>to</b>, que quer dizer <b>para</b>. Além disso, eles utilizam <b>quarter</b>(um quarto) para 15 e 45 minutos e <b>half</b>(metade) para meia hora. 
-<br>Veja os exemplos a seguir: 
+<p align="justify">
+<b><i>ii</i>)</b>A segunda opção, mais utilizada pelos britânicos, divide a hora em duas partes: uma que vai de 0 a 30 minutos, aí usa-se a expressão <b>past</b> que significa <b>passado</b> e a outra que vai de 31 a 59 minutos, em que se utiliza a palavra <b>to</b>, que quer dizer <b>para</b>. Além disso, eles utilizam <b>quarter</b>(um quarto) para 15 e 45 minutos e <b>half</b>(metade) para meia hora. 
+<br> Veja os exemplos a seguir: 
 <br>
-<table style="margin-left:60px;">
+<table style="margin-left:60px;" >
 <tr>
 <td width=70%><a href="" title="dez minutos depois das seis.">6:10 - ten past six</a></td>
 </tr>
