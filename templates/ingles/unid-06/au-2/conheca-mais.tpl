@@ -23,6 +23,7 @@
 <p>O uso de like é muito comum também no inglês falado quando estamos pensando em como dizer algo, dar exemplos ou explicar alguma coisa. Nesse caso "like" não é usado com um significado específico, mas na maioria das vezes apenas para "preencher" o silêncio enquanto pensamos em como expressar algo. O uso de "like" dessa maneira é mais frequente com gente bem jovem (e às vezes é considerado excessivo). É como quando se usa "tipo" aqui: "Ah, a gente foi num lugar, tipo... um lugar asssim..."</p>
 <p><span class="label label-info"><a href="" title="Eu não sabia o que fazer "tipo" eu liguei para ela, mas ela não atendeu ao telefone.">I didn't know what to do, like, I called her, but she didn't answer the phone.</a></span></p>
 </div>
+</div>
 </div>	
 {barra_tools}
 
