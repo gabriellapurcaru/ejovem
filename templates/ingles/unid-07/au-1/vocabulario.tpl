@@ -8,51 +8,30 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<th>Ride a bike </th>
-		<td>Andar de bicicleta</td>
+		<th>Interesting</th>
+		<td>Interessante</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<th>Fly</th>
-		<td>voar</td>
+		<th>Job</th>
+		<td>Trabalho</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-		<th>Run</th>
-		<td>correr</td>
+		<th>Patiente</th>
+		<td>Paciente</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<th>Swim</th>
-		<td>nadar</td>
+		<th>Sociable</th>
+		<td>Sociável</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-		<th>Climb</th>
-		<td>escalar</td>
+		<th>Take the orders</th>
+		<td>Tomar remédios</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
-	<tr>
-		<th>Juggle</th>
-		<td>malabarismo</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-		<th>Draw</th>
-		<td>desenho</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-		<th>Hop</th>
-		<td>salto</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-		<th>Kick</th>
-		<td>chute</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-
 	</thead>
 	</table>
 

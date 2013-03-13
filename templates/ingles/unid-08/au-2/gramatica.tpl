@@ -5,11 +5,36 @@
 <div id="meio">
 <h3><a href="#" title="Gramática em foco">Grammar in Focus</a></h3>
 <div id="center">
-	<h6>Pronomes de Tratamento</h6>
-<p ALIGN="justify">	De modo geral, a maneira como tratamos ou falamos com nossos familiares, amigos próximos e colegas de classe, por exemplo, é realizada de forma mais simples, informal. </p>
-<p>No entanto, quando nos dirigimos a alguém que possui um prestígio social mais alto, um grau hierárquico mais elevado ou a pessoas que não conhecemos bem, temos que utilizar, necessariamente, uma linguagem mais formal.</p>
-<p>Nesse contexto, os pronomes de tratamento apresentam-se como as palavras ou expressões que utilizamos para nos referir às pessoas, considerando o cargo que exercem, posição social, ou ainda, para indicar formalidade e respeito.</p>
+	<h4>Vamos reforçar o conteúdo sobre <i>Pergunta de informação</i>?</h4>
+	<div id="box-explicacao-video-animacao">
+<p>Veja os diálogos abaixo e pratique a pronúncia.</p>
+		
+		
+		<div id="box-esquerda">
+		<div id="atividade">
+		<h5>Diálogo 1</h5>
 
+		<ul><b>Alice:</b> When do you dance jazz?</ul>
+		<ul><b>Mary:</b> On Monday and Wendnesday.</ul>
+		<ul><b>Alice:</b> Where you dance?</ul>
+		<ul><b>Mary:</b> At Dance Step. </ul>
+		</div>
+		</div>
+		
+		<div id="box-direita" style="width:50%;">
+		<div id="atividade">
+		<h5>Diálogo 2</h5>
+		<ul><b>Jonh:</b> Do you like music?</ul>
+		<ul><b>Matt:</b> Yes, I do!</ul>
+		<ul><b>Jonh:</b> What kind of music?</ul>
+		<ul><b>Matt:</b>  Rock music.</ul>
+		<ul><b>Jonh:</b> Nice, and do yoy play any instruments?</ul>
+		<ul><b>Matt:</b> No, but I would like to learn to play 				 guitar.</ul>
+		</div>
+		</div>
+	
+</div>
+	</div>
 </div>
 </div>	
 {barra_tools}

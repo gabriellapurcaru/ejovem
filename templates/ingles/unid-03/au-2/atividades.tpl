@@ -9,7 +9,7 @@
   		<ul class="nav nav-tabs">
     			<li class="active"><a href="#tab1" data-toggle="tab">Atividade 01</a></li>
 			<li><a href="#tab2" data-toggle="tab">Atividade 02</a></li>
-			<li><a href="#tab3" data-toggle="tab">Atividade 03</a></li>
+			
   		</ul>
   	<div class="tab-content">
     		<div class="tab-pane active" id="tab1">
@@ -72,17 +72,7 @@
 
 </div>
 
-
 	<div class="tab-pane active" id="tab2">
-      			<div id="atividade">
-<h6>Essa próxima atividade está dividida em três partes.</h6>
-<h6>Você terá que completar com a letra que falta para formar o número, depois coloque em ordem os números, e escreva o número e como se escreve por extenso.</h6>
-
-			</div>
-	</div>
-	
-	
-	<div class="tab-pane active" id="tab3">
 		<div id="atividade">
 	
 	<h6>Associe as datas à esquerda com suas formas por extenso à direita:</h6>
