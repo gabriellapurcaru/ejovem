@@ -93,7 +93,7 @@
 		<div id="atividade">
         		<h6>Você irá fazer uma revisão do que aprendeu até agora. Relacione as colunas de acordo com os seus significados.</h6>
 
-		<script src="js/Unidade_III_Aula_01_top_12.js" type="text/javascript"></script>
+		<script src="js/Unidade_III_Aula_01_top_12.js" type="text/javascript"></script> 
 
 <div id="MainDiv" class="StdDiv">
 <div id="ClozeDiv">
@@ -191,7 +191,7 @@
 	</div>
   </div>
 </div>
-  
+ 
 
 </div>
 </div>	
