@@ -22,7 +22,7 @@
     <table class="table table-striped">
 <tdead>
 <tr>
-<td><img src="img/01.gif"/></td>
+<td><img src="img/07.gif"/></td>
 <td><img src="img/02.gif"/></td>
 <td><img src="img/06.gif"/></td>
 </tr>

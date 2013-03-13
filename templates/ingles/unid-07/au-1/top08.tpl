@@ -6,6 +6,7 @@
 <div id="center">
 
 <div id="atividade">
+<h6>Complete os campos em branco com a ação correta.</h6>
 	<script src="js/atividade_top08.js" type="text/javascript"></script></head>
 
 <div id="MainDiv" class="StdDiv">
@@ -25,7 +26,7 @@
 <div class="ClozeBody">
 <br />
 <div class="alert alert-info" style="text-align:center;"> 
-ride a bike - fly - kick - read - juggle - climb - draw - run - hop - jump 
+<h5>ride a bike - fly - kick - read - juggle - climb - draw - run - hop - jump</h5> 
 	</div>
 <table>
 <tbody>
@@ -82,7 +83,7 @@ ride a bike - fly - kick - read - juggle - climb - draw - run - hop - jump
 </div>
 </form>
 </div>
-
+<br />
 
 
 <button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>

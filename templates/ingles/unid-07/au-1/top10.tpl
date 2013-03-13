@@ -17,12 +17,12 @@
 <div class="alert alert-info">
   Dance - use - ride - speak - play - cook
 </div>
-1. Paula can <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Japanese.<br />
-2. I can <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a computer.<br />
-3. I can&#x2019;t <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a motorcycle.<br />
-4. She can <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Italian food.<br />
-5. Boys can <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> video game.<br />
-6. Pat can <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> forro<br />
+<b>1 -</b> Paula can <span class="GapSpan" id="GapSpan0"><input style="width:80px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Japanese.<br />
+<b>2 -</b> I can <span class="GapSpan" id="GapSpan1"><input style="width:80px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a computer.<br />
+<b>3 -</b> I can&#x2019;t <span class="GapSpan" id="GapSpan2"><input style="width:80px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a motorcycle.<br />
+<b>4 -</b> She can <span class="GapSpan" id="GapSpan3"><input style="width:80px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Italian food.<br />
+<b>5 -</b> Boys can <span class="GapSpan" id="GapSpan4"><input style="width:80px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> video game.<br />
+<b>6 -</b> Pat can <span class="GapSpan" id="GapSpan5"><input style="width:80px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> forro<br />
 </div>
 </form>
 </div>
