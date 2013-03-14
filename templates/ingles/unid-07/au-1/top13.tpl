@@ -3,32 +3,30 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Saiba mais">Learn More</a></h3>
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
+
 <div id="center">
-
-<div id="box-center-saiba-mais">
+<div id="box-center-conclusao">
     <div id="box-esq">
-
-        <div class="box-person-sem-texto">
-                <img src="../../../imgs/e13.png"/>
+        <div class="box-person">
+			<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">   
         </div>
     </div>
     <div id="box-dir">
-        <div id="box-dir-explicacao">
-	       <p>Para melhorar seu vocabulário e sua compreensão auditiva, vá a sessão <a href="vocabulario.php">Vocabulário</a> e treine as palavras novas aprendidas na aula. </p>
-			<p>Não esqueça de visitar também a sessão <a href="conheca-mais.php">Conheça Mais</a> para ampliar seus conhecimentos! </p><p><a href="" title="Divirta-se!"> Have fun! </a></p>
-	       </p> 
-        </div>
+	<div id="texto">
+	<p>Nesta unidade aprendemos sobre habilidades. Habilidades físicas, intelectuais e acadêmicas nos diferenciam uns dos outros. Somos indivíduos únicos por esta razão! Pratique falar de suas habilidades e das de seus amigos e mantenha na mente e no coração a ideia de aprender inglês – ele pode ser um excelente diferencial para você no mercado de trabalho. O seu futuro começa agora mesmo. </p>
+	<p><span class="label label-info"><a href="" title="Até breve!">See you soon!</a></span></p>
+
+	</div>
     </div>
 </div>
-
 </div>
+
 </div>	
 {barra_tools}
 <div id="navegacao">
-<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 13 de 14</span>
-<a href="top14.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>
+<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 13 de 13</span>
 </div>
 </div>
 
