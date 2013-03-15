@@ -17,7 +17,7 @@
 
 <div id="box-direita">
 <div id="explicacao">
-	<script src="js/UNI03_AU02.js" type="text/javascript"></script></head>
+	<script src="js/atividade_top09.js" type="text/javascript"></script></head>
 
 <div id="MainDiv" class="StdDiv">
 

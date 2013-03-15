@@ -9,7 +9,7 @@
 	
 <div id="atividade">
 	<h6>Let´s practice? </p><p>Associe as datas à esquerda com suas formas por extenso à direita:</h6>
-	<script src="js/atividade_uni_III_tela_15.js" type="text/javascript"></script>
+	<script src="js/atividade_top15.js" type="text/javascript"></script>
 
 	<div id="MainDiv" class="StdDiv">
 	<div id="ClozeDiv">

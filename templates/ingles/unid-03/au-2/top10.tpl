@@ -10,16 +10,20 @@
 <h6>Essa próxima atividade está dividida em três partes.</h6>
 <h6>Você terá que completar com a letra que falta para formar o número, depois coloque em ordem os números, e escreva o número e como se escreve por extenso.</h6>
 
-<div class="tabbable">
-  <ul class="nav nav-tabs">
-	<li class="active"><a href="#tab1" data-toggle="tab">Atividade 01</a></li>
-	<li><a href="#tab2" data-toggle="tab">Atividade 02</a></li>
-	<li><a href="#tab3" data-toggle="tab">Atividade 03</a></li>
-  </ul>
-</div>
-  <div class="tab-content">
-    	<div class="tab-pane active" id="tab1">
-<script src="js/atividade_uni_III_tela_10.js" type="text/javascript"></script></head>
+<!-- TENTANDO USAR TABELAS -->
+
+<div class="ui-tabs ui-widget ui-widget-content ui-corner-all" id="demo-tabs">
+
+<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+<li class="ui-state-default ui-corner-top"><a href="#tabs-1">Atividade 01</a></li>
+<li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-2">Atividade 02</a></li>
+<li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-3">Atividade 03</a></li>
+</ul>
+
+<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-1">                                          
+<!-- INICIO DA ATIVIDADE 01 -->
+
+<script src="js/atividade_top10.js" type="text/javascript"></script></head>
 
 <div id="MainDiv" class="StdDiv">
  
@@ -47,6 +51,7 @@ EN</td>
 </span>
 TY</td>
 </tr>
+<tr><td></td><td></td><td></td></tr>
 <tr>
 <td width=5%><b>d) </b>FO
 <span class="GapSpan" id="GapSpan3">
@@ -69,7 +74,7 @@ UNDRED</td>
 </form>
 </div>
 
-
+<br />
 
 <button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
@@ -83,12 +88,14 @@ UNDRED</td>
 <div class="FeedbackText" id="FeedbackContent"></div>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
-	</div>
-	
 
-    	
-	<div class="tab-pane active" id="tab2">
-		<script src="js/atividade_uni_III_tela_10.2.js" type="text/javascript"></script></head>
+<!-- FIM DA ATIVIDADE 01 -->
+</div>
+
+<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-2">  
+<!-- INICIO ATIVIDADE 02 -->
+
+<script src="js/atividade_top10.2.js" type="text/javascript"></script></head>
 
 <div id="MainDiv" class="StdDiv">
  
@@ -101,7 +108,7 @@ UNDRED</td>
 </form>
 </div>
 
-
+<br />
 
 <button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
@@ -116,13 +123,17 @@ UNDRED</td>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
 
-<!-- fim da atividade -->
-	
-	</div>
 
-	<div class="tab-pane active" id="tab3">
+<!-- FIM DA ATIVIDADE 02 --> 
 
-		<script src="js/atividade_uni_III_tela_10.3.js" type="text/javascript"></script></head>
+<div qtip="2" class="qtip [object Object]" style="border-radius: 0px 0px 0px 0px; position: absolute; width: 244px; display: none; top: 334.367px; left: 959.15px;">  <div class="qtip-wrapper" style="position:relative; overflow:hidden; text-align:left;">    <div class="qtip-contentWrapper" style="overflow: hidden; background: none repeat scroll 0% 0% white; border: 1px solid rgb(211, 211, 211);">       <div style="background: none repeat scroll 0% 0% white; color: rgb(17, 17, 17); overflow: hidden; text-align: left; padding: 5px 9px;" class="qtip-content undefined">Sample tooltip within tab content</div></div></div></div><div qtip="3" class="qtip [object Object]" style="border-radius: 0px 0px 0px 0px; position: absolute; width: 244px; display: none; top: 369.767px; left: 865.15px;">  <div class="qtip-wrapper" style="position:relative; overflow:hidden; text-align:left;">    <div class="qtip-contentWrapper" style="overflow: hidden; background: none repeat scroll 0% 0% white; border: 1px solid rgb(211, 211, 211);">       <div style="background: none repeat scroll 0% 0% white; color: rgb(17, 17, 17); overflow: hidden; text-align: left; padding: 5px 9px;" class="qtip-content undefined">Sample tooltip within tab content</div></div></div></div></div>
+
+
+<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-3"> 
+
+<!-- INICIO ATIVIDADE 03 -->
+
+	<script src="js/atividade_top10.3.js" type="text/javascript"></script></head>
 
 <div id="MainDiv" class="StdDiv">
 
@@ -136,7 +147,7 @@ UNDRED</td>
 </div>
 
 
-
+<br />
 <button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
@@ -148,11 +159,15 @@ UNDRED</td>
 <div class="Feedback" id="FeedbackDiv">
 <div class="FeedbackText" id="FeedbackContent"></div>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
-</div>
+</div>	
 
-<!-- Fim da atividade 03 -->
+<!-- FIM DA ATIVIDADE 03 -->
+</DIV>
+<!-- FIM DAS TABELAS -->
+</DIV>
 
-	</div>
+
+	
 </div>
 </div>
 

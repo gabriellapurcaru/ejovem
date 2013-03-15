@@ -6,10 +6,11 @@
 <h3><a href="#" title="Praticando">Practicing</a></h3>
 
 <div id="center">
-	<div id="atividade">
+	<div id="box-explicacao-video-animacao">
 <h6>Veja as bandeiras dos países e forme o nome correto de cada país:</h6>
 		<script src="js/atividade02_top06.js" type="text/javascript"></script></head>
 <br />
+
 <div id="MainDiv" class="StdDiv">
  
 <div id="ClozeDiv">
