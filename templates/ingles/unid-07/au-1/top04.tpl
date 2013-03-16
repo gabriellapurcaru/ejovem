@@ -23,7 +23,7 @@
 <tdead>
 <tr>
 <td><img src="img/07.gif"/></td>
-<td><img src="img/02.gif"/></td>
+<td><img src="img/08.png" width="89px" height="80px"/></td>
 <td><img src="img/06.gif"/></td>
 </tr>
 <tr>

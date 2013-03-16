@@ -6,7 +6,11 @@
 <h3><a href="#" title="Foco na gramática!">Grammar on focus</a></h3>
 <div id="center">
 	<div id="box-explicacao-video-animacao">
-	Os verbos modais (modal verbs) são um tipo especial de verbos auxiliares que alteram ou completam o sentido do verbo principal. De um modo geral, estes verbos expressam idéias como: <i> capacidade, possibilidade, obrigação, permissão, proibição, dedução, suposição, pedido, vontade, desejo</i> ou, ainda, indicam o tom da conversa <i>(formal/informal)</i>. No geral, poderíamos dizer que a maioria dos modals equivale a "poder" e "dever". Em Português, tanto um quanto o outro podem expressar situações diversas. Em Inglês, porém, para cada situação há um <b>modal</b> mais adequado. 
+	
+		<div class="swf">
+<h6>Clique na seta para continuar vendo a explicação.</h6>
+	<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_top07.swf" name="plugin">
+	</div>
 	</div>
 
 </div>
