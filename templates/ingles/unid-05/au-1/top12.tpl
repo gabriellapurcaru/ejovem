@@ -27,19 +27,26 @@
 	<form id="Cloze" method="post" action="" onsubmit="return false;">
 	<div class="ClozeBody">
 		
-		<table class="table table-striped">
-		<tdead>
+		<table>
+		<tbody>
 		<tr>
-		<td> I <span class="GapSpan" id="GapSpan0"><input class="input-mini" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> in Maracanau, in Cear&#x00E1;. (LIVE)</td>
+		<td  cellpading="100px"> I <span class="GapSpan" id="GapSpan0"><input class="input-mini" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> in Maracanau, in Cear&#x00E1;. <b>(LIVE)</b></td>
 		</tr>	
-		<tr><td>Jo&#x00E3;o <span class="GapSpan" id="GapSpan1"><input class="input-mini" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> rock and roll. (LIKE)</td></tr>
-		<tr><td> We <span class="GapSpan" id="GapSpan2"><input class="input-mini" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a hamburger. (WANT)</td></tr>
-		<tr><td>You <span class="GapSpan" id="GapSpan3"><input class="input-mini" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> at the state university. (WORK)</td></tr>
-		<tr><td>Susana <span class="GapSpan" id="GapSpan4"><input class="input-mini" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> Portuguese. (TEACH)</td></tr>
-		<tr><td>Paulo <span class="GapSpan" id="GapSpan5"><input class="input-mini" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> English. (STUDY)</td></tr>
-		<tr><td>You <span class="GapSpan" id="GapSpan6"><input class="input-mini" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> one brother. (HAVE)</td></tr>
-		<tr><td>Tom <span class="GapSpan" id="GapSpan7"><input class="input-mini" type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> three sisters. (HAVE)</td></tr>
-		</thead>
+		
+<tr><td>Jo&#x00E3;o <span class="GapSpan" id="GapSpan1"><input class="input-mini" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> rock and roll. <b>(LIKE)</b></td></tr>
+		
+<tr><td> We <span class="GapSpan" id="GapSpan2"><input class="input-mini" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a hamburger. <b>(WANT)</b></td></tr>
+		
+<tr><td>You <span class="GapSpan" id="GapSpan3"><input class="input-mini" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> at the state university. <b>(WORK)</b></td></tr>
+		
+<tr><td>Susana <span class="GapSpan" id="GapSpan4"><input class="input-mini" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> Portuguese. <b>(TEACH)</b></td></tr>
+		
+<tr><td>Paulo <span class="GapSpan" id="GapSpan5"><input class="input-mini" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> English. <b>(STUDY)</b></td></tr>
+		
+<tr><td>You <span class="GapSpan" id="GapSpan6"><input class="input-mini" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> one brother. <b>(HAVE)</b></td></tr>
+		
+<tr><td>Tom <span class="GapSpan" id="GapSpan7"><input class="input-mini" type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> three sisters. <b>(HAVE)</b></td></tr>
+		</tbody>
 		</table>
 	</div>
 	</form>
