@@ -8,54 +8,54 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<td>Music</td>
+		<th>Music</th>
 		<td>Música</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Dance</td>
+		<th>Dance</th>
 		<td>Dança</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-		<td>Tool</td>
+		<th>Tool</th>
 		<td>Ferramenta</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<td>Records</td>
+		<th>Records</th>
 		<td>Registros/ Cds</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 
 	<tr>
-		<td>Worldwide</td>
+		<th>Worldwide</th>
 		<td>Mundial</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>Culture</td>
+	<th>Culture</th>
 	<td>Cultura</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av06.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>Controversy</td>
+	<th>Controversy</th>
 	<td>Controvérsia</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av07.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-	<td>Color</td>
+	<th>Color</th>
 	<td>Cor</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av08.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<td>Publicity</td>
+	<th>Publicity</th>
 	<td>Publicidade</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av09.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 
 	<tr>
-	<td>Artist</td>
+	<th>Artist</th>
 	<td>Artista</td>
 	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av10.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>

@@ -1,11 +1,12 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
 <h3><a href="#" title="Saiba mais">Learn More</a></h3>
 <div id="center">
-<h6>Exemplos de estrangeirismos:</h6>    
+<h4>Exemplos de estrangeirismos:</h4> 
+<div id="box-explicacao-video-animacao">   
 <table class="table table-striped">
 	<tdead>
 	<tr>
@@ -30,6 +31,7 @@
 		</tr>
 	</tdead>
 	</table>
+</div>
 
 </div>
 </div>	
