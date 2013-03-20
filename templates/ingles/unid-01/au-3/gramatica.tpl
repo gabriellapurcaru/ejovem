@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -6,6 +6,7 @@
 <h3><a href="#" title="Gramática em foco">Grammar in Focus</a></h3>
 <div id="center">
 	<h4>Verbos Auxiliares</h4>
+<div id="box-explicacao-video-animacao">
 	<p>Muitas vezes, achamos que os verbos auxiliares só servem para dificultar ainda mais o inglês. Mas isso não é bem assim, se você se esforçar e conseguir aprender qual a função dos verbos auxiliares na estrutura das frases, você verá que eles não são nenhum bicho de sete cabeças e que eles ajudam, e muito, a facilitar o inglês. Vamos ver como isso acontece?</p>
 	<ul>
 		<li><p>Em perguntas, você pode mudar o tempo verbal de uma frase trocando apenas o verbo auxiliar. Isso evita que você tenha que memorizar a conjugação dos verbos em diversos tempos, como é o caso do nosso idioma, o português. Mas como assim? Veja!</p>
@@ -34,27 +35,27 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>DO</td>
+                  <th>DO</th>
                   <td>Presente (usado para I, You, We e They)</td>
                   <td>Do you live in New York?</td>
                 </tr>
                 <tr>
-                  <td>DOES</td>
+                  <th>DOES</th>
                   <td>Presente (usado para He, She e It)</td>
                   <td>Does he come from Sweden?</td>
                 </tr>
                 <tr>
-                  <td>DID</td>
+                  <th>DID</th>
                   <td>Passado</td>
                   <td>Did she work at Bob´s?</td>
                 </tr>
                 <tr>
-                  <td>WILL</td>
+                  <th>WILL</th>
                   <td>Futuro</td>
                   <td>Will you go to the beach tomorrow?</td>
                 </tr>
                 <tr>
-                  <td>WOULD</td>
+                  <th>WOULD</th>
                   <td>Condicional</td>
                   <td>Would you like to go to the cinema with me?</td>
                 </tr>
@@ -70,7 +71,8 @@
 		<span class="label label-info"><a class="" href="#" title="Você gosta de pizza?">Do you like pizza?  </a></span>
 		<span class="label label-info"><a class="" href="#" title="Eu não gosto de pizza">I do not like pizza</a></span>
 	<p>Já numa frase afirmativa, nesse caso, o correto é dizer: I like pizza (Eu gosto de pizza).
-Nota: Gostaríamos de lembrar, que nesse ponto da lição, procurou-se apresentar, de modo geral, como se dá a construção de frases em inglês no modo afirmativo, negativo e interrogativo. Assim, não foram tratados aqui particularidades e/ou exceções à regra ligadas tanto ao uso dos verbos auxiliares quanto da conjugação verbal em inglês.</p>		
+Nota: Gostaríamos de lembrar, que nesse ponto da lição, procurou-se apresentar, de modo geral, como se dá a construção de frases em inglês no modo afirmativo, negativo e interrogativo. Assim, não foram tratados aqui particularidades e/ou exceções à regra ligadas tanto ao uso dos verbos auxiliares quanto da conjugação verbal em inglês.</p>	
+</div>	
 
 </div>
 </div>	
