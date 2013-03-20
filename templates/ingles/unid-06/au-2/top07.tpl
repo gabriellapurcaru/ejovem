@@ -7,10 +7,8 @@
 <div id="center">
 
 <div id="atividade">
-<p>Leia o texto e marque as coisas Lucas precisa fazer.</p>
+<h6>Leia o texto e marque as coisas Lucas precisa fazer.</h6>
 	<script src="js/atividade_quiz sem erro.js" type="text/javascript"></script></head>
-
-<body onload="StartUp()" id="TheBody" >
 
 <!-- BeginTopNavButtons -->
 
@@ -52,11 +50,35 @@
 </div>
 
 </div>
- <div id="box-explicacao-video-animacao">
+ 
 <ol class="QuizQuestions" id="Questions">
-<li class="QuizQuestion" id="Q_0" style="display: none;"><div class="QuestionText">I have a very normal life. In the morning, I need to go to school. In the afternoon,<br />after lunch, I have to do my homework and exercise in the gym. At night, I have<br />to help my mother with the baby and organize my clothes and material for<br />school the next day. I like to swim in the lake. I don&#x2019;t like soccer. At school, I like<br />to talk and listen to music with my friends. I want to be a professional dj in the<br />future. It is my dream! I need to make it happen. I want to finish High School and<br />go to University. To do this, I need to study hard and pass vestibular. I also want<br />to travel to many places in the world, so I need to study English and Spanish.<br />Languages are very important! I also need to get a job now to get some money to<br />live! By the way, my name is Lucas and I am 18 years old.</div>
+<li class="QuizQuestion" id="Q_0">
+<div class="Questiontext">
+<div class="alert alert-info">
+	<h5>I have a very normal life. In the morning, I need to go to school. In the afternoon, after lunch, I have to do my homework and exercise in the gym. At night, I have to help my mother with the baby and organize my clothes and material for school the next day. <br />
+I like to swim in the lake. I don&#x2019;t like soccer. At school, I like to talk and listen to music with my friends. I want to be a professional dj in the future. It is my dream! I need to make it happen. I want to finish High School and go to University. To do this, I need to study hard and pass vestibular.<br />
+I also want to travel to many places in the world, so I need to study English and Spanish. Languages are very important! I also need to get a job now to get some money to live! By the way, my name is Lucas and I am 18 years old.
+</h5>
+</div>	
+	</div>
+
 </div>
-<ol class="MSelAnswers"><li id="Q_0_0"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_0_Chk" class="MSelCheckbox" />Go to school</div></form></li><li id="Q_0_1"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_1_Chk" class="MSelCheckbox" />Do his homework</div></form></li><li id="Q_0_2"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_2_Chk" class="MSelCheckbox" />Pay bills</div></form></li><li id="Q_0_3"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_3_Chk" class="MSelCheckbox" />Organize his clothes</div></form></li><li id="Q_0_4"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_4_Chk" class="MSelCheckbox" />Study English and Spanish</div></form></li><li id="Q_0_5"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_5_Chk" class="MSelCheckbox" />Play soccer</div></form></li></ol><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckMultiSelAnswer(0)">Verificar</button></li></ol>
+<ol class="MSelAnswers"><li id="Q_0_0">
+<form method="post" action="" onsubmit="return false;"><div>
+<input type="checkbox" id="Q_0_0_Chk" class="MSelCheckbox" />&nbsp;&nbsp;Go to school</div></form></li>
+<li id="Q_0_1">
+<form method="post" action="" onsubmit="return false;"><div>
+<input type="checkbox" id="Q_0_1_Chk" class="MSelCheckbox" />&nbsp;&nbsp;Do his homework</div></form></li>
+<li id="Q_0_2">
+<form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_2_Chk" class="MSelCheckbox" />&nbsp;&nbsp;Pay bills</div></form></li>
+<li id="Q_0_3">
+<form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_3_Chk" class="MSelCheckbox" />&nbsp;&nbsp;Organize his clothes</div></form></li>
+<li id="Q_0_4">
+<form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_4_Chk" class="MSelCheckbox" />&nbsp;&nbsp;Study English and Spanish</div></form></li>
+<li id="Q_0_5">
+<form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_5_Chk" class="MSelCheckbox" />&nbsp;&nbsp;Play soccer</div></form></li></ol>
+
+<button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckMultiSelAnswer(0)">Verificar</button></li></ol>
 
 
 
