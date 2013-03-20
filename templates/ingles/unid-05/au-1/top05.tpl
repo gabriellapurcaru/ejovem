@@ -31,84 +31,79 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-Write the right job under each picture.<br /><br />
 <div class="alert alert-info">
 <h5>teacher - doctor - singer - bus driver - secretary - photographer - farmer - mechanic - architect - waiter - vet - nurse - waitress - journalist</h5>
 </div>
-<table">
+<table>
 <tbody>
+
 <tr>
-<td width="45%"><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td width=45%><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td width=45%><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td width=45%><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td width=45%><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
+<td width=16%> <img src="img/img_atividadeprofissoes/img1.gif" height="80px" width="70px" /></td>
+<td width=16%> <img src="img/img_atividadeprofissoes/img2.gif" height="80px" width="70px" /></td>
+<td width=16%> <img src="img/img_atividadeprofissoes/img3.gif" height="80px" width="70px" /></td>
+<td width=16%> <img src="img/img_atividadeprofissoes/img4.jpg" height="80px" width="70px" /></td>
+<td width=16%> <img src="img/img_atividadeprofissoes/img5.gif" height="80px" width="70px" /></td>
+<td width=16%> <img src="img/img_atividadeprofissoes/img6.gif" height="80px" width="70px" /></td>
+<td width=16%> <img src="img/img_atividadeprofissoes/img8.jpg" height="80px" width="70px" /></td>
 </tr>
 
 <tr>
-<td width=45%>
+<td width=16%>
 <span class="GapSpan" id="GapSpan0"><input style="width:70px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
 </td>
-<td width=45%>
+
+<td width=16%>
 <span class="GapSpan" id="GapSpan1"><input style="width:70px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>
 </td>
-<td width=45%>
+
+<td width=16%>
 <span class="GapSpan" id="GapSpan2"><input style="width:70px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
 </td>
-<td width=45%>
+
+<td width=16%>
 <span class="GapSpan" id="GapSpan3"><input style="width:70px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>
 </td>
-<td width=45%>
+
+<td width=16%>
 <span class="GapSpan" id="GapSpan4"><input style="width:70px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>
 </td>
+<td width=16%>
+<span class="GapSpan" id="GapSpan10"><input style="width:70px;" type="text" id="Gap10" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+</td>
+<td>
+<span class="GapSpan" id="GapSpan5"><input style="width:70px;" type="text" id="Gap5" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+</td>
 </tr>
 
 <tr>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-</tr>
-
-<tr>
-<td>
-<span class="GapSpan" id="GapSpan5"><input style="width:70px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
-</td>
-<td>
-<span class="GapSpan" id="GapSpan6"><input style="width:70px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>
-</td>
-<td>
-<span class="GapSpan" id="GapSpan7"><input style="width:70px;" type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
-</td>
-<td>
-<span class="GapSpan" id="GapSpan8"><input style="width:70px;" type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="10"></input></span>
-<td>
-<span class="GapSpan" id="GapSpan9"><input style="width:70px;" type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="10"></input></span>
-</td> 
-</tr>
-
-<tr>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="80px" width="70px" /></td>
+<td><img src="img/img_atividadeprofissoes/img9.jpg" height="80px" width="70px" /></td>
+<td><img src="img/img_atividadeprofissoes/img10.jpg" height="80px" width="70px" /></td>
+<td><img src="img/img_atividadeprofissoes/img11.gif" height="80px" width="70px" /></td>
+<td><img src="img/img_atividadeprofissoes/img12.gif" height="80px" width="70px" /></td>
+<td><img src="img/img_atividadeprofissoes/img13.gif" height="80px" width="70px" /></td>
+<td><img src="img/img_atividadeprofissoes/img14.jpg" height="80px" width="70px" /></td>
 </tr>
 
 <tr>
 <td>
-<span class="GapSpan" id="GapSpan10"><input style="width:70px;" type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+<span class="GapSpan" id="GapSpan6"><input style="width:70px;" type="text" id="Gap6" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>
 </td>
 <td>
-<span class="GapSpan" id="GapSpan11"><input style="width:70px;" type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>
+<span class="GapSpan" id="GapSpan7"><input style="width:70px;" type="text" id="Gap7" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+</td>
+<td>
+<span class="GapSpan" id="GapSpan8"><input style="width:70px;" type="text" id="Gap8" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="10"></input></span>
+<td>
+<span class="GapSpan" id="GapSpan9"><input style="width:70px;" type="text" id="Gap9" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="10"></input></span>
 </td>
 <td>
 <span class="GapSpan" id="GapSpan12"><input style="width:70px;" type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
 </td>
 <td>
 <span class="GapSpan" id="GapSpan13"><input style="width:70px;" type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>
-</td>
+</td> 
 </tr>
+
 </tbody>
 </table>
 
@@ -120,7 +115,7 @@ Write the right job under each picture.<br /><br />
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
+<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
 <button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
@@ -134,10 +129,6 @@ Write the right job under each picture.<br /><br />
 <div class="FeedbackText" id="FeedbackContent"></div>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
-
-<!-- BeginBottomNavButtons -->
-
-
 
 
 	<!-- fim da atividade -->
