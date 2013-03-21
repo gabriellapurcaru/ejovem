@@ -11,8 +11,8 @@
 <li><a href="" style="text-decoration:none;" title="As aulas começam as sete">Classes start at seven</a></li>
 <li><a href="" style="text-decoration:none;" title="Eu sempre ouço radio">I always listen to the radio.</a></li></p>
 <p><b>The Simple Present Tense</b> pode expressar também verdades universais <b>e</b> ações futuras planejadas. Vejamos os exemplos abaixo:
-<li><a href="" title="Pássaros voam.">Birds fly.</a></li>
-<li><a href="" title="O trem sai em dez minutos">The train leaves in ten minutes.</a></li></p>
+<li><a href="" title="Pássaros voam."> Birds fly.</a></li>
+<li><a href="" title="O trem sai em dez minutos"> The train leaves in ten minutes.</a></li></p>
 </div>
 </div>	
 {rodape}

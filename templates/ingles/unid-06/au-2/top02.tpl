@@ -15,9 +15,17 @@
 <div class="ClozeBody">
 
 	<h6>Use the key to write sentences, as in the examples</h6>
-	<div class="alert alert-info" style="text-align:center;width:50%;margin-left:150px;"> 
-like - love - dislike - not mind - enjoy
-	</div>
+	<table class="table table-striped" style="margin-bottom: 8px;">
+<tbody>
+<tr> 
+<td style="padding:2px;" width="39"> <div align="center"><strong> LIKE </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> love </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> DISLIKE </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> NOT MIND </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> ENJOY </strong></div></td>
+</tr>
+</tbody> 
+</table>
 
 Example:
 

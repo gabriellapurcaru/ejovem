@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -7,6 +7,7 @@
 <div id="center">
 
 <div id="box-explicacao-video-animacao">
+<script src="js/atividade_top06.js" type="text/javascript"></script></head>
 	<div id="MainDiv" class="StdDiv">
 	<div id="ClozeDiv">
 	<form id="Cloze" method="post" action="" onsubmit="return false;">

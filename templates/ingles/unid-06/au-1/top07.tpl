@@ -27,7 +27,21 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-GREAT DON&#x2019;T DO YOU LIKE SALSA<br /><br />
+<table class="table table-striped" style="margin-bottom: 8px;">
+<tbody>
+<tr> 
+<td style="padding:2px;" width="39"> <div align="center"><strong> GREAT</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> DON'T</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> DO</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> LIKE </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> SALSA</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> YOU </strong></div></td>
+
+
+</tr>
+</tbody> 
+</table>
+<br />
 <b>A:</b> <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11">
 </input></span> hip-hop?<br />
 <b>B:</b> No, I <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6">
@@ -40,7 +54,7 @@ GREAT DON&#x2019;T DO YOU LIKE SALSA<br /><br />
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
+<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
 <button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>

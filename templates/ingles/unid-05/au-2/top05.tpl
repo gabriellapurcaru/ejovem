@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -9,6 +9,7 @@
 <h6>Vamos rever o que aprendemos até agora? Escreva uma pergunta para cada resposta. </h6>
 
 <div id="box-explicacao-video-animacao">
+<script src="js/atividade_top05.js" type="text/javascript"></script></head>
 	<div id="MainDiv" class="StdDiv">
 	<div id="ClozeDiv">
 	<form id="Cloze" method="post" action="" onsubmit="return false;">
