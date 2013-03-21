@@ -8,7 +8,7 @@
 <div id="center">
 <div id="atividade">
 <h6>Reescreva as frases colocando os verbos na sua forma no infinitivo, como no exemplo.</h6>
-<script src="js/atividade02.js" type="text/javascript"></script>
+<script src="js/atividade_top08.js" type="text/javascript"></script>
 
 <div id="MainDiv" class="StdDiv">
 

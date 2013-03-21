@@ -12,7 +12,7 @@
   </ul>
 <div class="tab-content">
 	<div class="tab-pane active" id="tab1">
-      		<div id="atividade">
+      		<div id="explicacao">
 			<h6>Complete os campos em branco com a ação correta.</h6>
 	<script src="js/atividade_top08.js" type="text/javascript"></script></head>
 
@@ -31,10 +31,11 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-<br />
-<div class="alert alert-info" style="text-align:center;"> 
-<h5>ride a bike - fly - kick - read - juggle - climb - draw - run - hop - jump</h5> 
-	</div>
+
+<div class="alert alert-info">
+<H5 align="center">RIDE A BIKE - FLY - KICK - READ - JUGGLE - CLIMB - DRAW - RUN - HOP - JUMP</H5>
+</div>
+
 <table>
 <tbody>
 <tr>
@@ -121,9 +122,21 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-<div class="alert alert-info">
-  Dance - use - ride - speak - play - cook
-</div>
+<table class="table table-striped" style="margin-bottom: 8px;">
+<tbody>
+<tr> 
+<td style="padding:2px;" width="39"> <div align="center"><strong> DANCE</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> USE</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> RIDE</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> SPEAK </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> PLAY</strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> COOK </strong></div></td>
+
+
+</tr>
+</tbody> 
+</table>
+<br />
 1. Paula can <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Japanese.<br />
 2. I can <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a computer.<br />
 3. I can&#x2019;t <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> a motorcycle.<br />

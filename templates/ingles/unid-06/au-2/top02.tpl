@@ -19,7 +19,7 @@
 <tbody>
 <tr> 
 <td style="padding:2px;" width="39"> <div align="center"><strong> LIKE </strong></div></td>
-<td style="padding:2px;" width="39"> <div align="center"><strong> love </strong></div></td>
+<td style="padding:2px;" width="39"> <div align="center"><strong> LOVE </strong></div></td>
 <td style="padding:2px;" width="39"> <div align="center"><strong> DISLIKE </strong></div></td>
 <td style="padding:2px;" width="39"> <div align="center"><strong> NOT MIND </strong></div></td>
 <td style="padding:2px;" width="39"> <div align="center"><strong> ENJOY </strong></div></td>

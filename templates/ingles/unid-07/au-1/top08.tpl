@@ -25,9 +25,10 @@
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
 <br />
-<div class="alert alert-info" style="text-align:center;"> 
-<h5>ride a bike - fly - kick - read - juggle - climb - draw - run - hop - jump</h5> 
-	</div>
+<div class="alert alert-info">
+<H5 align="center">RIDE A BIKE - FLY - KICK - READ - JUGGLE - CLIMB - DRAW - RUN - HOP - JUMP</H5>
+</div>
+
 <table>
 <tbody>
 <tr>
