@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -23,9 +23,15 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-<div class="alert alert-info">
-  Work - play - dance - study - cook
+
+<div class="alert alert-info" align="center">
+<strong> WORK - </strong>
+<strong> PLAY - </strong>
+<strong> DANCE - </strong>
+<strong> STUDY - </strong>
+<strong> COOK </strong>
 </div>
+
 
 <b>1</b>. Jeremy can <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> chinese food.<br /><br />
 <b>2</b>. I like to <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> soccer.<br /><br />
