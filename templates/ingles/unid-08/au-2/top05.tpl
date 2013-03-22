@@ -5,7 +5,9 @@
 <div id="meio">
 <h3><a href="#" class="brand" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
-
+	<div class="swf">
+		<img src="img/top05.png" width="650" height="450">
+	</div>
 
 </div>
 </div>
