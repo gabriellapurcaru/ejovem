@@ -15,6 +15,7 @@
 	    <div id="box-dir">
 		<div id="texto">
 		<p>Nessa aula aprendemos sobre verbos no passado. Na próxima lição iremos aprender como utilizamos os verbos no passado.</p>
+<p><span class="label label-info"><a href="" title="Até a próxima aula!">See you next class!</a></span></p>
 
 		</div>
 	    </div>

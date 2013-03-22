@@ -5,7 +5,10 @@
 <h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 <div id="center">
 
-Animação 04..
+<div class="swf">
+		<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_top07.swf" name="plugin">
+
+	</div>
 
 	
 </div>
