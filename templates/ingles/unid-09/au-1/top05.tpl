@@ -5,7 +5,10 @@
 <div id="meio">
 <h3><a href="#" title="Foco na gramática">Grammar in Focus</a></h3>
 <div id="center">
-Animação 02..
+<div class="swf">
+		<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_top05.swf" name="plugin">
+
+	</div>
 
 
 </div>	
