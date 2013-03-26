@@ -17,9 +17,9 @@
 <span class="label label-info"><a href="" title="em 1980"> In 1980</a></span>.
 e muitas outras como as vistas anteriormente.</p>
 
-<div style="border: solid 0.1px #f0f00f;">
-<table>
-<tbody>
+
+<table class="table table-striped">
+<tdead>
 <tr>
 <td width="60%" style="padding:10px;"><li>I liv<u>ed</u> in Sergipe in 1999.</li></td>
 <td><li>They play<u>ed</u> badminton yesterday.</li></td>
@@ -38,9 +38,9 @@ e muitas outras como as vistas anteriormente.</p>
 <td><h6>Choveu Sobral ano passado</h6></td>
 <td><h6>Você trabalhou em uma empresa pequena.</h6></td>
 </tr>
-</tbody>
+</thead>
 </table>
-</div>
+
 
 <p>Perceba que, ao contrário do Português, o Inglês não possui nenhuma variação na conjugação dos verbos no passado simples. Basta acrescentar <strong>-ed</strong> no final do verbo. Isso ocorre para todos os verbos que chamamos de verbos regulares.</p>
 <p><strong>Atenção!:</strong> As regras de ortografia que aprendemos para a terceira pessoa do singular no presnte valem para o Passado Simples:</p>
