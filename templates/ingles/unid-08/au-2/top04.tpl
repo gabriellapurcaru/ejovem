@@ -5,7 +5,53 @@
 <div id="meio">
 <h3><a href="#" class="brand" title="Gramática em Foco!">Grammar in Focus</a></h3>
 <div id="center">
-<h4>Você lembra das estruturas de comunicação básica para fazer perguntas, vamos revisá-la? </h4>
+<p>Agora vamos revisar as estruturas de comunicação básica pra fazer perguntas?</p>
+<br/><br/>
+<table class="table table-bordered" >
+	<tr>
+		<th></th>
+		<th>WH-?</th>
+		<th>AUXILIAR</th>
+		<th>SUJEITO</th>
+		<th>VERBO</th>
+		<th>OBJETO</th>
+		<th>RESPOSTA</th>		
+	</tr>
+	<tr>
+		<td rowspan="2">Pergunta</br>Sim/Não</td>	
+		<td></td>
+		<td>Do</td>
+		<td>you</td>
+		<td>play</td>
+		<td>soccer?</td>
+		<td>Yes, I do/no, I don't</td>		
+	</tr>
+	<tr>
+		<td></td>
+		<td>Does</td>
+		<td>she</td>
+		<td>study</td>
+		<td>English</td>
+		<td>Y, She does/no, She don't</td>		
+	</tr>
+	<tr>
+		<td rowspan="2">Pergunta de</br>afirmação</td>	
+		<td>When</td>
+		<td>do</td>
+		<td>you</td>
+		<td>play</td>
+		<td>soccer?</td>
+		<td>On Saturday afternoons.</td>		
+	</tr>	
+	<tr>
+		<td>When</td>
+		<td>does</td>
+		<td>she</td>
+		<td>study</td>
+		<td>English</td>
+		<td>On Tuesdays and Thurday.</td>		
+	</tr>		
+	</table>
 
 </div>
 </div>

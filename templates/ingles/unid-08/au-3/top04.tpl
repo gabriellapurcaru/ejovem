@@ -3,32 +3,31 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Aula em vídeo">Video in Lesson</a></h3>
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
 <div id="center">
-	
-<div id="boxDigitacao">
-    <div class="item">
-       Agora você irá assistir a um vídeo totalmente em inglês. Don’t panic! Não entre em pânico! Você não precisa entender tudo. Ouvir o máximo possível em inglês também ajuda no aprendizado. No caso deste vídeo, o objetivo é que você consiga identificar algumas palavras ou frases que nós já vimos até agora. Vamos tentar identificar algumas? De repente, você também aprende algo novo. Vamos lá!
-    </div> 
-</div>
 
-<div id="boxDialogo">
-<div class="box-digitacao">
-    <div class="areaTexto"></div>
-    <div id="img-person">
-        <img src="../../../imgs/personagem_corpo.png"/>
+<div id="box-center-conclusao">
+    <div id="box-esq">
+        <div class="box-person">
+		<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">   
+        </div>
     </div>
-</div>    
+    <div id="box-dir">
+	<div id="texto">
+	<p>Essa aula foi uma pequena revisão do que aprendemos ao longo da unidade 8. <p>
+<p>Na próxima lição iremos falar sobre <span class="label label-info"><a title="tempo livre" href="#" class=""> free time!</a></span></p>
+	</div>
+    </div>
 </div>
 
 </div>
-</div>
+</div>	
+
 {barra_tools}
-	<div id="navegacao">
-		<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 4 de 7</span>
-		<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 4 de 4</span>
+</div>
 </div>
 
 {rodape}

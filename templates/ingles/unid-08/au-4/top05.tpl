@@ -3,37 +3,34 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Aula em vídeo">Video Lesson</a></h3>
-
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
 <div id="center">
-<div id="box-center-video">
-    <div id="box-dir">
-		  <div id="balao-azul">
-		    <p>Assista ao vídeo e anote qualquer palavra ou frase que você conhece ou que você tem curiosidade de saber.</p>
-		  </div>
-		  <div id="person">
-		      <img src="../../../imgs/e10.png">
-		  </div>
-    </div>
+
+<div id="box-center-conclusao">
     <div id="box-esq">
-        <div id="box-video-esq-video">
-           	<object type="application/x-shockwave-flash" style="width:400px;height:250px;" data="http://www.youtube.com/v/6f_FtzgL9y4"><param name="movie" value="http://www.youtube.com/v/6f_FtzgL9y4" /><param name="wmode" value="transparent" /></object>
+        <div class="box-person">
+		<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">   
         </div>
-        <div id="box-video-esq-img">
-            <img src="../../../imgs/e11.png">
-        </div>
-    
+    </div>
+    <div id="box-dir">
+	<div id="texto">
+	<p>Nesta unidade aprendemos sobre rotinas e hobbies, também aprendemos  um pouco mais sobre as horas e fizemos uma revisão da unidade passada. Agora podemos por tudo em prática!</p>
+<p> O que você vai fazer agora? Aprender sobre as atividades rotineiras. Após fazer a tarefa proposta, relaxe um pouco com um de seus passatempos favoritos. Na próxima unidade iremos além!<p>
+<p><span class="label label-info"><a title="tempo livre" href="#" class=""> See you soon!</a></span></p>
+
+
+	</div>
     </div>
 </div>
 
 </div>
-</div>
+</div>	
 
 {barra_tools}
-	<div id="navegacao">
-		<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 5 de 7</span>
-		<a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 5 de 5</span>
 </div>
+</div>
+
 {rodape}
