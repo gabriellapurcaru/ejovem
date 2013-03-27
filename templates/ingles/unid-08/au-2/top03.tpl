@@ -19,7 +19,7 @@
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
 <div class="alert alert-info" align="center">
-<strong>Wednesday - Saturday - Monday  <br/>Friday - Tuesday - Sunday - Thursday</strong>
+<strong>Wednesday - Saturday - Monday - Friday - Tuesday - Sunday - Thursday</strong>
 </div>
 <table>
 <tbody>

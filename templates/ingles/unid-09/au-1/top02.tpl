@@ -17,7 +17,7 @@
 
 <div id="box-direita">
 <div id="atividade">
-<h6>Complete the uquestions below with the correct Wh-word:</h6>
+<h6>Complete the questions below with the correct <b>Wh-</b>word:</h6>
 <div id="MainDiv" class="StdDiv">
 <script src="js/atividade01.js" type="text/javascript"></script>
 

@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -7,6 +7,7 @@
 <div id="center">
 
 <div id="box-explicacao-video-animacao">
+<div id="atividade">
 <p>Você lembra os dias da semana? No exercício abaixo, complete as frases com os dias da semana corretos:</p>
 <div class="swf">	
 
@@ -38,7 +39,7 @@
 <div class="FeedbackText" id="FeedbackContent"></div>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
-
+</div>
 </div>
 
 </div>

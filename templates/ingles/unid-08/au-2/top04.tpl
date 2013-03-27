@@ -28,7 +28,7 @@
 	</tr>
 	<tr>
 		<td></td>
-		<td>Does</td>
+		<td>Do<b>es</b></td>
 		<td>she</td>
 		<td>study</td>
 		<td>English</td>
@@ -45,7 +45,7 @@
 	</tr>	
 	<tr>
 		<td>When</td>
-		<td>does</td>
+		<td>do<b>es</b></td>
 		<td>she</td>
 		<td>study</td>
 		<td>English</td>
