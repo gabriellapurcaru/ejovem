@@ -7,6 +7,7 @@
 <div id="center">
 <p>Agora vamos revisar as estruturas de comunicação básica pra fazer perguntas?</p>
 <br/><br/>
+<div id="explicacao">
 <table class="table table-bordered" >
 	<tr>
 		<th></th>
@@ -52,6 +53,7 @@
 		<td>On Tuesdays and Thurday.</td>		
 	</tr>		
 	</table>
+	</div>
 
 </div>
 </div>

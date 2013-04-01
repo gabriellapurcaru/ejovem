@@ -31,6 +31,7 @@
 		</tr>
 	</tdead>
 	</table>
+<h6>Clique <span class="label label-info"><a href="http://en.bab.la/dictionary/english-portuguese/ " title="aquisição de vocabulário" target="_blank"> aqui</a></span> para conhecer mais palavras e adquirir mais vocabulário!</h6>
 </div>
 
 </div>
