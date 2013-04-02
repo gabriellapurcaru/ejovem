@@ -7,8 +7,7 @@
 <div id="center">
 <p>Agora vamos revisar as estruturas de comunicação básica pra fazer perguntas?</p>
 <br/><br/>
-<div id="explicacao">
-<table class="table table-bordered" >
+<table class="table table-bordered" border="1px">
 	<tr>
 		<th></th>
 		<th>WH-?</th>
@@ -56,7 +55,7 @@
 	</div>
 
 </div>
-</div>
+
 
 {barra_tools}
 <div id="navegacao">
