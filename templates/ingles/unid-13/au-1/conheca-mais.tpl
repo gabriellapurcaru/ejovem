@@ -1,35 +1,16 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
 <h3><a href="#" title="Saiba mais">Learn More</a></h3>
 <div id="center">
-<h6>Exemplos de estrangeirismos:</h6>    
-<table class="table table-striped">
-	<tdead>
-	<tr>
-		<td>Francesismo</td>
-		<td>abajur, chefe, carnê</td>
-	</tr>
-	<tr>
-		<td>Italianismo</td>
-		<td>ravioli, pizza, paparazzi</td>
-	</tr>	
-	<tr>
-		<td>Arabismo</td>
-		<td>alface, açougue, bazar</td>
-	</tr>
-		<tr>
-			<td>Grecismo</td>
-			<td>batismo, farmácia, bispo</td>
-		</tr>	
-		<tr>
-			<td>Tupinismo</td>
-			<td>mirim, peteca, caipira</td>
-		</tr>
-	</tdead>
-	</table>
+
+
+<h4>Para aprofundar seus conhecimentos veja o link abaixo:</h4>
+
+<h6>Aquisição de Vocabulário: <span class="label label-info"><a href="http://en.bab.la/dictionary/english-portuguese/" target="_blank" title="Aquisição de Vocabulário">Veja aqui.</a></span></h6>
+
 
 </div>
 </div>	
