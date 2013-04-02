@@ -29,6 +29,16 @@
 
 <h6>Praticando CAN & CAN’T e outros verbos modais - pedindo permissão: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=8616" target="_blank" title="Habilidades ">Veja aqui.</a></span></h6>   
 
+<h6>Praticando CAN & CAN’T – estruturas básicas do inglês : <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=38" target="_blank" title="Habilidades ">Veja aqui.</a></span></h6>  
+
+<h6>Praticando CAN & CAN’T com expressões infantis: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=3103" target="_blank" title="Habilidades ">Veja aqui.</a></span></h6> 
+
+<h6>Praticando CAN & CAN’T aliados aos pronomes pessoais: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=5676" target="_blank" title="Habilidades ">Veja aqui.</a></span></h6> 
+
+<h6>Praticando CAN & CAN’T – vocabulário apropriado: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=6643" target="_blank" title="Habilidades ">Veja aqui.</a></span></h6>  
+
+<h6>Aquisição de Vocabulário: <span class="label label-info"><a href="http://en.bab.la/dictionary/english-portuguese/" target="_blank" title="Aquisição de Vocabulário">Veja aqui.</a></span></h6>  
+
 </div>
 </div>	
 {barra_tools}
