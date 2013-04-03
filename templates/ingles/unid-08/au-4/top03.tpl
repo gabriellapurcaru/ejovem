@@ -34,7 +34,7 @@ suas atividades.</a></span>
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-<table border="1" cellpadding="1" cellspacing="1" align="center">
+<table border="1" cellpadding="1" cellspacing="1" align="center" width="85%">
 <tbody>
 <tr>
 <th align="center">Saturday</th>
