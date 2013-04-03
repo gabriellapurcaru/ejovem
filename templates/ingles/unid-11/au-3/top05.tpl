@@ -16,48 +16,48 @@
 <table>
 <tbody>
 <tr>
-<td>1. Salt </td><td width="40%"></td>
+<td>1. Salt </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan0"><input style="width: 30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
 <td>A piece of fruit which can be green, yellow or red.<br /></td>
 </tr>
 <tr>
-<td>2. Apple </td><td width="35%"></td>
+<td>2. Apple </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan1"><input style="width: 30px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
 <td>It is considered the opposite of sugar.<br /></td>
 </tr>
 <tr>
-<td>3. water </td><td width="35%"></td>
+<td>3. Water </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan2"><input style="width: 30px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
 <td> A piece of fruit with the shape of a bulb.<br /></td>
 </tr>
 <tr>
-<td>4. Orange </td><td width="35%"></td>
+<td>4.Orange </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan3"><input style="width: 30px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
 <td> A piece of fruit which has the name of its colour.<br /></td>
 </tr>
 <tr>
-<td>5. Pear </td><td width="35%"></td>
+<td>5. Pear </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan4"><input style="width: 30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
 <td> a red liquid, it comes from grapes.<br /></td>
 </tr>
 <tr>
-<td>6. Wine </td><td width="35%"></td>
+<td>6. Wine </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan5"><input style="width: 30px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
 <td> If you are thirsty , you drink it.<br /></td>
 <tr>
 </tr>
 <tr>
-<td>7. Milk </td><td width="35%"></td>
+<td>7. Milk </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan6"><input style="width: 30px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
 <td> It is baked and make out of flour.<br /></td>
 </tr>
 <tr>
-<td>8. Bread </td><td width="35%"></td>
+<td>8. Bread </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan7"><input style="width: 30px;" type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></td>
 <td></span> They come from hens.<br /></td>
 </tr>
 <tr>
-<td>9. Eggs </td><td width="35%"></td>
+<td>9. Eggs </td><td width="45%"></td>
 <td><span class="GapSpan" id="GapSpan8"><input style="width: 30px;" type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
 <td> A white iquid coming from the cows.</td>
 </tr>
