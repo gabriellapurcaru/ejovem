@@ -26,23 +26,23 @@
 <td>bring - <b>brought</b></td>
 	</tr>
 <tr>
-<td>build- <b>built</b></td>
-<td>buy- <b>bought</b></td>
+<td>build - <b>built</b></td>
+<td>buy - <b>bought</b></td>
 	</tr>
 <tr>
-<td>catch- <b>caught</b></td>
-<td>come- <b>came</b></td>
+<td>catch - <b>caught</b></td>
+<td>come - <b>came</b></td>
 	</tr>
 <tr>
-<td>cost- <b>cost</b></td>
-<td>do- <b>did</b></td>
+<td>cost - <b>cost</b></td>
+<td>do - <b>did</b></td>
 	</tr>
 <tr>
-<td>drink- <b>drank</b></td>
+<td>drink - <b>drank</b></td>
 <td>eat - <b>ate</b></td>
 	</tr>
 <tr>
-<td>fall- <b>fell</b></td>
+<td>fall - <b>fell</b></td>
 <td>find - <b>found</b></td>
 	</tr>
 <tr>
@@ -113,7 +113,7 @@
 {barra_tools}
 <div id="navegacao">
 <a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 3 de 12</span>
+	<span>Página 3 de 10</span>
 <a href="top04.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>	
