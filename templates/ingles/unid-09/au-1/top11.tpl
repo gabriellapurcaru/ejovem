@@ -82,17 +82,17 @@ size="6"></input></span> Maria watched a movie with Pedro.
 </table>
 
 <!-- imagens -->
-<div id="box-direita" style="margin-top:-265px;">
+<div id="box-direita" style="margin-top:-305px;">
 <table>
 <tbody>
 <tr>
-<td><h6 align="right">1 - <br /><img src="img/img_atividade_top11/img01.png" height="150px" width="130px" align="top"></h6></td>
-<td><h6 align="right">2 - <br /><img src="img/img_atividade_top11/img01.png" height="150px" width="130px"></h6></td>
-<td><h6 align="right">3 - <br /><img src="img/img_atividade_top11/img01.png" height="150px" width="130px"></h6></td>
+<td><h6 align="right">1 - <br /><img src="img/img_atividade_top11/img01.png" height="120px" width="130px" align="top"></h6></td>
+<td><h6 align="right">2 - <br /><img src="img/img_atividade_top11/img02.png" height="120px" width="130px"></h6></td>
+<td><h6 align="right">3 - <br /><img src="img/img_atividade_top11/img03.png" height="120px" width="130px"></h6></td>
 </tr>
 <tr>
-<td colspan=2 align="right"><h6>4 - <br /><img src="img/img_atividade_top11/img01.png" height="150px" width="130px"></h6></td>
-<td align="right"><h6>5 - <br /><img src="img/img_atividade_top11/img01.png" height="150px" width="130px"></h6></td>
+<td colspan=2 align="right"><h6>4 - <br /><img src="img/img_atividade_top11/img04.png" height="120px" width="130px"></h6></td>
+<td align="right"><h6>5 - <br /><img src="img/img_atividade_top11/img05.png" height="120px" width="130px"></h6></td>
 </tr>
 </tbody>
 </table>
