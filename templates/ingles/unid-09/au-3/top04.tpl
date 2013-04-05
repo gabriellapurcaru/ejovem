@@ -5,8 +5,10 @@
 <div id="meio">
 <h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
-	<div id="swf">
-animação..
+	<div class="swf">
+<h6>Clique na seta para ver o diálogo.</h6>
+		<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/dialogo_top04.swf" name="plugin">
+
 	</div>
 </div>
 </div>
