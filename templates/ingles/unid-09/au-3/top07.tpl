@@ -5,8 +5,8 @@
 <h3><a href="#" title="Exercício">Exercise</a></h3>
 <div id="center">
 
-	<div id="atividade">
-	atividade
+	<div id="swf"  align="center">
+	<div style="width:560;text-align:center;font-size:x-small;"><iframe src="http://clic.xtec.cat/db/jclicApplet.jsp?project=http://clic.xtec.cat/projects/irrverbs/jclic/irrverbs.jclic.zip&skin=@mini.xml&lang=ca" frameborder=0 width=560 height=440 scrolling="no"></iframe><br><a href="http://clic.xtec.cat/db/act_ca.jsp?id=3177">zonaClic - actividades - Irregular verbs</a></div>
 	</div>
 
 	
