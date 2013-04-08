@@ -14,23 +14,6 @@
 <div id="atividade">
 <p><script src="js/atividade03.js" type="text/javascript"></script></head>
 
-<body onload="StartUp()" id="TheBody" >
-
-<!-- BeginTopNavButtons -->
-
-
-
-<!-- EndTopNavButtons -->
-
-
-<div id="InstructionsDiv" class="StdDiv">
-        <div id="Instructions"><p><h6><a href="" title="Insira as suas respostas nas lacunas. Quando tiver inserido todas as respostas, clique no botão "Verificar".">Enter your answers in the gaps. When you have entered all the answers, click on the "Verificar" button.</a><br /></h6></p></div>
-</div>
-
-
-
-
-
 <div id="MainDiv" class="StdDiv">
 
 <!-- These top buttons hidden; reveal if required -->

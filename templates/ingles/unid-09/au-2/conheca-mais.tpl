@@ -104,6 +104,7 @@ e muitas outras como as vistas anteriormente.</p>
 <h6>Praticando o passado simples dos verbos – 14 Forma Interrogativa
 : <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=8066" target="_blank" title="Passado simples">Veja aqui.</a></span></h6>
 
+
 </div>
 </div>	
 {barra_tools}

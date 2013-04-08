@@ -17,8 +17,8 @@
 </div>
 
 	<div id="box-direita">
-		<table class="table table-bordered" border="0px">
-		<tbody>
+		<table class="table table-striped" style="height:200px;">
+		<tdead>
 
 	<tr>
 <th>AUX</th>
@@ -44,7 +44,7 @@
 <td>Yes, she <b>did</b>./No, she <b>did</b>n't.</td>
 	</tr>
 
-		</tbody>
+		</thead>
 		</table>
 		
 	</div>

@@ -7,6 +7,7 @@
 <div id="center">
 
 	<div id="atividade">
+<h6>Complete com os verbos no tempo correto.</h6>
 	
 <script src="js/atividade_top06.js" type="text/javascript"></script></head>
 
@@ -40,7 +41,11 @@ He <span class="GapSpan" id="GapSpan3"><input style="width:100px;" type="text" i
 
 <br />
 
-he would always win the fight.<br /><br />Chorus<br />Bang Bang,<br />He <span class="GapSpan" id="GapSpan5"><input style="width:100px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (shoot PAST SIMPLE) me down<br />Bang Bang,<br />I <span class="GapSpan" id="GapSpan6"><input style="width:100px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (hit PAST SIMPLE) the ground<br />Bang Bang,
+he would always win the fight.
+
+<br /><h5>Chorus</h5>
+
+Bang Bang,<br />He <span class="GapSpan" id="GapSpan5"><input style="width:100px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (shoot PAST SIMPLE) me down<br />Bang Bang,<br />I <span class="GapSpan" id="GapSpan6"><input style="width:100px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (hit PAST SIMPLE) the ground<br />Bang Bang,
 
 <br />
 
@@ -68,7 +73,11 @@ Music <span class="GapSpan" id="GapSpan14"><input style="width:100px;" type="tex
 
 <br />
 
-just for me the churchbells <span class="GapSpan" id="GapSpan15"><input style="width:100px;" type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (ring PAST SIMPLE).<br /><br />Now he's gone,<br />I dont know <span class="GapSpan" id="GapSpan16"><input style="width:100px;" type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br />And till this day,<br />sometimes I <span class="GapSpan" id="GapSpan17"><input style="width:100px;" type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br />He didn't even say <span class="GapSpan" id="GapSpan18"><input style="width:100px;" type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>,<br />he didn't take the time to lie.<br /><br />Chorus<br /> <br />Answer: MIND CAPITAL LETTERS AND PUNCTUATION.<br />How old was she? <span class="GapSpan" id="GapSpan19"><input  style="width:100px;" type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> <br />How old was he? <br />What colour did she wear? <br />Did she always win? <br />Did they used to play when they were young? <br />Did they get married? <br />Did he stay?<br />Did he go away?<br />Was he a good husband? <br />Did he say good-bye?<br />Did he take the time to lie? 
+just for me the churchbells <span class="GapSpan" id="GapSpan15"><input style="width:100px;" type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (ring PAST SIMPLE).<br /><br />Now he's gone,<br />I dont know <span class="GapSpan" id="GapSpan16"><input style="width:100px;" type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br />And till this day,<br />sometimes I <span class="GapSpan" id="GapSpan17"><input style="width:100px;" type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br />He didn't even say <span class="GapSpan" id="GapSpan18"><input style="width:100px;" type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>,<br />he didn't take the time to lie.
+
+<br /><h5>Chorus</h5>
+
+Answer: MIND CAPITAL LETTERS AND PUNCTUATION.<br />How old was she? <span class="GapSpan" id="GapSpan19"><input  style="width:100px;" type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> <br />How old was he? <br />What colour did she wear? <br />Did she always win? <br />Did they used to play when they were young? <br />Did they get married? <br />Did he stay?<br />Did he go away?<br />Was he a good husband? <br />Did he say good-bye?<br />Did he take the time to lie? 
 </div>
 </form>
 </div>

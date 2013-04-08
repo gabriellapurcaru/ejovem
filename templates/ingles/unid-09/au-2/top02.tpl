@@ -8,7 +8,7 @@
 
 	<div id="box-esquerda">
     <div id="box-explicacao-tabela-texto">
-    <p>Há também em inglês a família por casamento, que no nosso caso, seria a sogra, cunhado, etc. em inglês é escrito dessa maneira:</p>
+    <p>Observe estas frases no passado:</p>
     </div>
     <div id="box-explicacao-tabela-img">
         <img src="../../../imgs/e17.png">
@@ -16,8 +16,8 @@
 </div>
 	
 	<div id="box-direita">
-	<div id="box-explicacao-video-animacao">
-	<table class="table table-striped">
+	<div id="box-explicacao-video-animacao" style="width:380px;">
+	<table class="table table-striped" style="width:100%;">
 	<tdead>
 		<tr>
 		<td>Carol <b>played</b> basketball last Saturday.</td></tr>
