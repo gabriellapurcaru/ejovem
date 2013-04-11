@@ -5,8 +5,8 @@
 <div id="meio">
 <h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 <div id="center">
-	<div id="swf">
-		<img src="img/ilustracao01_top03.png">
+	<div class="swf">
+		<img src="img/ilustracao_top03.jpg"  width="650" heigth="450" />
 
 	</div>
 
