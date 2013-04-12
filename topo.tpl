@@ -1,4 +1,4 @@
-﻿﻿<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-br" xml:lang="pt-br" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<link href="../../../css/main.css" media="all" type="text/css" rel="stylesheet"/>

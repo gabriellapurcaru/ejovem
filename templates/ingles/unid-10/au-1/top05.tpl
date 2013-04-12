@@ -2,6 +2,7 @@
 {tituloAula}
 {menu}
 
+<div id="meio">
 <h3><a href="#" title="Lição em vídeo">Lession in Video</a></h3>
 <div id="center">
 
@@ -27,6 +28,7 @@
     </div>
 </div>
 
+</div>
 </div>
 {barra_tools}
 <div id="navegacao">

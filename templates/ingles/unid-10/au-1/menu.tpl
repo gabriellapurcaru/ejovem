@@ -2,8 +2,11 @@
 </div>
 </div>
 
+
 <div id="conteudo">
+<!--
 <div id="box-esq">
+
 	<div class="b">	
 		<div id="box-personagem">
 			<img src="../../../imgs/personagem.jpg"/><br />
@@ -32,7 +35,7 @@
 				<div class="texto_menu"><a href="gramatica.php">Gramática</a></div>
 			</div>
 		</div>
-
+		
 		<div id="box-cursos">
 			<h5>Amigos</h5>
 			<div class="curso01">
@@ -44,6 +47,6 @@
 				<div class="nome_curso">João do PTPS</div>			
 			</div>
 		</div>
-	</div>	
+</div>	
 </div>
-<div id="meio">
+-->

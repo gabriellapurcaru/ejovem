@@ -42,11 +42,11 @@ h3 a{color: #4AA1BD;font-size: 26px;font-weight: normal;}
 
 div#meio p.quadro{border: 1px solid #999999;margin: 0 0 10px;;padding: 10px;}
 
-.titulo_aula{float: right; width: 660px;}
+.titulo_aula{float: right; width: 475px;}
 
 div#c{float: left;width: 100%;}
-div#bdy{margin: 0 auto;width:950px;text-align: left;height:700px;}
-div#topo {background-color: #4aa1bd; color:#fff;line-height: normal;padding:10px;margin:20px 0px 0px 0px;width: 930px;float:left;}
+div#bdy{margin: 0 auto;width:788px;text-align: left;height:700px;}
+div#topo {background-color: #4aa1bd; color:#fff;line-height: normal;padding:10px;margin:20px 0px 0px 0px;width: 768px;float:left;}
 div#topo .autores{font-size:12px;}
 div#topo .logo img{background-color: #FFFFFF;border: 4px solid #FFFFFF;border-radius: 2px 2px 2px 2px;height: 41px;width: 250px;}
 div#topo .logo{background: none repeat scroll 0 0 #4AA1BD;border-radius: 3px 3px 3px 3px;box-shadow: 0 1px 1px #FFFFFF;display: block;margin-top: -23px;padding: 1px;position: absolute;}
@@ -61,7 +61,7 @@ div#topo .acoes{
 
 .titulo-modulo-aula span {color: #187298;font-size: 15px;vertical-align: baseline;}
 
-div#conteudo{display:inline; width: 950px;float:left;margin-top: 10px;}
+div#conteudo{display:inline; width: 788px;float:left;margin-top: 10px;}
 div#box-esq{color: #999999;float: left;font-family: inherit;width: 155px;display:inline;}
 
 div#box-menu{float: left;width: 100%;}
@@ -79,7 +79,15 @@ div#box-cursos .curso02{border: 1px solid #EFEFEF;width: 60px;float: left;paddin
 
 
 div#links_menu{float: left;}
-div#links_menu .link{float: left;height: 25px;padding: 2px;width: 25px;margin-right: 5px;background-color:#fff;}
+div#links_menu .link{float: left;
+height: 25px;
+padding: 2px;
+width: 25px;
+margin-right: 5px;
+background: #fff;
+border: 1px solid #d4d4d4;
+-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.065);
+box-shadow: 0 1px 4px rgba(0,0,0,0.065);}
 
 div#corpo-box-menu-conteudo{float: left;margin: 10px -1px 0 0px;}
 div#corpo-box-menu-atividades{float: left;margin: 58px -1px 0 0px;}
@@ -382,7 +390,7 @@ div#boxDialogo .areaTexto{    background: none repeat scroll 0 0 #FFFFFF;
 /* Box Introdução */
 div#box-introducao{float: left;font-size: 13px;width: 100%;height: 450px;}
 div#box-introducao #img-person{float: left;padding: 5px;width: 200px;height: 450px;}
-div#box-introducao #texto{background: url("../imgs/bdy-diagolo.png") repeat-x scroll 0 0 #F2F4F5;border: 1px solid #DDDDDD;box-shadow: 2px 2px #C6CCCF;float: right;padding: 5px;width: 540px;}
+div#box-introducao #texto{background: url("../imgs/bdy-diagolo.png") repeat-x scroll 0 0 #F2F4F5;border: 1px solid #DDDDDD;box-shadow: 2px 2px #C6CCCF;float: right;padding: 5px;width: 440px;}
 
 /*Fala Personagem com Imagem*/
 

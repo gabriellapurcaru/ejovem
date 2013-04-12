@@ -21,6 +21,7 @@
 <div id="box-direita">
 <div id="atividade">
 </div>
+</div>
 
 </div>
 </div>

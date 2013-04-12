@@ -1,12 +1,14 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Roupa para homens e mulheres">Clothes Men's and Women's </a></h3>
 <div id="center">
 <div class="swf">
 
 	<img style="padding-top:40px" src="img/e01.png"/>
+</div>
+
 </div>
 </div>
 {barra_tools}

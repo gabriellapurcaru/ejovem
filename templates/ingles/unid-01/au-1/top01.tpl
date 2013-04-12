@@ -8,23 +8,19 @@
 <div id="center">
 
 <div id="box-introducao">
-<div id="img-person">
-    <img src="../../../imgs/e12.png"/>
+
+<div id="box-esquerda">
+	<div class="ba-esq">
+		<div class="ba-balao">
+			<p><b>Olá a todos!</b> Vamos iniciar o Módulo de Inglês do Projeto E-jovem. Vamos começar com a Unidade <b>Unidade Getting Ready For The Course</b>,
+			veja o vídeo ao lado e saiba o que te espera nessa unidade.</p>		</div>
+		<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+	</div>
 </div>
 
 <div id="texto">
-	<p><b>Olá a todos!</b></p>
-	<p>Estamos inicando o Módulo de Inglês do Projeto E-jovem. Será que você já parou para pensar que o Inglês é o idioma mais utilizado no no mundo? Que todos os paises utilizam ele como uma segunda língua? Sabia que praticamente todo o mercado de trabalho dá preferência para indivíduos fluentes em inglês? </p>
-	<p>Você já parou para pensar nessas questões, se você já pensou nisso: Parabéns!  Apartir de agora iremos saber por que essa lingua é tão importante e vamos ajuda-lo a aperfeiçoar seu Inglês.</p>
-	<p>Vamos iniciar a <b>Unidade Getting Ready For The Course</b>, nela iremos trabalhar três lições:</p>
-		<ul>
-			<li>Lesson 01 - The Importance Of English Today</li>
-			<li>Lesson 02 - Reading  Strategies</li>
-			<li>Lesson 03 - Using What You Know</li>
-		</ul>
-	<p>Com essa unidade você será capaz de Reconhecer a importancia do inglês nos dias atuais, como também irá aprender estratégias de leitura para melhor compreensão dos textos. </p>
-	<p>E então preparado? </p>
-	<p><b>Let's go!</b></p>
+	<object type="application/x-shockwave-flash" style="width:400px;height:250px;" data="http://www.youtube.com/watch?v=mqYUNp7DMGg">
+	<param name="movie" value="http://www.youtube.com/watch?v=mqYUNp7DMGg" /><param name="wmode" value="transparent" /></object>	
 </div>
 </div>
 </div>

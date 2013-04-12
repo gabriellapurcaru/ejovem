@@ -25,9 +25,9 @@
 		<td>Television</td>
 		<td>Televisão</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-		<td>Personality</td>
-		<td>Personalidade</td>
-		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td>Modification</td>
+			<td>Modificação</td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag07.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
 		<td>Important</td>
@@ -38,14 +38,7 @@
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag06.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
 	</tr>	
-	<tr>
-	<td>Modification</td>
-	<td>Modificação</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag07.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	<td>Economy</td>
-	<td>Economia</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=ag08.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
+
 	</tdead>
 	</table>
 	<h4>Cognatos de duplo sentido:</h4>

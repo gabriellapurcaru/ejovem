@@ -94,8 +94,8 @@
 <tr>
 <td><a href="#" title="Material">Material</a></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a22.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-<td><a href="#" title="Vídeo">Video</a></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a22.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td></td>
+<td></td>
 </tr>
 
 </tdead>
