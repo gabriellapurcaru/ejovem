@@ -39,7 +39,6 @@
 </div>
 </div>
 
-</div>
 
 {barra_tools}
 <div id="navegacao">
