@@ -1,19 +1,31 @@
 ﻿{topo}
 {tituloAula}
 {menu}
+<div id="meio">
 <h3><a href="#" title="Recordando!">Brush up!</a></h3>
 <div id="center">
-	<div id="atividade">
-<p>Atividade aqui!</p>
-	</div>
+
+
+<div id="box-esquerda">	
+<div class="ba-esq">
+    <div class="ba-balao">
+        <p>Veja o cardápio e responda as questões a seguir!</p>
+    </div>
+    <div class="ba-img"><img src="../../../imgs/e05.png"></div>
+</div>
+</div>
+<div id="box-direita">
+
+
+<embed width="550" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_top02.swf" name="plugin">
+	
 
 
 </div>
-
-
-
-
-
+<!-- Exemplo -->
+	
+</div>
+</div>
 
 {barra_tools}
 <div id="navegacao">
