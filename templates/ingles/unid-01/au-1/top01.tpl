@@ -8,24 +8,22 @@
 <div id="center">
 
 <div id="box-introducao">
+	<div id="box-esquerda">
+		<div class="ba-esq">
+			<div class="ba-balao">
+				<p><b>Olá a todos!</b> Vamos iniciar o Módulo de Inglês do Projeto E-jovem. Vamos começar com a Unidade <b>Unidade Getting Ready For The Course</b>,
+				veja o vídeo ao lado e saiba o que te espera nessa unidade.</p>		</div>
+			<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+		</div>
+	</div>
 
-<div id="box-esquerda">
-	<div class="ba-esq">
-		<div class="ba-balao">
-			<p><b>Olá a todos!</b> Vamos iniciar o Módulo de Inglês do Projeto E-jovem. Vamos começar com a Unidade <b>Unidade Getting Ready For The Course</b>,
-			veja o vídeo ao lado e saiba o que te espera nessa unidade.</p>		</div>
-		<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+	<div id="texto">
+		<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
 	</div>
 </div>
 
-<div id="texto">
-	<object type="application/x-shockwave-flash" style="width:400px;height:250px;" data="http://www.youtube.com/watch?v=mqYUNp7DMGg">
-	<param name="movie" value="http://www.youtube.com/watch?v=mqYUNp7DMGg" /><param name="wmode" value="transparent" /></object>	
 </div>
 </div>
-</div>
-</div>
-
 {barra_tools}
 
 <div id="navegacao">

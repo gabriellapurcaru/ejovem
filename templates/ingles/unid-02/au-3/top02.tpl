@@ -8,11 +8,11 @@
 
 <div id="atividade">
 
-        <p>Maria está apresentando sua amiga Renata a Anderson. Renata é de Recife. Coloque as frases seguintes em ordem para formar uma conversa.</p>
+	<p>Maria está apresentando sua amiga Renata a Anderson. Renata é de Recife. Coloque as frases seguintes em ordem para formar uma conversa.</p>
+	<div class="swf">
+		<embed width="700px" height="350" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>  
+	</div>
 
-<div class="swf">
-<embed width="750px" height="400" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>  
-</div>
 </div>
 
 </div>

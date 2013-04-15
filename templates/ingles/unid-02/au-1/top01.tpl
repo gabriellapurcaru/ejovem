@@ -6,25 +6,22 @@
 <h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 
 <div id="center">
-<div id="box-introducao">
-<div id="img-person">
-    <img src="../../../imgs/e12.png"/>
-</div>
+	
+	<div id="box-introducao">
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<p><b>Olá a todos!</b> Nessa unidade você poderá aprender entre outros aspectos, como se apresentar a outra pessoa, perguntar pelo nome de alguém, o uso adequado de pronomes pessoais do caso reto e de tratamento, os tempos simples do verbo to be, expressões idiomáticas e de saudações e de despedida. Vamos ver o vídeo?</p>		
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
+		</div>
 
-<div id="texto">
-<p><b>Olá a todos!</b></p>
-
-<p>Cortesia e boas maneiras são a essência da boa educação. O desenvolvimento de um bom relacionamento depende, sobremaneira, do nosso comportamento social. Assim, devemos ser corteses, tanto em sociedade quanto no lar e zelarmos por uma convivência agradável a partir da apresentação pessoal e da maneira de cumprimentar aquele com quem se fala. </p>
-
-<p>Nesse sentido, nessa unidade você poderá aprender entre outros aspectos, como se apresentar a outra pessoa, perguntar pelo nome de alguém, o uso adequado de pronomes pessoais do caso reto e de tratamento, os tempos simples do verbo to be, expressões idiomáticas e de saudações e de despedida.</p>
-
-<p>Para o bom aprendizado do conteúdo, no decorrer das lições, serão apresentados exercícios de fixação e de revisão. Bons estudos!</p>
-
-<p><b>Let's go!</b></p>
-
-</div>
-</div>
-
+		<div id="texto">
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+	
 </div>
 </div>
 {barra_tools}

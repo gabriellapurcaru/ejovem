@@ -1,4 +1,4 @@
-{topo}
+W{topo}
 {tituloAula}
 {menu}
 
@@ -15,7 +15,7 @@
       	
 	<div id="atividade">
 		<div class="swf">  
-		 <embed height="400px" width="650px" name="plugin" name="wmode" wmode="transparent"  src="swf/atividade01.swf" type="application/x-shockwave-flash" />
+		 <embed height="350px" width="600px" name="plugin" name="wmode" wmode="transparent"  src="swf/atividade01.swf" type="application/x-shockwave-flash" />
 		</div>
 	</div>
 	

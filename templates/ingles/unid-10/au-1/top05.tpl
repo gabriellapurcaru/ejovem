@@ -18,8 +18,7 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            <object type="application/x-shockwave-flash" style="width:400px;height:250px;"
-            data="http://www.youtube.com/watch?v=9nNXSlDsdro"><param name="movie" value="http://www.youtube.com/watch?v=9nNXSlDsdro" /><param name="wmode" value="transparent" /></object>
+            <iframe width="400" height="250" src="http://www.youtube.com/embed/9nNXSlDsdro" frameborder="0" allowfullscreen></iframe>
         </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">
@@ -33,7 +32,7 @@
 {barra_tools}
 <div id="navegacao">
 	<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-		<span>Página 5 de 11</span>
+		<span>Página 5 de 13</span>
 	<a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 {rodape}

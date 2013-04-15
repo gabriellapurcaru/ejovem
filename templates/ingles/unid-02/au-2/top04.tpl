@@ -20,24 +20,24 @@
 <tdead>
 <tr>
 <td><a href="#" title="Você lembra o que me prometeu ontem?">Do you remember what you promised me last night?</a></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 <td><a href="#" title="Não, o senhor poderia me lembrar, por favor?">No Sir, could you remember me, please?</a></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
 <td><a href="#" title="Sr. Antonio Ferreira">Mr. Antonio Ferreira</a></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 <td><a href="#" title="Sra. Maria Nunes">Mrs. Maria Nunes</a></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 
 <tr>
 <td><a href="#" title="Srta. Carla Teixeira">Miss. Carla Teixeira</a></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=af05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 </tdead>
 </table>

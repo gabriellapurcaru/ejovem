@@ -1,20 +1,24 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<div id="meio">
+<h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
 
-	<div id="atividade">
-		<p>Agora vamos fazer a atividade<br>QUIZ!**</p>
-		</div>
+	<div id="box-atividade">
+	<div class="ba-esq">
+	    <div class="ba-balao">
+	        <p>Vamos testar seus conhecimentos nas cores? </p>
+			<p>Escolha a atividade colors  e acerte os balões para passar para a próxima fase, e preste atenção na pronuncia do audio.</p>
+		<p><a href="http://www.vedoque.com/juegos/vocabulary.swf?idioma=es" target="_blank">Clique aqui para ir para a atividade</a>
+	    </div>
+	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+	</div>
+	</div>
+
 	
-
 </div>
-
-
-
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

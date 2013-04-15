@@ -2,28 +2,16 @@
 {tituloAula}
 {menu}
 <div id="meio">
-<h3><a href="#" title="Conclusão">Conclusion</a></h3>
+<h3><a href="#" title="O que não usar!">What not to wear!</a></h3>
 <div id="center">
-
-	<div id="box-center-conclusao">
-	    <div id="box-esq">
-	        <div class="box-person">
-				<embed width="300" height="450" type="application/x-shockwave-flash" src="../../../swf/s01.swf" wmode="transparent" name="wmode">
-	        </div>
-	    </div>
-	    <div id="box-dir">
-		<div id="texto">
-		<p>Não foi nada difícil, não é mesmo? Não esqueça de revisar o conteúdo para estar prontinho para a próxima aula.</p> <p><span class="label label-info"><a href="#" title="Nos vemos na próxima aula!">See you next class!</a></span></p>
-
-		</div>
-	    </div>
-	</div>
+<h5>Como você se vestiria para uma entrevista de emprego? Ou para ir a praia? A seguir assinale se a minha roupa está de acordo com o ambiente ou não e verifique como poderia ser a resposta!</h5>
+	
 </div>
-
 </div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 10 de 10</span>		
+			<span>Página 10 de 13</span>	
+		<a href="top11.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>		
 	</div>
 {rodape}

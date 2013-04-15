@@ -4,6 +4,7 @@
 <div id="meio">
 <h3><a href="#" title="Conclusão">Conclusion</a></h3>
 <div id="center">
+
 	<div id="box-center-conclusao">
 	    <div id="box-esq">
 	        <div class="box-person">
@@ -12,11 +13,13 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Você já pode ir ao restaurante e pedir sua comida favorita! Nessa lição aprendemos sobre cardápio e como fazemos pedidos em inglês na próxima lição aprendemos sobre <span class="label label-info"><a class="" href="#" title="comida brasileira">brazilian food</a></span>.</p>
+		<p>Uma revisão de matéria sempre cai bem! Este é um conteúdo importante. Dê uma olhada nas lições passadas para que tudo fique bem compreendido.</p>
 		<p><span class="label label-info"><a class="" href="#" title="Vejo você próxima aula">See you next class!</a></span></p>
 		</div>
 	    </div>
 	</div>
+
+</div>	
 </div>
 {barra_tools}
 	<div id="navegacao">

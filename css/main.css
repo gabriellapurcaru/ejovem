@@ -89,6 +89,20 @@ border: 1px solid #d4d4d4;
 -webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.065);
 box-shadow: 0 1px 4px rgba(0,0,0,0.065);}
 
+div#links_menu .link-voltar{
+	float: left;
+	padding: 2px;
+	margin-right: 5px;
+	background: #fff;
+	border: 1px solid #d4d4d4;
+	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.065);
+	box-shadow: 0 1px 4px rgba(0,0,0,0.065);	
+	width: 42px;
+	padding-top: 5px;
+	height: 22px;
+}
+
+
 div#corpo-box-menu-conteudo{float: left;margin: 10px -1px 0 0px;}
 div#corpo-box-menu-atividades{float: left;margin: 58px -1px 0 0px;}
 
@@ -109,7 +123,7 @@ div#menu ul li a:hover{color:#fff;text-decoration:underline;}
 div#conteudo #meio #menu-navegacao h3{float:left;}
 div#conteudo #meio #menu-navegacao #navegacao{float:right;font-size:11px;}
         
-div#conteudo #meio{background: #FFFFFF;float: right;padding:0px ; text-align: center;width:788px;height: 598px;overflow-x: auto;}
+div#conteudo #meio{background: #FFFFFF;float: right;padding:0px ; text-align: center;width:788px;height: 560px;overflow-x: auto;}
 div#conteudo #meio .legenda{font-size:10px; font-style:italic; padding: 0 0 0 30px;}
 div.panel,p.flip {margin:0 0 10px;padding: 2px 10px;text-align:center;float:left; width:98%;background:url("../imgs/bg.png") repeat-x;border-radius: 5px 5px 5px 5px;border:solid 1px #c3c3c3;text-align:justify;cursor:pointer;color:#fff;}
 div.panel{display:none;color:#000;background:#fff;}
@@ -327,8 +341,8 @@ div#box-explicacao-texto{border: 1px solid #A8B35D;box-shadow: 2px 2px #C6CCCF;f
 div#box-explicacao-tabela-left p{margin:3px 0px;}
 /* Atividade */
 
-div#center{height: 469px;margin: 0 auto;padding-top:24px; text-align: left;width: 770px;}
-.swf{text-align:center;padding:10px 0px;}
+div#center{height: 469px;margin: 0 auto; text-align: left;width: 770px;}
+.swf{text-align: center;padding: 10px 0px;width: 660px;margin: 0 auto;}
 div#box-esquerda{float: left;width: 300px;}
 div#box-direita{float:right;width: 450px}
 
@@ -390,7 +404,7 @@ div#boxDialogo .areaTexto{    background: none repeat scroll 0 0 #FFFFFF;
 /* Box Introdução */
 div#box-introducao{float: left;font-size: 13px;width: 100%;height: 450px;}
 div#box-introducao #img-person{float: left;padding: 5px;width: 200px;height: 450px;}
-div#box-introducao #texto{background: url("../imgs/bdy-diagolo.png") repeat-x scroll 0 0 #F2F4F5;border: 1px solid #DDDDDD;box-shadow: 2px 2px #C6CCCF;float: right;padding: 5px;width: 440px;}
+div#box-introducao #texto{background: url("../imgs/bdy-diagolo.png") repeat-x scroll 0 0 #F2F4F5;border: 1px solid #DDDDDD;box-shadow: 2px 2px #C6CCCF;float: right;padding: 5px;width: 418px;}
 
 /*Fala Personagem com Imagem*/
 
@@ -426,7 +440,7 @@ div#box-center-video div#box-dir{width:250px;float: left;margin-left: 5px;}
 div#box-center-video div#box-esq{width:440px;float: right;text-align: center;}
 div#box-center-video div#box-dir div#balao-azul{border: 1px solid #b8d3e0;color: #333333;margin: 0 auto;padding: 0 10px;width: 290px;text-align: left;min-height: 110px;background:#fff;}
 div#box-center-video div#box-dir div#person{text-align:center;margin:-2px;}
-div#box-video-esq-video{border: 1px solid #DDDDDD;height: 300px;width: 400px;height: 250px;width: 400px;background: #F7F9E1;padding: 5px;}
+div#box-video-esq-video{border: 1px solid #DDDDDD;height: 250px;width: 400px;background: #F7F9E1;padding: 5px;}
 
 
 /* Box Learn More*/
@@ -469,7 +483,7 @@ div#box-center-conclusao div#box-dir #texto{background: url("../imgs/bdy-diagolo
 div#vocabulario #box-esquerdo table {float: left;width: 250px;}
 div#vocabulario #box-dir table {float: right;width: 250px;}
 
-div#rede{background-color: #2C2C2C;border: 1px solid #000000;color: #FFFFFF;float: left;width: 100%;}
+div#rede{background-color: #2C2C2C;border: 1px solid #000000;color: #FFFFFF;float: left;width: 760px;margin: 0px 5px;}
 div#rede .foto_bia{border: 1px solid #FFFFFF;float: left;height: 57px;width: 60px;}
 div#rede .bia_texto{float: right;width:675px;}
 div#rede .bia_texto p.bia_diz{font-weight: normal;}

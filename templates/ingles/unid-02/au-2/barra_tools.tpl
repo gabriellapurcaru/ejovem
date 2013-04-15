@@ -23,5 +23,8 @@
 		<div class="link">
 			<a href="conheca-mais.php" data-toggle="tooltip" title="Saiba Mais"><img src="../../../imgs/icone-saibamais.png"></a>
 		</div>
+		<div class="link-voltar">
+			<a href="javascript:window.history.go(-1)" class="links">Voltar</a>
+		</div>
 	</div>
 

@@ -1,6 +1,8 @@
 ﻿{topo}
 {tituloAula}
 {menu}
+
+<div id="meio">
 <h3><a href="#" title="Conclusão">Conclusion</a></h3>
 
 <div id="center">

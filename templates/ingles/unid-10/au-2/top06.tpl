@@ -2,12 +2,14 @@
 {tituloAula}
 {menu}
 
+<div id="meio">
 <h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
 
-Animação!****
+	<h5>Veja o dialogo abaixo:</h5>
+	<img src="img/e01.png"/>
 
-
+</div>
 </div>
 {barra_tools}
 	<div id="navegacao">		

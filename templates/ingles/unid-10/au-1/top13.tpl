@@ -13,7 +13,7 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Não foi nada difícil, não é mesmo? Não esqueça de revisar o conteúdo para estar prontinho para a próxima aula.</p> <p><span class="label label-info"><a href="#" title="Nos vemos na próxima aula!">See you next class!</a></span></p>
+		<p>Pronto, pessoal! Agora você já sabe falar sobre o vestuário básico em Inglês, reforçando também o uso da terceira pessoa. Mas, sempre há espaço para mais. O processo de aprendizado nunca está totalmente terminado.</p> <p><span class="label label-info"><a href="#" title="Nos vemos na próxima aula!">See you next class!</a></span></p>
 
 		</div>
 	    </div>
@@ -23,7 +23,7 @@
 </div>
 {barra_tools}
 	<div id="navegacao">
-		<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 10 de 10</span>		
+		<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+			<span>Página 13 de 13</span>		
 	</div>
 {rodape}

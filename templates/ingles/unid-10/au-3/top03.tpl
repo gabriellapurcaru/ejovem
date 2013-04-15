@@ -1,14 +1,21 @@
 ﻿{topo}
 {tituloAula}
 {menu}
+
 <div id="meio">
 <h3><a href="#" title="Conhecendo a comida brasileira">Knowing the Brazilian food</a></h3>
-	<div id="center">
-	<div class="swf">
-<h6>Clique na seta para continuar vendo a explicação.</h6>
-	<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_03.swf" name="plugin">
-	</div>
-	</div>
+<div id="center">
+		<div id="box-atividade">
+			<div class="ba-esq">
+				<div class="ba-balao">
+	        		<p>Não se esqueça: de 13 a 19, usa-se o “teen” no final!</p>
+					<p>Os números redondos em suas formas decimais (30, 40, 50, e assim vai) terminam em – ty. </p>
+					<p>Tente pronunciá-los em voz alta, evidenciando essa diferença. O som do sufixo “teen” é mais longo e o som de “ty” é curto e pontual!</p>
+				</div>
+	    		<div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+			</div>
+		</div>
+</div>
 </div>	
 
 {barra_tools}

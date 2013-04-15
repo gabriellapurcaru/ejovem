@@ -6,7 +6,8 @@
 <div id="center">
 	<div id="boxDigitacao">
 	    <div class="item">
-	        Vamos dar um passeio no restaurante. Nessa lição, aprenderemos a ler um cardápio e outras úteis!
+	        É hora de relembrarmos alguns tópicos importantes quando falamos sobre roupas, cores, por exemplo! Nessa aula, vamos rever também o caso do possessivo com ‘s.
+			Ready?
 	    </div>
 	</div>
 

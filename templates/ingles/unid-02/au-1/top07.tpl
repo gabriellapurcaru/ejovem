@@ -23,7 +23,7 @@
 </div>
 
 <div class="swf">
-	<embed width="550px" height="400" type="application/x-shockwave-flash" src="swf/pronomes_pessoais.swf" wmode="transparent" name="wmode"/>   
+	<embed width="530px" height="380" type="application/x-shockwave-flash" src="swf/pronomes_pessoais.swf" wmode="transparent" name="wmode"/>   
 </div>
 	
 </div>
