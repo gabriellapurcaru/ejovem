@@ -1,7 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
 
@@ -38,11 +38,11 @@ S&#x00E3;o Paulo is the <span class="GapSpan" id="GapSpan0"><input type="text" i
 <div class="FeedbackText" id="FeedbackContent"></div>
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
+</div>
 
 	
 </div>
-	
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
