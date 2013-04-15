@@ -1,7 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
 
@@ -11,10 +11,7 @@
 	
 
 </div>
-
-
-
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

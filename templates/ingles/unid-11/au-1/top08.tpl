@@ -1,13 +1,13 @@
 ﻿{topo}
 {tituloAula}
 {menu}
+<div id="meio">
 <h3>Faltou o Título!*** E a atividade.</h3>
 <div id="center">
 Animação *Calorias*
 
 </div>
-
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

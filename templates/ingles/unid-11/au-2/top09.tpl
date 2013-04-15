@@ -5,8 +5,7 @@
 <h3><a href="#" title="Saiba Mais">Learn More</a></h3>
 <div id="center">
 
-<div id="box-center-saiba-mais">
-
+	<div id="box-center-saiba-mais">
     <div id="box-esq">
         <div class="box-person-sem-texto">
                 <img src="../../../imgs/e13.png"/>
@@ -19,6 +18,8 @@
 para ampliar seus conhecimentos!</p>
       </div>
     </div>
+	</div>
+
 </div>
 </div>
 {barra_tools}

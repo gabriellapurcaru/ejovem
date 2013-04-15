@@ -1,6 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
+<div id="meio">
 <h3><a href="#" title="Considerações Iniciais">Initial Considerations</a></h3>
 <div id="center">
 
@@ -20,7 +21,8 @@ Preparados? Vamos nós, rumo ao saber!
 	</div>
 	</div>
 
-
+</div>
+</div>
 {barra_tools}
 	<div id="navegacao">		
 			<span>Página 1 de 7</span>
