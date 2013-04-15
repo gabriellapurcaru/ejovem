@@ -1,29 +1,18 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
 <div id="meio">
-<h3><a href="#" title="Saiba Mais!">Learn More!</a></h3>
+<h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
-
-<div id="box-center-saiba-mais">
-    	<div id="box-esq">
-
-        <div class="box-person-sem-texto">
-                <img src="../../../imgs/e13.png"/>
-        </div>
-    	</div>
-    	<div id="box-dir">
-        <div id="box-dir-explicacao">
-	       <p>Vá a sessão <a href="vocabulario.php">Vocabulário</a> para ampliar seus conhecimentos!</p>
-        </div>
-    	</div>
+	<div class="swf">
+		<embed width="600" height="450" type="application/x-shockwave-flash" name="wmode" wmode="transparent"  src="swf/s01.swf" name="plugin"> 
 	</div>
-
+</div>
+</div>
 {barra_tools}
 	<div id="navegacao">		
 	    <a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 6 de 7</span>
+			<span>Página 6 de 8</span>
 		<a href="top07.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 	</div>
 {rodape}
