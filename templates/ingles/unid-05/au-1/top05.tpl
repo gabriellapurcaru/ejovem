@@ -88,11 +88,11 @@
 </tr>
 
 <tr>
-<td><img src="img/img_atividadeprofissoes/img09.jpg" height="100px" width="80px"></td>
+<td><img src="img/img_atividadeprofissoes/img09.jpg" height="80px" width="70px"></td>
 
 <td><img src="img/img_atividadeprofissoes/img10.jpg" height="180px" width="100px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img11.gif" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img11.gif" height="90px" width="80px"></td>
 
 <td><img src="img/img_atividadeprofissoes/img12.jpg" height="180px" width="100px"></td>
 
@@ -119,7 +119,7 @@
 <tr>
 <td><img src="img/img_atividadeprofissoes/img13.gif" height="180px" width="100px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img14.gif" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img14.gif" height="90px" width="80px"></td>
 
 </tr>
 
