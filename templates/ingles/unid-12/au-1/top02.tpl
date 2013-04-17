@@ -24,9 +24,9 @@ Antes de ir para a aula seguinte, vamos lembrar o que vimos na Unidade 11? </a><
 		<p>Agora vamos fazer a atividade</p>
 	</div>
 </div>
+
 </div>
-
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

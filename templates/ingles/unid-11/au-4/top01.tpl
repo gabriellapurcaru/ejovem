@@ -1,7 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 <div id="center">
 <div id="boxDigitacao">
@@ -21,7 +21,8 @@ Iremos ver nessa aula sobre comidas típicas.
 	</div>
 	</div>
 
-
+</div>
+</div>
 {barra_tools}
 
 <div id="navegacao">
