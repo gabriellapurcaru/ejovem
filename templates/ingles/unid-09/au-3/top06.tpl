@@ -1,4 +1,4 @@
-﻿{topo}
+﻿3,{topo}
 {tituloAula}
 {menu}
 
@@ -7,7 +7,7 @@
 <div id="center">
 
 	
-<h6>Complete com os verbos no tempo correto.</h6>
+<h6 style="margin-left:10px;">Complete com os verbos no tempo correto.</h6>
 	
 <script src="js/atividade_top06.js" type="text/javascript"></script></head>
 
@@ -30,7 +30,7 @@
 
 <div id="box-esquerda" style="margin-left:10px;">
 <div id="atividade">
-<br />I <span class="GapSpan" id="GapSpan0"><input style="width:100px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
+I <span class="GapSpan" id="GapSpan0"><input style="width:100px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
 (to be PAST SIMPLE) five and he <span class="GapSpan" id="GapSpan1"><input style="width:100px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
 (to be PAST SIMPLE) six,
 
@@ -66,7 +66,7 @@ Seasons <span class="GapSpan" id="GapSpan8"><input style="width:100px;" type="te
 
 when I <span class="GapSpan" id="GapSpan10"><input style="width:100px;" type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> (grow up PAST SIMPLE) I <span class="GapSpan" id="GapSpan11"><input style="width:100px;" type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (call PAST SIMPLE)him mine.
 <br />
-He would always laugh and say,<br />remember when we used to play.<br /><br />
+He would always laugh and say,<br />remember when we used to play.
 </div>
 </div>
 
@@ -85,7 +85,9 @@ just for me the churchbells <span class="GapSpan" id="GapSpan15"><input style="w
 <br /><h5>Chorus</h5>
 
 Answer: MIND CAPITAL LETTERS AND PUNCTUATION.<br />How old was she? <span class="GapSpan" id="GapSpan19"><input  style="width:100px;" type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> <br />How old was he? <br />What colour did she wear? <br />Did she always win? <br />Did they used to play when they were young? <br />Did they get married? <br />Did he stay?<br />Did he go away?<br />Was he a good husband? <br />Did he say good-bye?<br />Did he take the time to lie? 
+</div>
 
+</div>
 
 
 </form>
@@ -93,13 +95,11 @@ Answer: MIND CAPITAL LETTERS AND PUNCTUATION.<br />How old was she? <span class=
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+<button style="margin-left:610px;" id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
 <button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-</div>
 
-</div>
 
 
 
