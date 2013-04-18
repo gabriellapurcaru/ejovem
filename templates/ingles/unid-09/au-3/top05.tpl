@@ -13,7 +13,7 @@
         <img src="../../../imgs/e17.png">
     </div>
 </div>
-	<div id="box-direita">
+	<div id="box-direita" style="margin-top:10px;">
 		<table class="table table-bordered" border="0px">
 		<tbody>
 <tr>
