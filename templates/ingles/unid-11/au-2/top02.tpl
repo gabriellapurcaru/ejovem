@@ -17,7 +17,7 @@
 <div id="box-direita">
 
 
-<embed width="500" height="400" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_top02.swf" name="plugin">
+<embed width="450" height="400" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_top02.swf" name="plugin">
 	
 
 

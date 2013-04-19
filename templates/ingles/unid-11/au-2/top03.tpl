@@ -6,7 +6,10 @@
 <div id="center">
 
 	<div id="atividade">
-		<p>Agora vamos fazer a atividade<br>QUIZ!**</p>
+
+
+
+
 		</div>
 	
 
