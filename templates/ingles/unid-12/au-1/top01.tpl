@@ -4,21 +4,26 @@
 <div id="meio">
 <h3><a href="#" title="Considerações Iniciais">Inicial Considerations</a></h3>
 <div id="center">
+	
 	<div id="box-introducao">
-	<div id="img-person">
-	    	<img src="../../../imgs/e12.png"/>
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<p><b>Olá a todos!</b> 
+						Como vocês já devem ter percebido, o estudo de uma língua envolve
+						   também o estudo de uma cultura. Então, façamos uma ponte entre o Brasil
+						   e os países anglófonos. Ficou curioso, então veja o vídeo antes de começarmos.
+					</p>		
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
 		</div>
 
 		<div id="texto">
-	<p><b>Olá!</b></p> 
-			   <p>Como vocês já devem ter percebido, o estudo de uma língua envolve
-			   também o estudo de uma cultura. Então, façamos uma ponte entre o Brasil
-			   e os países anglófonos (aqueles países que têm o Inglês como língua oficial) e
-			   misturar um pouco o estudo do Inglês com Geografia e conhecimentos sobre nosso país?
-	<p> Ninguém nos segura mais! Pra frente, Brasil! </p>
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
 
-		</div>
-		</div>
 
 </div>
 </div>
