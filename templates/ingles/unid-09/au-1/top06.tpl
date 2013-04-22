@@ -9,7 +9,8 @@
 <div id="box-exemplo">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Como se forma o passado dos verbos em Inglês? Será que é tao complicado? Boa notícia: em Inglês, frases no passado são bem mais simples. Veja:</p>
+        <p>Como se forma o passado dos verbos em Inglês? Será que é tão complicado?</p> 
+		<p>Boa notícia: em Inglês, frases no passado são bem mais simples. Veja os exemplos ao lado:</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e05.png"></div>
 </div>

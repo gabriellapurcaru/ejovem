@@ -6,24 +6,24 @@
 <h3><a href="#" title="Considerações Iniciais">Initial Considerations</a></h3>
 
 <div id="center">
-<div id="box-introducao">
-<div id="img-person">
-    <img src="../../../imgs/e12.png"/>
-</div>
+	
+	<div id="box-introducao">
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<p>Você gosta de rotina? Normalmente fazemos as mesmas coisas todos os dias, pois a doma rotina sempre estará conosco. </p>
+					<p>Então, vamos aprender a lidar com ela também em inglês! </p>
+					
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
+		</div>
 
-<div id="texto">
-<p><b>Olá a todos!</b></p>
-
-<p>Geralmente não gostamos de rotina, mas se pensarmos bem, não temos como fugir dela. Acordamos, tomamos café, escovamos os dentes, nos arrumamos, vamos para a escola ou para o trabalho, pegamos o ônibus, a carona, a bicicleta, estudamos, trabalhamos, retornamos às nossas casas, comemos, interagimos com familiares e amigos, assistimos televisão, usamos o computador, vamos dormir e tudo começa novamente. </p>
-
-<p>Nos fins de semana, a coisa muda um pouco, mas parte das atividades listadas acima ainda se repete. Felizmente temos a chance de ir à praia, ao shopping, comer fora e ficar mais tempo com as pessoas que amamos. Mas a dona rotina sempre estará conosco. </p>
-
-<p>Então, vamos aprender a lidar com ela também em inglês! </p>
-<p><b>Let's go!</b></p>
-
-</div>
-</div>
-
+		<div id="texto">
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/_jkcYuqH9YM" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+	
 </div>
 </div>
 {barra_tools}

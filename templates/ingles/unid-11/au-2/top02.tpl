@@ -4,26 +4,10 @@
 <div id="meio">
 <h3><a href="#" title="Recordando!">Brush up!</a></h3>
 <div id="center">
-
-
-<div id="box-esquerda">	
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Veja o cardápio e responda as questões a seguir!</p>
-    </div>
-    <div class="ba-img"><img src="../../../imgs/e05.png"></div>
-</div>
-</div>
-<div id="box-direita">
-
-
-<embed width="450" height="400" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_top02.swf" name="plugin">
-	
-
-
-</div>
-<!-- Exemplo -->
-	
+<div class="swf"> 
+<h6>Veja o cardápio e responda as questões a seguir!</h6>
+<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao_top02.swf" name="plugin">
+</div>	
 </div>
 </div>
 

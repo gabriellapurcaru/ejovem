@@ -2,6 +2,7 @@
 {tituloAula}
 {menu}
 
+<div id="meio">
 <h3><a href="#" title="Saiba mais">Learn More</a></h3>
 <div id="center">
 
@@ -44,7 +45,7 @@
 
 <h6>Praticando sobre comidas e bebidas – 10: “My breakfast”: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=1139" target="_blank" title="Comidas e bebidas">Veja aqui.</a></span></h6>
 
-<h6>Praticando sobre comidas e bebidas – 11: Fast food goes organic: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=2162" target="_blank" title="Comidas e bebidas">Veja aqui.</a></span></h6>
+<h6>Praticando sobre comidas e bebidas n 11: Fast food goes organic: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=2162" target="_blank" title="Comidas e bebidas">Veja aqui.</a></span></h6>
 
 
 <h6>Praticando sobre comidas e bebidas – 12: Vegetables: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=2391" target="_blank" title="Comidas e bebidas">Veja aqui.</a></span></h6>
@@ -52,12 +53,7 @@
 
 
 
-
-
-{barra_tools}
-
-<div id="navegacao">
-
 </div>
-
+</div>
+{barra_tools}
 {rodape}

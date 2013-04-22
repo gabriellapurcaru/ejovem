@@ -6,27 +6,23 @@
 <h3><a href="#" title="Cosideraçoes iniciais">Initial Considerations</a></h3>
 
 <div id="center">
-<div id="box-introducao">
-<div id="img-person">
-    <img src="../../../imgs/e12.png"/>
-</div>
+	
+	<div id="box-introducao">
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<p><b>Olá!</b> Às vezes pensamos que sabemos pouco, mas aqui vamos pensar e falar sobre nossas muitas habilidades físicas e capacidades de realizar coisas. Conheceremos o verbo "Can" e suas particularidades.</p>
+					<p>Preparados? Assista o vídeo ao lado.</p>
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
+		</div>
 
-<div id="texto">
-<p><b>Olá a todos!</b></p>
-
-<p>Às vezes pensamos que sabemos pouco, mas aqui vamos pensar e falar sobre nossas muitas habilidades físicas e capacidades de realizar coisas.</p>
-
-<p>As habilidades alheias também serão assunto aqui, pois precisamos nos relacionar e saber do potencial das pessoas ao nosso redor também. </p>
-
-<p>Conheceremos o verbo “<b>Can</b>” e suas várias peculiaridades.</p>
-
-<p>É hora de estudar novamente!</p>
-
-<p><b>Let's get started!</b></p>
-
-</div>
-</div>
-
+		<div id="texto">
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/axgCJu5QHwY" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+	
 </div>
 </div>
 {barra_tools}

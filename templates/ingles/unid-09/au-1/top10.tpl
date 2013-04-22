@@ -8,7 +8,8 @@
     
     <div id="box-esquerda">
     <div id="box-explicacao-tabela-texto">
-    <p>Do you know these expressions in the past?</p>
+    <p><a href="#" title="Do you know these expressions in the past?">Você conhece essas expressões do passado? </a></p>
+<p>Vamos aprende a pronuncia-las? Clique no audio para escutar a pronuncia.</p>
     </div>
     <div id="box-explicacao-tabela-img">
         <img src="../../../imgs/e17.png"/>

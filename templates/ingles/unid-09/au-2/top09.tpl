@@ -7,15 +7,26 @@
 <div id="center">
 
 	<div id="atividade">
-	<h6>Observe how to form simple past <font size="4px"><b>yes/no</b></font> question:</h6>
-		<table class="table table-striped" style="margin-left:220px;width:330px;">
-		<tdead>
-	<tr>
-	<td><p><strong>Did</strong> she <strong>watch</strong> a soccer game on TV?</p>
-	<li>Yes, she <strong>did</strong>. She watched a game.</li>
-	<li>No, she <strong>didn't</strong>. She <strong>didn't </strong>watch a game.</li></td></tr>
+		<h6>Observe how to form simple past <font size="4px"><b>yes/no</b></font> question:</h6>
+		<table class="table table-bordered">
+			<tdead>
+				<tr>
+					<td>
+						<strong>Did</strong> she <strong>watch</strong> a soccer game on TV?
+					</td>
+				</tr>
+				<tr>		
+					<td>
+						Yes, she <strong>did</strong>. She watched a game.
+					</td>
+				</tr>
+				<tr>		
+					<td>
+						No, she <strong>didn't</strong>. She <strong>didn't </strong>watch a game.
+					</td>
+				</tr>
 	
-		</thead>
+			</thead>
 		</table>
 	
 	<h6>Agora complete as perguntas do diálogo com a forma correta do passado simples.</h6>
@@ -24,16 +35,6 @@
 	<script src="js/atividade_top09.js" type="text/javascript"></script></head>
 
 <div id="MainDiv" class="StdDiv">
-
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
-
- -->
  
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
