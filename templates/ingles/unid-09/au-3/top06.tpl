@@ -11,7 +11,6 @@
 	
 <script src="js/atividade_top06.js" type="text/javascript"></script></head>
 
-
 <div id="MainDiv" class="StdDiv">
 
 <!-- These top buttons hidden; reveal if required -->
@@ -29,7 +28,8 @@
 <div class="ClozeBody">
 
 <div id="box-esquerda" style="margin-left:10px;">
-<div id="atividade">
+
+<div id="explicacao">
 I <span class="GapSpan" id="GapSpan0"><input style="width:100px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
 (to be PAST SIMPLE) five and he <span class="GapSpan" id="GapSpan1"><input style="width:100px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
 (to be PAST SIMPLE) six,
@@ -67,13 +67,14 @@ Seasons <span class="GapSpan" id="GapSpan8"><input style="width:100px;" type="te
 when I <span class="GapSpan" id="GapSpan10"><input style="width:100px;" type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> (grow up PAST SIMPLE) I <span class="GapSpan" id="GapSpan11"><input style="width:100px;" type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (call PAST SIMPLE)him mine.
 <br />
 He would always laugh and say,<br />remember when we used to play.
+
 </div>
 </div>
 
 
 
 <div id="box-direita" style="width:50%;margin-right:20px;">
-<div id="atividade">
+<div id="explicacao">
 Bang Bang,<br />I <span class="GapSpan" id="GapSpan12"><input style="width:100px;" type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (shoot PAST SIMPLE)you down<br />Bang Bang,<br />You <span class="GapSpan" id="GapSpan13"><input style="width:100px;" type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (hit PAST SIMPLE)the ground<br />Bang Bang,<br />I used to shoot you down.
 
 <br /><br />
@@ -95,10 +96,10 @@ Answer: MIND CAPITAL LETTERS AND PUNCTUATION.<br />How old was she? <span class=
 
 
 
-<button style="margin-left:610px;" id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+<button style="margin-left:600px;margin-top:5px;" id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+<button style="margin-left:2px;margin-top:5px;" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
 
 
 
@@ -109,7 +110,6 @@ Answer: MIND CAPITAL LETTERS AND PUNCTUATION.<br />How old was she? <span class=
 </div>
 
 <!-- FIM ATIVIDADE -->
-
 
 
 </div>
