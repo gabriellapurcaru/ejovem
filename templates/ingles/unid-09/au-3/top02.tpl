@@ -5,10 +5,10 @@
 <div id="meio">
 <h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
-<div id="swf">
-<img src="img/ilustração_top02.png">
-
-</div>
+	
+	<div id="swf">
+		<img src="img/ilustração_top02.png">
+	</div>
 
 </div>
 </div>

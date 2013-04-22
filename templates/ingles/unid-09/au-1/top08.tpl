@@ -9,7 +9,8 @@
 	<div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
-		    <p>Vamos aprofundar seus conhecimentos? Veja o vídeo a seguir e preencha os espaços.</p>
+		    <p>Vamos aprofundar seus conhecimentos? </p>
+			<p>Veja o vídeo a seguir e a seguir preencha os espaços, com a forma correta dos verbos.</p>
 		  </div>
 		  <div id="person">
 		      <img src="../../../imgs/e10.png">
@@ -17,7 +18,7 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            <object type="application/x-shockwave-flash" style="width:400px;height:250px;" data="http://www.youtube.com/v/qKaq3yo-8Oo"><param name="movie" value="http://www.youtube.com/v/qKaq3yo-8Oo" /><param name="wmode" value="transparent" /></object>
+            <iframe width="400" height="250" src="http://www.youtube.com/embed/mW7Xd9xBWvY" frameborder="0" allowfullscreen></iframe>
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">

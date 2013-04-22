@@ -4,9 +4,9 @@
 <div id="meio">
 <h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
-
-Animação!****
-
+	<div class="swf">
+		<img src="img/e04.png"/>
+	</div>
 
 </div>
 </div>

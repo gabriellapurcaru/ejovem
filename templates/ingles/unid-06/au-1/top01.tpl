@@ -6,21 +6,22 @@
 <h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 
 <div id="center">
-<div id="box-introducao">
-<div id="img-person">
-    <img src="../../../imgs/e12.png"/>
-</div>
+	
+	<div id="box-introducao">
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<p><b>Olá!</b> Como você passa seu tempo quando não está estudando ou trabalhando? Vamos aprender sobre passatempos e como expressar nossas preferências? </p>
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
+		</div>
 
-<div id="texto">
-<p><b>Olá a todos!</b></p>
-
-<p>Como você passa seu tempo quando não está estudando ou trabalhando? Os mais ativos, gostam de surfar, jogar bola, ir à praia, mas muitos ficam em casa e querem mesmo é relaxar vendo um bom filme ou ouvindo música. Vamos aprender sobre esses passatempos e como expressar as nossas preferências sobre eles, fazer pergunta sobre a preferência das pessoas ao nosso redor e falar sobre a preferência de nossos amigos conjugando os verbos como aprendemos nas lições passadas. </p>
-
-<p>Vamos começar, então!</p>
-
-</div>
-</div>
-
+		<div id="texto">
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/ijWtELB2MJc" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+	
 </div>
 </div>
 {barra_tools}

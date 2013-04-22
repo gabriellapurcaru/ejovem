@@ -7,19 +7,22 @@
 <div id="center">
 
 	<div id="box-introducao">
-	<div id="img-person">
-	    <img src="../../../imgs/e12.png"/>
-	</div>
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<p><b>Olá a todos!</b> 
+						Essa lição vai dar o que falar! Nosso destino é o mundo dos restaurantes! Gostou? Então veja o vídeo antes de começarmos.
+					</p>		
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
+		</div>
 
-	<div id="texto">
-		<p><b>Olá a todos!</b></p>
-		<p>Essa lição vai dar o que falar! Nosso destino é o mundo dos restaurantes!<br>
-	 Vamos falar dos prazeres da culinária! Focaremos muito no vocabulário que é vasto, importantíssimo, mas bem gostoso! Pratique os diálogos e, no seu dia a dia, tente utilizar as palavras aprendidas para uma melhor e mais rápida fixação. Tem comida e bebida para todos os gostos!
-		<br>Esperamos que sua fome de saber esteja aumentando! </p>
-		<p><b>Let's go!</b></p>
-
+		<div id="texto">
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
+	
 
 </div>
 </div>

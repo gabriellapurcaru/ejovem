@@ -13,8 +13,8 @@
     </div>
     <div id="box-dir">
         <div id="box-dir-explicacao">
-	       <p>Estamos chegando ao fim de mais uma lesson.
-	       <br>Antes de termina-la vá a sessão <a href="vocabulario.php">Vocabulário</a> e aprenda mais uma palavras novas, 
+	       <p>Estamos chegando ao fim de mais uma lesson.</p>
+	       <p>Antes de termina-la vá a sessão <a href="vocabulario.php">Vocabulário</a> e aprenda mais uma palavras novas, 
 para ampliar seus conhecimentos!</p>
       </div>
     </div>

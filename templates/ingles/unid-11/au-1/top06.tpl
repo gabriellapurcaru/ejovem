@@ -6,7 +6,7 @@
 <h3><a href="#" title="Almoço">Lunch</a></h3>
 <div id="center">
 	<div class="swf">
-	<embed width="600" height="420" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/dialogo_lunch.swf" name="plugin">
+		<embed width="700" height="480" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/dialogo_lunch.swf" name="plugin"/> 
 	</div>
 
 </div>

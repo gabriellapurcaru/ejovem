@@ -7,18 +7,21 @@
 <h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 
 <div id="center">
-<div id="box-introducao">
-<div id="img-person">
-    <img src="../../../imgs/e12.png"/>
-</div>
+	<div id="box-introducao">
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<p>Você aprenderá nessa nova Unidade a falar sobre as profissões e aprender mais sobre as frases interrogativas e como fazer perguntas em inglês com a gramática correta.</p>
+					<p>Assista o vídeo introdutório.</p>		
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
+		</div>
 
-<div id="texto">
-	<p><b>Olá a todos!</b></p>
-	<p>Na unidade passada, aprendemos como expressar nossos gostos e gestos, também prendemos sobre família, como são chamados cada membros da nossa família. Aprendemos também sobre os pronomes possessivos.</p>
-	<p>Nesta unidade, falaremos sobre as profissões e vamos aprender mais sobre as frases interrogativas e como fazer perguntas em inglês com a gramática correta.</p>
-	<p><b>Bons estudos!</b></p>
-</div>
-</div>
+		<div id="texto">
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/fX4sG6cpTl8" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
 
 </div>
 </div>

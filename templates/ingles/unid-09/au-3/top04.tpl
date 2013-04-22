@@ -6,9 +6,8 @@
 <h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
 	<div class="swf">
-<h6>Clique na seta para ver o diálogo.</h6>
-		<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_top04.swf" name="plugin">
-
+		<h6>Clique na seta para ver o diálogo.</h6>
+		<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao_top04.swf" name="plugin"> 
 	</div>
 </div>
 </div>

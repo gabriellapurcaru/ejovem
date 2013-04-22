@@ -8,7 +8,8 @@
 	<div id="box-exemplo">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Veja a lista dos verbos.</p>
+        	<p>Os verbos irregulares não seguem a regra de acrescentar – ed para formar o passado, nem obedecem a uma regra específica. Temos que realmente memorizá-los. Comece devagar, mas seja persistente e estudioso.</p>
+			<p> Veja a lista dos verbos ao lado.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e05.png"></div>
 </div>

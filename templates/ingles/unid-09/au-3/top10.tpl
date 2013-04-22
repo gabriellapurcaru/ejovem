@@ -13,7 +13,8 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Você concorda agora com a frase de Confúcio usada no começo da unidade? <i>"Se queres prever o futuro, estuda o passado." Acabamos de analisar o passado. Como você vê o seu futuro agora? Vai ter que estudar mais ou já assimilou tudo: verbo no passado, verbo auxiliar, estrutura da frase, verbos irregulares, etc.? Você merece congratulaões pelo bom trabalho de ter chegado até aqui. Brilhante! Isso pode determinar o seu futuro! Persistência é para os fortes e determinados!</i></p>
+		<p>Você concorda agora com a frase de Confúcio usada no começo da unidade? <i>"Se queres prever o futuro, estuda o passado." </i></p>
+		<p>Acabamos de analisar o passado. Como você vê o seu futuro agora? Vai ter que estudar mais ou já assimilou tudo: verbo no passado, verbo auxiliar, estrutura da frase, verbos irregulares, etc.? Você merece congratulaões pelo bom trabalho de ter chegado até aqui. Brilhante! Isso pode determinar o seu futuro! Persistência é para os fortes e determinados!</p>
 <p><span class="label label-info"><a href="#" title="Nos vemos em breve!">See you soon!</a></span></p>
 
 		</div>
