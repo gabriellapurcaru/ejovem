@@ -6,14 +6,7 @@
 <div id="center">
 
 	<div id="box-atividade">
-<?xml version="1.0"?>
-       <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
-       <html xmlns="http://www.w3.org/1999/xhtml"
-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Camiladuarte."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
-
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<meta name="DC:Creator" content="Camiladuarte" />
-<meta name="DC:Title" content="At the restaurant" />
+<
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
