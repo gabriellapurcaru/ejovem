@@ -2,90 +2,53 @@
 {tituloAula}
 {menu}
 <div id="meio">
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Foco na gramática">Grammar in focus</a></h3>
 <div id="center">
 
-	<div id="box-esquerda">
-	<div id="box-atividade">
-		<div class="ba-esq">
-	   	 <div class="ba-balao">
-	        <p>Associe a palavra em Inglês à palavra correspondente em Português. Preste atenção na semelhança entre o Português e o Inglês: essa dica irá ajudá-lo neste exercício.</p>
-	   	 </div>
-	    	<div class="ba-img"><img src="../../../imgs/e03.png"/></div>
-		</div>
-	</div>
-	</div>
+<div id="box-esquerda">
+    <div id="box-explicacao-tabela-texto">
+    <p>Algumas palavras são importantes em uma conversação entre o garçom e o cliente.</p>
+	<p>
+		Veja ao lado a aplicação de algumas frase e palavras.
+	</p>
+    </div>
+    <div id="box-explicacao-tabela-img">
+        <img src="../../../imgs/e17.png"/>
+    </div>
+</div>
 
 	<div id="box-direita">
+ 		<div id="demo-tabs">
+		<ul>
+		<li><a href="#tabs-1">Waiter</a></li>
+		<li><a href="#tabs-2">Sir</a></li>
+		<li><a href="#tabs-3">Ma'am</a></li>
+		</ul>
 
-	<div id="atividade">
-		<p><script src="js/atividade03.js" type="text/javascript"></script></head>
-
-		<div id="MainDiv" class="StdDiv">
-		<div id="ClozeDiv">
-
-			<table>
-			<tbody>
-
-			<form id="Cloze" method="post" action="" onsubmit="return false;">
-			<div class="ClozeBody">
-			<tr>
-			<td>1.Grilled  </td><td width="40%"></td>
-			<td><span class="GapSpan" id="GapSpan0"><input style="width: 30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-			<td>Cru<br /><br /></td>
-			</tr>
-			<tr>
-			<td>2. Fried  </td><td width="40%"></td>
-			<td><span class="GapSpan" id="GapSpan1"><input style="width: 30px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-			<td>Bem-passado <br /><br /></td>
-			</tr>
-			<tr>
-			<td>3. Cooked </td><td width="40%"></td>
-			<td><span class="GapSpan" id="GapSpan2"><input style="width: 30px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-			<td>Frito<br /><br /></td>
-			</tr>
-			<tr>
-			<td>4. Stir-fried  </td><td width="40%"></td>
-			<td><span class="GapSpan" id="GapSpan3"><input style="width: 30px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-			<td>Grelhado<br /> <br /></td>
-			</tr>
-			<tr>
-			<td>5. Rare  </td><td width="40%"></td>
-			<td><span class="GapSpan" id="GapSpan4"><input style="width: 30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-			<td>Cozido<br /><br /></td>
-			</tr>
-			<tr>
-			<td>6. Medium  </td><td width="40%"></td>
-			<td><span class="GapSpan" id="GapSpan5"><input style="width: 30px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-			<td>Ao ponto<br /> <br /></td>
-			</tr>
-			<tr>
-			<td>7. Well-done  </td><td width="40%"></td>
-			<td><span class="GapSpan" id="GapSpan6"><input style="width: 30px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-			<td>Refogado</td>
-			</tr>
-			</div>
-			</form>
-			</table>
-			</tbody>
-			</div>
-			<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-			<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
+		<div id="tabs-1">
+			<h6><a style="color:#999;" href="#" title="Garçom = Alguém que serve a comida">Waiter = someone who serves the food</a> </h6>
+			<img src="img/e01.png"/>
 		</div>
-		<div class="Feedback" id="FeedbackDiv">
-		<div class="FeedbackText" id="FeedbackContent"></div>
-		<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+
+		<div id="tabs-2">
+			<h6><a style="color:#999;" href="#" title="Usar 'Sir' para um cliente homem">Use “sir” for a male	costumer</a> </h6>
+			<img src="img/e02.png"/>
 		</div>
-		</p>
+
+		<div id="tabs-3">
+			<h6><a style="color:#999;" href="#" title="E 'ma'am' para uma cliente mulher">and “ma’am” for a female one.</a> </h6>
+			<img src="img/e03.png"/>
+		</div>
 	</div>
 	</div>
+
+
 </div>
 </div>
 {barra_tools}
-	<div id="navegacao">
-		<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 4 de 10</span>
-		<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
-	</div>
+<div id="navegacao">
+	<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 4 de 9</span>
+	<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+</div>
 {rodape}
