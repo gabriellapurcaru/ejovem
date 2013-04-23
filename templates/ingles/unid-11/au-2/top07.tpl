@@ -132,6 +132,13 @@ evening - reservation - soup - order - desserts - salad - name - table - bottle 
 </div>
 </form>
 </div>
+<<<<<<< HEAD
+{barra_tools}
+<div id="navegacao">
+	<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 8 de 9</span>
+<a href="top09.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+=======
 
 
 
@@ -141,6 +148,7 @@ evening - reservation - soup - order - desserts - salad - name - table - bottle 
 <button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
 
 
+>>>>>>> origin/master
 </div>
 
 
