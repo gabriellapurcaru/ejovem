@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -10,39 +10,51 @@
 	<tdead>
 	<tr>
 	<td><a href="#" title="abacaxi">Pineapple</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+	
 	<td><a href="#" title="Mamão">Papaya</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
+	
+
 	<tr>
 	<td><a href="#" title="Uva">Grape</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+	
 	<td><a href="#" title="Pepino">Cucumber</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
+	
 	<tr>
 	<td><a href="#" title="Alface">Lettuce</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+	
 	<td><a href="#" title="Cebola">Onion</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
+	
 	<tr>
 	<td><a href="#" title="Alho">Garlic</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+	
 	<td><a href="#" title="Óleo">Oil</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
+	
 	<tr>
 	<td><a href="#" title="Azeite de oliva">Olive oil</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+	
 	<td><a href="#" title="Frequentemente">Frequently</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
+	
 	<tr>
 	<td><a href="#" title="Usualmente">Usually</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+	
 	<td><a href="#" title="Personal">Pessoal</a></td>
-	<td></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 
 	</tdead>
