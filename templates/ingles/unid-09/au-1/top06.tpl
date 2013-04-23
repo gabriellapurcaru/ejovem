@@ -22,21 +22,25 @@
 <tr>
 <td>Trabalhei ontem.</td>
 <th>I worked yesterday.</th>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 
 <tr>
 <td>Você trabalhou ontem.</td>
 <th>You worked yesterday.</th>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 
 <tr>
 <td>Meu irmão trabalhou ontem.</td>
 <th>My brother worked yesterday.</th>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 
 <tr>
 <td>Meus amigos trabalharam ontem.</td>
 <th>My friends worked yesterday.</th>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 
 </thead>

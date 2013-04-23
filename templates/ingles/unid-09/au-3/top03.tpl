@@ -8,8 +8,7 @@
 	<div id="box-exemplo">
 <div class="ba-esq">
     <div class="ba-balao">
-        	<p>Os verbos irregulares não seguem a regra de acrescentar – ed para formar o passado, nem obedecem a uma regra específica. Temos que realmente memorizá-los. Comece devagar, mas seja persistente e estudioso.</p>
-			<p> Veja a lista dos verbos ao lado.</p>
+        	<p> Veja a lista dos verbos ao lado.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e05.png"></div>
 </div>
@@ -53,54 +52,6 @@
 <tr>
 <td>get - <b>got</b></td>
 <td>give - <b>gave</b></td>
-	</tr>
-<tr>
-<td>go - <b>went</b></td>
-<td>have - <b>had</b></td>
-	</tr>
-<tr>
-<td>hear - <b>heard</b></td>
-<td>know - <b>knew</b></td>
-	</tr>
-<tr>
-<td>leave - <b>left</b></td>
-<td>lose - <b>lost</b></td>
-	</tr>
-<tr>
-<td>make - <b>made</b></td>
-<td>meet - <b>met</b></td>
-	</tr>
-<tr>
-<td>pay - <b>paid</b></td>
-<td>put - <b>put</b></td>
-	</tr>
-<tr>
-<td>read - <b>read</b></td>
-<td>ring - <b>rang</b></td>
-	</tr>
-<tr>
-<td>say - <b>said</b></td>
-<td>see - <b>saw</b></td>
-	</tr>
-<tr>
-<td>sell - <b>sold</b></td>
-<td>sit - <b>sit</b></td>
-	</tr>
-<tr>
-<td>sleep - <b>slept</b></td>
-<td>speak - <b>spoke</b></td>
-	</tr>
-<tr>
-<td>stand - <b>stood</b></td>
-<td>take - <b>took</b></td>
-	</tr>
-<tr>
-<td>tell - <b>told</b></td>
-<td>think - <b>thought</b></td>
-	</tr>
-<tr>
-<td>win - <b>won</b></td>
-<td>write - <b>wrote</b></td>
 	</tr>
 
 

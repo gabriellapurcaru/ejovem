@@ -6,7 +6,7 @@
 <h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 <div id="center">
 	<div class="swf">
-		<img src="img/ilustracao_top03.jpg"  width="650" heigth="450" />
+		<img src="img/ilustracao-top03.png"  width="650" heigth="450" />
 
 	</div>
 

@@ -6,8 +6,8 @@
 <h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
 	
-	<div id="swf">
-		<img src="img/ilustração_top02.png">
+	<div class="swf">
+		<img src="img/ilustracao_top02.png" width="650px" height="450px">
 	</div>
 
 </div>

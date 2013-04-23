@@ -20,13 +20,17 @@
 	<table class="table table-striped" style="width:100%;">
 	<tdead>
 		<tr>
-		<td>Carol <b>played</b> basketball last Saturday.</td></tr>
+		<td>Carol <b>played</b> basketball last Saturday.</td>
+</tr>
 		<tr>
-		<td>Jonas <b>liked</b> the party very much.</td></tr>
+		<td>Jonas <b>liked</b> the party very much.</td>
+</tr>
 		<tr>
-		<td>Carla and Sheila <b>danced</b> forró last São João.</td></tr>
+		<td>Carla and Sheila <b>danced</b> forró last São João.</td>
+</tr>
 		<tr>
-		<td>Clovis <b>needed</b> to go to the hospital.</td></tr>
+		<td>Clovis <b>needed</b> to go to the hospital.</td>
+</tr>
 	</thead>	
 	</table>
 	</div>
