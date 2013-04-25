@@ -1,7 +1,7 @@
 {topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Atividades">Activities</a></h3>
 <div id="center">
 
@@ -13,7 +13,7 @@
 <div class="tab-content">
     <div class="tab-pane active" id="tab1">
 
-	<div id="atividade">
+	<div id="atividade" style="margin-left:5px;">
 		<p><a href="#" title="Vamos fazer um exercício sobre São Paulo! Complete o espaço com os adjetivos">Let´s do an exercise about São Paulo! Complete the space with the adjectives.</a></p>
 
 			<script src="js/atividade02.js" type="text/javascript"></script>
@@ -53,7 +53,7 @@ S&#x00E3;o Paulo is the <span class="GapSpan" id="GapSpan0"><input type="text" i
 </div>
 
 </div>
-
+</div>
 </div>
 
 {barra_tools}
