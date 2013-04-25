@@ -1,10 +1,11 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 <div id="center">
 ANiMAÇÃO!
+</div>
 </div>
 {barra_tools}
 	<div id="navegacao">

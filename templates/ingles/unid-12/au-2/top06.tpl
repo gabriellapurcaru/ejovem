@@ -1,6 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
+<div id="meio">
 <h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
 
@@ -13,7 +14,7 @@ See the dialogue and pay attention!</a><br>Espressões que usamos para falar do 
 	</div>
 </div>
 
-
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

@@ -1,7 +1,7 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 <h3><a href="#" title="Leia Mais!">Learn More!</a></h3>
 <div id="center">
 
@@ -17,6 +17,9 @@
 	       <p>Vá a sessão <a href="vocabulario.php">Vocabulário</a> para ampliar seus conhecimentos.</p>
         </div>
     </div>
+</div>
+
+</div>
 </div>
 {barra_tools}
 	<div id="navegacao">
