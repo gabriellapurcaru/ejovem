@@ -22,7 +22,6 @@ Antes de ir para a aula seguinte, vamos lembrar o que vimos na Unidade 11? </a><
 <div id="box-direita">
 	<div id="atividade">
 		
-
 	</div>
 </div>
 

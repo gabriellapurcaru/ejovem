@@ -50,25 +50,23 @@
 </div>
 
 </div>
- 
-<ol class="QuizQuestions" id="Questions" style="margin-top:-20px;margin-left:-10px;">
-<li class="QuizQuestion" id="Q_0" style="display: none;">
-	<div class="QuestionText"></div>
-	<ol class="MSelAnswers">
-		<table>
+<table>
 		<tbody>
 		<tr>
 		<td><img src="img/img_atividade-top02/img01.png" height="70px" width="70px"></td>
 		<td><img src="img/img_atividade-top02/img02.jpg" height="70px" width="70px"></td>
 		<td><img src="img/img_atividade-top02/img03.jpg" height="70px" width="70px"></td>
-		</tr>
-		<tr>
 		<td><img src="img/img_atividade-top02/img04.jpg" height="70px" width="70px"></td>
 		<td><img src="img/img_atividade-top02/img05.png" height="70px" width="70px"></td>
 		<td><img src="img/img_atividade-top02/img06.jpg" height="70px" width="70px"></td>
 		</tr>
 		</tbody>
 		</table>
+ <ol class="QuizQuestions" id="Questions" style="margin-top:-20px;margin-left:-10px;">
+<li class="QuizQuestion" id="Q_0" style="display: none;">
+	<div class="QuestionText"></div>
+	<ol class="MSelAnswers">
+		
 		<li id="Q_0_0"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_0_Chk" class="MSelCheckbox" />Hamburger</div></form></li>
 		<li id="Q_0_1"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_1_Chk" class="MSelCheckbox" />Salsicha</div></form></li>
 		<li id="Q_0_2"><form method="post" action="" onsubmit="return false;"><div><input type="checkbox" id="Q_0_2_Chk" class="MSelCheckbox" />Sweer potatoes</div></form></li>
