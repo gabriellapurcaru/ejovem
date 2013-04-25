@@ -7,7 +7,7 @@
 
 	<div class="swf">
 <h6>Clique na seta para continuar vendo a explicação.</h6>
-<embed width="600" height="450" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao03_top09.swf" name="plugin">
+<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao03_top09.swf" name="plugin">
 
 	</div>	
 </div>

@@ -2,6 +2,7 @@
 {tituloAula}
 {menu}
 
+<div id="meio">
 <h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 <div id="center">
 
@@ -48,6 +49,7 @@
 
 </div>
 
+</div>
 </div>
 
 {barra_tools}

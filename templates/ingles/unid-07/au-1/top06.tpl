@@ -6,10 +6,12 @@
 <h3><a href="#" title="Foco na gramática!">Grammar on focus</a></h3>
 <div id="center">
 
-<p><a href="#" title="Observe the following sentences:">Observe as seguintes frases:</a></p>
-<div class="swf">
-<img src="img/tabela.png"/>
-</div>
+	<div class="swf">
+		<p><a href="#" title="Observe the following sentences:">Observe as seguintes frases:</a></p>
+		
+		<img width="550" height="410" src="img/tabela.png"/>
+	</div>
+
 </div>
 </div>	
 {barra_tools}

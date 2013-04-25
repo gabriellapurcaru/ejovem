@@ -20,9 +20,7 @@
 
 <div id="box-direita">
 <div id="box-explicacao-video-animacao">
-<div class="swf">   
  <img src="img/dialogo.png">
-</div>
 </div>
 </div>
 

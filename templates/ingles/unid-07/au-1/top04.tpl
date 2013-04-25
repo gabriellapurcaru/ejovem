@@ -9,7 +9,7 @@
 <div id="box-esquerda">
 <div id="box-explicacao-tabela">
     <div id="box-explicacao-tabela-texto">
-    <p>Você sabe / tem habilidade para fazer as seguintes atividades?</p>
+    <p>Você sabe ou tem habilidade para fazer as seguintes atividades?</p>
     </div>
     <div id="box-explicacao-tabela-img">
         <img src="../../../imgs/e17.png"/>    

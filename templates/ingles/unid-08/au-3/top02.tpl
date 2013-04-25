@@ -24,27 +24,18 @@ Wednesday and Friday, he has computer class, from 5 to 6. In the evening, he wor
 
 
 <div id="MainDiv" class="StdDiv">
-
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
-
- -->
  
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-<table border="1" cellpadding="1" cellspacing="1"><tbody>
-<tr><td>MONDAY</td><td>TUESDAY</td>
-<td>WEDNESDAY</td>
-<td>THURSDAY</td>
-<td>FRIDAY</td>
-<td>SATURDAY</td>
-<td>SAUNDAY</td>
+<table 	style="text-align: center;"border="1" cellpadding="1" cellspacing="1"><tbody>
+<tr><td><b>MONDAY</b></td>
+<td><b>TUESDAY</b></td>
+<td><b>WEDNESDAY</b></td>
+<td><b>THURSDAY</b></td>
+<td><b>FRIDAY</b></td>
+<td><b>SATURDAY</b></td>
+<td><b>SAUNDAY</b></td>
 </tr>
 
 <tr>
@@ -91,11 +82,7 @@ Wednesday and Friday, he has computer class, from 5 to 6. In the evening, he wor
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
+<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 </div>
 
