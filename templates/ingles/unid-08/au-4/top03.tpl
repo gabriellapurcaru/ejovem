@@ -5,7 +5,6 @@
 <div id="meio">
 <h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
-<div id="box-explicacao-video-animacao">
 <span class="label label-info"><a title="Read the paragraph about Leo’s weekend and complete the boxes with
 his activities." href="#" class="">Leia o parágrafo sobre fim de semana de Leo e preencher os campos com
 suas atividades.</a></span>
@@ -21,20 +20,10 @@ suas atividades.</a></span>
 
 <div id="MainDiv" class="StdDiv">
 
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
-
- -->
- 
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-<table border="1" cellpadding="1" cellspacing="1" align="center" width="85%">
+<table class="table" border="1" cellpadding="1" cellspacing="1" align="center" width="85%">
 <tbody>
 <tr>
 <th align="center">Saturday</th>
@@ -66,10 +55,6 @@ suas atividades.</a></span>
 
 <button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
-
 </div>
 
 
@@ -82,7 +67,6 @@ suas atividades.</a></span>
 <!-- Fim atividade -->
 
 
-</div>
 </div>
 </div>
 {barra_tools}

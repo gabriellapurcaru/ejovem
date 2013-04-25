@@ -17,6 +17,9 @@
 	       <p>Vá a sessão <a href="vocabulario.php">Vocabulário</a> para ampliar seus conhecimentos.</p>
         </div>
     </div>
+	</div>
+
+</div>
 </div>
 
 </div>

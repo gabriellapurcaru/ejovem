@@ -3,7 +3,6 @@
 {menu}
 
 <div id="meio">
-
 <h3><a href="#" title="Cosideraçoes Iniciais">Initial Considerations</a></h3>
 <div id="center">
 

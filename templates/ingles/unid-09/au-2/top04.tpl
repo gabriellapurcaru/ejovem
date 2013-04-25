@@ -67,6 +67,7 @@
 
 	</thead>
 	</table>
+	<h6>Vá a Gramática e veja mais verbos regulares</h6>
 </div>
 </div>
 </div>

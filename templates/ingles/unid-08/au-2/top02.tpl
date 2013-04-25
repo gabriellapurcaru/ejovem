@@ -17,7 +17,7 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            <object type="application/x-shockwave-flash" style="width:400px;height:250px;" data="http://www.youtube.com/watch?v=qe6F2J3_v3U"><param name="movie" value="http://www.youtube.com/watch?v=qe6F2J3_v3U" /><param name="wmode" value="transparent" /></object>
+			<iframe width="400" height="250" src="http://www.youtube.com/embed/qe6F2J3_v3U" frameborder="0" allowfullscreen></iframe>            
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">

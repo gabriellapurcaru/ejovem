@@ -10,10 +10,11 @@ See the dialogue and pay attention!</a><br>Espressões que usamos para falar do 
 
 <div class="swf">
 
-<embed width="600" height="450" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao04_top06.swf" name="plugin">
+<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao04_top06.swf" name="plugin">
 	</div>
 </div>
 
+</div>
 </div>
 {barra_tools}
 	<div id="navegacao">

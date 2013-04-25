@@ -6,6 +6,7 @@
 <h3><a href="#" title="Vamos começar!">Let's get started!</a></h3>
 
 <div id="center">
+
 <div id="boxDigitacao">
     <div class="item">
         Olá! Na aula passada aprendemos a estratégias de leitura que nos auxiliam na leitura e compreensão de texto Nesta lição, veremos que já falamos algumas palavras em inglês cuja similaridade com palavras da língua portuguesa é notória, não necessariamente exprimindo o mesmo significado. São as chamadas palavras cognatas. Lembra?
@@ -20,8 +21,8 @@
     </div>
 </div>    
 </div>
-</div>
 
+</div>
 </div>
 {barra_tools}
 <div id="navegacao">

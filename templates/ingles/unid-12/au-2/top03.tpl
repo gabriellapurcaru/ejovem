@@ -9,7 +9,8 @@
 		atividade
 	
 	
-</div>
+	</div>
+
 </div>
 </div>
 {barra_tools}

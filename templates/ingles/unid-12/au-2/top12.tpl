@@ -18,6 +18,9 @@
 		</div>
       </div>
 	</div>
+	
+	
+</div>
 </div>
 </div>
 {barra_tools}
