@@ -7,7 +7,7 @@
 	<div class="swf">
 <h6>Clique na seta para continuar o diálogo.</h6>
 
-<embed width="600" height="450" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao04_top12.swf" name="plugin">
+<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao04_top12.swf" name="plugin">
 
 	</div>
 </div>
