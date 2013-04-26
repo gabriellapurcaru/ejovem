@@ -1,7 +1,7 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
-
+<div id="meio">
 
 <div id="center">
 <h3><a href="#" title="Vocabulário">Vocabulary</a></h3>
@@ -53,6 +53,8 @@
 </tdead>
 
 </table>
+</div>
+</div>
 	
 {barra_tools}
 

@@ -22,6 +22,7 @@
 	
 </div>
 </div>
+</div>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top11.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
