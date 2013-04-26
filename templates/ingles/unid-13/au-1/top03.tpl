@@ -17,7 +17,7 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            <object type="application/x-shockwave-flash" style="width:400px;height:250px;" data="http://www.youtube.com/v/qKaq3yo-8Oo"><param name="movie" value="http://www.youtube.com/v/qKaq3yo-8Oo" /><param name="wmode" value="transparent" /></object>
+            <object height="250" width="400"><param name="movie" value="https://dl.dropbox.com/u/7626547/Video%20Presentations/locations_and_directions.swf"><p></p><p></p><p></p><p></p><p></p><p><param name="allowFullScreen" value="true"></p><p></p><p></p><p></p><p><param name="allowscriptaccess" value="always"></p><p></p><p></p><p></p><p><embed src="https://dl.dropbox.com/u/7626547/Video%20Presentations/locations_and_directions.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></p></object>
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">
