@@ -15,10 +15,31 @@
 
 <div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique aqui para ver os exemplos<span></div>
 <div class="panel">
-	<p><b>Examples</b><br>
-<li><a href="" title=" Davi trabalha em uma fábrica.">Davi works in a factory.</a></li>
-<li><a href="" title=" Jaime lê muitos livros.">Jaime reads a lot of books.</a></li>
-<li><a href="" title="	Ela escreve e-mails para seus amigos.">She writes e-mails to her friends.</a></li></p>
+<table class="table table-striped">
+<tbody>
+	<tr>
+	<td><b>Examples</b></td>
+</tr>
+<tr>
+<td><a href="" title=" Davi trabalha em uma fábrica.">Davi works in a factory.</a></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+
+</tr>
+
+<tr>
+<td><a href="" title=" Jaime lê muitos livros.">Jaime reads a lot of books.</a></td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+</tr>
+
+<tr>
+<td><a href="" title="	Ela escreve e-mails para seus amigos.">She writes e-mails to her friends.</a></td>
+
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 
