@@ -21,7 +21,10 @@ Antes de ir para a aula seguinte, vamos lembrar o que vimos na Unidade 11? </a><
 
 <div id="box-direita">
 	<div id="atividade">
-		<h5>Faça a atividade que segue no <a href="http://www.elllo.org/english/0501/T512-Akane-Restaurant.html" target="_blank">link</a>.</h5>
+<h6>O que fazer:
+<br />
+Há seis questões para cada segmento de áudio. Tente responder todas as perguntas. Para ouvir o áudio, pressione o botão "play". Se você responder a pergunta corretamente, você pode seguir em frente. Se você não responder corretamente, então você deve ouvir o mesmo áudio de novo! Boa Sorte!	</h6>	
+<h5>Faça a atividade que segue no <a href="http://www.elllo.org/english/0501/T512-Akane-Restaurant.html" target="_blank">link</a>.</h5>
 			</div>
 </div>
 
