@@ -21,8 +21,8 @@ Antes de ir para a aula seguinte, vamos lembrar o que vimos na Unidade 11? </a><
 
 <div id="box-direita">
 	<div id="atividade">
-		
-	</div>
+		<h5>Faça a atividade que segue no <a href="http://www.elllo.org/english/0501/T512-Akane-Restaurant.html" target="_blank">link</a>.</h5>
+			</div>
 </div>
 
 </div>
