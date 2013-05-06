@@ -5,7 +5,7 @@
 <h3><a href="#" title="Conclusão">Conclusion</a></h3>
 	<div id="center">
 		<div class="swf">
-			<img src="img/ilustracao_top07.png" width="600" height="420" align="center">
+			<img src="img/ilustracao_top07.png" width="600" height="420">
 		</div>
 	</div>
 </div>

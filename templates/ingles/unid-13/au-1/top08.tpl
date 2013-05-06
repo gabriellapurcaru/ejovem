@@ -31,14 +31,16 @@
 
 <td width="50%"><h6>What do Gabriela&#x2019;s father and mother do?</td> 
 
-<td><span class="GapSpan" id="GapSpan0"><input style="width:30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> An English teacher. </h6></td>
+<td><span class="GapSpan" id="GapSpan0"><input style="width:30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>An English teacher.</td>
 </tr>
 
 <tr>
 <td>2 - </td>
 <td><h6>What does she want to be in the future?</td>
 
-<td><span class="GapSpan" id="GapSpan1"><input style="width:30px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Because she want a better life for her and for her family.</h6></td>
+<td><span class="GapSpan" id="GapSpan1"><input style="width:30px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Because she want a better life for her and for her family.</td>
 </tr>
 
 <tr>
@@ -46,7 +48,8 @@
 
 <td><h6>Why education important to Gabriela?</td>
 
-<td><span class="GapSpan" id="GapSpan2"><input style="width:30px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> She want to take the University entrance exam, get a part-time job and I study English. </h6></td>
+<td><span class="GapSpan" id="GapSpan2"><input style="width:30px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td> 
+<td>She want to take the University entrance exam, get a part-time job and I study English.</td>
 </tr>
 
 <tr>
@@ -54,14 +57,16 @@
 
 <td><h6>What are her expectations about family?</td>
 
-<td><span class="GapSpan" id="GapSpan3"><input style="width:30px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Her father Is a bus driver and her mother is a maid.</h6></td>
+<td><span class="GapSpan" id="GapSpan3"><input style="width:30px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Her father Is a bus driver and her mother is a maid.</td>
 </tr>
 
 <tr>
 <td>5 - </td>
 <td><h6>What are her main objectives for the next year?</td>
 
-<td><span class="GapSpan" id="GapSpan4"><input style="width:30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> She want to get married and have children.</h6></td>
+<td><span class="GapSpan" id="GapSpan4"><input style="width:30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>She want to get married and have children.</td>
 </tr>
 
 </tbody>
