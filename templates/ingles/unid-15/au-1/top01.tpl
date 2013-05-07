@@ -13,7 +13,7 @@
 	</div>
 
 	<div id="texto">
-<p><b>Olá a todos!</b></p>
+<p><b>a todos!</b></p>
 <p>O Ceará é conhecido nacionalmente pela beleza do seu litoral, pela regionalidade popular e pela imagem de berço de talentos humorísticos. A jangada, ainda comum ao longo da costa, é considerada um dos maiores símbolos do povo e da cultura cearenses. Terra de Rachek de Queiroz, Patativa do Assaré e José de Alencar, o Ceará também descobriu os maiores humoristas do país como Renato Aragão e Chico Anysio, Além do cearense do século, Padre Cícero, e atores famosos como José Wilker, Gero Camilo e Luiza Tomé.</p>
 <p>O Ceará é conhecido como "Terra da Luz", numa referência à grande quantidade de dias ensolarados, mas que também remonta ao fato de o estado ter sido o primeiro da federação a abolir a escravidão, em 1884, quatro anos antes da Lei Áurea. Por esse fato, o jornalista José do Patrocínio apelidou o estado como a "terra da luz".</p>
 <p>Vamos agora aprender a falar um pouco sobre nossa terra em inglês numa marcha paulatina - um passo após  o outro.</p>
