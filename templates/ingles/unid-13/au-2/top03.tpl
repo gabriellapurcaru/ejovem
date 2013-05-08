@@ -4,14 +4,13 @@
 
 
 <div id="meio">
+	<h3><a href="" title="Recordando!">Brush up!</a></h3>
+	<div id="center">
+		<div class="swf">
+			<img src="img/ilustracao_top03.png" height="420" width="600">
+		</div>
 
-<h3><a href="#" title="Faltando">....</a></h3>
-
-
-<div id="center">
-
-
-</div>
+	</div>
 </div>
 
 
