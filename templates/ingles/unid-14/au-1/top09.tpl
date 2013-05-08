@@ -16,39 +16,45 @@
 <div class="ClozeBody">
 <table>
 <tbody>
-<tr>
-<td><img src="img/img_atividade_top09/baiao.png" height="100" width="150"></td>
-<td><span class="GapSpan" id="GapSpan0"><input style="width:30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Pa&#x00E7;oca de carne seca</td>
-</tr>
 
 <tr>
-<td><img src="img/img_atividade_top09/baiao.png" height="100" width="150"></td>
+<td width="20%">1 - <img src="img/img_atividade_top09/tapioca.png" height="100" width="120"></td>
+<td width="40%">2 - <img src="img/img_atividade_top09/baiao.png" height="100" width="120"></td>
+
+<td><span class="GapSpan" id="GapSpan0"><input style="width:20px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Pa&#x00E7;oca de carne seca</td>
+
 <td>
-<span class="GapSpan" id="GapSpan1"><input style="width:30px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Caipirinha de Caju</td>
+<span class="GapSpan" id="GapSpan1"><input style="width:20px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Caipirinha de Caju</td>
+
+
+</tr>
+<tr>
+<td>3 - <img src="img/img_atividade_top09/Peixada.png" height="100" width="120"></td>
+<td>4 - <img src="img/img_atividade_top09/unidade14-aula1-top8-paçoca.png" height="100" width="120"></td>
+
+<td>
+<span class="GapSpan" id="GapSpan2"><input style="width:20px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Peixada Cearense </td>
+
+<td>
+<span class="GapSpan" id="GapSpan3"><input style="width:20px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Tapioca</td>
 </tr>
 
-<tr>
-<td><img src="img/img_atividade_top09/baiao.png" height="100" width="150"></td>
-<td>
-<span class="GapSpan" id="GapSpan2"><input style="width:30px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Peixada Cearense </td>
-</tr>
 
 <tr>
-<td><img src="img/img_atividade_top09/baiao.png" height="100" width="150"></td>
-<td>
-<span class="GapSpan" id="GapSpan3"><input style="width:30px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Tapioca</td>
-</tr>
+<td>5 - <img src="img/img_atividade_top09/caipirinhacaju.png" height="100" width="120"></td>
+<td>6 - <img src="img/img_atividade_top09/unidade14-aula1-top8-carnedosol.png" height="100" width="120"></td>
 
-<tr>
-<td><img src="img/img_atividade_top09/baiao.png" height="100" width="150"></td>
 <td>
-<span class="GapSpan" id="GapSpan4"><input style="width:30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Bai&#x00E3;o de Dois </td>
-</tr>
+<span class="GapSpan" id="GapSpan4"><input style="width:20px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Bai&#x00E3;o de Dois </td>
 
-<tr>
-<td><img src="img/img_atividade_top09/baiao.png" height="100" width="150"></td>
 <td>
-<span class="GapSpan" id="GapSpan5"><input style="width:30px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Carne do Sol</td>
+<span class="GapSpan" id="GapSpan5"><input style="width:20px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Carne do Sol</td>
 </tr>
 
 </tbody>
@@ -59,12 +65,12 @@
 </div>
 
 
-
+<p align="right">
 <button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
 <button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
+</p>
 
 </div>
 
