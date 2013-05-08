@@ -1,57 +1,111 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
 <div id="meio">
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
-<div id="box-exemplo">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p><b>DICA:</b> Ao responder esta questão, não se esqueça de indicar o presente na forma afirmativa da Terceira pessoa! Clique para ver os exemplos.</p>
-    </div>
-    <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
-</div>
 
-<div class="flip"><img src="../../../imgs/e04.png"/> <span>Clique aqui para ver os exemplos<span></div>
-<div class="panel">
-<table class="table table-striped">
+<div id="atividade">
+<h5>Relacione de acordo com o texto:</h5>
+		<script src="js/atividade_top08.js" type="text/javascript"></script></head>
+
+<div id="MainDiv" class="StdDiv">
+
+<!-- These top buttons hidden; reveal if required -->
+<!--
+<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+
+
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+
+
+ -->
+ 
+<div id="ClozeDiv">
+<form id="Cloze" method="post" action="" onsubmit="return false;">
+<div class="ClozeBody">
+<table>
 <tbody>
-	<tr>
-	<td><b>Examples</b></td>
-</tr>
 <tr>
-<td><a href="" title=" Davi trabalha em uma fábrica.">Davi works in a factory.</a></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td width="3%">1 - </td>
 
-</tr>
+<td width="50%"><h6>What do Gabriela&#x2019;s father and mother do?</td> 
 
-<tr>
-<td><a href="" title=" Jaime lê muitos livros.">Jaime reads a lot of books.</a></td>
-
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><span class="GapSpan" id="GapSpan0"><input style="width:30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>An English teacher.</td>
 </tr>
 
 <tr>
-<td><a href="" title="	Ela escreve e-mails para seus amigos.">She writes e-mails to her friends.</a></td>
+<td>2 - </td>
+<td><h6>What does she want to be in the future?</td>
 
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-
+<td><span class="GapSpan" id="GapSpan1"><input style="width:30px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Because she want a better life for her and for her family.</td>
 </tr>
+
+<tr>
+<td>3 - </td>
+
+<td><h6>Why education important to Gabriela?</td>
+
+<td><span class="GapSpan" id="GapSpan2"><input style="width:30px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td> 
+<td>She want to take the University entrance exam, get a part-time job and I study English.</td>
+</tr>
+
+<tr>
+<td>4 - </td>
+
+<td><h6>What are her expectations about family?</td>
+
+<td><span class="GapSpan" id="GapSpan3"><input style="width:30px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>Her father Is a bus driver and her mother is a maid.</td>
+</tr>
+
+<tr>
+<td>5 - </td>
+<td><h6>What are her main objectives for the next year?</td>
+
+<td><span class="GapSpan" id="GapSpan4"><input style="width:30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td>She want to get married and have children.</td>
+</tr>
+
 </tbody>
 </table>
+
 </div>
+</form>
 </div>
 
+
+
+<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+
+
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+
+
+</div>
+
+
+
+<div class="Feedback" id="FeedbackDiv">
+<div class="FeedbackText" id="FeedbackContent"></div>
+<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+</div>
+
+<!-- Fim da atividade -->
+
 	</div>
-</div>	
+
+</div>
+
+</div>
+
 
 {barra_tools}
 <div id="navegacao">
-<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 7 de 18</span>
-<a href="top08.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 7 de 17</span>
+	<a href="top08.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
-</div>
-
 {rodape}
