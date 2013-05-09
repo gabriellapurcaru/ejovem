@@ -7,30 +7,63 @@
 <h3><a href="#" title="Recordando!">Brush up!</a></h3>
 
 <div id="center">
-<div id="box-atividade">
-	<div id="boxDigitacao">
-	    <div class="item">
-	        Before we going to next class, let's remember what we saw on unit 13 about want, would and will? Let's go!!
-		</div>
-	</div>
-
-	<div id="boxDialogo">
-	<div class="box-digitacao">
-	    <div class="areaTexto"></div>
-	    <div id="img-person">
-	        <img src="../../../imgs/personagem_corpo.png"/>
+<div id="box-esquerda">
+	<div id="box-atividade">
+	<div class="ba-esq">
+	    <div class="ba-balao">
+        	<p><a href="#" title="Before we going to next class, let's remember what we saw on unit 14 about typical food?"> Antes de ir para a próxima aula, vamos lembrar o que vimos na unidade 14 sobre comida típica? Vamos lá? </a></p>			                 
 	    </div>
+	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>
 	</div>
+</div>
 
-  </div>
+<div id="box-direita">
+	<div id="atividade">
+		<h6>Olhe as fotos das comidas e associe ao seu nome correto.</h6>
+
+<!-- inicio da atividade -->
+
+<script src="js/atividade_top02.js" type="text/javascript"></script></head>
+
+<div id="MainDiv" class="StdDiv">
+ 
+<div id="ClozeDiv">
+<form id="Cloze" method="post" action="" onsubmit="return false;">
+<div class="ClozeBody">
+1 - Cashew 2 - fruit 3 - Lobster 4 - Green beans 5 - Crab 6 - Cashew nuts<br /><br /><br /><br /><br /><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
+</div>
+</form>
+</div>
+
+
+
+<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+
+
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+
+
+</div>
+
+
+
+<div class="Feedback" id="FeedbackDiv">
+<div class="FeedbackText" id="FeedbackContent"></div>
+<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+</div>
+
+	<!-- fim atividade -->
+
+	</div>
+</div>
 	</div>
 	</div>
 {barra_tools}
 
 <div id="navegacao">
 <a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 2 de 12</span>
+	<span>Página 2 de 11</span>
 <a href="top03.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 
