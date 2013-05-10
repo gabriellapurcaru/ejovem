@@ -1,8 +1,9 @@
-</h2>
+﻿</h2>
 </div>
 </div>
 
 <div id="conteudo">
+<!-- 
 <div id="box-esq">
 
 	<div class="b">	
@@ -47,3 +48,4 @@
 		</div>
 </div>	
 </div>
+-->

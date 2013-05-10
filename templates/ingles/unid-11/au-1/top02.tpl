@@ -45,7 +45,7 @@
 	<ol class="QuizQuestions" id="Questions">
 	
 	<li class="QuizQuestion" id="Q_0" style="display: none;">
-		<div class="QuestionText"><img src="img/img_atividade-top02/dress.png" style="margin-top:30px;margin-left:200px;"></div>
+		<div class="QuestionText"><img src="img/img_atividade-top02/dress.png" style="margin-top:15px;margin-left:200px;" height="160" width="89"></div>
 			<ol class="MCAnswers" style="margin-top:-180px;">
 				<li id="Q_0_0">
 	<button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_0_Btn" onclick="CheckMCAnswer(0,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Dress</li>
@@ -55,7 +55,7 @@
 	
 
 	<li class="QuizQuestion" id="Q_1" style="display: none;">
-		<div class="QuestionText"><img src="img/img_atividade-top02/dress.png" style="margin-top:30px;margin-left:200px;"></div>
+		<div class="QuestionText"><img src="img/img_atividade-top02/top.png" style="margin-top:30px;margin-left:200px;" height="160" width="89"></div>
 			<ol class="MCAnswers" style="margin-top:-180px;">
 				<li id="Q_1_0">
 	<button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_0_Btn" onclick="CheckMCAnswer(1,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;T-Shirt</li>
@@ -73,7 +73,7 @@
 	<button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_2_1_Btn" onclick="CheckMCAnswer(2,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Coat</li></ol></li>
 	
 	<li class="QuizQuestion" id="Q_3" style="display: none;">
-		<div class="QuestionText"><img src="img/img_atividade-top02/dress.png" style="margin-top:30px;margin-left:200px;"></div>
+		<div class="QuestionText"><img src="img/img_atividade-top02/socks.png" style="margin-top:30px;margin-left:200px;"></div>
 			<ol class="MCAnswers" style="margin-top:-180px;">
 				<li id="Q_3_0">
 

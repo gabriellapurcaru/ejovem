@@ -4,21 +4,35 @@
 
 <div id="meio">
 
-<h3><a href="#" title="Introdução">Introduction</a></h3>
-<div id="center">
+	<h3><a href="#" title="Introdução">Introduction</a></h3>
+	<div id="center">
 
-<div id="box-introducao">
-<div id="img-person">
-    	<img src="../../../imgs/e12.png"/>
+		<div id="box-introducao">
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<p>"Eu sou de uma terra que o povo padece, <br />
+Mas não esmorece e procura vencer.<br />
+Da terra querida, que a linda cabocla<br />
+De riso na boca zomba a sofrer<br />
+Não nego meu sangue, não nego meu nome<br />
+Olho para a fome, pergunto o que há?<br />
+Eu sou brasileiro, filho do Nordeste,<br />
+Sou cabra da Peste, sou do Ceará."
+<h6>Patativa do Assaré</h6> 
+						
+						
+					</p>		
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
+		</div>
+
+		<div id="texto">
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
+		</div>
 	</div>
 
-	<div id="texto">
-<p><b>Olá a todos!</b></p>
-<p>Nesta e nas próximas unidades, utilizaremos os tópicos estudados anteriormente com um enfoque bem diferente.</p>
-<p>Vamos falar sobre aspectos do nosso Estado, fazendo uso da Língua Inglesa. Hoje, vamos colocar um pouco mais de tempero nesse idioma falando sobre a nossa cozinha regional.</p>
-<p><b>Vamos lá!</b></p>
-	</div>
-	</div>
 
 	</div>
 </div>
