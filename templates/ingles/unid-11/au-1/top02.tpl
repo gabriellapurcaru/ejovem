@@ -45,7 +45,7 @@
 	<ol class="QuizQuestions" id="Questions">
 	
 	<li class="QuizQuestion" id="Q_0" style="display: none;">
-		<div class="QuestionText"><img src="img/img_atividade-top02/dress.png" style="margin-top:15px;margin-left:200px;" height="160" width="89"></div>
+		<div class="QuestionText"><img src="img/img_atividade-top02/13.png" style="margin-top:15px;margin-left:200px;" height="180" width="180"></div>
 			<ol class="MCAnswers" style="margin-top:-180px;">
 				<li id="Q_0_0">
 	<button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_0_Btn" onclick="CheckMCAnswer(0,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Dress</li>
