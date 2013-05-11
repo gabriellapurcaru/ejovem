@@ -8,10 +8,12 @@
 <h3><a href="#" title="Faltando">....</a></h3>
 
 
-<div id="center">
+	<div id="center">
+		<div class="swf">
+			<img src="img/ilustracao_top03.png" width="600" height="420">
+		</div>
 
-
-</div>
+	</div>
 </div>
 
 
