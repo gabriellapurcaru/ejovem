@@ -116,7 +116,7 @@
 	</p>
 </div>
 
-
+</div>
 </div>
 </div>
 {barra_tools}

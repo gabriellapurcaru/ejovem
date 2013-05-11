@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
+<h3><a href="#" title="Exercitando">Exercising</a></h3>
 	<div id="center">
 		<div class="swf">
 <h6>Clique na seta para continuar lendo o texto.</h6>	

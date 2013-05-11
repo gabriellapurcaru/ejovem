@@ -29,21 +29,43 @@
 <div class="quadro">
 Is there  |  There is  |  Are there  |  There are<br />Is there  |  There isn&#x00B4;t  |  Is there  |  There isn&#x00B4;t
 </div>
-<br />
 
-1. A: <span class="GapSpan" id="GapSpan0"><input style="width:100px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> a University in your neighborhood?<br />
+<table>
+<tbody>
 
-B: Yes, <span class="GapSpan" id="GapSpan1"><input style="width:100px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> one.<br />
+<tr>
+<td width="7%">
+1. </td>
+<td><h6>A: <span class="GapSpan" id="GapSpan0"><input style="width:100px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> a University in your neighborhood?<br />
 
-2. A: <span class="GapSpan" id="GapSpan2"><input style="width:100px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> good beaches in your city?<br />
+B: Yes, <span class="GapSpan" id="GapSpan1"><input style="width:100px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> one.</h6></td>
+</tr>
 
-B: Yes, <span class="GapSpan" id="GapSpan3"><input style="width:100px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="9"></input></span> many good beaches in my city.<br />
+<tr>
+<td>
+2. </td>
+<td><h6>A: <span class="GapSpan" id="GapSpan2"><input style="width:100px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> good beaches in your city?<br />
 
-3. A: <span class="GapSpan" id="GapSpan4"><input style="width:100px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> a department store on this street?<br />
+B: Yes, <span class="GapSpan" id="GapSpan3"><input style="width:100px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="9"></input></span> many good beaches in my city.</h6></td>
+</tr>
 
-B: No,   <span class="GapSpan" id="GapSpan5"><input style="width:100px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="11"></input></span> <br />
+<tr>
+<td>
+3. </td>
+<td><h6>A: <span class="GapSpan" id="GapSpan4"><input style="width:100px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> a department store on this street?<br />
 
-4. A: <span class="GapSpan" id="GapSpan6"><input style="width:100px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> any school near your house?<br />B: No, There isn&#x00B4;t<br />
+B: No,   <span class="GapSpan" id="GapSpan5"><input style="width:100px;" type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="11"></input></span> </h6></td>
+</tr>
+
+<tr>
+<td>
+4. </td>
+<td><h6>A: <span class="GapSpan" id="GapSpan6"><input style="width:100px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> any school near your house?<br />
+B: No, There isn&#x00B4;t</h6></td>
+</tr>
+
+</tbody>
+</table>
 </div>
 </form>
 </div>

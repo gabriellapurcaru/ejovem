@@ -9,7 +9,7 @@
 	<div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">
-        	<p>Para fazer essa atividade, você terá que escultar o audio e depois marcar a opção correta. Vamos lá</p>			                 
+        	<p>Para fazer essa atividade, você terá que escutar o audio e depois marcar a opção correta. Vamos lá</p>			                 
 	    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>
