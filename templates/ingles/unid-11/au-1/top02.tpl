@@ -66,7 +66,7 @@
 	</ol></li>
 	
 	<li class="QuizQuestion" id="Q_2" style="display: none;">
-		<div class="QuestionText"><img src="img/img_atividade-top02/roupas/13.png" style="margin-top:30px;margin-left:200px;" height="180" width="150"></div>
+		<div class="QuestionText"><img src="img/img_atividade-top02/roupas/casaco.png" style="margin-top:30px;margin-left:200px;" height="180" width="150"></div>
 			<ol class="MCAnswers" style="margin-top:-110px;">
 				<li id="Q_2_0">
 	<button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_2_0_Btn" onclick="CheckMCAnswer(2,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Sweater
@@ -110,7 +110,7 @@
 	
 
 	<li class="QuizQuestion" id="Q_8" style="display: none;">
-		<div class="QuestionText"><img src="img/img_atividade-top02/roupas/13.png" style="margin-top:30px;margin-left:200px;" height="180" width="150"></div>
+		<div class="QuestionText"><img src="img/img_atividade-top02/roupas/sweater.png" style="margin-top:30px;margin-left:200px;" height="180" width="150"></div>
 			<ol class="MCAnswers" style="margin-top:-110px;">
 				<li id="Q_8_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_8_0_Btn" onclick="CheckMCAnswer(8,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Sweater</li><li id="Q_8_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_8_1_Btn" onclick="CheckMCAnswer(8,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Jacket</li></ol></li>
 	
