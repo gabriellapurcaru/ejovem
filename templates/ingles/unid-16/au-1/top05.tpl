@@ -4,30 +4,13 @@
 
 
 <div id="meio">
-<h3><a href="#" title="Vamos Começar!">Let's Get Started!</a></h3>
+	<h3><a href="#" title="Vamos Começar!">Let's Get Started!</a></h3>
 
-<div id="center">
-<div id="box-esquerda">
-	<div id="box-atividade">
-	<div class="ba-esq">
-	    <div class="ba-balao">
-        	<p><a href="#" title="DO you know those plates in the dialogue? Look the pictures and try to correct name for each one, use the dictionary if you need.">
-Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto para cada um, use o dicionário se você precisar.</a></p>			                 
-	    </div>
-	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+	<div id="center">
+		
+
+
 	</div>
-	</div>
-</div>
-
-<div id="box-direita">
-	<div id="atividade">
-		<p>Agora vamos fazer a atividade</p>
-	</div>
-</div>
-</div>
-
-
-</div>
 
 </div>
 
