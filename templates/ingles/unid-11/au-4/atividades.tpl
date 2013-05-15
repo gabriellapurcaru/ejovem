@@ -15,8 +15,7 @@
 	</tr></a>	
 		    
 		
-					<div id="InstructionsDiv" class="StdDiv">
-						<div id="Instructions"><script src="atividade01.js" type="text/javascript"></script></head>
+					<script src="atividade01.js" type="text/javascript"></script></head>
 
 
 							<div id="InstructionsDiv" class="StdDiv">
