@@ -3,15 +3,33 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
+	<h3><a href="#" title="Exercitando">Exercising</a></h3>
 
-<div id="center">
-	<div id="atividade">
+		<div id="center">
+			<div id="box-esquerda">
+				<div id="box-atividade">
+					<div class="ba-esq">
+	    					<div class="ba-balao">
+        						<p></p>			                 
+	    					</div>
+	    					<div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+						</div>
+					</div>
+				</div>
 
-		
-	</div>
+			<div id="box-direita">
+			
+				<div id="atividade">
+					<h6>atividade</h6>
+
+
+					<!-- fim atividade -->
+
+				</div>
+			</div>
+		</div>
 </div>
-</div>
+
 {barra_tools}
 <div id="navegacao">
 <a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

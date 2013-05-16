@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
+<h3><a href="#" title="Praticando">Practicing</a></h3>
 
 <div id="center">
 
@@ -11,7 +11,7 @@
 	<div id="box-atividade">
 	<div class="ba-esq">
 	    <div class="ba-balao">
-        	<p><a href="#" title="Before we going to next class, let's remember what we saw on unit 14 about typical food?"> Antes de ir para a próxima aula, vamos lembrar o que vimos na unidade 14 sobre comida típica? Vamos lá? </a></p>			                 
+        	<p></p>			                 
 	    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>

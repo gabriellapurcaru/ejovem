@@ -8,67 +8,37 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr>
-		<th>To roast</th>
-		<td>Torrar </td>
+		<th>Far from</th>
+		<td>Distante de </td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<th>To dry</th>
-		<td>Secar</td>
+		<th>Near</th>
+		<td>Perto</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 	<tr>
-		<th>Thick</th>
-		<td>Grosso;</td>
+		<th>To turn</th>
+		<td>Virar/dobrar</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-		<th>Flavor</th>
-		<td>Sabor</td>
+		<th>Left</th>
+		<td>Esquerda</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>	
 
 	<tr>
-		<th>Pepper</th>
-		<td>Pimenta</td>
+		<th>Right</th>
+		<td>Direita</td>
 		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
 	<tr>
-	<th>Garlic</th>
-	<td>Alho</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+		<th>To remember</th>
+		<td>Lembrar</td>
+		<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 	</tr>
-	<tr>
-	<th>To fry</th>
-	<td>Fritar</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-	<th>To gril</th>
-	<td>Grelhar</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<th>Slice</th>
-	<td>Fatia</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-
-	<tr>
-	<th>Butter</th>
-	<td>Manteiga</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
-	<tr>
-	<th>Filling</th>
-	<td>Recheio</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>	
-	<tr>
-	<th>Onion</th>
-	<td>Cebola</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-	</tr>
+	
 	</thead>
 	</table>
 
