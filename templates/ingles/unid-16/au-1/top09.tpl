@@ -1,23 +1,33 @@
 ﻿{topo}
 {tituloAula}
 {menu}
-
 <div id="meio">
-<h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
-
+<h3><a href="#" title="Saiba Mais!">Learn More!</a></h3>
 <div id="center">
-	<div class="swf">
-<h6>Clique na seta à direita para dar continuação ao diálogo.</h6>
-<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao03_top09.swf" name="plugin">
-		
-	</div>
+
+
+<div id="box-center-saiba-mais">
+    <div id="box-esq">
+
+        <div class="box-person-sem-texto">
+                <img src="../../../imgs/e13.png"/>
+        </div>
+    </div>
+    <div id="box-dir">
+        <div id="box-dir-explicacao">
+	       <p>Aprendemos algumas palavras novas nessa unidade, vamos recapitular?</p>
+		<p>Acesse a parte de <a href="vocabulario.php">Vocabulário </a>e reveja as palavras novas que você aprendeu nesta aula.
+        </div>
+    </div>
 </div>
 </div>
+</div>
+
+
 {barra_tools}
 <div id="navegacao">
-<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 9 de 12</span>
+	<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+		<span>Página 09 de 10</span>
 	<a href="top10.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
-
 {rodape}
