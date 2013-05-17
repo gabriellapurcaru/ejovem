@@ -4,10 +4,10 @@
 
 
 <div id="meio">
-<h3><a href="#" title="Gramática em Foco!">Grammar in Focus</a></h3>
+<h3><a href="#" title="Conhecendo Nosso Ceará">Knowing Our Ceará</a></h3>
 <div id="center">
 	<div class="swf">
-<h6>Animação</h6>
+<h6>Vamos conhecer um pouco mais do nosso Ceará? Veja esse folheto informativo sobre as atrações turísticas do Ceará.</h6>
 	
 	
 	</div>

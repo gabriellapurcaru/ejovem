@@ -11,7 +11,7 @@
 <div id="center">
 
 <div id="atividade">
-		<p>Agora vamos fazer a atividade</p>
+		<h6>Veja as palavras no quadro e complete o diálogo com a resposta correta.</h6>
 	</div>
 
 </div>

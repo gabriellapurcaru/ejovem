@@ -4,11 +4,12 @@
 
 
 <div id="meio">
-	<h3><a href="#" title="Vamos Começar!">Let's Get Started!</a></h3>
+	<h3><a href="#" title="Conhecendo Nosso Ceará">Knowing Our Ceará</a></h3>
 
 	<div id="center">
-		
-
+		<div class="swf">
+		Ilustração. Explicação do texto que segue na próxima tela.
+		</div>
 
 	</div>
 

@@ -4,28 +4,29 @@
 
 
 <div id="meio">
-<h3><a href="#" title="Recordando!">Brush up!</a></h3>
+	<h3><a href="#" title="Recordando!">Brush up!</a></h3>
 
-<div id="center">
-<div id="box-atividade">
-	<div id="boxDigitacao">
-	    <div class="item">
-	        Before we going to next class, let's remember what we saw on unit 13 about want, would and will? Let's go!!
-		</div>
-	</div>
-
-	<div id="boxDialogo">
-	<div class="box-digitacao">
-	    <div class="areaTexto"></div>
-	    <div id="img-person">
-	        <img src="../../../imgs/personagem_corpo.png"/>
+	<div id="center">
+		<div id="box-esquerda">
+	<div id="box-atividade">
+	<div class="ba-esq">
+	    <div class="ba-balao">
+        	<p><a href="#" title=" Before we going to next class, let's remember what we saw on unit 15 about directions? See the map and then complete the dialog with the best option.">Antes de ir para a próxima aula, vamos lembrar o que vimos na unidade 15 sobre as direções? Veja o mapa, e depois complete o diálogo com a melhor opção.</a></p>			                 
 	    </div>
+	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>
 	</div>
+</div>
 
-  </div>
-	</div>
-	</div>
+	<div id="box-direita">
+		<div id="atividade">
+
+
+		</div>
+
+  	</div>
+</div>
+</div>
 {barra_tools}
 
 <div id="navegacao">
