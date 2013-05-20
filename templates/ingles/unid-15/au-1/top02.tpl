@@ -34,7 +34,27 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
+<table>
+<tbody>
+<tr>
+
+<td><span class="GapSpan" id="GapSpan0"><input type="text" style="width:20px;" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+
+<td><span class="GapSpan" id="GapSpan1"><input type="text" style="width:20px;" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+ 
+<td><span class="GapSpan" id="GapSpan2"><input type="text" style="width:20px;" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+</tr>
+
+<tr>
+
+<td><span class="GapSpan" id="GapSpan3"><input type="text" style="width:20px;" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+ 
+<td><span class="GapSpan" id="GapSpan4"><input type="text" style="width:20px;" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+</tr>
+
+</tbody>
+</table>
+ 
 </div>
 </form>
 </div>
