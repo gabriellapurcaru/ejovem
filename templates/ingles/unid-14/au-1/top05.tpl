@@ -42,65 +42,64 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
 </div>
 <br />
 <table style="margin-left:10px;">
-
   <tr>
-    <td width="25%"><img src="img/img_atividade-top05/castanha.jpg" alt="Cashew nuts" width="120" height="120" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/castanha.png" alt="Cashew nuts" style="width:80px;height:100px;" />
            </td>
-    <td width="25%"><img src="img/img_atividade-top05/PERNIL ASSADO.jpg" alt="Pork" width="120" height="120" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/PERNIL ASSADO.jpg" alt="Pork" style="width:80px;height:100px;" />
            </td>
  
-    <td width="25%"><img src="img/img_atividade-top05/passoverlamb.jpg" alt="lamb" width="120" height="120" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/carnecarneiro.png" alt="lamb" style="width:100px;height:100px;" />
      </td>
-    <td width="25%"><img src="img/img_atividade-top05/Crabs.jpg" width="120" height="120" alt="crab" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/carangueijo.png" alt="crab" style="width:80px;height:100px;" />
       </td>
  
-    <td width="25%"><img src="img/img_atividade-top05/gree beans.JPG" alt="beans" width="120" height="120" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/feijãoverde.png" alt="beans" style="width:80px;height:100px;" />
       </td>
  </tr>
 <tr>
-<td>  <label>
+<td align="center">  <label>
       <input type="text" name="img01" id="TXFimg01" style="width:100px;" />
       </label> </td>
-<td><label>
+<td align="center"><label>
       <input type="text" name="img02" id="TXFimg02" style="width:100px;" />
       </label>  </td>
-<td> <label>
+<td align="center"> <label>
       <input type="text" name="img03" id="TXFimg03" style="width:100px;" />
       </label></td>
-<td><label>
+<td align="center"><label>
       <input type="text" name="img04" id="TXFimg04" style="width:100px;" />
       </label></td>
-<td><label>
+<td align="center"><label>
       <input type="text" name="img05" id="TXFimg05" style="width:100px;" />
       </label></td>
 
 </tr>
   <tr>
-      <td width="25%"><img src="img/img_atividade-top05/jerk-my-beef-jerky-pieces.jpg" alt="meet" width="120" height="120" />
+      <td width="25%" align="center"><img src="img/img_atividade-top05/carnedosol.png" alt="meet" style="width:100px;height:100px;" />
       </td>
-      <td width="25%"><img src="img/img_atividade-top05/Lobster.jpg" alt="Lobster" width="120" height="120" />
+      <td width="25%" align="center"><img src="img/img_atividade-top05/lagosta.png" alt="Lobster" style="width:80px;height:100px;" />
       </td>
-     <td width="25%"><img src="img/img_atividade-top05/Benefits-of-Coconut-Milk.jpg" alt="Coconut milk" width="120" height="120" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/leite-de-coco.png" alt="Coconut milk" style="width:60px;height:100px;" />
       </td>
-     <td width="25%"><img src="img/img_atividade-top05/cashew apple.jpg" alt="Cashew fruit" width="120" height="120" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/caju.png" alt="Cashew fruit" style="width:80px;height:100px;" />
       </td>
-     <td width="25%"><img src="img/img_atividade-top05/Fish.jpg" alt="Fish" width="120" height="120" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/peixe.png" alt="Fish" style="width:80px;height:100px;" />
      </td>
   </tr>
 <tr>
-<td><label>
+<td align="center"><label>
       <input type="text" name="img06" id="TXFimg06" style="width:100px;" />
       </label></td>
-<td><label>
+<td align="center"><label>
       <input type="text" name="img07" id="TXFimg07" style="width:100px;" />
       </label></td>
-<td><label>
+<td align="center"><label>
       <input type="text" name="img" id="TXFimg08" style="width:100px;" />
       </label></td>
-<td><label>
+<td align="center"><label>
       <input type="text" name="img08" id="TXFimg09" style="width:100px;" />
       </label></td>
-<td> <label>
+<td align="center"> <label>
       <input type="text" name="img10" id="TXFimg010" style="width:100px;" />
       </label></td>
 </tr>
