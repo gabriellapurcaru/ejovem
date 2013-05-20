@@ -459,8 +459,8 @@ function ItemState(){
 
 var Feedback = '';
 var Correct = 'Correct! Well done.';
-var Incorrect = 'Algumas de suas respostas est&#x00E3;o incorretas.'; 
-var GiveHint = 'A letra correta foi adicionada a resposta,';
+var Incorrect = 'Some of your answers are incorrect. Incorrect answers have been left in place for you to change.'; 
+var GiveHint = 'The next correct letter has been added to the answer.';
 var CaseSensitive = false;
 var YourScoreIs = 'Your score is ';
 var Finished = false;
@@ -475,38 +475,32 @@ I = new Array();
 I[0] = new Array();
 I[0][1] = new Array();
 I[0][1][0] = new Array();
-I[0][1][0][0] = '\u0035';
+I[0][1][0][0] = '\u0034';
 I[0][2]='';
 
 I[1] = new Array();
 I[1][1] = new Array();
 I[1][1][0] = new Array();
-I[1][1][0][0] = '\u0033';
+I[1][1][0][0] = '\u0031';
 I[1][2]='';
 
 I[2] = new Array();
 I[2][1] = new Array();
 I[2][1][0] = new Array();
-I[2][1][0][0] = '\u0036';
+I[2][1][0][0] = '\u0033';
 I[2][2]='';
 
 I[3] = new Array();
 I[3][1] = new Array();
 I[3][1][0] = new Array();
-I[3][1][0][0] = '\u0032';
+I[3][1][0][0] = '\u0035';
 I[3][2]='';
 
 I[4] = new Array();
 I[4][1] = new Array();
 I[4][1][0] = new Array();
-I[4][1][0][0] = '\u0034';
+I[4][1][0][0] = '\u0032';
 I[4][2]='';
-
-I[5] = new Array();
-I[5][1] = new Array();
-I[5][1][0] = new Array();
-I[5][1][0][0] = '\u0031';
-I[5][2]='';
 
 
 State = new Array();
