@@ -45,7 +45,7 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
   <tr>
     <td width="25%" align="center"><img src="img/img_atividade-top05/castanha.png" alt="Cashew nuts" style="width:80px;height:100px;" />
            </td>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/PERNIL ASSADO.jpg" alt="Pork" style="width:80px;height:100px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/pernildeporco.png" alt="Pork" style="width:100px;height:75px;" />
            </td>
  
     <td width="25%" align="center"><img src="img/img_atividade-top05/carnecarneiro.png" alt="lamb" style="width:100px;height:100px;" />
