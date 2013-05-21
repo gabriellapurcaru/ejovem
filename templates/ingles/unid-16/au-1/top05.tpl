@@ -8,7 +8,7 @@
 
 	<div id="center">
 		<div class="swf">
-		Ilustração. Explicação do texto que segue na próxima tela.
+		<img src="img/ilustracao_top05.png">
 		</div>
 
 	</div>
