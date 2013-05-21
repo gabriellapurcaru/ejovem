@@ -1,4 +1,5 @@
-﻿{topo}
+﻿
+{topo}
 {tituloAula}
 {menu}
 
@@ -38,18 +39,23 @@
 <tbody>
 <tr>
 
-<td><span class="GapSpan" id="GapSpan0"><input type="text" style="width:20px;" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td width="10%"><span class="GapSpan" id="GapSpan0"><input type="text" style="width:20px;" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+<img src="img/atividade_top02/04.png" width="90px" height="90px"></td>
 
-<td><span class="GapSpan" id="GapSpan1"><input type="text" style="width:20px;" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td width="10%"><span class="GapSpan" id="GapSpan1"><input type="text" style="width:20px;" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+<img src="img/atividade_top02/01.png" width="90px" height="90px"></td>
  
-<td><span class="GapSpan" id="GapSpan2"><input type="text" style="width:20px;" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td width="10%"><span class="GapSpan" id="GapSpan2"><input type="text" style="width:20px;" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+<img src="img/atividade_top02/03.png" width="90px" height="90px"></td>
 </tr>
 
-<tr>
 
-<td><span class="GapSpan" id="GapSpan3"><input type="text" style="width:20px;" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
- 
-<td><span class="GapSpan" id="GapSpan4"><input type="text" style="width:20px;" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<tr>
+<td width="10%"><span class="GapSpan" id="GapSpan3"><input type="text" style="width:20px;" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+<img src="img/atividade_top02/05.png" width="90px" height="90px"></td>
+
+<td width="10%"><span class="GapSpan" id="GapSpan4"><input type="text" style="width:20px;" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
+<img src="img/atividade_top02/02.png" width="80px" height="75px"></td>
 </tr>
 
 </tbody>
