@@ -8,16 +8,37 @@
 <div id="center">
 
 <div id="box-introducao">
-<div id="img-person">
-    	<img src="../../../imgs/e12.png"/>
-	</div>
+		<div id="box-esquerda">
+			<div class="ba-esq">
+				<div class="ba-balao">
+					<h5>Ceará Terra da Luz</h5>
+<h6>Fagner</h6> 
+Imagina um lugar tão lindo todo colorido pintado na<br />
+mais bela tela pelo criador.<br />
+Imagina o meu lugar dos sonhos, o meu paraíso<br />
+ -As cores da felicidade sorrindo pra você.<br />
+Imagina meu porto seguro, minha alegria.<br />
+Eu agradeço todo dia; eu tenho amor e paz.<br />
+Daqui o mundo é tão bonito, pode ter certeza.<br />
+Tanta beleza não troco por nada!<br />
+Eu sou feliz demais!<br />
+E o Sol iluminando os corações<br />
+E o verde do teu mar que me seduz.<br />
+A tua maravilha encanta. Eu posso me orgulhar!<br />
+Porque eu sou cearense, porque sou brasileiro:<br />
+Sou apaixonado pelo meu lugar!<br />
+Eu trago no peito um amor verdadeiro;<br />
+Eu sou da Terra da Luz eu sou do Ceará!						
+						
+					</p>		
+				</div>
+				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
+			</div>
+		</div>
 
-	<div id="texto">
-<p><b>Olá a todos!</b></p>
-<p>Nesta e nas próximas unidades, utilizaremos os tópicos estudados anteriormente com um enfoque bem diferente.</p>
-<p>Vamos falar sobre aspectos do nosso Estado, fazendo uso da Língua Inglesa. Hoje, vamos colocar um pouco mais de tempero nesse idioma falando sobre a nossa cozinha regional.</p>
-<p><b>Vamos lá!</b></p>
-	</div>
+		<div id="texto">
+			<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
+		</div>
 	</div>
 
 	</div>
@@ -25,7 +46,7 @@
 {barra_tools}
 
 <div id="navegacao">
-	<span>Página 1 de 12</span>
+	<span>Página 1 de 08</span>
 	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	

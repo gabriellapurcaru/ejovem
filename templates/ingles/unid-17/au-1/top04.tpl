@@ -4,14 +4,11 @@
 
 
 <div id="meio">
-<h3><a href="#" title="Gramática em Foco!">Grammar in Focus</a></h3>
+<h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
-	<div class="swf">
-<h6>Clique na seta para continuar vendo o diálogo.</h6>
-<embed width="600" height="450" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_01-top04.swf" name="plugin">
+	<div id="atividade">
+<h6><a href="" title="Quais são algumas celebrações e festivais em sua região? Veja fotos de algumas coisas que são parte deles e descobrir seus nomes em Inglês.">What are some celebrations and festivals in your region? See photos of some things that are part of them and discover their names in English.</a>
 	
-	
-	</div>
 	</div>
 </div>
 </div>
@@ -21,7 +18,7 @@
 
 <div id="navegacao">
 <a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 4 de 12</span>
+	<span>Página 4 de 08</span>
 <a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 </div>
