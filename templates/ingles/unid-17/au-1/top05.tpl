@@ -7,9 +7,9 @@
 <h3><a href="#" title="Praticando">Practicing</a></h3>
 
 <div id="center">
-	<h5><a href="" title="Vamos praticar a sua leitura? Veja o texto abaixo.">Let's practice our reading? Read the text below.</a></h5>
 	<div class="swf">
-
+		<h6><a href="" title="Vamos praticar a sua leitura? Veja o texto abaixo.">Let's practice our reading? Read the text below.</a></h6>
+		<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao_top05.swf" name="plugin"/>
 	</div>
 </div>
 
