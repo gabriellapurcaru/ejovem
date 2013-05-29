@@ -37,23 +37,24 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
     <td><p align="center"><label class="lbl" id="TXT09">Jerked beef</label></p></td>
     <td><p align="center"><label class="lbl" id="TXT010">Cashew nuts</label></p></td>
   </tr>
+
 </table>
 
 </div>
 <br />
 <table style="margin-left:10px;">
   <tr>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/castanha.png" alt="Cashew nuts" style="width:80px;height:100px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/castanha.png" alt="Cashew nuts" style="width:70px;height:80px;" />
            </td>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/pernildeporco.png" alt="Pork" style="width:100px;height:75px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/pernildeporco.png" alt="Pork" style="width:125px;height:55px;" />
            </td>
  
-    <td width="25%" align="center"><img src="img/img_atividade-top05/carnecarneiro.png" alt="lamb" style="width:100px;height:100px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/carnecarneiro.png" alt="lamb" style="width:120px;height:70px;" />
      </td>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/carangueijo.png" alt="crab" style="width:80px;height:100px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/carangueijo.png" alt="crab" style="width:100px;height:85px;" />
       </td>
  
-    <td width="25%" align="center"><img src="img/img_atividade-top05/feijãoverde.png" alt="beans" style="width:80px;height:100px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/feijãoverde.png" alt="beans" style="width:80px;height:90px;" />
       </td>
  </tr>
 <tr>
@@ -75,15 +76,15 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
 
 </tr>
   <tr>
-      <td width="25%" align="center"><img src="img/img_atividade-top05/carnedosol.png" alt="meet" style="width:100px;height:100px;" />
+      <td width="25%" align="center"><img src="img/img_atividade-top05/carnedosol.png" alt="meet" style="width:95px;height:90px;" />
       </td>
-      <td width="25%" align="center"><img src="img/img_atividade-top05/lagosta.png" alt="Lobster" style="width:80px;height:100px;" />
+      <td width="25%" align="center"><img src="img/img_atividade-top05/lagosta.png" alt="Lobster" style="width:65px;height:85px;" />
       </td>
-     <td width="25%" align="center"><img src="img/img_atividade-top05/leite-de-coco.png" alt="Coconut milk" style="width:60px;height:100px;" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/leite-de-coco.png" alt="Coconut milk" style="width:50px;height:80px;" />
       </td>
-     <td width="25%" align="center"><img src="img/img_atividade-top05/caju.png" alt="Cashew fruit" style="width:80px;height:100px;" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/caju.png" alt="Cashew fruit" style="width:80px;height:80px;" />
       </td>
-     <td width="25%" align="center"><img src="img/img_atividade-top05/peixe.png" alt="Fish" style="width:80px;height:100px;" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/peixe.png" alt="Fish" style="width:80px;height:80px;" />
      </td>
   </tr>
 <tr>
