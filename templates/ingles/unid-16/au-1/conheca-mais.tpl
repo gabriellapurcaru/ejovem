@@ -5,7 +5,7 @@
 <div id="meio">
 <h3><a href="#" title="Saiba mais">Learn More</a></h3>
 <div id="center">
-<h6>Exemplos de estrangeirismos:</h6>    
+
 <h4>Para aprofundar seus conhecimentos veja o link abaixo:</h4>
 
 <h6>Aquisição de Vocabulário: <span class="label label-info"><a href="http://en.bab.la/dictionary/english-portuguese/" target="_blank" title="Aquisição de Vocabulário">Veja aqui.</a></span></h6>
