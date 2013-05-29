@@ -9,7 +9,7 @@
 <div id="box-esquerda">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Verifique as palavras que foram utilizadas no diálogo anterior</p>
+        <p>Verifique as palavras que foram utilizadas no diálogo anterior:</p>
     </div>
     <div class="bl-img"><img src="../../../imgs/e16.png"/></div>
 </div>
