@@ -4,7 +4,10 @@
 <div id="meio">
 	<h3><a href="#" title="Exercitando">Exercising</a></h3>
 		<div id="center">
-Animação - significado das palavras que estavam no diálogo.
+			<div class="swf">
+<h6>Clique nas imagens para continuar a animação.</h6>
+		<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao_top08.swf" name="plugin"/>
+	</div>
 
 	</div>
 </div>
