@@ -27,8 +27,8 @@
 
 <br /><b>A:</b> Excuse me.Could you give me some information?
 <br /><b>B:</b> Of course!
-<br /><b>C:</b> From here, Av. Santos Dumont, how can I get to Drag&#x00E3;o do Mar?
-<br /><b>D:</b> You need to go <span class="GapSpan" id="GapSpan0"><input style="width:80px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> trough Av. Dom Manuel, and <span class="GapSpan" id="GapSpan1"><input type="text" style="width:80px;" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> the Av. Monsenhor Tabosa and then you arrive at Drag&#x00E3;o do Mar.<br />
+<br /><b>C:</b> From here, Santos Dumont Avenue, how can I get to Drag&#x00E3;o do Mar?
+<br /><b>D:</b> You need to go <span class="GapSpan" id="GapSpan0"><input style="width:80px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> trough Dom Manuel Avenue, and <span class="GapSpan" id="GapSpan1"><input type="text" style="width:80px;" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> the Monsenhor Tabosa Avenue and then you arrive at Drag&#x00E3;o do Mar.<br />
 </div>
 </form>
 </div>
