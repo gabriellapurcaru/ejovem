@@ -10,9 +10,22 @@
 
 <div id="center">
 
-<div id="atividade">
-		<h6>Veja as palavras no quadro e complete o diálogo com a resposta correta.</h6>
+<div id="box-esquerda">
+		<div id="box-atividade">
+			<div class="ba-esq">
+			<div class="ba-balao">
+			        <p>De acordo com o mapa, complete o diáligo com a melhor opção.</p>
+			</div>
+			    <div class="ba-img"><img src="../../../imgs/e03.png"></div>
+				</div>
+			</div>
+			</div>
+			<div id="box-direita">
+			
 
+<div id="atividade">
+		
+<h6>Veja as palavras no quadro e complete o diálogo com a resposta correta.</h6>
 <script src="js/atividade_top03.js" type="text/javascript"></script></head>
 
 
@@ -51,7 +64,7 @@
 </div>
 
 <!-- Fim atividade -->
-
+</div>
 	</div>
 
 </div>
