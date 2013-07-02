@@ -5,7 +5,7 @@
 	<h3><a href="#" title="Exercitando">Exercising</a></h3>
 	<div id="center">
 		<div class="swf">
-<h6>use a seta para acompanhar a animação.</h6>
+<h6>Use a seta para acompanhar a animação.</h6>
 		<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao_top08/animacao_top08.swf" name="plugin"/>
 	</div>
 
