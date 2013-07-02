@@ -12,19 +12,8 @@
 			<div class="ba-esq">
 				<div class="ba-balao">
 					<h5>Ceará Terra da Luz</h5>
-<h6>Fagner</h6> 
-Imagina um lugar tão lindo todo colorido pintado na<br />
-mais bela tela pelo criador.<br />
-Imagina o meu lugar dos sonhos, o meu paraíso<br />
- -As cores da felicidade sorrindo pra você.<br />
-Imagina meu porto seguro, minha alegria.<br />
-Eu agradeço todo dia; eu tenho amor e paz.<br />
-Daqui o mundo é tão bonito, pode ter certeza.<br />
-Tanta beleza não troco por nada!<br />
-Eu sou feliz demais!<br />
-E o Sol iluminando os corações<br />
-E o verde do teu mar que me seduz.<br />
-A tua maravilha encanta. Eu posso me orgulhar!<br />
+<h6 style="margin-top:-12px;">Fagner</h6> 
+[..]
 Porque eu sou cearense, porque sou brasileiro:<br />
 Sou apaixonado pelo meu lugar!<br />
 Eu trago no peito um amor verdadeiro;<br />

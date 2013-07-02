@@ -9,25 +9,9 @@
 
 
 <div id="center">
-
-<div id="box-atividade">
-	<div id="boxDigitacao">
-	    <div class="item">
-	        Mais do que imaginar um lugar lindo e todo colorido pintado pelo cirador, nós vamos conhecer e aprimorar o que sabemos sobre a Terra da Luz, utilizando-nos do que já vimos em lições passadas, de nossas experiências de vida por habitar "no paraíso" cantado por Fagner e de nossa rica criatividade e inventividade regional - ótimos ingredientes para uma comunicação mais calorosa e expressiva!
-		</div>
+	<div class="swf">
+		<img src="img/ilustracao_top03.png">
 	</div>
-
-	<div id="boxDialogo">
-	<div class="box-digitacao">
-	    <div class="areaTexto"></div>
-	    <div id="img-person">
-	        <img src="../../../imgs/personagem_corpo.png"/>
-	    </div>
-	</div>
-	</div>
-
-  </div>
-
 </div>
 </div>
 
