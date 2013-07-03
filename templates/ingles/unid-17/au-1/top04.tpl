@@ -19,7 +19,31 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
-<span class="GapSpan" id="GapSpan0"><input style="width:25px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Typical Food <span class="GapSpan" id="GapSpan1"><input style="width:25px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> A carnival bloco <span class="GapSpan" id="GapSpan2"><input style="width:25px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Bonfire <span class="GapSpan" id="GapSpan3"><input style="width:25px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Accordion<br />
+
+<table>
+<tbody>
+
+	<tr>
+		<td>(1)<img src="img/ilustracao_atividade-top04/img01.png" width="180" height="180"></td>
+		<td>(2)<img src="img/ilustracao_atividade-top04/img01.png" width="180" height="180"></td>
+		<td>(3)<img src="img/ilustracao_atividade-top04/img01.png" width="180" height="180"></td>
+		<td>(4)<img src="img/ilustracao_atividade-top04/img01.png" width="180" height="180"></td>
+	</tr>
+
+
+	<tr>
+<td><span class="GapSpan" id="GapSpan0"><input style="width:25px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+
+<td>Typical Food <span class="GapSpan" id="GapSpan1"><input style="width:25px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td> 
+
+<td>A carnival bloco <span class="GapSpan" id="GapSpan2"><input style="width:25px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td> 
+
+<td>Bonfire <span class="GapSpan" id="GapSpan3"><input style="width:25px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Accordion</td>
+	</tr>
+
+</tbody>
+</table>
+
 </div>
 </form>
 </div>
