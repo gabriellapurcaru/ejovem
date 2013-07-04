@@ -8,7 +8,7 @@
 
 	<div id="center">
 		<div class="swf">
-		<img src="img/ilustracao_top05.png">
+		<img src="img/ilustracao_top05.png" width="600" height="420">
 		</div>
 
 	</div>

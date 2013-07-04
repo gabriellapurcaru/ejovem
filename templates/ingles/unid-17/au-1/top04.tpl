@@ -42,7 +42,7 @@
 	<tr>
 <td width="150"><span class="GapSpan" id="GapSpan0"><input style="width:25px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Typical Food </td>
 
-<td width="150"><span class="GapSpan" id="GapSpan1"><input style="width:25px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> A carnival bloco</td>
+<td width="160"><span class="GapSpan" id="GapSpan1"><input style="width:25px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> A carnival block</td>
 
 <td width="150"><span class="GapSpan" id="GapSpan2"><input style="width:25px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Bonfire </td> 
 
