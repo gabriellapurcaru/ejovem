@@ -7,9 +7,9 @@
 	<h3><a href="#" title="Praticando">Practicing</a></h3>
 
 	<div id="center">
-		<div id="atividade">
-<h6><a href="#" title="DO you know those plates in the dialogue? Look the pictures and try to correct name for each one, use the dictionary if you need.">
-Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto para cada um, use o dicionário se você precisar.</a></h6>
+		<div id="atividade" style="margin-left:5px;">
+<h5><a href="#" title="DO you know those plates in the dialogue? Look the pictures and try to correct name for each one, use the dictionary if you need.">
+Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto para cada um, use o dicionário se você precisar.</a></h5>
 		
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -20,7 +20,7 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
 <body>
 <div>
 <div id="tabelaElementos">
-<div class="quadro" align="center" style="width:70%;height:80px;">
+<div class="quadro" align="center" style="width:70%;height:75px;">
 <table>
   <tr>
     <td width="97"><div align="center"><label class="lbl" id="TXT01">Fish</label></div></td>
@@ -46,12 +46,12 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
   <tr>
     <td width="25%" align="center"><img src="img/img_atividade-top05/castanha.png" alt="Cashew nuts" style="width:70px;height:80px;" />
            </td>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/pernildeporco.png" alt="Pork" style="width:125px;height:55px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/pernildeporco.png" alt="Pork" style="width:125px;height:50px;" />
            </td>
  
-    <td width="25%" align="center"><img src="img/img_atividade-top05/carnecarneiro.png" alt="lamb" style="width:120px;height:70px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/carnecarneiro.png" alt="lamb" style="width:120px;height:65px;" />
      </td>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/carangueijo.png" alt="crab" style="width:100px;height:85px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/carangueijo.png" alt="crab" style="width:90px;height:80px;" />
       </td>
  
     <td width="25%" align="center"><img src="img/img_atividade-top05/feijãoverde.png" alt="beans" style="width:80px;height:90px;" />
@@ -78,9 +78,9 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
   <tr>
       <td width="25%" align="center"><img src="img/img_atividade-top05/carnedosol.png" alt="meet" style="width:95px;height:90px;" />
       </td>
-      <td width="25%" align="center"><img src="img/img_atividade-top05/lagosta.png" alt="Lobster" style="width:65px;height:85px;" />
+      <td width="25%" align="center"><img src="img/img_atividade-top05/lagosta.png" alt="Lobster" style="width:55px;height:80px;" />
       </td>
-     <td width="25%" align="center"><img src="img/img_atividade-top05/leite-de-coco.png" alt="Coconut milk" style="width:50px;height:80px;" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/leite-de-coco.png" alt="Coconut milk" style="width:45px;height:80px;" />
       </td>
      <td width="25%" align="center"><img src="img/img_atividade-top05/caju.png" alt="Cashew fruit" style="width:80px;height:80px;" />
       </td>

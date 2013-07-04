@@ -17,7 +17,7 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            <object height="250" width="400"><param name="movie" value="https://dl.dropbox.com/u/7626547/Video%20Presentations/locations_and_directions.swf"><p></p><p></p><p></p><p></p><p></p><p><param name="allowFullScreen" value="true"></p><p></p><p></p><p></p><p><param name="allowscriptaccess" value="always"></p><p></p><p></p><p></p><p><embed src="https://dl.dropbox.com/u/7626547/Video%20Presentations/locations_and_directions.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></p></object>
+            <object height="420" width="400"><param name="movie" value="https://dl.dropbox.com/u/7626547/Video%20Presentations/locations_and_directions.swf"><p></p><p></p><p></p><p></p><p></p><p><param name="allowFullScreen" value="true"></p><p></p><p></p><p></p><p><param name="allowscriptaccess" value="always"></p><p></p><p></p><p></p><p><embed  style="margin-top:-12px;" src="https://dl.dropbox.com/u/7626547/Video%20Presentations/locations_and_directions.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="400" height="250"></p></object>
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">
