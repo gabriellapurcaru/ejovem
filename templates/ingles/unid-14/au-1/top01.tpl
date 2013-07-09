@@ -24,7 +24,7 @@ Vamos falar sobre aspectos do nosso Estado, fazendo uso da Língua Inglesa. Hoje
 		</div>
 		
 		<div id="texto">
-			<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
+			<iframe width="420" height="236" src="video/v01.mp4" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
