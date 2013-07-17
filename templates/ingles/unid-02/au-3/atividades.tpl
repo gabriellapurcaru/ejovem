@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -13,7 +13,7 @@
   <div class="tab-content">
     <div class="tab-pane active" id="tab1">
 		<div id="atividade">
-			<p>Maria está apresentando sua amiga Renata a Anderson. Renata é de Recife. Coloque as frases seguintes em ordem para formar uma conversa.</p>
+			<h5>Maria está apresentando sua amiga Renata a Anderson. Renata é de Recife. Coloque as frases seguintes em ordem para formar uma conversa.</h5>
 			<div class="swf">
 				<embed width="700px" height="350" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>  
 			</div>

@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -7,7 +7,7 @@
 
 <div id="center">
 <div id="atividade">
-<p>Associe os números da coluna A com a resposta correspondente na coluna B.</p>
+<h5>Associe os números da coluna A com a resposta correspondente na coluna B.</h5>
 
 	<script src="js/atividade01.js" type="text/javascript"></script>
 

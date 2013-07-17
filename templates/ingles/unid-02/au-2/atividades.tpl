@@ -1,4 +1,4 @@
-W{topo}
+﻿W{topo}
 {tituloAula}
 {menu}
 
@@ -23,7 +23,7 @@ W{topo}
 
     <div class="tab-pane" id="tab2">
 	<div id="atividade">
-		<h6>Complete o diálogo abaixo com as palavras do quadro.</h6>
+		<h5>Complete o diálogo abaixo com as palavras do quadro.</h5>
 		<div class="quadro">
 		HELLO - THIS - IS - NICE - MEET - IS - I'M
 		</div>

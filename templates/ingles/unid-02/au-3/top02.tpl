@@ -1,14 +1,14 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Exercício de revisão">Exercise review</a></h3>
+<h3><a href="#" title="Exercício de Revisão">Exercise Review</a></h3>
 <div id="center">
 
 <div id="atividade">
 
-	<p>Maria está apresentando sua amiga Renata a Anderson. Renata é de Recife. Coloque as frases seguintes em ordem para formar uma conversa.</p>
+	<h5>Maria está apresentando sua amiga Renata a Anderson. Renata é de Recife. Coloque as frases seguintes em ordem para formar uma conversa.</h5>
 	<div class="swf">
 		<embed width="700px" height="350" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>  
 	</div>
