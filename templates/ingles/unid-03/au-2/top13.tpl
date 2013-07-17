@@ -6,13 +6,13 @@
 <h3><a href="" title="Idade e data de nascimento"> Age and Date of Birth </a></h3>
 <div id="center">	
 
-<div id="box-explicacao-video-animacao">	
-	<h6>A idade e data de nascimento de uma pessoa são informações importantes. Mas como dizemos isso em Inglês?
-	Veja o exemplo!</h6>
+	
 	<div class="swf">
-		<embed height="400px" width="750px" name="plugin" src="../../../ingles/unid03/au2/video/v02.swf" type="application/x-shockwave-flash" />
+<h6>A idade e data de nascimento de uma pessoa são informações importantes. Mas como dizemos isso em Inglês?
+	Veja o exemplo!</h6>
+		<embed height="400px" width="620px" name="plugin" src="../../../ingles/unid03/au2/video/v02.swf" type="application/x-shockwave-flash" />
 	</div>	
-</div>
+
 
 </div>
 </div>	

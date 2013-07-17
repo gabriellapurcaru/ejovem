@@ -8,7 +8,7 @@
 <div id="center">
 	
 <div id="atividade">
-	<h6>Let´s practice? </p><p>Associe as datas à esquerda com suas formas por extenso à direita:</h6>
+	<h5>Let´s practice? </p><p>Associe as datas à esquerda com suas formas por extenso à direita:</h5>
 	<script src="js/atividade_top15.js" type="text/javascript"></script>
 
 	<div id="MainDiv" class="StdDiv">

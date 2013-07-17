@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -7,7 +7,7 @@
 <div id="center">
 
 <div id="atividade">
-<h6>Complete as sentenças abaixo usando a forma correta do verbo to be</h6>
+<h5>Complete as sentenças abaixo usando a forma correta do verbo to be</h5>
 <script src="js/atividade03.js" type="text/javascript"></script></head>
 <div id="MainDiv" class="StdDiv">
 

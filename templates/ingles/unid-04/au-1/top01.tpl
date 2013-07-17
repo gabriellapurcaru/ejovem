@@ -10,8 +10,8 @@
 		<div id="box-esquerda">
 			<div class="ba-esq">
 				<div class="ba-balao">
-					<p>Na unidade passada, aprendemos o alfabeto em inglês,  como  dizer  os  números, as datas, além de como prestar informações pessoais a nosso  respeito. Nesta  unidade,  falaremos  sobre  como  emitir opiniões em inglês e expressar gostos.</p>
-					<p>Vamos lá? Não esqueça de ver o vídeo introdutório.</p>		
+					<p><b>Olá a todos!</b> Na unidade passada, aprendemos o alfabeto em inglês,  como  dizer  os  números, as datas, além de como prestar informações pessoais a nosso  respeito. Nesta  unidade,  falaremos  sobre  como  emitir opiniões em inglês e expressar gostos.
+					<br /><b>Vamos lá?</b> Não esqueça de ver o vídeo introdutório.</p>		
 				</div>
 				<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
 			</div>
