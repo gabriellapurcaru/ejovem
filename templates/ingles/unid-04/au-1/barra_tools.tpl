@@ -3,11 +3,11 @@
 		<div class="link">
 			<a href="img/impresso.odt" data-toggle="tooltip" title="Baixar Aula"><img src="../../../imgs/icone_pdf.png"></a>
 		</div>	
-		
+<!--		
 		<div class="link">
 			<a href="midias.php" data-toggle="tooltip" title="first tooltip"><img src="../../../imgs/iconefotos.png"></a>
 		</div>
-		
+-->		
 		<div class="link">
 			<a href="top01.php" data-toggle="tooltip" title="Conteúdo"><img src="../../../imgs/icone-conteudo.png"></a>
 		</div>

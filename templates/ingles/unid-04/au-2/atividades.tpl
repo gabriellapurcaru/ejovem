@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -60,7 +60,5 @@ My daughter’s name is <b>Bianca</b>, and she’s only 6 months old! My family 
 </div>	
 {barra_tools}	
 <div id="navegacao">
-	<a href="top13.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-		<span>Página 14 de 14</span>
 </div>
 {rodape}
