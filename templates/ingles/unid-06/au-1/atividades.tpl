@@ -45,8 +45,7 @@
 
 </tr>
 </tbody> 
-</table>
-<br />
+</table><br />
 <b>A:</b> <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11">
 </input></span> hip-hop?<br />
 <b>B:</b> No, I <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6">
@@ -74,8 +73,7 @@
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
 
-<!-- BeginBottomNavButtons -->
-
+<!-- BeginBottomNavButtons -->
 
 
 
@@ -87,4 +85,5 @@
 
 </div>
 </div>
+{barra_tools}
 {rodape}

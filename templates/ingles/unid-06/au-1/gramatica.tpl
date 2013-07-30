@@ -8,14 +8,14 @@
 	<h5>Fórmula para fazer perguntas:</h5>
 	AUXILIAR + SUJEITO + VERBO + OBJETO
 <p>Exemplo: </p>
-<li> Do you like action movie?</li>
-<li>Do you like soap opera?</li>
+<li style="margin-left:15px;"> Do you like action movie?</li>
+<li style="margin-left:15px;">Do you like soap opera?</li>
 </p>
 	<h5>Fórmula para a afirmativa:</h5>
 	SUJEITO + VERBO + OBJETO
 <P>Exemplo:
-<li>I like animation.</li>
-<li>I like reality show.</li>
+<li style="margin-left:15px;">I like animation.</li>
+<li style="margin-left:15px;">I like reality show.</li>
 </p>
 <h5>Fórmula para perguntas que pedem mais informações e que começam com "WHAT". Veja o quadro abaixo:</h5>
 
@@ -47,5 +47,7 @@
 	
   	</div>
 </div>
-</div>	
+</div>
+
+{barra_tools}	
 {rodape}
