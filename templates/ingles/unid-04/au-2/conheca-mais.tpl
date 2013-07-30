@@ -7,7 +7,7 @@
 <div id="center">
 <div id="box-explicacao-video-animacao">
 <p>Veja este vídeo sobre <b>Family</b> e fique craque no assunto!
-<li><span class="label label-info"><a href="http://zazelis.blogspot.com.br/2011/05/family.html">Veja aqui.</a></span></li></p>
+<li style="margin-left:5px;"><span class="label label-info"><a href="http://zazelis.blogspot.com.br/2011/05/family.html">Veja aqui.</a></span></li></p>
 
 </div>
 
@@ -35,9 +35,4 @@
 </div>
 </div>	
 {barra_tools}
-
-<div id="navegacao">
-
-</div>
-
 {rodape}
