@@ -9,7 +9,7 @@
 		<div id="atividade" style="margin-left:5px;">
 <h6>Ajude James a chegar na casa de Monique, para isso observe a imagem e marque a resposta correta no texto.</h6>
 
-<img src="img/atividade_top04.png" style="width:350px;height:200px;margin-left:200px;">
+<img src="img/atividade_top04.png" style="width:350px;height:220px;margin-left:200px;">
 
 <script src="js/atividade_top04.js" type="text/javascript"></script></head>
 
