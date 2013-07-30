@@ -23,7 +23,7 @@
  
 
     <div class="tab-pane active" id="tab2">
-		<div id="atividade">	
+		<div id="atividade" style="margin-left:5px;">	
 			<div id="ClozeDiv">
 			<form id="Cloze" method="post" action="" onsubmit="return false;">
 			<div class="ClozeBody">
@@ -92,8 +92,9 @@
 <script src="js/tela_11.js" type="text/javascript"></script></head>
 <div id="center" style="padding-top: 5px;">
 
-<div id="atividade">
-<h6>De acordo com o que você aprendeu, completa as frase para que elas fiquem na sua forma interrogativa. Do, Does, Is or Are? </h6>
+<div id="atividade" style="margin-left:5px;">
+<h6>De acordo com o que você aprendeu, complete as frase para que elas fiquem na sua forma interrogativa.<br>
+Do, Does, Is or Are? </h6>
 
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
@@ -140,12 +141,7 @@
 	</div>
 	</div>
 	</div>
-</div>
-</div>	
+	
 {barra_tools}
-
-<div id="navegacao">
-
-</div>
 
 {rodape}

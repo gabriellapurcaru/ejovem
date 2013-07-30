@@ -9,8 +9,8 @@
 <div id="box-explicacao-video-animacao">
 <p><b>a) </b> Em inglês, quando se quer expressar preferência por uma coisa ao invés ou no lugar de outra, emprega-se <b>than</b>(a ou popularmente "do que").</p>
 <p>Exemplo:</p>
-<li><span class="label label-info"><a href="" title="O Michael prefere falar alemão do que russo.">MIchael would rather speak German than Russian.</a></span></li>
-<li><span class="label label-info"><a href="" title="Eles preferem tomar suco à Coca-Cola.">They'd rather have juice than coke.</a></span></li>
+<li style="margin-left:15px;"><span class="label label-info"><a href="" title="O Michael prefere falar alemão do que russo.">MIchael would rather speak German than Russian.</a></span></li>
+<li style="margin-left:15px;"><span class="label label-info"><a href="" title="Eles preferem tomar suco à Coca-Cola.">They'd rather have juice than coke.</a></span></li>
 
 
 <p><b>b)</b> Quando se deseja expressar preferência por algo no passado (preferia ou popularmente preferia ter feito isso ou aquilo), usa-se a estrutura <b>have + particípio</b></p>
@@ -22,10 +22,7 @@
 </div>
 </div>
 </div>	
+
 {barra_tools}
-
-<div id="navegacao">
-
-</div>
 
 {rodape}
