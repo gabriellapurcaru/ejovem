@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -7,7 +7,7 @@
 
 <div id="center">
 <div id="atividade">
-<h6>Complete o exercício conforme o que você aprendeu sobre infinitivo. </h6>
+<h5>Complete o exercício conforme o que você aprendeu sobre infinitivo. </h5>
 <script src="js/atividade01.js" type="text/javascript"></script>
 <div id="MainDiv" class="StdDiv">
 <div id="ClozeDiv">

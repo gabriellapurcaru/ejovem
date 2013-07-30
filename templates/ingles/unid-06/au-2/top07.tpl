@@ -6,8 +6,8 @@
 <h3><a href="#" title="Praticando">Practice</a></h3>
 <div id="center">
 
-<div id="box-explicacao-video-animacao">
-<h6>Leia o texto e marque as coisas Lucas precisa fazer.</h6>
+<div id="atividade" style="margin-left:5px;">
+<h5>Leia o texto e marque as coisas Lucas precisa fazer.</h5>
 	
 <script src="js/atividade_quiz sem erro.js" type="text/javascript"></script></head>
 <div class="Titles">
