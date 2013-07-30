@@ -14,5 +14,7 @@
 <li><a href="" title="Pássaros voam."> Birds fly.</a></li>
 <li><a href="" title="O trem sai em dez minutos"> The train leaves in ten minutes.</a></li></p>
 </div>
-</div>	
+</div>
+</div>
+{barra_tools}
 {rodape}
