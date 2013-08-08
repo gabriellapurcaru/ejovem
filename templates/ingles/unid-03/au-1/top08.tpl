@@ -19,7 +19,7 @@
 
 <div id="box-direita">
 <div id="atividade">
-<h6>Digite a letra que você escuta:</h6>
+<h5>Digite a letra que você escuta:</h5>
 	<div id="atividade02">
 	<script src="js/UNI03_Aul_01.js" type="text/javascript"></script></head>
 <!-- BeginTopNavButtons -->

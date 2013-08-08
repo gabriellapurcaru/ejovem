@@ -10,23 +10,23 @@
 <table class="table table-striped">
 	<tdead>
 	<tr>
-		<td>Francesismo</td>
+		<th>Francesismo</th>
 		<td>abajur, chefe, carnê</td>
 	</tr>
 	<tr>
-		<td>Italianismo</td>
+		<th>Italianismo</th>
 		<td>ravioli, pizza, paparazzi</td>
 	</tr>	
 	<tr>
-		<td>Arabismo</td>
+		<th>Arabismo</th>
 		<td>alface, açougue, bazar</td>
 	</tr>
 		<tr>
-			<td>Grecismo</td>
+			<th>Grecismo</th>
 			<td>batismo, farmácia, bispo</td>
 		</tr>	
 		<tr>
-			<td>Tupinismo</td>
+			<th>Tupinismo</th>
 			<td>mirim, peteca, caipira</td>
 		</tr>
 	</tdead>

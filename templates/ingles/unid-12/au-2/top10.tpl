@@ -5,8 +5,8 @@
 <h3><a href="#" title="Exercitando">Exercising</a></h3>
 <div id="center">
 
-	<div id="atividade">
-		<h6>Complete o dialogo com as palavras do box:</h6>
+	<div id="atividade" style="margin-left:5px;">
+		<h5>Complete o dialogo com as palavras do box:</h5>
 		<script src="js/atividade_top10.js" type="text/javascript"></script></head>
 
 
@@ -71,12 +71,12 @@ B: No, There isn&#x00B4;t</h6></td>
 </div>
 
 
-
+<p align="right">
 <button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
 <button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
+</p>
 
 </div>
 

@@ -7,7 +7,7 @@
 <h3><a href="#" title="Gramática em Foco!">Grammar in Focus</a></h3>
 <div id="center">
 	<div class="swf">
-<h6>Use a seta para continuar vendo o diálogo.</h6>
+<h6>Use a seta para continuar o diálogo.</h6>
 <embed width="600" height="420" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao_01-top04.swf" name="plugin">
 	
 	

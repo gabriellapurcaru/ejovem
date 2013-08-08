@@ -1,4 +1,4 @@
-{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 
@@ -8,7 +8,7 @@
 <div id="center">
 
 <div id="atividade">
-<h6>Usando as palavras do quadro abaixo, arraste-as formando 3 frases obedecendo essa sequência: <b>SUJEITO</b> + </b>VERBO</b> + <b>OBJETO</b></h6>
+<h5>Usando as palavras do quadro abaixo, arraste-as formando 3 frases obedecendo essa sequência: <b>SUJEITO</b> + </b>VERBO</b> + <b>OBJETO</b></h5>
 <div class="swf">
 <embed width="650" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade02.swf" name="plugin"> </div>
 </div>

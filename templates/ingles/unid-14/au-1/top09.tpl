@@ -5,7 +5,7 @@
 	<h3><a href="#" title="Exercitando">Exercising</a></h3>
 	<div id="center">
 
-		<h6 align="center">Associe as imagens ao nome do alimento correto de acordo com a receita.</h6>
+		<h5 align="center">Associe as imagens ao nome do alimento correto de acordo com a receita.</h5>
 			<div class="ui-tabs ui-widget ui-widget-content ui-corner-all" id="demo-tabs">
 				<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
 					<li class="ui-state-default ui-corner-top"><a href="#tabs-1">01</a></li>

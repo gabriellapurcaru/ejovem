@@ -3,6 +3,7 @@
     $tpl = new Template("../../../templates/ingles/unid-06/au-1/atividades.tpl"); 
     $tpl->addFile("topo", "../../../topo.tpl"); 
     $tpl->addFile("menu", "../../../templates/ingles/unid-06/au-1/menu.tpl"); 
-    $tpl->addFile("rodape", "../../../rodape.tpl"); 
+    $tpl->addFile("rodape", "../../../rodape.tpl");
+    $tpl->addFile("barra_tools", "../../../templates/ingles/unid-06/au-1/barra_tools.tpl"); 
     $tpl->show(); 
 ?>

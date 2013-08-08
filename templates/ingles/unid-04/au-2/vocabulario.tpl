@@ -60,10 +60,7 @@
 
 </div>
 </div>	
+
+
 {barra_tools}
-
-<div id="navegacao">
-
-</div>
-
 {rodape}

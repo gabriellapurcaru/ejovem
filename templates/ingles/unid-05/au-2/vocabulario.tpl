@@ -33,5 +33,7 @@
 	</thead>
 	</table>
 </div>
-</div>	
+</div>
+
+{barra_tools}	
 {rodape}

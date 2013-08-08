@@ -20,7 +20,8 @@
 			<div id="box-direita">
 			
 				<div id="atividade">
-					<h6>atividade</h6>
+			atividade
+</h6>
 
 
 					<!-- fim atividade -->

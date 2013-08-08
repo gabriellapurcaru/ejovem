@@ -23,7 +23,29 @@
 
 <div id="box-direita">
 	<div id="atividade">
+
 		<h6>Combine as direções com as imagens.</h6>
+
+<table>
+<tbody>
+
+<tr>
+	<td width="70px" height="80px"> <h6>1) <img src="img/atividade_top03/img01.png" height="60px" width="60px" align="right"></h6> </td>
+	
+	<td width="70px" height="80px"> <h6>2) <img src="img/atividade_top03/img02.png" height="60px" width="60px" align="right"></h6> </td>
+	
+	<td width="70px" height="80px"> <h6>3) <img src="img/atividade_top03/img03.png" height="60px" width="60px" align="right"></h6> </td>
+	
+	<td width="70px" height="80px"> <h6>4) <img src="img/atividade_top03/img04.png" height="60px" width="60px" align="right"></h6> </td>
+	
+	<td width="70px" height="80px"> <h6>5) <img src="img/atividade_top03/img05.png" height="60px" width="60px" align="right"></h6> </td>
+	
+	<td width="70px" height="80px"> <h6>6) <img src="img/atividade_top03/img06.png" height="60px" width="60px" align="right"></h6> </td>
+</tr>
+
+</tbody>
+</table>
+
 	<!-- Inicio da atividade -->
 
 <script src="js/atividade_top03.js" type="text/javascript"></script></head>
@@ -51,7 +73,7 @@
 
 <span class="GapSpan" id="GapSpan0"><input style="width:25px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Turn left.<br />
 <span class="GapSpan" id="GapSpan1"><input style="width:25px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Turn right.<br />
-<span class="GapSpan" id="GapSpan2"><input style="width:25px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Gototheendofthestreet.<br />
+<span class="GapSpan" id="GapSpan2"><input style="width:25px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Go to the end of the street.<br />
 
 <span class="GapSpan" id="GapSpan3"><input style="width:25px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Take the second street on the left. <br />
 

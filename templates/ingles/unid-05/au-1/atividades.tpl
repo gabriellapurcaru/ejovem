@@ -155,10 +155,12 @@
     
 
 	<div class="tab-pane active" id="tab3">
-		<div id="box-explicacao-video-animacao">	
-           <h6>Vamos testar se você entendeu a forma correta do verbo?
-<br> Complete as frases com as palavras ao lado, formando as frase na sua forma <b>afirmativa</b>.</h6>
-    			<div id="atividade">	
+		       
+    			<div id="atividade" style="margin-left:5px;">
+
+<h5 align="center">Vamos testar se você entendeu a forma correta do verbo?
+<br> Complete as frases com as palavras ao lado, formando as frase na sua forma <b>afirmativa</b>.</h5>
+	
 			<script src="js/atividade01.js" type="text/javascript"></script></head>
 			<div id="MainDiv" class="StdDiv">
 
@@ -196,8 +198,7 @@
 	<div class="Feedback" id="FeedbackDiv">
 	<div class="FeedbackText" id="FeedbackContent"></div>
 	<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
-	</div>
-</div>
+	</div></div>
 		</div>
 </div>
 
@@ -208,11 +209,7 @@
 	</div>
 	</div>
 	</div>
-	</div>
-</div>
-</div>	
 
 
-
-
+{barra_tools}
 {rodape}
