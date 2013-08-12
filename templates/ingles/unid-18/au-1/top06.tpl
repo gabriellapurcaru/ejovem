@@ -7,7 +7,7 @@
 
 <div id="center">
 	<div class="swf">
-<h6>Veja algumas palavras importantes do texto.</h6>
+<h6>Now that you already now about June festivals, read this conversation to do the exercise.</h6>
 	</div>
 
 </div>

@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 <div id="meio">
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
 <div id="center">
 <div id="box-center-conclusao">
 	    <div id="box-esq">
@@ -12,8 +12,8 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Final da lição! Você recebeu mais ingredientes para saber falar de sua terra natal. Agora pratique, tire suas dúvidas, se você as tiver, e na próxima unidade aprenderemos ainda mais sobre o Ceará!
-		<p><span class="label label-info"><a href="#" tittle="Nos vemos em breve!">See you soon!</a></span>
+		<p>Well done! You finish your studies! You have completed the English course, we learned how to give greetings, shopping, ordering in the restaurant and on the festivals. I hope you had fun and learned a lot!
+		
 
 		</div>
 	    </div>

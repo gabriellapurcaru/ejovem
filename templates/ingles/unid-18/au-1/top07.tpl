@@ -6,7 +6,7 @@
 <h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
 	<div id="atividade">
-	a03.
+	Based in what you read fill the gaps with the options from the box.
 	</div>
 </div>
 </div>	

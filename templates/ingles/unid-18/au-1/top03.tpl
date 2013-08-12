@@ -5,14 +5,14 @@
 
 <div id="meio">
 
-<h3><a href="#" title="Vamos Começar!">Let's Get Started!</a></h3>
+	<h3><a href="#" title="Vamos Começar!">Let's Get Started!</a></h3>
 
 
-<div id="center">
-	<div class="swf">
-		<img src="img/ilustracao_top03.png" width="600" height="420">
-	</div>
-</div>
+		<div id="center">
+			<div id="atividade">
+Atividade.
+			</div>
+		</div>
 </div>
 
 
