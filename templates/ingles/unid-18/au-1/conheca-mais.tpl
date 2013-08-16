@@ -3,15 +3,20 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Saiba mais">Learn More</a></h3>
-<div id="center">
+	<h3><a href="#" title="Saiba mais">Learn More</a></h3>
+	<div id="center">
+		<div id="rede">
+			<div class="foto_bia">
+				<img src="../../../imgs/rede_personagem.jpg"/>
+			</div>
+			<div class="bia_texto">
+				<p class="bia_diz">Professora Bia diz:</p>
 
-<h4>Para aprofundar seus conhecimentos veja o link abaixo:</h4>
-
-<h6>Aquisição de Vocabulário: <span class="label label-info"><a href="http://en.bab.la/dictionary/english-portuguese/" target="_blank" title="Aquisição de Vocabulário">Veja aqui.</a></span></h6>
-
-
-</div>
+				<p>In this class we saw about our region, Northeast, but there are also more four regions, look at the map and the name of each region!</p>
+			</div>
+		</div>
+		
+	</div>
 </div>	
 {barra_tools}
 
