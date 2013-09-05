@@ -23,7 +23,7 @@ function Client(){
 	this.gecko = (this.ua.indexOf('Gecko') > 1);
 	if (this.gecko){
 		this.geckoVer = parseInt(this.ua.substring(this.ua.indexOf('Gecko')+6, this.ua.length));
-		if (this.geckoVer < 20020000){this.min = false;}
+//		if (this.geckoVer < 20020000){this.min = false;}
 	}
 	
 //Look for Firebird
@@ -49,7 +49,7 @@ function Client(){
 		if (this.operaVer < 7.04){this.min = false;}
 	}
 	if (this.min == false){
-		alert('Your browser may not be able to handle this page.');
+//		alert('Your browser may not be able to handle this page.');
 	}
 	
 //Special case for the horrible ie5mac
@@ -475,26 +475,62 @@ I = new Array();
 I[0] = new Array();
 I[0][1] = new Array();
 I[0][1][0] = new Array();
-I[0][1][0][0] = '\u0032';
+I[0][1][0][0] = '\u0046';
 I[0][2]='';
 
 I[1] = new Array();
 I[1][1] = new Array();
 I[1][1][0] = new Array();
-I[1][1][0][0] = '\u0034';
+I[1][1][0][0] = '\u0046';
 I[1][2]='';
 
 I[2] = new Array();
 I[2][1] = new Array();
 I[2][1][0] = new Array();
-I[2][1][0][0] = '\u0033';
+I[2][1][0][0] = '\u0046';
 I[2][2]='';
 
 I[3] = new Array();
 I[3][1] = new Array();
 I[3][1][0] = new Array();
-I[3][1][0][0] = '\u0031';
+I[3][1][0][0] = '\u0054';
 I[3][2]='';
+
+I[4] = new Array();
+I[4][1] = new Array();
+I[4][1][0] = new Array();
+I[4][1][0][0] = '\u0054';
+I[4][2]='';
+
+I[5] = new Array();
+I[5][1] = new Array();
+I[5][1][0] = new Array();
+I[5][1][0][0] = '\u0046';
+I[5][2]='';
+
+I[6] = new Array();
+I[6][1] = new Array();
+I[6][1][0] = new Array();
+I[6][1][0][0] = '\u0054';
+I[6][2]='';
+
+I[7] = new Array();
+I[7][1] = new Array();
+I[7][1][0] = new Array();
+I[7][1][0][0] = '\u0046';
+I[7][2]='';
+
+I[8] = new Array();
+I[8][1] = new Array();
+I[8][1][0] = new Array();
+I[8][1][0][0] = '\u0054';
+I[8][2]='';
+
+I[9] = new Array();
+I[9][1] = new Array();
+I[9][1][0] = new Array();
+I[9][1][0][0] = '\u0046';
+I[9][2]='';
 
 
 State = new Array();
