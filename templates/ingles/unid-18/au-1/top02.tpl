@@ -21,7 +21,7 @@
 		</div>
 			<div id="box-direita">
 				<div id="atividade" style="margin-right:5px;width:430px;height:460px;">
-						<script src="js/unidade17_atividade01.js" type="text/javascript"></script>
+						<script src="js/unidade18_atividade01.js" type="text/javascript"></script>
 	
 	<!-- Inicio Atividade -->
 		<h6 style="margin-top:-15px;">Use T for true and F for false and choice the items that are part of the Carnival.</h6>
@@ -95,7 +95,7 @@
 
 <div id="navegacao">
 <a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 2 de 7</span>
+	<span>Página 2 de 6</span>
 <a href="top03.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 
