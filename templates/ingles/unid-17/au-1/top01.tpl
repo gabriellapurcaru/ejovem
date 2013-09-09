@@ -35,7 +35,7 @@ Eu sou da Terra da Luz eu sou do Ceará!
 {barra_tools}
 
 <div id="navegacao">
-	<span>Página 1 de 08</span>
+	<span>Página 1 de 6</span>
 	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	

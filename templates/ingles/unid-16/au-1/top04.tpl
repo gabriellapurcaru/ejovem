@@ -7,9 +7,9 @@
 <h3><a href="#" title="Conhecendo Nosso Ceará">Knowing Our Ceará</a></h3>
 <div id="center">
 	<div class="swf">
-<h6>Vamos conhecer um pouco mais do nosso Ceará? Veja esse folheto informativo sobre as atrações turísticas do Ceará.
+<h6>Vamos conhecer um pouco mais do nosso Ceará? Veja esse folheto informativo sobre as atrações turísticas do Ceará.</h6>	
 <embed width="580" height="400" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao_top04.swf" name="plugin"/>
-</h6>	
+
 	
 	</div>
 	</div>

@@ -31,7 +31,7 @@ Quer saber mais um pouco sobre o nosso ceará? Assista ao vídeo para darmos in�
 {barra_tools}
 
 <div id="navegacao">
-	<span>Página 1 de 11</span>
+	<span>Página 1 de 9</span>
 	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
