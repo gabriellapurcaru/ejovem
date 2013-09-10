@@ -15,7 +15,7 @@
 			</div>
 			
 			<div class="quadro" style="width:53%">
-				Jenipapo / June 24 /  Northeast  / canjica / Dance forró
+				Jenipapo / June 24 /  Northeast  / Canjica / Dance forró
 			</div>
 
 			<div id="InstructionsDiv" class="StdDiv">
@@ -40,7 +40,7 @@
 <th>What people do ?</th> <td><span class="GapSpan" id="GapSpan2"><input style="width:100px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="11"></input></span> </td>
 								</tr>
 <th>What people eat<sup>1</sup> and drink<sup>2</sup> ?</th> <td><span class="GapSpan" id="GapSpan3"><input style="width:50px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="7"></input></span><sup>1</sup> 
-<span class="GapSpan" id="GapSpan4"><input style="width:50px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="8"></input></span><sup>2</sup></td>
+ and <span class="GapSpan" id="GapSpan4"><input style="width:50px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="8"></input></span><sup>2</sup></td>
 								</tr>
 							</thead>
 							</table>
