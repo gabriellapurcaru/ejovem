@@ -22,11 +22,11 @@
 							<table class="table table-striped" style="margin-top:20px;">
 							<tdead>
 								<tr>
-<td><strong> 1 - </strong><img width="150px" height="130px" src="img/img_atividade04/img01.png"> </td>
-<td><strong> 2 - </strong> <img width="160px" height="170px" src="img/img_atividade04/img02.png"> </td>
-<td><strong> 3 - </strong> <img width="150px" height="160px" src="img/img_atividade04/img03.jpg"> </td>
-<td><strong> 4 - </strong> <img width="180px" height="160px" src="img/img_atividade04/img04.jpg"> </td>
-<td><strong> 5 - </strong> <img width="150px" height="150px" src="img/img_atividade04/img05.jpg"> </td>
+<td><strong> 1 - </strong><img width="120px" height="130px" src="img/img_atividade04/img01.png"> </td>
+<td><strong> 2 - </strong> <img width="120px" height="130px" src="img/img_atividade04/img02.png"> </td>
+<td><strong> 3 - </strong> <img width="130px" height="130px" src="img/img_atividade04/img03.jpg"> </td>
+<td><strong> 4 - </strong> <img width="150px" height="150px" src="img/img_atividade04/img04.jpg"> </td>
+<td><strong> 5 - </strong> <img width="140px" height="140px" src="img/img_atividade04/img05.jpg"> </td>
 								<tr>
 							</thead>
 					

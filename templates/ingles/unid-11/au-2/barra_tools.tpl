@@ -1,4 +1,4 @@
-<div class="navbar-inner">
+﻿<div class="navbar-inner">
 <div id="links_menu">
 		<div class="link">
 			<a href="img/impresso.odt" data-toggle="tooltip" title="Baixar Aula"><img src="../../../imgs/icone_pdf.png"></a>
@@ -22,6 +22,9 @@
 		</div>
 		<div class="link">
 			<a href="conheca-mais.php" data-toggle="tooltip" title="Saiba Mais"><img src="../../../imgs/icone-saibamais.png"></a>
+		</div>
+		<div class="link-voltar">
+			<a href="javascript:window.history.go(-1)" class="links">Voltar</a>
 		</div>
 	</div>
 
