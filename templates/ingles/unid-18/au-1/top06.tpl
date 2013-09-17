@@ -23,9 +23,9 @@
 							<tdead>
 								<tr>
 <td><strong> 1 - </strong><img width="120px" height="130px" src="img/img_atividade04/img01.png"> </td>
-<td><strong> 2 - </strong> <img width="120px" height="130px" src="img/img_atividade04/img02.png"> </td>
-<td><strong> 3 - </strong> <img width="130px" height="130px" src="img/img_atividade04/img03.jpg"> </td>
-<td><strong> 4 - </strong> <img width="150px" height="150px" src="img/img_atividade04/img04.jpg"> </td>
+<td><strong> 2 - </strong> <img width="150px" height="150px" src="img/img_atividade04/img02.jpg"> </td>
+<td><strong> 3 - </strong> <img width="120px" height="120px" src="img/img_atividade04/img03.png"> </td>
+<td><strong> 4 - </strong> <img width="120px" height="130px" src="img/img_atividade04/img04.jpg"> </td>
 <td><strong> 5 - </strong> <img width="140px" height="140px" src="img/img_atividade04/img05.jpg"> </td>
 								<tr>
 							</thead>
@@ -33,15 +33,15 @@
 							<table style="margin-top:60px;">
 							<tbody>
 								<tr>
-<td><span class="GapSpan" id="GapSpan0"><input style="width:20px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td> <td width="150px"><h5>Hillbilly Costumes</h5></td>								
-<td><span class="GapSpan" id="GapSpan1"><input style="width:20px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-<td width="100px"><h5>Straw hat</h5></td>					
-<td><span class="GapSpan" id="GapSpan2"><input style="width:20px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-<td width="100px"><h5>Corn bread</h5></td>
-<td><span class="GapSpan" id="GapSpan3"><input style="width:20px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-<td width="120px"><h5>Square dance</h5></td>
-<td><span class="GapSpan" id="GapSpan4"><input style="width:20px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-<td width="100px"><h5>Fire cracks</h5></td>
+<th width="50px">A - <span class="GapSpan" id="GapSpan0"><input style="width:20px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td> <td width="120px"><h6>Hillbilly Costumes</h6></td>								
+<th width="50px">B - <span class="GapSpan" id="GapSpan1"><input style="width:20px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td width="80px"><h6>Straw hat</h6></td>					
+<th width="50px">C - <span class="GapSpan" id="GapSpan2"><input style="width:20px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td width="80px"><h6>Corn bread</h6></td>
+<th width="50px">D - <span class="GapSpan" id="GapSpan3"><input style="width:20px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td width="100px"><h6>Square dance</h6></td>
+<th width="50px">E - <span class="GapSpan" id="GapSpan4"><input style="width:20px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
+<td width="80px"><h6>Fire cracks</h6></td>
 								</tr>
 							</body>
 							</table>
