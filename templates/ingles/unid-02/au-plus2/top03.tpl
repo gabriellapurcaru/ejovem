@@ -81,8 +81,9 @@ Meet my friend!<br />This monster <span class="GapSpan" id="GapSpan0"><input typ
 {barra_tools}
 
 <div id="navegacao">
-	<span>Página 1 de 10</span>
-	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 3 de 12</span>
+	<a href="top04.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
 {rodape}
