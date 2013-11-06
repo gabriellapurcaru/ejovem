@@ -79,7 +79,8 @@ whale bones - snow northern - live - Eskimo</div>
 {barra_tools}
 
 <div id="navegacao">
-
-</div>
+<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+<span>Página 2 de 2</span>
+	</div>
 
 {rodape}
