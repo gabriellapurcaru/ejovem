@@ -11,7 +11,7 @@
 		<table class="table table-striped" style="width:250px;margin-left:250px;">
 				<tdead>
 					<tr>
-						<td><h4 align="center" style="color:#006400;"> wasn't / weren't </h2></td>
+						<td><h4 align="center" style="color:#006400;"> wasn't / weren't </h4></td>
 					</tr>
 				</thead>
 			</table>
