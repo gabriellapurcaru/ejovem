@@ -6,7 +6,7 @@
 
 	<h3><a href="#" title="">Atividade 01</a></h3>
 		<div id="center">
-			<div id="atividade">
+			<div id="atividade" style="margin-left:25px;">
 				<h5>Notice the images and respond according to the names of each country.</h5>
 				<img src="img/img01_atividade01_part01.jpg" width="747px" height="207px">
 				
