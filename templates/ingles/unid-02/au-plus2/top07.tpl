@@ -14,7 +14,7 @@
 			<div class="tab-content">
 				<div class="tab-pane active" id="tab1">
 					<div id="atividade">
-						<div id="box-explicacao-tabela-texto">
+						<div id="box-explicacao-tabela-texto" style="height:200px;">
 							<table style="color="#006400;">
 <tr>
 <td> <img src="img/diana.png" width="150px" height="200px"></td> <td><p>Hi, I am a girl. My name is <strong>Diana</strong>. I am from Ireland. I live in Dublin. I'm 8 years old. I like dancing.</p></td>
