@@ -1,6 +1,6 @@
 <?php 
     require("../../../tpl/Template.class.php"); 
-    $tpl = new Template("../../../templates/ingles/unid-05/au-plus5/top01.tpl"); 
+    $tpl = new Template("../../../templates/ingles/unid-05/au-plus5/top03.tpl"); 
     $tpl->addFile("topo", "../../../topo.tpl");
     $tpl->addFile("tituloAula", "../../../templates/ingles/unid-05/au-plus5/tituloAula.tpl"); 
     $tpl->addFile("menu", "../../../templates/ingles/unid-05/au-plus5/menu.tpl");
