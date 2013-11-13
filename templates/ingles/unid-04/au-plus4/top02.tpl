@@ -21,7 +21,7 @@
 				<div id="ClozeDiv">
 					<form id="Cloze" method="post" action="" onsubmit="return false;">
 						<div class="ClozeBody">
-	<table class="table table-striped" style="width:200px;float: center;margin-left:200px;">
+	<table class="table table-striped" style="width:200px;float: center;margin-left:230px;">
 		<tdead>
 	<tr>
 <td><img src="img/64Z_china_ruler.gif" width="50px" height="70px"></td><td><h6>He is from China.
@@ -29,53 +29,66 @@
 	</tr>
 		</thead>
 	</table>
-		<table>
+		<table style="margin-top:-80px;">
 			<tr>
-<td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
+<td><img src="img/Japan.gif" width="50px" height="70px"></td>			
+<td width="28%"><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
 <br /><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="15" style="width:130px;"></input></span>.</td>
-			
-<td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="20" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.</td>
-			</tr>
-			<tr>
-<td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
-			
-<td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.</td>
-<br /><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="12" style="width:130px;"></input></span>.</td>
-			</tr>
-			<tr>
-<td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
-			
-<td><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.</td>
-<br /><span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
-			</tr>
-			<tr>
-<td><span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="11" style="width:130px;"></input></span>.</td>
-			
-<td><span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="18" style="width:130px;"></input></span>.</td>
-<br /><span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
-			</tr>
-			<tr>
-<td><span class="GapSpan" id="GapSpan16"><input type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan17"><input type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="13" style="width:130px;"></input></span>.</td>
-			
-<td><span class="GapSpan" id="GapSpan18"><input type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="18" style="width:130px;"></input></span>.</td>
-<br /><span class="GapSpan" id="GapSpan19"><input type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.</td>
-			</tr>
-			<tr>
+
+<td></td>			
+<td width="28%"></td>
+
+<td><img src="img/england.gif" width="50px" height="70px"></td>			
 <td><span class="GapSpan" id="GapSpan20"><input type="text" id="Gap20" onfocus="TrackFocus(20)" onblur="LeaveGap()" class="GapBox" size="18" style="width:130px;"></input></span>.
 <br /><span class="GapSpan" id="GapSpan21"><input type="text" id="Gap21" onfocus="TrackFocus(21)" onblur="LeaveGap()" class="GapBox" size="13" style="width:130px;"></input></span>.</td>
 			</tr>
+			<tr>
+<td><img src="img/E99_egypt_pyramids.gif" width="50px" height="70px"></td>			
+<td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
+
+<td><img src="img/franca.gif" width="50px" height="70px"></td>			
+<td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="12" style="width:130px;"></input></span>.</td>
+
+<td><img src="img/Brazil.gif" width="50px" height="70px"></td>			
+<td><span class="GapSpan" id="GapSpan18"><input type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="18" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan19"><input type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.</td>
+			</tr>
+			<tr>
+<td><img src="img/china02.gif" width="50px" height="70px"></td>			
+<td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
+	
+<td><img src="img/spain.gif" width="50px" height="70px"></td>	
+<td><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
+
+<td><img src="img/Russia.gif" width="50px" height="70px"></td>			
+<td><span class="GapSpan" id="GapSpan16"><input type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan17"><input type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="13" style="width:130px;"></input></span>.</td>
+			</tr>
+			<tr>
+<td><img src="img/6C1_greece_apollo.gif" width="50px" height="70px"></td>			
+<td><span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="11" style="width:130px;"></input></span>.</td>
+
+<td><img src="img/Australia.gif" width="50px" height="70px"></td>			
+<td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="20" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.</td>
+
+<td><img src="img/America.gif" width="50px" height="70px"></td>			
+<td><span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="18" style="width:130px;"></input></span>.
+<br /><span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
+			</tr>
+			
 		</table>					
 	
 						</div>
 					</form>
 				</div>
-				<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-				<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button>
+				<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+				<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button></p>
 			</div>
 			<div class="Feedback" id="FeedbackDiv">
 				<div class="FeedbackText" id="FeedbackContent"></div>
