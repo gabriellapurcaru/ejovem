@@ -3,11 +3,23 @@
 {menu}
 
 <div id="meio">
-	<h3><a href="#" title="">Atividade 02</a></h3>
-		<div id="center">
-			<div id="atividade">
-				<!-- -->
-					<h5>Choice the form correct extensive form.</h5>
+<h3><a href="" title="Revisando!">Brush up!</a></h3>
+<div id="center">
+
+<div id="box-esquerda">
+<div class="ba-esq">
+    <div class="ba-balao">
+ 		<p>Agora que assistimos o vídeo vamos fazer atividades sobre os números.</p>
+ 		<p>Nessa primeira atividade você terá que escolher a forma extensa do número correta.</p>
+    </div>
+    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+</div>
+</div>
+
+<div id="box-direita">
+<div id="explicacao">
+
+<!-- -->
 					<script src="js/Atividade_a02_aula03.js" type="text/javascript"></script></head>
 						<div id="InstructionsDiv" class="StdDiv">
 							<div id="Instructions"></div>
@@ -149,9 +161,14 @@
 					<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;Ok.&nbsp;</button>
 				</div>
 			<!--  -->
-		</div>
-	</div>
+
 </div>
+</div>
+
+
+</div>
+</div>
+
 {barra_tools}
 
 <div id="navegacao">
