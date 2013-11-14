@@ -3,98 +3,167 @@
 {menu}
 
 <div id="meio">
+	
+	
+	
 	<h3><a href="#" title="">Atividade 01 - Tópico 02</a></h3>
 	<div id="center">
 		<div id="atividade">
-		<!-- -->
-		<h5>Post according to the example.</h5>
-		<script src="js/atividade_a01_topico02.js" type="text/javascript"></script></head>
+		
+			<!-- -->
+			<h5>Já sabe tudo  sobre nacionalidades?  Olhe as fotos e escolha a opção correta.</h5>
+
+			<script src="js/atividade_01_topico01.js" type="text/javascript"></script>
+
 			<div id="InstructionsDiv" class="StdDiv">
 				<div id="Instructions"></div>
 			</div>
+
 			<div id="MainDiv" class="StdDiv">
-				<!-- These top buttons hidden; reveal if required -->
-				<!--
-				<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-				<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button>
-				-->
-				<div id="ClozeDiv">
-					<form id="Cloze" method="post" action="" onsubmit="return false;">
-						<div class="ClozeBody">
-	<table class="table table-striped" style="width:200px;float: center;margin-left:230px;">
-		<tdead>
-	<tr>
-<td><img src="img/64Z_china_ruler.gif" width="50px" height="70px"></td><td><h6>He is from China.
-<br />He is Chinese.</h6></td>
-	</tr>
-		</thead>
-	</table>
-		<table style="margin-top:-80px;">
+
+			<div id="MatchDiv" style="text-align: center;">
+			<form id="QForm" method="post" action="" onsubmit="return false;">
+
+			<table border=0>
+			<tbody id="Questions">
+
 			<tr>
-<td><img src="img/Japan.gif" width="50px" height="70px"></td>			
-<td width="28%"><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="15" style="width:130px;"></input></span>.</td>
+				<td class="LeftItem" width="26%"><img src="img/Russia.gif" alt="Russia.gif" title="Russia" width="80" height="100" style="float: center;"></img></td>
+				<td class="LeftItem" width="28%"><img src="img/E99_egypt_pyramids.gif" alt="E99_egypt_pyramids.gif" title="E99_egypt_pyramids" width="140" height="160" style="float: center;"></img></td>
+				<td class="LeftItem" width="27%"><img src="img/china02.gif" alt="china02.gif" title="china02" width="100" height="120" style="float: center;"></img></td>
+				<td class="LeftItem" width="25%"><img src="img/Australia.gif" alt="Australia.gif" title="Australia" width="135" height="170" style="float: center;"></img></td>
+			</tr>
 
-<td></td>			
-<td width="28%"></td>
+			<tr>
+			<td>
+			<select id="s6_6" style="width:90px;">
+				<option value="x">Choice</option>
+				<option value="6">He is from Russia.</option>
+				<option value="10">He is from America.</option>
+				<option value="9">He is from Greece.</option>
+			</select>
+			</td>
 
-<td><img src="img/england.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan20"><input type="text" id="Gap20" onfocus="TrackFocus(20)" onblur="LeaveGap()" class="GapBox" size="18" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan21"><input type="text" id="Gap21" onfocus="TrackFocus(21)" onblur="LeaveGap()" class="GapBox" size="13" style="width:130px;"></input></span>.</td>
+			<td>
+			<select id="s1_1" style="width:90px;"><option value="x">Choice</option>
+			<option value="1">He is from Egypt.</option>
+			<option value="4">He is from Serbia.</option>
+			<option value="3">He is from france.</option>
+			</select>
+			</td>
+
+			<td>
+			<select id="s2_2" style="width:90px;"><option value="x">Choice</option>
+			<option value="2">She is from China.</option>
+			<option value="8">She is from Brazil.</option>
+			<option value="8">She is from Italy.</option>
+			</select>
+			</td>
+
+			<td>
+			<select id="s11_11" style="width:90px;"><option value="x">Choice</option>
+			<option value="10">It is from America.</option>
+			<option value="11">It is from Australia.</option>
+			<option value="9">He is from Greece.</option>
+			</select>
+			</td>
+
 			</tr>
 			<tr>
-<td><img src="img/E99_egypt_pyramids.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
+			<td class="LeftItem"><img src="img/Brazil.gif" alt="Brazil.gif" title="Brazil" width="80" height="120" style="float: center;"></img></td>
+			<td class="LeftItem"><img src="img/spain.gif" alt="spain.gif" title="spain" width="50" height="60" style="float: center;"></img></td>
+			<td class="LeftItem" width="25%"><img src="img/franca.gif" alt="franca.gif" title="franca" width="110" height="140" style="float: center;"></img></td>
+			<td class="LeftItem"><img src="img/Japan.gif" alt="Japan.gif" title="Japan" width="50" height="60" style="float: center;"></img></td>
+			</tr>
 
-<td><img src="img/franca.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="12" style="width:130px;"></input></span>.</td>
+			<tr>
+			<td>						
+			<select id="s8_8" style="width:90px;"><option value="x">Choice</option>
+			<option value="8">She is from Brazil.</option>
+			<option value="7">She is from Italy.</option>
+			<option value="5">She is from England.</option>
+			</select>
+			</td>
 
-<td><img src="img/Brazil.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan18"><input type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="18" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan19"><input type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.</td>
+			<td>
+			<select id="s5_5" style="width:90px;"><option value="x">Choice</option>
+			<option value="5">She is from Spain.</option>
+			<option value="11">She is from Australia.</option>
+			<option value="9">She is from Italy.</option>
+			</select>
+			</td>
+
+			<td><select id="s3_3" style="width:90px;"><option value="x">Choice</option>
+			<option value="10">He is from America.</option>
+			<option value="4">He is from England.</option>
+			<option value="3">He is from france.</option>
+			</select>
+			</td>
+
+			<td>
+			<select id="s7_7" style="width:90px;"><option value="x">Choice</option>
+			<option value="2">She is from China.</option>
+			<option value="7">She is from Japan.</option>
+			<option value="5">She is from Spain.</option>
+			</select>
+			</td>
+
 			</tr>
 			<tr>
-<td><img src="img/china02.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
-	
-<td><img src="img/spain.gif" width="50px" height="70px"></td>	
-<td><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
+			<td class="LeftItem"><img src="img/england.gif" alt="england.gif" title="england" width="50" height="60" style="float: center;"></img></td>
+			<td class="LeftItem"><img src="img/America.gif" alt="America.gif" title="America" width="100" height="130" style="float: center;"></img></td>
+			<td class="CenterItem" width="25%"><img src="img/64Z_china_ruler.gif" alt="64Z_china_ruler.gif" title="64Z_china_ruler" width="50" height="60" style="float: center;"></img>
+			</td>
 
-<td><img src="img/Russia.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan16"><input type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan17"><input type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="13" style="width:130px;"></input></span>.</td>
+			<td class="LeftItem"><img src="img/6C1_greece_apollo.gif" alt="6C1_greece_apollo.gif" title="6C1_greece_apollo" width="60" height="70" style="float: center;"></img>
+			</td>
+
 			</tr>
+
 			<tr>
-<td><img src="img/6C1_greece_apollo.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="17" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="11" style="width:130px;"></input></span>.</td>
+			<td>
+			<select id="s4_4" style="width:90px;"><option value="x">Choice</option>
+			<option value="7">She is from Japan.</option>
+			<option value="1">He is from Egypt.</option>
+			<option value="4">He is from England.</option>
+			</select></td>						
 
-<td><img src="img/Australia.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="20" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="16" style="width:130px;"></input></span>.</td>
+			<td><select id="s10_10" style="width:90px;"><option value="x">Choice</option>
+			<option value="10">It is from America.</option>
+			<option value="9">He is from Greece.</option>
+			<option value="4">He is from England.</option>
+			</select></td>
 
-<td><img src="img/America.gif" width="50px" height="70px"></td>			
-<td><span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="18" style="width:130px;"></input></span>.
-<br /><span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="14" style="width:130px;"></input></span>.</td>
+			<td><select id="s0_0" style="width:90px;"><option value="x">Choice</option>
+			<option value="0">He is from China.</option>
+			<option value="6">He is from Russia.</option>
+			<option value="3">He is from Africa.</option>
+			</select></td>
+			<td>
+			<select id="s9_9" style="width:90px;"><option value="x">choice</option>
+			<option value="6">He is from Russia.</option>
+			<option value="11">It is from Australia.</option>
+			<option value="9">He is from Greece.</option>
+			</select></td>
 			</tr>
-			
-		</table>					
-	
-						</div>
-					</form>
-				</div>
-				<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-				<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button></p>
+
+			</tbody>
+
+			</table>
+			</form>
 			</div>
+
+			<p align="right"><button id="CheckButton2" style="align:right;" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button></p>
+			</div>
+
 			<div class="Feedback" id="FeedbackDiv">
 				<div class="FeedbackText" id="FeedbackContent"></div>
 				<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;Ok.&nbsp;</button>
 			</div>
-		<!--  -->
+			<!--  -->
+		
+		
+	
 		</div>
 	</div>
 </div>

@@ -2,7 +2,7 @@
 {tituloAula}
 {menu}
 <div id="meio">
-<h3><a href="" title="Alfabeto">Alphabet</a></h3>
+<h3><a href=""  class="tooltip-test" title="Alfabeto">Alphabet</a></h3>
 <div id="center">
 
 <div id="box-center-video">
@@ -28,9 +28,9 @@
 {barra_tools}
 
 <div id="navegacao">
-	<a href="top02.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<a  href="top02.php" class="navegacao-esq tooltip-test"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 3 de 7</span>
-	<a href="top04.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+	<a  href="top04.php" class="navegacao-dir tooltip-test"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
 {rodape}

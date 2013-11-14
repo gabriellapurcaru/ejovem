@@ -3,8 +3,7 @@
 {menu}
 
 <div id="meio">
-
-	<h3><a href="#" title="">Atividade 03 - Tópico 01</a></h3>
+<h3><a href="#" title=""  class="tooltip-test">Atividade 03 - Tópico 01</a></h3>
 	<div id="center">
 		<div id="atividade">
 			<!-- -->

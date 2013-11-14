@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3> <a href="" title="Ortografia">Spelling</a></h3>
+<h3> <a href=""  class="tooltip-test" title="Ortografia">Spelling</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
@@ -38,9 +38,9 @@
 {barra_tools}
 
 <div id="navegacao">
-	<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<a  href="top04.php" class="navegacao-esq tooltip-test"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 5 de 7</span>
-	<a href="top06.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top06.php" class="navegacao-dir tooltip-test"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
 {rodape}
