@@ -7,7 +7,7 @@
 <h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
 <div id="center">
 <!-- -->
-<script src="Aula05_a03.js" type="text/javascript"></script></head>
+<script src="js/Aula05_a03.js" type="text/javascript"></script></head>
 
 <body onload="StartUp()" id="TheBody" >
 
