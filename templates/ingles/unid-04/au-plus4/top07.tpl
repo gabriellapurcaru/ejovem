@@ -5,20 +5,33 @@
 <div id="meio">
 	<h3><a href="#" title="">Atividade 03 - Tópico 01</a></h3>
 	<div id="center">
+		<div id="box-esquerda">
+		<div id="box-atividade">
+			<div class="ba-esq">
+			<div class="ba-balao">
+			        <p><h5><a class="" href="#" title="Ouça as perguntas e escolha a resposta correta.">Listen to the questions and choose the correct answer.</h5></a></p>
+			</div>
+			    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+				</div>
+			</div>
+			</div>
+			<div id="box-direita">
+			<div id="box-direita">
 		<div id="atividade">
 			<!-- -->
+			<h5>Match the items on the right to the items on the left.</h5>
 			<script src="js/atividade-aula04_a03_topico01.js" type="text/javascript"></script></head>
-				Listen to the questions and choose the correct answer.</h2>
 				<div id="InstructionsDiv" class="StdDiv">
-					<div id="Instructions">Match the items on the right to the items on the left.</div>
+					<div id="Instructions"></div>
 				</div>
 				<div id="MainDiv" class="StdDiv">
-					<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+					
 					<div id="MatchDiv" style="text-align: center;">
 						<form id="QForm" method="post" action="" onsubmit="return false;">
 							<table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">
 								<tr>
-<td class="LeftItem">Audio: " My name's Katie"</td><td class="RightItem"><select id="s0_0"><option value="x"></option>
+<td class="LeftItem">Audio: " My name's Katie"</td><td class="RightItem"><select id="s0_0" style="width:150px;">
+<option value="x"></option>
 <option value="2">I'm eleven.</option>
 <option value="5">I live in Canterbury.</option>
 <option value="1">My address is 32, castle street.</option>
@@ -27,7 +40,8 @@
 </select></td><td></td>
 								</tr>
 								<tr>
-<td class="LeftItem">Audio: " I'm Thirteen."</td><td class="RightItem"><select id="s1_1"><option value="x"></option>
+<td class="LeftItem">Audio: " I'm Thirteen."</td><td class="RightItem"><select id="s1_1" style="width:150px;">
+<option value="x"></option>
 <option value="2">I live in Canterbury.</option>
 <option value="5">It's 089 445 662.</option>
 <option value="1">I'm Thirteen.</option>
@@ -37,7 +51,8 @@
 </select></td><td></td>
 								</tr>
 								<tr>
-<td class="LeftItem">Audio: " I live in Canterbury."</td><td class="RightItem"><select id="s2_2"><option value="x"></option>
+<td class="LeftItem">Audio: " I live in Canterbury."</td><td class="RightItem"><select id="s2_2" style="width:150px;">
+<option value="x"></option>
 <option value="2">I live in Canterbury.</option>
 <option value="5">It's 089 445 662.</option>
 <option value="1">I'm Thirteen.</option>
@@ -47,7 +62,8 @@
 </select></td><td></td>
 								</tr>
 								<tr>
-<td class="LeftItem">Audio: " I'm irish."</td><td class="RightItem"><select id="s3_3"><option value="x"></option>
+<td class="LeftItem">Audio: " I'm irish."</td><td class="RightItem"><select id="s3_3" style="width:150px;">
+<option value="x"></option>
 <option value="2">I live in Canterbury.</option>
 <option value="5">It's 089 445 662.</option>
 <option value="1">I'm Thirteen.</option>
@@ -57,7 +73,8 @@
 </select></td><td></td>
 								</tr>
 								<tr>
-<td class="LeftItem">Audio: " It's 15, castle street."</td><td class="RightItem"><select id="s4_4"><option value="x"></option>
+<td class="LeftItem">Audio: " It's 15, castle street."</td><td class="RightItem"><select id="s4_4" style="width:150px;">
+<option value="x"></option>
 <option value="2">I live in Canterbury.</option>
 <option value="5">It's 089 445 662.</option>
 <option value="1">I'm Thirteen.</option>
@@ -67,7 +84,8 @@
 </select></td><td></td>
 								</tr>
 								<tr>
-<td class="LeftItem">Audio: " It's 089 445 662. "</td><td class="RightItem"><select id="s5_5"><option value="x"></option>
+<td class="LeftItem">Audio: " It's 089 445 662. "</td><td class="RightItem"><select id="s5_5" style="width:150px;">
+<option value="x"></option>
 <option value="2">I live in Canterbury.</option>
 <option value="5">It's 089 445 662.</option>
 <option value="1">I'm Thirteen.</option>
@@ -80,13 +98,15 @@
 							</table>
 						</form>
 					</div>
-					<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+					<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button></p>
 				</div>
 				<div class="Feedback" id="FeedbackDiv">
 					<div class="FeedbackText" id="FeedbackContent"></div>
 					<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;Ok.&nbsp;</button>
 				</div>
 			<!--  -->
+			</div>
+			</div>
 		</div>
 	</div>
 </div>
