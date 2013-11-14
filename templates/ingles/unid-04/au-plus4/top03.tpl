@@ -5,6 +5,18 @@
 <div id="meio">
 	<h3><a href="#" title="">Atividade 02 - Tópico 01</a></h3>
 	<div id="center">
+		<div id="box-esquerda">
+		<div id="box-atividade">
+			<div class="ba-esq">
+			<div class="ba-balao">
+			        <p><h5><a class="" href="#" title="Marque as opções em que você precisa colocar a expressão "o'clock" para falar o horário.">Check the options you need to put the word "o'clock" to speak the time.</h5></a></p>
+			</div>
+			    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+				</div>
+			</div>
+			</div>
+			<div id="box-direita">
+			<div id="box-direita">
 		<div id="atividade">
 	<!-- -->
 			<script src="js/atividade_a02_topico01.js" type="text/javascript"></script></head>
@@ -53,7 +65,8 @@
 		<!--  -->
 
 
-
+			</div>
+			</div>
 		</div>
 	</div>
 </div>
