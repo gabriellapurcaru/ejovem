@@ -6,6 +6,7 @@
 <h3><a href="" title="Vamos começar!"/>Let's get started!</a></h3>
 <div id="center">
 <script src="js/tela_02.js" type="text/javascript"></script></head>
+
 <div id="swf">
 <h6><p class="titulo">Use a seta para navegar<p></h6>
 <br>
