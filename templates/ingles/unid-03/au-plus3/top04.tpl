@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="" title="Revisando!">Brush up!</a></h3>
+<h3><a href=""  class="tooltip-test" title="Revisando!">Brush up!</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
@@ -20,18 +20,14 @@
 <div id="explicacao">
 
 <!-- -->
-					<script src="js/Atividade_a02_aula03.js" type="text/javascript"></script></head>
-						<div id="InstructionsDiv" class="StdDiv">
-							<div id="Instructions"></div>
-						</div>
-						<div id="MainDiv" class="StdDiv">
-							<div id="QNav" class="QuestionNavigation">
-								<div id="OneByOneReadout">
-									<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;">&lt;=</button>
-									<span id="QNumReadout" class="QNum">&nbsp;</span>
-									<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;">=&gt;</button>
-								</div>
-							</div>
+<script src="js/Atividade_a02_aula03.js" type="text/javascript"></script></head>
+<div id="InstructionsDiv" class="StdDiv">
+<div id="Instructions"></div>
+</div>
+
+<div id="MainDiv" class="StdDiv">
+
+
 <ol class="QuizQuestions" id="Questions">
 <li class="QuizQuestion" id="Q_0" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#FF8C00;font-size:35px;font-weight:bold;">Fifteen</div>
 <ol class="MCAnswers" style="margin-top:-65px;">
@@ -44,7 +40,7 @@
 <li id="Q_1_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_1_Btn" onclick="CheckMCAnswer(1,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;thirteen</li>
 <li id="Q_1_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_2_Btn" onclick="CheckMCAnswer(1,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;three</li></ol></li>
 
-<li class="QuizQuestion" id="Q_2" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#2E8B57;font-size:40px;font-weight:bold;">ninety-one</div>
+<li class="QuizQuestion" id="Q_2" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#2E8B57;font-size:30px;font-weight:bold;">ninety-one</div>
 <ol class="MCAnswers" style="margin-top:-65px;">
 <li id="Q_2_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_2_0_Btn" onclick="CheckMCAnswer(2,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;9</li>
 <li id="Q_2_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_2_1_Btn" onclick="CheckMCAnswer(2,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;19</li>
@@ -56,7 +52,7 @@
 <li id="Q_3_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_3_1_Btn" onclick="CheckMCAnswer(3,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;eihgt</li>
 <li id="Q_3_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_3_2_Btn" onclick="CheckMCAnswer(3,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;eigth</li></ol></li>
 
-<li class="QuizQuestion" id="Q_4" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#76EE00;font-size:35px;font-weight:bold;">twenty-seven</div>
+<li class="QuizQuestion" id="Q_4" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#76EE00;font-size:25px;font-weight:bold;">twenty-seven</div>
 <ol class="MCAnswers" style="margin-top:-65px;">
 <li id="Q_4_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_4_0_Btn" onclick="CheckMCAnswer(4,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;207</li>
 <li id="Q_4_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_4_1_Btn" onclick="CheckMCAnswer(4,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;27</li>
@@ -80,7 +76,7 @@
 <li id="Q_7_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_7_1_Btn" onclick="CheckMCAnswer(7,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;ten two</li>
 <li id="Q_7_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_7_2_Btn" onclick="CheckMCAnswer(7,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;twelve</li></ol></li>
 
-<li class="QuizQuestion" id="Q_8" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#9ACD32;font-size:35px;font-weight:bold;">eighty-seven</div>
+<li class="QuizQuestion" id="Q_8" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#9ACD32;font-size:25px;font-weight:bold;">eighty-seven</div>
 <ol class="MCAnswers" style="margin-top:-65px;">
 <li id="Q_8_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_8_0_Btn" onclick="CheckMCAnswer(8,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;87</li>
 <li id="Q_8_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_8_1_Btn" onclick="CheckMCAnswer(8,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;78</li>
@@ -134,7 +130,7 @@
 <li id="Q_16_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_16_1_Btn" onclick="CheckMCAnswer(16,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;threeteen</li>
 <li id="Q_16_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_16_2_Btn" onclick="CheckMCAnswer(16,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;thirty</li></ol></li>
 
-<li class="QuizQuestion" id="Q_17" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#32CD32;font-size:35px;font-weight:bold;">two, three, four, _______ .</div>
+<li class="QuizQuestion" id="Q_17" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#32CD32;font-size:15px;font-weight:bold;">two, three, four, ____ .</div>
 <ol class="MCAnswers" style="margin-top:-65px;">
 <li id="Q_17_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_17_0_Btn" onclick="CheckMCAnswer(17,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;fift</li>
 <li id="Q_17_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_17_1_Btn" onclick="CheckMCAnswer(17,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;fifteen</li>
@@ -146,21 +142,26 @@
 <li id="Q_18_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_18_1_Btn" onclick="CheckMCAnswer(18,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;sixty-nine</li>
 <li id="Q_18_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_18_2_Btn" onclick="CheckMCAnswer(18,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;ninety-six</li></ol></li>
 
-<li class="QuizQuestion" id="Q_19" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#00BFFF;font-size:35px;font-weight:bold;">eighty-eight</div>
+<li class="QuizQuestion" id="Q_19" style="display: none;"><div class="QuestionText" style="margin-left:200px;margin-top:50px;color:#00BFFF;font-size:25px;font-weight:bold;">eighty-eight</div>
 <ol class="MCAnswers" style="margin-top:-65px;">
 <li id="Q_19_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_19_0_Btn" onclick="CheckMCAnswer(19,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;80</li>
 <li id="Q_19_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_19_1_Btn" onclick="CheckMCAnswer(19,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;18</li>
 <li id="Q_19_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_19_2_Btn" onclick="CheckMCAnswer(19,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;88</li></ol></li></ol>
+</div>
 
-						</div>
-				<p style="text-align: right;">
-					<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return false;">Show all questions</button>
-				</p>
-				<div class="Feedback" id="FeedbackDiv">
-					<div class="FeedbackText" id="FeedbackContent"></div>
-					<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;Ok.&nbsp;</button>
-				</div>
-			<!--  -->
+<div id="QNav" class="QuestionNavigation">
+	<div id="OneByOneReadout">
+		<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;">Anterior</button>
+		<span id="QNumReadout" class="QNum">&nbsp;</span>
+		<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;">Próxima</button>
+	</div>
+</div>
+
+<div class="Feedback" id="FeedbackDiv">
+	<div class="FeedbackText" id="FeedbackContent"></div>
+	<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;Ok.&nbsp;</button>
+</div>
+<!--  -->
 
 </div>
 </div>
@@ -172,9 +173,9 @@
 {barra_tools}
 
 <div id="navegacao">
-	<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<a	 href="top03.php" class="navegacao-esq tooltip-test"><img src="../../../imgs/seta1.png"/></a>
 	<span>Página 4 de 7</span>
-	<a href="top05.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top05.php" class="navegacao-dir tooltip-test"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
 {rodape}
