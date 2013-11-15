@@ -15,8 +15,24 @@
 	<div id="MainDiv" class="StdDiv">
 		<div id="MatchDiv" style="text-align: center;">
 			<form id="QForm" method="post" action="" onsubmit="return false;">
-				<table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">
-<tr><td class="LeftItem">Peter<br />"sing"</td><td class="RightItem"><select id="s0_0"><option value="x">?</option>
+				<table class="table table-striped">
+				<tdead>
+				<tbody id="Questions">
+<tr>
+<td class="LeftItem">Peter<br />
+<img src="img/atividade01/Peter.jpg" width="90px" height="100px"></td>
+<td class="LeftItem">Ted and Jenny<br />
+<img src="img/atividade01/Ted and Jenny.jpg" width="100px" height="120px"></td>
+<td class="LeftItem">Jimmy<br />
+<img src="img/atividade01/Jimmy.jpg" width="90px" height="100px"></td>
+<td class="LeftItem">Carol<br />
+<img src="img/atividade01/Carol.jpg" width="90px" height="100px"></td>
+<td class="LeftItem">James<br />
+<img src="img/atividade01/James.jpg" width="90px" height="100px"></td>
+</tr>
+
+<tr>
+<td class="RightItem"><select id="s0_0" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -26,7 +42,9 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr><tr><td class="LeftItem">Ted and Jenny<br />"dance"</td><td class="RightItem"><select id="s1_1"><option value="x">?</option>
+</select></td>
+
+<td class="RightItem"><select id="s1_1" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -36,7 +54,9 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr><tr><td class="LeftItem">Jimmy<br />"draw"</td><td class="RightItem"><select id="s2_2"><option value="x">?</option>
+</select></td>
+
+<td class="RightItem"><select id="s2_2" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -46,7 +66,9 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr><tr><td class="LeftItem">Carol<br />"play tennis"</td><td class="RightItem"><select id="s3_3"><option value="x">?</option>
+</select></td>
+
+<td class="RightItem"><select id="s3_3" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -56,7 +78,9 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr><tr><td class="LeftItem">James<br />"ride a horse"</td><td class="RightItem"><select id="s4_4"><option value="x">?</option>
+</select></td>
+
+<td class="RightItem"><select id="s4_4" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -66,7 +90,20 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr><tr><td class="LeftItem">My father<br />"repair things"</td><td class="RightItem"><select id="s5_5"><option value="x">?</option>
+</select></td>
+</tr>
+<tr>
+<td class="LeftItem">My father<br />
+<img src="img/atividade01/My father.jpg" width="70px" height="80px"></td>
+<td class="LeftItem">My cousin<br />
+<img src="img/atividade01/My cousin.jpg" width="90px" height="100px"></td>
+<td class="LeftItem">My neighbour<br />
+<img src="img/atividade01/My neighbour.jpg" width="90px" height="100px"></td>
+<td class="LeftItem">My grandparents<br />
+<img src="img/atividade01/My grandparents.jpg" width="90px" height="100px"></td>
+</tr>
+<tr>
+<td class="RightItem"><select id="s5_5" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -76,7 +113,8 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr><tr><td class="LeftItem">My cousin<br />"play the guitar"</td><td class="RightItem"><select id="s6_6"><option value="x">?</option>
+</select></td>
+<td class="RightItem"><select id="s6_6" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -86,7 +124,8 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr><tr><td class="LeftItem">My neighbour<br />"paint"</td><td class="RightItem"><select id="s7_7"><option value="x">?</option>
+</select></td>
+<td class="RightItem"><select id="s7_7" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -96,7 +135,8 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr><tr><td class="LeftItem">My grandparents<br />"play chess"</td><td class="RightItem"><select id="s8_8"><option value="x">?</option>
+</select></td>
+<td class="RightItem"><select id="s8_8" style="width:100px;height:25px;"><option value="x"></option>
 <option value="5">repair things</option>
 <option value="1">dance</option>
 <option value="3">play tennis</option>
@@ -106,12 +146,14 @@
 <option value="8">play chess</option>
 <option value="6">play the guitar</option>
 <option value="0">sing</option>
-</select></td><td></td></tr>
+</select></td>
+</tr>
 			</tbody>
+			</thead>
 			</table>
 		</form>
 	</div>
-	<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+	<button id="CheckButton2" style="margin-left:620px;" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 	</div>
 	<div class="Feedback" id="FeedbackDiv">
 		<div class="FeedbackText" id="FeedbackContent"></div>
