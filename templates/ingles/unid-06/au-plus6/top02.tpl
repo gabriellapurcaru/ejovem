@@ -51,11 +51,11 @@
 <td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="11" style="width:90px;"></input></span></td>
 								</tr>
 								<tr>
-<td>a)</td>
-<td>b)</td>
-<td>c)</td>
-<td>d)</td>
-<td>e)</td>
+<td>f)</td>
+<td>g)</td>
+<td>h)</td>
+<td>i)</td>
+<td>j)</td>
 								</tr>
 								<tr>
 <td width="25%"> <img src="img/Img_atividade01_topico02/nurse.png" width="40px" height="70px"></td>
@@ -72,11 +72,11 @@
 <td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;"></input></span></td>
 								</tr>
 								<tr>
-<td>a)</td>
-<td>b)</td>
-<td>c)</td>
-<td>d)</td>
-<td>e)</td>
+<td>k)</td>
+<td>l)</td>
+<td>m)</td>
+<td>n)</td>
+<td>o)</td>
 								</tr>
 								<tr>
 <td width="25%"> <img src="img/Img_atividade01_topico02/tailor.gif" width="80px" height="170px"></td>
