@@ -3,18 +3,13 @@
 {menu}
 
 <div id="meio">
-	<h3><a href="#" title="">Atividade 02 - Tópico 01</a></h3>
+	<h3><a href="#" title="Recordando!">Brush up!</a></h3>
 	<div id="center">
 		<div id="atividade">
 		<!-- -->
-		<h5>Complete the sentences using the Verb To Be affirmative in the past.</h5>
-			<table class="table table-striped" style="width:150px;margin-left:250px;">
-				<tdead>
-					<tr>
-						<td><h4 align="center" style="color:#006400;"> was / were </h2></td>
-					</tr>
-				</thead>
-			</table>
+		<h5>Começamos nossa aula plus vendo o verb to be, agora vamos fazer uma atividade utilizando o passado do verb to be na forma negativa, afirmativa e interrogativa. </h5>
+		<h5>Para começar complete as frases com a forma afirmativa.</h5>
+		</br>	
 		<script src="js/Aula02_a02_topico01.js" type="text/javascript"></script></head>
 		<div class="Titles">
 		</div>
@@ -22,11 +17,7 @@
 			<div id="Instructions"></div>
 		</div>
 		<div id="MainDiv" class="StdDiv">
-			<!-- These top buttons hidden; reveal if required -->
-			<!--
-			<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-			<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button>
-			-->
+		
 			<div id="ClozeDiv">
 				<form id="Cloze" method="post" action="" onsubmit="return false;">
 					<div class="ClozeBody">

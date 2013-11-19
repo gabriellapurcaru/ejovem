@@ -3,18 +3,12 @@
 {menu}
 
 <div id="meio">
-	<h3><a href="#" title="">Atividade 02 - Tópico 02</a></h3>
+	<h3><a href="#" title="Recordando!">Brush up!</a></h3>
 	<div id="center">
 		<div id="atividade">
 		<!-- -->
-		<h5>Complete the sentences using the Verb To Be negative in the past.</h5>
-		<table class="table table-striped" style="width:250px;margin-left:250px;">
-				<tdead>
-					<tr>
-						<td><h4 align="center" style="color:#006400;"> wasn't / weren't </h4></td>
-					</tr>
-				</thead>
-			</table>
+		<h5>Agora complete usando o passado do verbo To Be na forma negativa.</h5>
+		</br>
 		<script src="js/Aula02_a02_topico02.js" type="text/javascript"></script></head>
 		<div id="InstructionsDiv" class="StdDiv">
 			<div id="Instructions"></div>

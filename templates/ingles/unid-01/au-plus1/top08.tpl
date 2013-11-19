@@ -2,32 +2,29 @@
 {tituloAula}
 {menu}
 
-
 <div id="meio">
-
-<h3><a href="#" title="Saiba mais">Learn More</a></h3>
-
+<h3><a href="#" class="tooltip-test" title="Revisando!">Brush up!</a></h3>
 <div id="center">
-<div id="box-center-saiba-mais">
-    <div id="box-esq">
-        <div id="texto">
-            <p>Já que estamos falando sobre a importância do aprendizado de outras línguas e o uso de palavras, termos oriundos do idioma inglês no português, vamos aprender um pouco mais sobre os estrangeirismos. </p>
-        </div>
-        <div class="box-person">
-                <img src="../../../imgs/e13.png"/>
-        </div>
+
+<div id="box-esquerda">
+<div class="ba-esq">
+    <div class="ba-balao">
+ 		<p>Agora, Ligue os cognatos e falsos cognatos aos seus significados</p>
+		
     </div>
-    <div id="box-dir">
-        <div id="box-dir-explicacao">
-	    	<p>Segundo o site Dicionário Informal (2012), o estrangeirismo trata-se de todo e qualquer emprego de palavras, expressões e construções estrangeiras em nosso idioma.</p>
-	    	<p>Entre na seção <a href="conheca-mais.php">Conheça Mais</a> e saiba um pouco mais sobre a importância do inglês</p>
-	    	
-        </div>
-    </div>
+    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+</div>
+</div>
+
+<div id="box-direita">
+<div id="box-explicacao-video-animacao">
+
 </div>
 
 </div>
 </div>
+</div>
+
 {barra_tools}
 <div id="navegacao">
 <a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
