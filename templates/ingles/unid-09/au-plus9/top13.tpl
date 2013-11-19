@@ -7,95 +7,32 @@
 	<div id="center">
 		<div id="atividade">
 			<!-- -->
-<script src="js/Aula09_a05_topico05.js" type="text/javascript"></script></head>
-<h5>Look at the pictures and choose what kids like to do.</h5>
+<script src="js/Aula09_a05_topico04.js" type="text/javascript"></script></head>
+<h5>Complete the sentences using the words from the text.</h5>
+<table class="table table-striped" style="width:500px;margin-left:120px;">
+				<tdead>
+<tr>
+	<td><b style="color:#4682B4;"><center>detective - PE - study well - 11 - internet sites</center></b></td>
+</tr>
+				</thead>
+</table>
 	<div id="InstructionsDiv" class="StdDiv">
 		<div id="Instructions"></div>
 	</div>
 	<div id="MainDiv" class="StdDiv">
-		<div id="MatchDiv" style="text-align: center;">
-			<form id="QForm" method="post" action="" onsubmit="return false;">
-				<table class="table table-striped">
-				<tdead>
-				<tbody id="Questions">
-<tr>
-<td class="LeftItem">1 - Tom likes
-<br /><img src="img/atividade05/playing_video_games.gif" height="140px" width="130px"></td>
-<td class="LeftItem">2 - My brother likes
-<br /><img src="img/atividade05/walking_the_dog.gif" height="140px" width="100px"></td>
-<td class="LeftItem">3 - The girl likes
-<br /><img src="img/atividade05/playing_hid_and_seek.jpg" height="140px" width="120px"></td>
-<td class="LeftItem">4 - My friend's hobby is
-<br /><img src="img/atividade05/painting.gif" height="140px" width="100px"></td>
-</tr>
-<tr>
-<td class="RightItem"><select id="s0_0" style="width:100px;height:35px;">
-<option value="x"></option>
-<option value="5">playing football.</option>
-<option value="0">play video games.</option>
-<option value="6">riding a bike.</option>
-</select></td>
-<td class="RightItem"><select id="s1_1" style="width:100px;height:35px;">
-<option value="x"></option>
-<option value="5">flying a kite.</option>
-<option value="0">watching TV.</option>
-<option value="1">walking the dog.</option>
-</select></td>
-<td class="RightItem"><select id="s2_2" style="width:100px;height:35px;">
-<option value="x"></option>
-<option value="5">swimming.</option>
-<option value="2">playing hide and seek.</option>
-<option value="7">reading a book.</option>
-</select></td>
-<td class="RightItem"><select id="s3_3" style="width:100px;height:35px;">
-<option value="x"></option>
-<option value="5">swimming.</option>
-<option value="3">painting.</option>
-<option value="4">reading.</option>
-</select></td>
-</tr>
-<tr>
-<td class="LeftItem">5 - His hobby is
-<br /><img src="img/atividade05/playing_the_guitar.gif" height="140px" width="100px"></td>
-<td class="LeftItem">6 - The kids like
-<br /><img src="img/atividade05/helping_their_mother.gif" height="140px" width="120px"></td>
-<td class="LeftItem">7 - She likes 
-<br /><img src="img/atividade05/riding_a_bike.gif" height="140px" width="100px"></td>
-<td class="LeftItem">8 - We like
-<br /><img src="img/atividade05/walking_the_dog.gif" height="140px" width="100px"></td>
-</tr>
-<tr>
-<td class="RightItem"><select id="s4_4" style="width:100px;height:35px;">
-<option value="x"></option>
-<option value="5">sleeping.</option>
-<option value="3">reading a newspaper.</option>
-<option value="4">playing the guitar.</option>
-</select></td>
-<td class="RightItem"><select id="s5_5" style="width:100px;height:35px;">
-<option value="x"></option>
-<option value="5">helping their mother.</option>
-<option value="0">watching TV.</option>
-<option value="3">walking.</option>
-</select></td>
-<td class="RightItem"><select id="s6_6" style="width:100px;height:35px;">
-<option value="x"></option>
-<option value="2">cooking.</option>
-<option value="6">riding a bike.</option>
-<option value="7">playing computer games.</option>
-</select></td>
-<td class="RightItem"><select id="s7_7" style="width:100px;height:35px;">
-<option value="x"></option>
-<option value="5">playing tennis.</option>
-<option value="1">walking a dog.</option>
-<option value="7">playing computer games.</option>
-</select></td>
-</tr>
-				</tbody>
-				</thead>
-				</table>
+		<div id="ClozeDiv">
+			<form id="Cloze" method="post" action="" onsubmit="return false;">
+				<div class="ClozeBody">
+1 - Lara is <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6" style="width:60px;height:25px;"></input></span> years old.
+<br />2 - Tom likes designing <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="14" style="width:120px;height:25px;"></input></span>.
+<br />3 - Robert is the best pupil at <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6" style="width:60px;height:25px;"></input></span>. 
+<br />4 - The hobbies help them <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10" style="width:100px;height:25px;"></input></span>.
+<br />5 - Reading <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="9" style="width:90px;height:25px;"></input></span> stories is Robert's hobby.
+				</div>
 			</form>
 		</div>
-		<button id="CheckButton2" style="margin-left:660px;" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+		<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+		<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button></p>
 	</div>
 	<div class="Feedback" id="FeedbackDiv">
 		<div class="FeedbackText" id="FeedbackContent"></div>
@@ -109,7 +46,7 @@
 
 <div id="navegacao">
 	<a href="top12.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 13 de 10</span>
+	<span>Página 13 de 16</span>
 	<a href="top14.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	

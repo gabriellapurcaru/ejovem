@@ -3,98 +3,68 @@
 {menu}
 
 <div id="meio">
-	<h3><a href="#">Atividade 05 - Tópico 02</a></h3>
+	<h3><a href="#">Atividade 05 - Tópico 05</a></h3>
 	<div id="center">
-		
-			<div id="box-esquerda">
-		<div id="box-atividade">
-			<div class="ba-esq">
-			<div class="ba-balao">
-			        <p><h5><a class="" href="#">Ainda sobre o a reportagem, responda.</h5></a></p>
-			</div>
-			    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+		<div class="tabbable">
+			<ul class="nav nav-tabs">
+				<li class="active"><a href="#tab1" data-toggle="tab">Text</a></li>
+					<li><a href="#tab2" data-toggle="tab">Activity</a></li>
+			</ul>
+			<div class="tab-content">
+				<div class="tab-pane active" id="tab1">
+					<div id="atividade">
+<h5>John is a reporter of a school newspaper. Here is his article about pupils of his school. Read the article and answer the questions.</h5>
+						<div id="box-explicacao-tabela-texto">
+						
+<font color="#006400">
+<p>Many pupils of our school have interesting hobbies. Lara is 11 years old. She likes writing poems and painting pictures. Tom is 15 years old and he has very interesting hobbies. He likes dancing, designing Internet sites and playing piano. 
+Robert is almost 13 years old. His hobbies are playing football and reading detective stories. Our pupils do many interesting things and they are very busy. 
+They also love different subjects. Tom is the best pupil at math. Larah is good at art and literature and Robert is one of the best pupils at PE. Their hobbies help them study well too.</p>
+</font>
+						</div>
+					</div>
 				</div>
-			</div>
-			</div>
-			<div id="box-direita">
-			<div id="box-direita">
-				<div id="atividade">
-			<!-- -->
-<script src="js/Aula09_a05_topico02.js" type="text/javascript"></script></head>
-<h5>Choose the correct word.</h5>
+
+				<div class="tab-pane active" id="tab2">
+					<div id="atividade">
+						<!-- -->
+<script src="js/Aula09_a05_topico01_com_texto.js" type="text/javascript"></script></head>
+<h5>Write T(true) or F(False.</h5>
 	<div id="InstructionsDiv" class="StdDiv">
 		<div id="Instructions"></div>
 	</div>
 	<div id="MainDiv" class="StdDiv">
-		<div id="MatchDiv" style="text-align: center;">
-			<form id="QForm" method="post" action="" onsubmit="return false;">
-				<table border="0"><tbody id="Questions">
-					<tr>
-<td class="LeftItem">1 - Tom, Robert and Lara are </td>
-<td class="RightItem"><select id="s0_0" style="width:100px;">
-<option value="x"></option>
-<option value="1">reporters.</option>
-<option value="0">pupils.</option>
-<option value="3">teachers.</option>
-</select></td>
-				</tr>
-				<tr>
-<td class="LeftItem">2 - Lara likes </td>
-<td class="RightItem"><select id="s1_1" style="width:100px;">
-<option value="x"></option>
-<option value="1">art.</option>
-<option value="0">football.</option>
-<option value="3">music.</option>
-</select></td>
-				</tr>
-				<tr>
-<td class="LeftItem">3 - Tom's hobby is</td>
-<td class="RightItem"><select id="s2_2" style="width:100px;">
-<option value="x"></option>
-<option value="1">painting.</option>
-<option value="0">football.</option>
-<option value="2">dancing.</option>
-</select></td>
-				</tr>
-				<tr>
-<td class="LeftItem">4 - Robert is </td>
-<td class="RightItem"><select id="s3_3" style="width:100px;">
-<option value="x"></option>
-<option value="1">10 years old.</option>
-<option value="0">15 years old.</option>
-<option value="3">13 years old.</option>
-</select></td>
-				</tr>
-				<tr>
-<td class="LeftItem">5 - Lara is good at </td>
-<td class="RightItem"><select id="s4_4" style="width:100px;">
-<option value="x"></option>
-<option value="1">football and math.</option>
-<option value="4">art and literature.</option>
-<option value="2">dancing and sports.</option>
-</select></td>
-				</tr>
-			</tbody>
-			</table>
-		</form>
+		<div id="ClozeDiv">
+			<form id="Cloze" method="post" action="" onsubmit="return false;">
+				<div class="ClozeBody">
+1 - Lara's hobby is math. <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span> 
+<br />2 - Playing football is Robert's hobby. <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span> 
+<br />3 - Lara is good at art. <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span> 
+<br />4 - Robert is 15 years old. <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span> 
+<br />5 - Tom is good at literature. <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span> 
+<br />6 - John is a reporter. <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span> 
+				</div>
+			</form>
+		</div>
+		<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+		<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button></p>
 	</div>
-	<button id="CheckButton2" style="margin-left:300px;" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-</div>
 	<div class="Feedback" id="FeedbackDiv">
 		<div class="FeedbackText" id="FeedbackContent"></div>
 		<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 	</div>
-<!--  -->
+					<!--  -->
+				</div>
+			</div>
 		</div>
 	</div>
-	</div>
-	</div>
+</div>
 </div>
 {barra_tools}
 
 <div id="navegacao">
 	<a href="top09.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 10 de 10</span>
+	<span>Página 10 de 16</span>
 	<a href="top11.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
