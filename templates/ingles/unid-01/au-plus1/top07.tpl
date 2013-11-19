@@ -3,65 +3,34 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="O inglês no dia-a-dia">The english in day-to-day</a></h3>
-
+<h3><a href="#" title="O inglês no mercado de trabalho">The English labor market</a></h3>
 <div id="center">
 
-<div id="box-esquerda">
-<div class="ba-esq">
-    <div class="ba-balao">
-        <p>Veja e escute algumas palavras em inglês que são usadas no nosso dia-a–dia. Depois pratique repetindo as palavras.</p>
-    </div>
-    <div class="bl-img"><img src="../../../imgs/e16.png"/></div>
+	<div id="box-center-video">
+	    <div id="box-dir">
+			  <div id="balao-azul">
+			    <p>Vamos aprender alguns cognatos e falso cognatos.</p>
+		 		<p>Assista os vídeos a seguir e depois relacione as colunas.</p>
+			  </div>
+			  <div id="person">
+			      <img src="../../../imgs/e10.png">
+			  </div>
+	    </div>
+	    <div id="box-esq">
+	        <div id="box-video-esq-video">
+	            <h5>Primeiro vídeo <a href="http://www.cursandoingles.net/palavras_cognatas_ingles.html">aqui</a></h5>
+				<h5>Segundo vídeo <a href="http://www.cursandoingles.net/palavras_cognatas_ingles.html">aqui</a></h5>
+	        </div>
+	        <div id="box-video-esq-img">
+	            <img src="../../../imgs/e11.png">
+	        </div>
+    
+	    </div>
+	</div>
+
 </div>
 </div>
 
-<div id="box-direita">
-<table class="table table-striped">
-<tdead>
-<tr>
-<td>Email</td>
-<td>Email</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-<tr>
-<td>Password</td>
-<td>Senha</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-<tr>
-<td>To send</td>
-<td>Enviar</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-<tr>
-<td>To reply</td>
-<td>Responder</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-
-<tr>
-<td>To log on</td>
-<td>Entrar</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>
-<tr>
-<td>To print</td>
-<td>Imprimir</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_06.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-<tr>
-<td>Document</td>
-<td>Documento</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a_07.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-</tr>	
-</tdead>
-</table>
-</div>
-
-
-</div>	
-</div>	
 {barra_tools}
 <div id="navegacao">
 <a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>

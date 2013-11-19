@@ -3,30 +3,18 @@
 {menu}
 
 <div id="meio">
-	<h3><a href="#" title="">Atividade 02 - Tópico 03</a></h3>
+	<h3><a href="#" title="Recordando!">Brush up!</a></h3>
 	<div id="center">
 		<div id="atividade">
 		<!-- -->
-		<h5>Complete the interrogative sentences the Verb To Be in the past.</h5>
-		<table class="table table-striped">
-				<tdead>
-					<tr>
-						<td><h4 align="center" style="color:#556B2F;">
-		<strong> was - were - it was - I was - he/she was / wasn't - they weren't / were
-							</h4></td>
-					</tr>
-				</thead>
-			</table>
+		<h5>E finalizando o passado do Verbo To Be, coloque na forma interrogativa.</h5>
+		</br>
 		<script src="js/Aula02_a02_topico03.js" type="text/javascript"></script></head>
 		<div id="InstructionsDiv" class="StdDiv">
 			<div id="Instructions"></div>
 		</div>
 		<div id="MainDiv" class="StdDiv">
-			<!-- These top buttons hidden; reveal if required -->
-			<!--
-			<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-			<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button>
-			-->
+			
 			<div id="ClozeDiv">
 				<form id="Cloze" method="post" action="" onsubmit="return false;">
 					<div class="ClozeBody">
