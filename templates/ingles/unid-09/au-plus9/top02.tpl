@@ -40,10 +40,10 @@
 						</tr>
 						<tr>
 						<tr>
-<td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;"></input></span> </td>
-<td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="14" style="width:120px;"></input></span> </td>
-<td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;"></input></span> </td>
-<td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="15" style="width:130px;"></input></span> </td>
+<td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;height:25px;"></input></span> </td>
+<td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="14" style="width:120px;height:25px;"></input></span> </td>
+<td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;height:25px;"></input></span> </td>
+<td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="15" style="width:130px;height:25px;"></input></span> </td>
 						</tr>
 						<tr>
 <td>e)</td>
@@ -58,10 +58,10 @@
 <td><img src="img/riding.png" width="100px" height="100px"></td>
 						</tr>
 						<tr>
-<td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;"></input></span> </td>
-<td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6" style="width:60px;"></input></span> </td>
-<td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;"></input></span> </td>
-<td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6" style="width:60px;"></input></span> </td>
+<td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;height:25px;"></input></span> </td>
+<td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6" style="width:60px;height:25px;"></input></span> </td>
+<td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;height:25px;"></input></span> </td>
+<td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6" style="width:60px;height:25px;"></input></span> </td>
 						</tr>
 						</tbody>
 					</table>
