@@ -44,14 +44,14 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
 <br />
 <table style="margin-left:10px;">
   <tr>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/castanha.png" alt="Cashew nuts" style="width:70px;height:80px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/castanha.jpg" alt="Cashew nuts" style="width:70px;height:80px;" />
            </td>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/pernildeporco.png" alt="Pork" style="width:125px;height:50px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/pernildeporco.jpg" alt="Pork" style="width:125px;height:50px;" />
            </td>
  
-    <td width="25%" align="center"><img src="img/img_atividade-top05/carnecarneiro.png" alt="lamb" style="width:120px;height:65px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/carnecarneiro.jpg" alt="lamb" style="width:120px;height:65px;" />
      </td>
-    <td width="25%" align="center"><img src="img/img_atividade-top05/carangueijo.png" alt="crab" style="width:90px;height:80px;" />
+    <td width="25%" align="center"><img src="img/img_atividade-top05/carangueijo.jpg" alt="crab" style="width:90px;height:80px;" />
       </td>
  
     <td width="25%" align="center"><img src="img/img_atividade-top05/feijãoverde.png" alt="beans" style="width:80px;height:90px;" />
@@ -76,15 +76,15 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
 
 </tr>
   <tr>
-      <td width="25%" align="center"><img src="img/img_atividade-top05/carnedosol.png" alt="meet" style="width:95px;height:90px;" />
+      <td width="25%" align="center"><img src="img/img_atividade-top05/carnedosol.jpg" alt="meet" style="width:95px;height:90px;" />
       </td>
-      <td width="25%" align="center"><img src="img/img_atividade-top05/lagosta.png" alt="Lobster" style="width:55px;height:80px;" />
+      <td width="25%" align="center"><img src="img/img_atividade-top05/lagosta.jpg" alt="Lobster" style="width:55px;height:80px;" />
       </td>
-     <td width="25%" align="center"><img src="img/img_atividade-top05/leite-de-coco.png" alt="Coconut milk" style="width:45px;height:80px;" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/leitedecoco.jpg" alt="Coconut milk" style="width:45px;height:80px;" />
       </td>
-     <td width="25%" align="center"><img src="img/img_atividade-top05/caju.png" alt="Cashew fruit" style="width:80px;height:80px;" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/caju.jpg" alt="Cashew fruit" style="width:80px;height:80px;" />
       </td>
-     <td width="25%" align="center"><img src="img/img_atividade-top05/peixe.png" alt="Fish" style="width:80px;height:80px;" />
+     <td width="25%" align="center"><img src="img/img_atividade-top05/peixe.jpg" alt="Fish" style="width:80px;height:80px;" />
      </td>
   </tr>
 <tr>
@@ -116,7 +116,7 @@ Sabe aquelas placas no diálogo? Olhe as fotos e tente encontrar o nome correto 
 </center>
   </div>
 
- <button class="bot">Verificar</button>
+ <button class="btn">Verificar</button>
 
 </div>
 </body>

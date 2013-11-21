@@ -6,7 +6,7 @@
 <div id="center">
 	<div id="boxDigitacao">
 	    <div class="item">
-	        Vamos dar um passeio no restaurante. Nessa lição, aprenderemos a ler um cardápio e outras úteis!
+	        Vamos dar um passeio no restaurante. Nessa lição, aprenderemos a ler um cardápio e outras úteis minúcias!
 	    </div>
 	</div>
 

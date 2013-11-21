@@ -4,7 +4,7 @@
 
 
 <div id="meio">
-	<h3><a href="" title="Recordando!">Brush up!</a></h3>
+	<h3><a href="#" title="Praticando">Practicing</a></h3>
 	<div id="center">
 		<div class="swf">
 			<img src="img/ilustracao_top03.png" height="420" width="600">

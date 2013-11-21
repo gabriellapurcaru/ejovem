@@ -9,7 +9,7 @@
 	<div id="box-atividade">
 	<div class="ba-esq">
 	<div class="ba-balao">
-	        <p><h5><a href="#" title="Put the verb into the correct form: present simple, present continuous, going to or will.">Coloque o verbo na forma correta: Present Simple, Present Continuos, Going to ou Will.</a></h5></p>
+	        <p><h5><a href="#" title="Complete the setences with WANT, WOULD LIKE or WILL.">Complete as sentenças com WANT, WOULD LIKE ou WILL.</a></h5></p>
 	</div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 		</div>

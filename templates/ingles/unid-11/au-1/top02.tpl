@@ -12,6 +12,7 @@
 	        <p>
             <a href="#" title="Before we going to next class, let´s remember what we saw on unit 10?">Antes de ir para a aula seguinte, vamos lembrar o que vimos na unidade 10?</a>
             </p>
+			
 	    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 	</div>
@@ -20,6 +21,7 @@
 
 <div id="box-direita">
 	<div id="atividade">
+		<h5 style="text-align:center;">Que roupa é essa?</h5>
 		<p><script src="js/atividade01_top02.js" type="text/javascript"></script></head>
 
 	<div id="InstructionsDiv" class="StdDiv">
@@ -27,21 +29,7 @@
 	</div>
 	<div id="MainDiv" class="StdDiv">
  
-	<div id="QNav" class="QuestionNavigation">
 
-
-
-	<div id="OneByOneReadout">
-	<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;">&#x00AB;&#x00AB;</button>
-
-	<span id="QNumReadout" class="QNum">&nbsp;</span>
-
-	<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;">&#x00BB;&#x00BB;</button>
-	<br />
-	</div>
-
-	</div>
- 
 	<ol class="QuizQuestions" id="Questions">
 	
 	<li class="QuizQuestion" id="Q_0" style="display: none;">
@@ -139,7 +127,21 @@
 	<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 	</div>
 
-	<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return false;">Mostrar todas as questões</button>
+	<div id="QNav" class="QuestionNavigation">
+
+
+
+	<div id="OneByOneReadout">
+	<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;">Anterior</button>
+
+	<span id="QNumReadout" class="QNum">&nbsp;</span>
+
+	<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;">Próxima</button>
+	<br />
+	</div>
+
+	</div>
+
 	</div>
 
 	</div>

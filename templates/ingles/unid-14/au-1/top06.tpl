@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
+<h3><a href="#" title="Praticando">Practicing</a></h3>
 	<div id="center">
 		<div id="box-esquerda">
     			<div id="box-explicacao-tabela-texto">
@@ -31,6 +31,11 @@
 <tr>
 <th><a href="#" title="Picante">Spicy</a></th>
 <th><a href="#" title="Suave">Bland</a></th>
+</tr>
+
+<tr>
+<th><a href="#" title="Amargo">Bitter</a></th>	
+<th></th>
 </tr>
 
 
