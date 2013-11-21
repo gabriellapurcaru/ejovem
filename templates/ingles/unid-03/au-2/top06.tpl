@@ -72,14 +72,14 @@
           <tr> 
             <td><a href="" title="19">nineteenth</a></td>
             <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
-            <td><a href="" title="20">twentiethv</a></td>
+            <td><a href="" title="20th">twentieth</a></td>
             <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
             <td><a href="" title="21">twenty-first</a></td>
             <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
          </tr>   
          
           <tr> 
-            <td><a href="" title="22">wenty-second</a></td>
+            <td><a href="" title="22nd">twenty-second</a></td>
             <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
             <td><a href="" title="30">thirtieth</a></td>
             <td> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>

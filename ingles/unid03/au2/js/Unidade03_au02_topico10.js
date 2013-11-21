@@ -23,7 +23,7 @@ function Client(){
 	this.gecko = (this.ua.indexOf('Gecko') > 1);
 	if (this.gecko){
 		this.geckoVer = parseInt(this.ua.substring(this.ua.indexOf('Gecko')+6, this.ua.length));
-		if (this.geckoVer < 20020000){this.min = false;}
+//		if (this.geckoVer < 20020000){this.min = false;}
 	}
 	
 //Look for Firebird
@@ -49,7 +49,7 @@ function Client(){
 		if (this.operaVer < 7.04){this.min = false;}
 	}
 	if (this.min == false){
-		alert('Your browser may not be able to handle this page.');
+//		alert('Your browser may not be able to handle this page.');
 	}
 	
 //Special case for the horrible ie5mac
@@ -459,8 +459,8 @@ function ItemState(){
 
 var Feedback = '';
 var Correct = 'Correct! Well done.';
-var Incorrect = 'Algumas de suas respostas est&#x00E3;o incorretas.'; 
-var GiveHint = 'A letra correta foi adicionada a resposta,';
+var Incorrect = 'Some of your answers are incorrect. Incorrect answers have been left in place for you to change.'; 
+var GiveHint = 'The next correct letter has been added to the answer.';
 var CaseSensitive = false;
 var YourScoreIs = 'Your score is ';
 var Finished = false;
@@ -475,38 +475,110 @@ I = new Array();
 I[0] = new Array();
 I[0][1] = new Array();
 I[0][1][0] = new Array();
-I[0][1][0][0] = '\u0031\u0038\u0020\u0045\u0049\u0047\u0048\u0054\u0045\u0045\u004E';
+I[0][1][0][0] = '\u0077';
 I[0][2]='';
 
 I[1] = new Array();
 I[1][1] = new Array();
 I[1][1][0] = new Array();
-I[1][1][0][0] = '\u0032\u0030\u0020\u0054\u0057\u0045\u004E\u0054\u0059';
+I[1][1][0][0] = '\u0065';
 I[1][2]='';
 
 I[2] = new Array();
 I[2][1] = new Array();
 I[2][1][0] = new Array();
-I[2][1][0][0] = '\u0033\u0030\u0020\u0054\u0048\u0049\u0052\u0054\u0059';
+I[2][1][0][0] = '\u0066';
 I[2][2]='';
 
 I[3] = new Array();
 I[3][1] = new Array();
 I[3][1][0] = new Array();
-I[3][1][0][0] = '\u0034\u0030\u0020\u0046\u004F\u0052\u0054\u0059';
+I[3][1][0][0] = '\u0072';
 I[3][2]='';
 
 I[4] = new Array();
 I[4][1] = new Array();
 I[4][1][0] = new Array();
-I[4][1][0][0] = '\u0035\u0030\u0020\u0046\u0049\u0046\u0054\u0059';
+I[4][1][0][0] = '\u0068';
 I[4][2]='';
 
 I[5] = new Array();
 I[5][1] = new Array();
 I[5][1][0] = new Array();
-I[5][1][0][0] = '\u0031\u0030\u0030\u0020\u004F\u004E\u0045\u0020\u0048\u0055\u004E\u0044\u0052\u0045\u0044';
+I[5][1][0][0] = '\u0068';
 I[5][2]='';
+
+I[6] = new Array();
+I[6][1] = new Array();
+I[6][1][0] = new Array();
+I[6][1][0][0] = '\u0065\u0069\u0067\u0068\u0074\u0065\u0065\u006E';
+I[6][2]='';
+
+I[7] = new Array();
+I[7][1] = new Array();
+I[7][1][0] = new Array();
+I[7][1][0][0] = '\u0031\u0038';
+I[7][2]='';
+
+I[8] = new Array();
+I[8][1] = new Array();
+I[8][1][0] = new Array();
+I[8][1][0][0] = '\u0074\u0077\u0065\u006E\u0074\u0079';
+I[8][2]='';
+
+I[9] = new Array();
+I[9][1] = new Array();
+I[9][1][0] = new Array();
+I[9][1][0][0] = '\u0032\u0030';
+I[9][2]='';
+
+I[10] = new Array();
+I[10][1] = new Array();
+I[10][1][0] = new Array();
+I[10][1][0][0] = '\u0074\u0068\u0069\u0072\u0074\u0079';
+I[10][2]='';
+
+I[11] = new Array();
+I[11][1] = new Array();
+I[11][1][0] = new Array();
+I[11][1][0][0] = '\u0033\u0030';
+I[11][2]='';
+
+I[12] = new Array();
+I[12][1] = new Array();
+I[12][1][0] = new Array();
+I[12][1][0][0] = '\u0066\u006F\u0072\u0074\u0079';
+I[12][2]='';
+
+I[13] = new Array();
+I[13][1] = new Array();
+I[13][1][0] = new Array();
+I[13][1][0][0] = '\u0034\u0030';
+I[13][2]='';
+
+I[14] = new Array();
+I[14][1] = new Array();
+I[14][1][0] = new Array();
+I[14][1][0][0] = '\u0066\u0069\u0066\u0074\u0079';
+I[14][2]='';
+
+I[15] = new Array();
+I[15][1] = new Array();
+I[15][1][0] = new Array();
+I[15][1][0][0] = '\u0035\u0030';
+I[15][2]='';
+
+I[16] = new Array();
+I[16][1] = new Array();
+I[16][1][0] = new Array();
+I[16][1][0][0] = '\u006F\u006E\u0065\u0020\u0068\u0075\u006E\u0064\u0072\u0065\u0064';
+I[16][2]='';
+
+I[17] = new Array();
+I[17][1] = new Array();
+I[17][1][0] = new Array();
+I[17][1][0][0] = '\u0031\u0030\u0030';
+I[17][2]='';
 
 
 State = new Array();

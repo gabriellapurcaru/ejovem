@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="" title="Relembrando">Brush up!</a></h3>
+<h3><a href="" title="Conhecendo os Numerais">Knowing the Numerals</a></h3>
 <div id="center">
 
 <div class="swf">
