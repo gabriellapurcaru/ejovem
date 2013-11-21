@@ -11,7 +11,7 @@
 	<div id="box-esquerda">
 		<div class="ba-esq">
 			<div class="ba-balao">
-				<p><b>Olá a todos!</b> Vamos iniciar o Módulo de Inglês do Projeto E-jovem. Vamos começar com a Unidade <b>Unidade Getting Ready For The Course</b>,
+				<p><b>Olá a todos!</b> Vamos iniciar o Módulo de Inglês do Projeto E-jovem. Vamos começar com a <b>Unidade Getting Ready For The Course</b>,
 				veja o vídeo ao lado e saiba o que te espera nessa unidade.</p>		</div>
 			<div class="ba-img"><img src="../../../imgs/bia-sentada.png"></div>
 		</div>

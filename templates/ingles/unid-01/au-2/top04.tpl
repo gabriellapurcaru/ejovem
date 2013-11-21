@@ -7,7 +7,7 @@
 
 	<div id="center">
 		<div id="animacao">
-		 	<p>Agora que conhece as estratégias, leia o texto ao lado tentando identificar os falsos cognatas. Ao terminar clique em conferir cognatas e confira sua resposta.</p>
+		 	<p>Agora que conhece as estratégias, leia o texto ao lado tentando identificar os falsos cognatos. Ao terminar clique em conferir cognatas e confira sua resposta.</p>
 			<div class="swf">	
 				<embed width="650" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/michael.swf" name="plugin"> 
 			</div>

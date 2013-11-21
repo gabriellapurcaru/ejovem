@@ -7,7 +7,7 @@
 
 <div id="center">
 <div id="animacao">
-<p>Usando a estratégia do scaninng, leia novamente o texto para responder a próxima atividade. Arraste a resposta correta de acordo com que você leu no texto.</p>
+<p>Usando a estratégia do scanning, leia novamente o texto para responder a próxima atividade. Arraste a resposta correta de acordo com que você leu no texto.</p>
 <div class="swf">
 <embed width="650" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_michael.swf" name="plugin"> 
 </div>
