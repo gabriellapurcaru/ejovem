@@ -11,7 +11,7 @@
 <div id="box-atividade">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Complete os seguintes diálogos com as palavras do quadro, arrastando elas para o espaço correto.</p>
+        <p>Complete os seguintes diálogos com as palavras do quadro, reescrevendo-as elas no espaço correto.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>
@@ -23,7 +23,6 @@
 <table class="table table-striped" style="margin-bottom: 8px;">
 <tbody>
 <tr> 
-<td style="padding:2px;" width="39"> <div align="center"><strong> name’s</strong></div></td>
 <td style="padding:2px;" width="39"> <div align="center"><strong> Hi</strong></div></td>
 <td style="padding:2px;" width="39"> <div align="center"><strong> I’m </strong></div></td>
 <td style="padding:2px;" width="39"> <div align="center"><strong> you </strong></div></td>
@@ -40,7 +39,7 @@
 	<div id="ClozeDiv">
 	<form style="margin:0px;"  id="Cloze" method="post" action="" onsubmit="return false;">
 	<div class="ClozeBody">
-	<b>A</b>: Hello, my <span class="GapSpan" id="GapSpan0"><input class="span1"  type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Roberto. <br />
+	<b>A</b>: Hello, my name's Roberto. <br />
 	<b>B</b>: <span class="GapSpan" id="GapSpan1"><input class="span1" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, Roberto, I'm Walter. <span class="GapSpan" id="GapSpan2"> 
 <input class="span1" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> from Rio de Janeiro. Where are <span class="GapSpan" id="GapSpan3"><input class="span1" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> from?<br />
 <b>A</b>: <span class="GapSpan" id="GapSpan4"><input class="span1"  type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> from S&#x00E3;o Paulo.<br />
@@ -67,8 +66,8 @@
 	</form>
 	</div>
 
-	<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-	<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+	<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+	<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button></p>
 	</div>
 
 

@@ -24,7 +24,7 @@
       <div class="slide">
         <p><b>01. Actual</b><BR>
             <input type="radio" name="sel_banco" id="sel_1" value="correto" onclick="b='b';"> Atual<BR>
-            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Real<BR>
+            <input type="radio" name="sel_banco" id="sel_2" value="errada" onclick="b='c';"> Natural<BR>
             <input type="radio" name="sel_banco" id="sel_3" value="errada" onclick="b='c';"> Atualmente<BR>
         </p>
 

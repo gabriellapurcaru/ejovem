@@ -57,9 +57,9 @@
 </tr>
 
 <tr>
-<td><a href="#" title="Latino">Latino</a></td>
+<td><a href="#" title="Latino">Latin</a></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a12.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
-<td><a href="#" title="Mission">Missão</a></td>
+<td><a href="#" title="Missão">Mission</a></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a13.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>
 

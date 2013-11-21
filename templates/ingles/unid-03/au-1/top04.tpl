@@ -9,7 +9,7 @@
 <div id="box-esquerda">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Observe  as palavras que estão no quadrado para completar os dialogos a seguir.</p>
+        <p>Observe  as palavras que estão no quadrado para completar o diálogo a seguir.</p>
 	<p>Preencha todas as lacunas, em seguida, pressione "Verificar" para verificar as respostas. Use o botão "Sugestão" para obter uma letra da resposta se tiver dúvidas. Note que você vai perder pontos se você pedir dicas.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
@@ -35,13 +35,13 @@
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody"> 
 <b>Anne</b>:<br/> Good morning Sam! 
-<br />How <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></span> you? <br /><br />
-<b>Sam</b>: <br/>Good <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> Anne! <br /> I am <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, thanks 
+<br />How <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6" style="width:40px;height:25px;"></span> you? <br /><br />
+<b>Sam</b>: <br/>Good <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;height:25px;"></input></span> Anne! <br /> I am <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6" style="width:50px;height:25px;"></input></span>, thanks 
 </div>
 </form>
 </div>
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button></p>
 </div>
 
 <div class="Feedback" id="FeedbackDiv">

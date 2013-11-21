@@ -7,7 +7,7 @@
 <div id="center">
 <div id="box-explicacao-video-animacao">
 <p>Veja o artigo de Denise Farias Rocha uma Especialista em Língua Inglesa, Professora do Centro de Línguas vivas da Católica de Goiás fala sobre a Importância do Inglês no Mundo.</p>		
-<p>Clique <a href="http://www.omelhoringles.com/artigo2.php" target="_blank">aqui</a> para ler o artigo</p>
+<p>Clique <a href="http://www2.ucg.br/flash/artigos/AImportanciaIngles.htm" target="_blank">aqui</a> para ler o artigo</p>
 </div>	
 
 <h4>Para aprofundar seus conhecimentos veja os links abaixo:</h4> 

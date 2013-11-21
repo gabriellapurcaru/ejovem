@@ -7,7 +7,7 @@
 <div id="center">
 	
 <div id="atividade">
-	<h6>Preencha os diagolos abaixo de acordo com as frases do quadro. </h6>
+	<h6>Preencha os diálogos abaixo de acordo com as frases do quadro. </h6>
 	
 	<script src="js/Atividade_01_unidade_III.js" type="text/javascript"></script>
 
@@ -23,7 +23,7 @@
 			    <tr class="success">
 				    <td>I’m from Recife, Pernambuco. And you?</td>
 				    <td>What’s your name?</td>
-				    <td>My name is Pedro.</td>
+				    <td>Hi. I’m Cris. What’s your name?.</td>
 			    </tr>	
 
 

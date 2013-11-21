@@ -18,7 +18,7 @@
 </div>
 <div id="box-esq">
 <div id="box-video-esq-video">
-    <embed autoplay="false" src="../../../ingles/unid03/au1/video/RealEnglishLesson3.mp4" width="363" height="229"box-video-esq-img">            
+    <embed autoplay="false" src="../../../ingles/unid03/au1/video/RealEnglishLesson3.flv" width="363" height="229"box-video-esq-img">            
     <img src="../../../imgs/e11.png">
 </div>
 

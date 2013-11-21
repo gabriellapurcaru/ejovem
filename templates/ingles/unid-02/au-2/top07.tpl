@@ -24,47 +24,47 @@
 			<tr>
 		      <td>Hello, Hi</td>
 		      <td>Olá, Oi</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <tr>
 		      <td>Good morning</td>
 		      <td>Bom dia</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <tr>
 		      <td>Good night</td>
 		      <td>Boa noite</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <tr>
 		      <td>Good-bye, bye</td>
 		      <td>Adeus, Tchau</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av04.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <tr>
 		      <td>See you soon</td>
 		      <td>Até logo</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av05.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <tr>
 		      <td>See you later</td>
 		      <td>Até breve</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av06.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <tr>
 		      <td>Please</td>
 		      <td>Por favor</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av07.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <tr>
 		      <td>Thank you</td>
 		      <td>Obrigado</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av08.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <tr>
 		      <td>You're welcome</td>
 		      <td>De nada</td>
-		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+		      <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=av09.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 		    </tr>
 		    <!--
 		    <tr>
@@ -115,7 +115,7 @@
 		    </tr>-->
 		  </tbody>
 		</table>
-		<p>Veja mais palavras em vocabulário</p>
+		<p>Veja mais palavras em <a href="vocabulario.php">Vocabulário</a></p>
         </div>
     </div>
 </div>

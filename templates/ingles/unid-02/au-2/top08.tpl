@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Praticando">Practice</a></h3>
+<h3><a href="#" title="Conclusão">Conclusion</a></h3>
 
 <div id="center">
 
