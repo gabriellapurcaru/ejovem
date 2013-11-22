@@ -23,7 +23,7 @@ function Client(){
 	this.gecko = (this.ua.indexOf('Gecko') > 1);
 	if (this.gecko){
 		this.geckoVer = parseInt(this.ua.substring(this.ua.indexOf('Gecko')+6, this.ua.length));
-		if (this.geckoVer < 20020000){this.min = false;}
+//		if (this.geckoVer < 20020000){this.min = false;}
 	}
 	
 //Look for Firebird
@@ -49,7 +49,7 @@ function Client(){
 		if (this.operaVer < 7.04){this.min = false;}
 	}
 	if (this.min == false){
-		alert('Your browser may not be able to handle this page.');
+//		alert('Your browser may not be able to handle this page.');
 	}
 	
 //Special case for the horrible ie5mac
@@ -459,8 +459,8 @@ function ItemState(){
 
 var Feedback = '';
 var Correct = 'Correct! Well done.';
-var Incorrect = 'Algumas de suas respostas est&#x00E3;o incorretas.'; 
-var GiveHint = 'A letra correta foi adicionada a resposta,';
+var Incorrect = 'Some of your answers are incorrect. Incorrect answers have been left in place for you to change.'; 
+var GiveHint = 'The next correct letter has been added to the answer.';
 var CaseSensitive = false;
 var YourScoreIs = 'Your score is ';
 var Finished = false;
@@ -487,19 +487,19 @@ I[1][2]='';
 I[2] = new Array();
 I[2][1] = new Array();
 I[2][1][0] = new Array();
-I[2][1][0][0] = '\u0057\u0068\u0065\u006E';
+I[2][1][0][0] = '\u0057\u0068\u0065\u0072\u0065';
 I[2][2]='';
 
 I[3] = new Array();
 I[3][1] = new Array();
 I[3][1][0] = new Array();
-I[3][1][0][0] = '\u0057\u0068\u0065\u006E';
+I[3][1][0][0] = '\u0057\u0068\u0061\u0074';
 I[3][2]='';
 
 I[4] = new Array();
 I[4][1] = new Array();
 I[4][1][0] = new Array();
-I[4][1][0][0] = '\u0057\u0068\u0065\u006E';
+I[4][1][0][0] = '\u0048\u006F\u0077';
 I[4][2]='';
 
 

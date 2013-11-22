@@ -31,12 +31,12 @@ Example:
 
 <h5>Bob / play tennis</h5>
 
-<h5><i>Bob like playing tennis.</i></h5>
+<h5><i>Bob likes playing tennis.</i></h5>
 <br />
 <table>
 <tbody>
 <tr>
-<td width=62%><b>1)</b> She/listen to music</td><td><b>4)</b> Tim/clean the flat</td>
+<td width=62%><b>1)</b> She/listen to music (love)</td><td><b>4)</b> Tim/clean the flat (deslike)</td>
 </tr>
 <tr>
 <td>
@@ -48,7 +48,7 @@ Example:
 </td>
 </tr>
 <tr>
-<td><b>2)</b> John/cycle</td><td><b>5)</b> Ann/read</td>
+<td><b>2)</b> John/cycle (not mind)</td><td><b>5)</b> Ann/read science fiction (enjoy)</td>
 </tr>
 <tr>
 <td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="25"></input></span>
@@ -59,7 +59,7 @@ Example:
 </td>
 </tr>
 <tr>
-<td><b>3)</b> Peter/cooking</td><td><b>6)</b> Joan/meet with friends</td>
+<td><b>3)</b> Peter/cooking (like)</td><td><b>6)</b> Joan/meet with friends (love)</td>
 </tr>
 <tr>
 <td>

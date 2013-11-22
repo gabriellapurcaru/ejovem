@@ -20,7 +20,7 @@
   <tbody>
  	<tr>
       <td><b>Exemplo:</b> Bob (like) play tennis</td>
-      <td>Bob <b>like playing</b> tennis.</td>
+      <td>Bob <b>likes playing</b> tennis.</td>
     </tr>
  	<tr>
       <td>1) She (love) listen to music</td>

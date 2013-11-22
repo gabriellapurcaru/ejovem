@@ -11,7 +11,7 @@
 		<div id="box-esquerda">
 			<div class="ba-esq">
 				<div class="ba-balao">
-					<p>Você gosta de rotina? Normalmente fazemos as mesmas coisas todos os dias, pois a doma rotina sempre estará conosco. </p>
+					<p>Você gosta de rotina? Normalmente fazemos as mesmas coisas todos os dias, pois a dona rotina sempre estará conosco. </p>
 					<p>Então, vamos aprender a lidar com ela também em inglês! </p>
 					
 				</div>

@@ -32,7 +32,7 @@
 		<td>she</td>
 		<td>study</td>
 		<td>English</td>
-		<td>Y, She does/no, She don't</td>		
+		<td>Yes, She does/no, She don't</td>		
 	</tr>
 	<tr>
 		<td rowspan="2">Pergunta de</br>afirmação</td>	

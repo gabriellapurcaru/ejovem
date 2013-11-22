@@ -23,7 +23,7 @@ function Client(){
 	this.gecko = (this.ua.indexOf('Gecko') > 1);
 	if (this.gecko){
 		this.geckoVer = parseInt(this.ua.substring(this.ua.indexOf('Gecko')+6, this.ua.length));
-		if (this.geckoVer < 20020000){this.min = false;}
+//		if (this.geckoVer < 20020000){this.min = false;}
 	}
 	
 //Look for Firebird
@@ -49,7 +49,7 @@ function Client(){
 		if (this.operaVer < 7.04){this.min = false;}
 	}
 	if (this.min == false){
-		alert('Your browser may not be able to handle this page.');
+//		alert('Your browser may not be able to handle this page.');
 	}
 	
 //Special case for the horrible ie5mac
@@ -475,26 +475,38 @@ I = new Array();
 I[0] = new Array();
 I[0][1] = new Array();
 I[0][1][0] = new Array();
-I[0][1][0][0] = '\u0064\u006F\u0020\u0079\u006F\u0075\u0020\u006C\u0069\u006B\u0065';
+I[0][1][0][0] = '\u0044\u006F';
 I[0][2]='';
 
 I[1] = new Array();
 I[1][1] = new Array();
 I[1][1][0] = new Array();
-I[1][1][0][0] = '\u0064\u006F\u006E\u0027\u0074';
+I[1][1][0][0] = '\u0079\u006F\u0075';
 I[1][2]='';
 
 I[2] = new Array();
 I[2][1] = new Array();
 I[2][1][0] = new Array();
-I[2][1][0][0] = '\u0073\u0061\u006C\u0073\u0061';
+I[2][1][0][0] = '\u006C\u0069\u006B\u0065';
 I[2][2]='';
 
 I[3] = new Array();
 I[3][1] = new Array();
 I[3][1][0] = new Array();
-I[3][1][0][0] = '\u0067\u0072\u0065\u0061\u0074';
+I[3][1][0][0] = '\u0064\u006F\u006E\u0027\u0074';
 I[3][2]='';
+
+I[4] = new Array();
+I[4][1] = new Array();
+I[4][1][0] = new Array();
+I[4][1][0][0] = '\u0073\u0061\u006C\u0073\u0061';
+I[4][2]='';
+
+I[5] = new Array();
+I[5][1] = new Array();
+I[5][1][0] = new Array();
+I[5][1][0][0] = '\u0067\u0072\u0065\u0061\u0074';
+I[5][2]='';
 
 
 State = new Array();
