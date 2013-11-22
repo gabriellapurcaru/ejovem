@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Exercitando">Exercising</a></h3>
+<h3><a href="#" title="Gramática em Foco">Grammar in Focus</a></h3>
 <div id="center">
 
 	<div id="box-esquerda">
@@ -33,7 +33,7 @@
 <td>you</td>
 <td>have</td>
 <td>a good weekend?</td>
-<td>Yes, I <b>did</b>./No, I <b>do</b>n't.</td>
+<td>Yes, I <b>did</b>./No, I <b>did</b>n't.</td>
 	</tr>
 
 <tr>

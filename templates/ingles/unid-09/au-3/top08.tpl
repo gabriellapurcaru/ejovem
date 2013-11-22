@@ -8,7 +8,7 @@
 	
 	<div id="atividade">
 	<script src="js/atividade_top08.js" type="text/javascript"></script></head>
-<h6><a href="" title="Look at the lyrics of the song and find the Simple Past of the following verbs.">Veja a letra da canção e encontre o Simple Past dos seguintes verbos:</a></h6>
+<h6><a href="" title="Look at the lyrics of the song and find the Simple Past of the following verbs.">Reveja a letra da canção na página 06 e encontre o Simple Past dos seguintes verbos:</a></h6>
 
 <div id="MainDiv" class="StdDiv">
 
@@ -115,10 +115,10 @@ use -</td>
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
+<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
 
 
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button></p>
 
 
 </div>

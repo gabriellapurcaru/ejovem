@@ -8,33 +8,34 @@
 <h6>O que você gosta de fazer no seu tempo livre? Veja as atividades abaixo e pense quais você costuma fazer.</h6>
 
 <div>
-<table align="center" style="width:500px;" cellpadding=10>
+<div id="box-explicacao-video-animacao">
+<table align="center" style="width:500px;" cellpadding=5>
 <tbody>
 <tr>
-	<td width="40%">
+	<td width="30%">
 		<img src="img/top02/img01.png" width="200px" heigth="280px" /> 
-		<h6>Listen Music</h6>
+		<h6><a href="#" title="Ouvir música">Listen Music</a></h6>
 	</td>
 	
-	<td>
+	<td width="30%">
 		<img src="img/top02/img02.png"  width="130px" heigth="180px" />
-		<h6>Dance</h6>
+		<h6><a href="#" title="Dançar">Dance</a></h6>
 	</td>
 	
-	<td>
+	<td width="20%">
 		<img src="img/top02/img05.png"  width="200px" heigth="280px" />
-		<h6> Watch TV</h6>
+		<h6> <a href="#" title="Ver TV">Watch TV</a></h6>
 	</td>
 </tr>
 
 <tr>
 	<td>
 		<img src="img/top02/img03.png"  width="200px" heigth="280px" />
-		<h6>Go to the Beach</h6>
+		<h6><a href="#" title="Ir à praia">Go to the Beach</a></h6>
 	</td>
 	<td>
 		<img src="img/top02/img04.png"  width="200px" heigth="280px" />
-		<h6>Play soccer</h6>
+		<h6><a href="#" title="jogar futebol">Play soccer</a></h6>
 	</td>
 </tr>
 
@@ -44,7 +45,7 @@
 
 </tbody>
 </table>
-
+</div>
 </div>
 
 

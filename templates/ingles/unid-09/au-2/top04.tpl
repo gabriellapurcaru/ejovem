@@ -17,52 +17,53 @@
 <div class="panel">
 	<table class="table table-striped">
 	<tdead>
-	<tr><td>like = <b>lik<u>ed</u></b></td>
+	<tr><td><a href="#" title="Gostar">like</a> = <b>lik<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
-	<td>work = <b>work<u>ed</u></b></td>
+	<td><a href="#" title="Trabalhar">work</a> = <b>work<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
 
-	<tr><td>need = <b>need<u>ed</u></b></td>
+	<tr><td><a href="#" title="Necessitar">need</a> = <b>need<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
-	<td>live = <b>liv<u>ed</u></b></td>
+	<td><a href="#" title="Viver, permanecer">live</a> = <b>liv<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
 
-	<tr><td>want = <b>want<u>ed</u></b></td>
+	<tr><td><a href="#" title="Querer">want</a> = <b>want<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
-	<td>love = <b>lov<u>ed</u></b></td>
+	<td><a href="#" title="Amar">love</a> = <b>lov<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
 	
-<tr><td>talk = <b>talk<u>ed</u></b></td>
+<tr><td><a href="#" title="Falar, conversar">talk</a> = <b>talk<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
-	<td>cook = <b>cook<u>ed</u></b></td>
+	<td><a href="#" title="Cozinhar">cook</a> = <b>cook<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
 
-	<tr><td>listen = <b>listen<u>ed</u></b></td>
+	<tr><td><a href="#" title="Escutar">listen</a> = <b>listen<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
-	<td>learn = <b>learn<u>ed</u></b></td>
+	<td><a href="#" title="Aprender">learn</a> = <b>learn<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
 
-	<tr><td>play = <b>play<u>ed</u></b></td>
+	<tr><td><a href="#" title="Jogar">play</a> = <b>play<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
-	<td>watch = <b>watch<u>ed</u></b></td>
+	<td><a href="#" title="Assistir">watch</a> = <b>watch<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
 
-	<tr><td>study = <b>studi<u>ed</u></b></td>
+	<tr>
+	<td><a href="#" title="Estudar">study</a> = <b>studi<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
-	<td>use = <b>us<u>ed</u></b></td>
+	<td><a href="#" title="Usar">use</a> = <b>us<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
 
-	<tr><td>dance = <b>danc<u>ed</u></b></td>
+	<tr><td><a href="#" title="Dançar">dance</a> = <b>danc<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 
-	<td>brush = <b>brush<u>ed</u></b></td>
+	<td><a href="#" title="Escovar">brush</a> = <b>brush<u>ed</u></b></td>
 <td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
 
 	</thead>

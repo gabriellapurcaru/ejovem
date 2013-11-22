@@ -7,7 +7,7 @@
 <div id="center">
 <span class="label label-info"><a title="Read the paragraph about Leo’s weekend and complete the boxes with
 his activities." href="#" class="">Leia o parágrafo sobre fim de semana de Leo e preencher os campos com
-suas atividades.</a></span>
+suas atividades do fim de semana.</a></span>
 
 <div class="alert alert-info">
 <p><b>Leo’s weekend</b></p>

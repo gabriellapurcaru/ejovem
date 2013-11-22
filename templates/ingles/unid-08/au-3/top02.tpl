@@ -11,13 +11,14 @@
 schedule chart below:" href="#" class="">Este é horário de Mario para a semana. Leia o texto e complete a sua
 agenda na atividade abaixo:</a></span>
 
-<div class="alert alert-info">
+<div id="box-explicacao-tabela-texto">				
+<font color="#006400">
 <p><b>Mario’s week</b></p>
 <p>Mario has a very busy week. From Monday to Friday, he goes to school in the morning from 7 to 12. On Saturday, he plays soccer with his friends from 10 to 12. On Sunday, he goes to the beach at 11 o’clock. In the afternoon, Mario has English classes on Tuesday and Thursday, from 2 to 3:15. On
 Wednesday and Friday, he has computer class, from 5 to 6. In the evening, he works out on Monday, Wednesday and Thursday, from 8 to 9. On Tuesday and Friday, he watches TV. On Saturday evening and Sunday afternoon, Mario sees his friends. On the rest of the time, he relaxes.   
-</p>
+</p></font>
 </div>
-
+<br />
 <!-- Atividade -->
 
 <script src="js/atividade_top02.js" type="text/javascript"></script></head>
@@ -54,7 +55,7 @@ Wednesday and Friday, he has computer class, from 5 to 6. In the evening, he wor
 <tr>
 <td>Relax</td>
 <td>English 2- 3:15</td>
-<td>Compouter Class 5-6</td>
+<td>Computer Class 5-6</td>
 <td><span class="GapSpan" id="GapSpan3"><input style="width:100px;" type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td>
 
 <td><span class="GapSpan" id="GapSpan4"><input style="width:100px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="14"></input></span></td>
@@ -82,7 +83,7 @@ Wednesday and Friday, he has computer class, from 5 to 6. In the evening, he wor
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+<button style="margin-left:650px;" id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 </div>
 
