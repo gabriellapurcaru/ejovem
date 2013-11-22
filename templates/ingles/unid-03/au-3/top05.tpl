@@ -18,7 +18,10 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            http://www.youtube.com/watch?v=kbS4nqfNLEE
+           <div id="texto">
+			<iframe width="400" height="245" src="video/Countries_Nationalities.avi" frameborder="0" allowfullscreen></iframe>
+		</div>
+
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">

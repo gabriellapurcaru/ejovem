@@ -32,7 +32,7 @@
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
-			<td><a href="#" title="meio-irmão" > brother-in-law </a></td>
+			<td><a href="#" title="cunhado" > brother-in-law </a></td>
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
@@ -40,7 +40,7 @@
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
  			<tr>
-			<td><a href="#" title="meia irmã" > sister-in-law </a></td>
+			<td><a href="#" title="cunhada" > sister-in-law </a></td>
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>       
 		</tbody>

@@ -35,13 +35,13 @@
 				<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
-			<td><a href="#" title="pai(nota: parents = pais)">Parent</a></td>
+			<td><a href="#" title="pais">Parent</a></td>
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			<td><a href="#" title="Criança"> Child </a></td>
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
-			<td><a href="#" title="Marido"> Musband </a></td>
+			<td><a href="#" title="Marido"> Husband </a></td>
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			<td><a href="#" title="Esposa"> Wife </a></td>
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
@@ -61,7 +61,7 @@
 			<tr>
 			<td><a href="#" title="Sobrinho" > Nephew </a></td>
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
-			<td><a href="#" title="Sobrinho" > Niece </a></td>
+			<td><a href="#" title="Sobrinha" > Niece </a></td>
 			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 			
 			</tr>

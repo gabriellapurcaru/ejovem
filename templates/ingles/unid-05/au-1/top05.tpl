@@ -7,9 +7,16 @@
 <h3><a href="#" title="Praticando">Practicing</a></h3>
 <div id="center">
 
-<div id="box-explicacao-video-animacao">
-<h6>Nesse exercício você deverá escrever o trabalho correto em cada imagem, relacionado com a tabela. Depois ouça e escolha o emprego certo, e por ultimo preencha a cruzadinha. Concentre-se!</h6>
-	
+<div id="atividade">
+<h6>Nesse exercício você deverá escrever o trabalho correto em cada imagem, relacionando com o quadro.</h6>
+	<table class="table table-striped" style="color:#4682B4;font-weight:bold;font-size:13px;">
+				<tdead>
+					<tr>
+				<td><center>waitress - secretary - journalist - doctor - vet - teacher - nurse - mechanic - farmer - waiter - bus driver - architect - photographer - singer</center></td>
+					</tr>
+				</thead>
+			</table>
+
 	<!-- inicio da atividade -->
 
 
@@ -33,13 +40,13 @@
 <table class="table table-striped">
 <tdead>
 <tr>
-<td><img src="img/img_atividadeprofissoes/img01.gif" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img01.gif" height="160px" width="80px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img02.gif" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img02.gif" height="160px" width="80px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img03.jpg" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img03.jpg" height="160px" width="80px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img04.jpg" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img04.jpg" height="160px" width="80px"></td>
 
 </tr>
 
@@ -61,13 +68,13 @@
 </td>
 
 <tr>
-<td><img src="img/img_atividadeprofissoes/img05.jpg" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img05.jpg" height="160px" width="80px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img06.gif" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img06.gif" height="160px" width="80px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img07.gif" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img07.gif" height="160px" width="80px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img08.gif" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img08.gif" height="160px" width="80px"></td>
 
 </tr>
 
@@ -88,13 +95,13 @@
 </tr>
 
 <tr>
-<td><img src="img/img_atividadeprofissoes/img09.jpg" height="80px" width="70px"></td>
+<td><img src="img/img_atividadeprofissoes/img09.jpg" height="60px" width="50px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img10.jpg" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img10.jpg" height="160px" width="80px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img11.gif" height="90px" width="80px"></td>
+<td><img src="img/img_atividadeprofissoes/img11.gif" height="70px" width="60px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img12.jpg" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img12.jpg" height="160px" width="80px"></td>
 
 </tr>
 
@@ -117,9 +124,9 @@
 </tr>
 
 <tr>
-<td><img src="img/img_atividadeprofissoes/img13.gif" height="180px" width="100px"></td>
+<td><img src="img/img_atividadeprofissoes/img13.gif" height="160px" width="80px"></td>
 
-<td><img src="img/img_atividadeprofissoes/img14.gif" height="90px" width="80px"></td>
+<td><img src="img/img_atividadeprofissoes/img14.gif" height="70px" width="60px"></td>
 
 </tr>
 
@@ -142,10 +149,10 @@
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button></p>
 
 
 </div>

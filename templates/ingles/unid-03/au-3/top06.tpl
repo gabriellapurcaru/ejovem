@@ -21,13 +21,13 @@
 <tr>
 <td style="padding-left:50px;"><img src="img/atividade02/01.jpg" width="80" height="100"></td>
 <td style="padding-left:50px;"><img src="img/atividade02/02.jpg" width="80" height="100"></td>
-<td style="padding-left:50px;"><img src="img/atividade02/03.jpg" width="80" height="100"></td>
+<td style="padding-left:50px;"><img src="img/atividade02/07.jpg" width="80" height="100"></td>
 <td style="padding-left:50px;"><img src="img/atividade02/04.jpg" width="80" height="100"></td>
 </tr>
 <tr>
 <th style="padding-left:50px;">aFcner</th> 
 <th style="padding-left:50px;">iSanp</th>
-<th style="padding-left:50px;">SAU </th>
+<th style="padding-left:50px;">zeChc Republic</th>
 <th style="padding-left:50px;">xiMceo</th>
 </tr>
 <tr>
@@ -48,13 +48,13 @@
 <tr>
 <td style="padding-left:50px;"><img src="img/atividade02/05.jpg" width="80" height="100"></td>
 <td style="padding-left:50px;"><img src="img/atividade02/06.jpg" width="80" height="100"></td>
-<td style="padding-left:50px;"><img src="img/atividade02/07.jpg" width="80" height="100"></td>
+<td style="padding-left:50px;"><img src="img/atividade02/03.jpg" width="80" height="100"></td>
 <td style="padding-left:50px;"><img src="img/atividade02/08.jpg" width="80" height="100"></td>
 </tr>
 <tr>
 <th style="padding-left:50px;">iraBtni</th>
 <th style="padding-left:50px;">eGerec </th> 
-<th style="padding-left:50px;">zeChc Republic</th>
+<th style="padding-left:50px;">THE SAU</th>
 <th style="padding-left:50px;">daPnlo </th>
 </tr>
 <tr>
@@ -82,10 +82,10 @@
 
 
 
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button></p>
 
 
 </div>

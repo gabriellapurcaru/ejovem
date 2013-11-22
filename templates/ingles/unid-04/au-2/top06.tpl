@@ -17,8 +17,10 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-           http://www.youtube.com/watch?v=n608j7ju-Pc&feature=player_embedded#
-         </div>
+		<div id="texto">
+			<iframe width="400" height="245" src="video/My First English Words, Family.avi" frameborder="0" allowfullscreen></iframe>
+		</div>
+        </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">
         </div>

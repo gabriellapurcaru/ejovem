@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="" title="Revisando!">Brush up!</a></h3>
+<h3><a href="" title="Vamos Começar!">Let's Get Started!</a></h3>
 <div id="center">
 
 <div id="box-esquerda">
@@ -30,7 +30,7 @@
 <tr>
 <td><a href="#" title="Documentário">Documentary</a> <br /><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 <td><a href="#" title="Realite Show">Reality Show</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"> </td>
-<td><a href="#" title="Novos Programas">News program</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><a href="#" title="Jornal">News program</a><br/> <embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
 <td><img src="img/02.jpeg"/></td>

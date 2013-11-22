@@ -42,7 +42,7 @@
           </tr>
            <tr> 
             <td><b> Germany </b>(Alemanha) </td>
-            <td><b>Mexico </b>(México) </td>
+            <td><b>Russia </b>(Rússia) </td>
           </tr>
           <tr> 
             <td><b>China </b>(China) </td>
@@ -50,8 +50,8 @@
           </tr>
            <tr> 
             <td><b> India </b>(Índia) </td>
-            <td><b>Russia </b>(Rússia) </td>
-          </tr>
+			<td></td>
+           </tr>
 	</table>
 </div>
 

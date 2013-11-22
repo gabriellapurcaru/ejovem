@@ -25,7 +25,7 @@
 <div class="ClozeBody">
 <h6>Observe as palavras do quadro e complete o dialogo com a resposta correta. </h6>
 <div class="alert" style="width:400px;text-align:center;">
-is - 5:10 a.m - know - is - speak - is - did - is
+is - 5:10 p.m - know - speak - is - did - is
 </div>
 
 <b>A</b>: Excuse me, what <span class="GapSpan" id="GapSpan0"><input class="span1" type="text" id="Gap0" onFocus="TrackFocus(0)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> your name? <br />
@@ -33,13 +33,13 @@ is - 5:10 a.m - know - is - speak - is - did - is
 <b>A</b>: John<br />
 <b>B</b>: You <span class="GapSpan" id="GapSpan3"><input class="span1" type="text" id="Gap3" onFocus="TrackFocus(3)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> English very well.<br />
 
-<b>B</b>: Do you <span class="GapSpan" id="GapSpan4"><input class="span1" type="text" id="Gap4" onFocus="TrackFocus(4)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> what time <span class="GapSpan" id="GapSpan5"><input class="span1" type="text" id="Gap5" onFocus="TrackFocus(5)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> it? Sure. It&#x00B4;s 17:10.<br />
+<b>B</b>: Do you <span class="GapSpan" id="GapSpan4"><input class="span1" type="text" id="Gap4" onFocus="TrackFocus(4)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> what time it is? Sure. It&#x00B4;s 17:10.<br />
 <b>A</b>: What <span class="GapSpan" id="GapSpan6"><input class="span1" type="text" id="Gap6" onFocus="TrackFocus(6)" onBlur="LeaveGap()" class="GapBox" size="6"></input></span> you say? <br />
 <b>B</b>: I said it&#x00B4;s <span class="GapSpan" id="GapSpan7"><input class="span1" type="text" id="Gap7" onFocus="TrackFocus(7)" onBlur="LeaveGap()" class="GapBox" size="7"></input></span> <br />
 </div>
 </form>
 </div>
-<button id="CheckButton2" class="FuncButton" onMouseOver="FuncBtnOver(this)" onFocus="FuncBtnOver(this)" onMouseOut="FuncBtnOut(this)" onBlur="FuncBtnOut(this)" onMouseDown="FuncBtnDown(this)" onMouseUp="FuncBtnOut(this)" onClick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+<button id="CheckButton2" style="margin-left:550px;" class="FuncButton" onMouseOver="FuncBtnOver(this)" onFocus="FuncBtnOver(this)" onMouseOut="FuncBtnOut(this)" onBlur="FuncBtnOut(this)" onMouseDown="FuncBtnDown(this)" onMouseUp="FuncBtnOut(this)" onClick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
 
 </div>
 
@@ -59,7 +59,7 @@ is - 5:10 a.m - know - is - speak - is - did - is
 {barra_tools}
 <div id="navegacao">
 	<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-		<span>Página 2 de 13</span>
+		<span>Página 2 de 12</span>
 	<a href="top03.php" class="navegacao-dir"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	

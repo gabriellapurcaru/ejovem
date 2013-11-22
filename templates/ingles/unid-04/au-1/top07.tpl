@@ -56,7 +56,7 @@ com <b>do</b>, <b>does</b> e <b>did</b>.</p>
 {barra_tools}
 	<div id="navegacao">
 		<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-			<span>Página 7 de 13</span>
+			<span>Página 7 de 12</span>
 		<a href="top08.php" class="navegacao-esq"><img src="../../../imgs/seta2.png"/></a>	
 	</div>
 

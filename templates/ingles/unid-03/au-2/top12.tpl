@@ -18,7 +18,9 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            http://www.youtube.com/watch?v=Ywgh-_RDb4Q&feature=related
+				<div id="texto">
+           <iframe width="400" height="245" src="video/Months of the year.avi" frameborder="0" allowfullscreen></iframe>
+				</div>
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">

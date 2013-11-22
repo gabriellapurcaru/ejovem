@@ -17,7 +17,9 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-          http://www.youtube.com/watch?feature=player_embedded&v=qtpKmC1y8WE
+        <div id="texto">
+			<iframe width="400" height="245" src="video/What_is_your_nationality.avi" frameborder="0" allowfullscreen></iframe>
+		</div>
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">

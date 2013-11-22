@@ -10,7 +10,7 @@
 <h6>Lembrando sempre dos auxiliares vistos anteriormente, examine o quadro e fique atento à formula para perguntas</h6>
 <img src="img/interrogativa.png">
 
-<h6>Observe que o verbo principal não se modifica, nem mesmo na 3ª pessoa. Ou seja, o ‘s’ desaparece na pergunta!</h6>
+<font style="color:#4682B4;font-weight:bold;font-size:15px;">Observe que o <u style="font-size:18px;">verbo principal</u> não se modifica, nem mesmo na <u style="font-size:18px;">3ª pessoa</u>. Ou seja, o <u style="font-size:20px;">‘s’</u> desaparece na pergunta!</font>
 </div>
 
 </div>
