@@ -8,7 +8,6 @@
 <div id="center">
 <!-- -->
 
-
 <!--  -->
 
 
@@ -19,8 +18,8 @@
 {barra_tools}
 
 <div id="navegacao">
-	<span>Página 1 de 8</span>
-	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top07.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 8 de 8</span>
 </div>
 	
 {rodape}
