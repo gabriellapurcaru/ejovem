@@ -29,7 +29,7 @@
 			<p>“A” e “AN” são artigos indefinidos - significam um ou uma - e são usados no singular.</p>
 			<p> Já no plural não usamos o artigo: “I like to wear green T-Shirts”. </p>
 			<p>Percebam o “sumiço” do “a” na frase no plural. Isso é muito comum quando se falando de roupas.</p>
-			<h5> Lembre-se: você usa pares de meia (socks), calças (pants), sapatos (shoes), tênis (sneakers), por exemplo, que são palavras usadas geralmente no plural.</h5>
+			<h5> Lembre-se: você usa pares de meias (socks), calças (pants), sapatos (shoes), tênis (sneakers), por exemplo, que são palavras usadas geralmente no plural.</h5>
 		</div>
 	</div>
 

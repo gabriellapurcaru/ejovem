@@ -11,7 +11,7 @@
 <div id="box-atividade">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p>Complete os seguintes diálogos com as palavras do quadro, reescrevendo-as elas no espaço correto.</p>
+        <p>Complete os seguintes diálogos com as palavras do quadro, reescrevendo-as no espaço correto.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 </div>

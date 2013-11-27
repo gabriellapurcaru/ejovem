@@ -41,7 +41,7 @@
 						</tr>
 <td>Susana <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;height:25px;"></input></span> Portuguese. <strong style="color:#4682B4;">(TEACH)</strong></td>
 						</tr>
-<td>Paulo <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="7" style="width:70px;height:25px;"></input></span> English. <strong style="color:#4682B4;">(STUDY)</strong></td>
+<td>Paulo <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="7" style="width:60px;height:25px;"></input></span> English. <strong style="color:#4682B4;">(STUDY)</strong></td>
 						</tr>
 <td>You <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6" style="width:60px;height:25px;"></input></span> one brother. <strong style="color:#4682B4;">(HAVE)</strong></td>
 						</tr>

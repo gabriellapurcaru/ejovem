@@ -20,7 +20,7 @@
 			<tbody>
 <tr>
 <th><a href="#" title="Saboroso">Tasty</a></th>
-<th><a href="#" title="Gorduroso Amargo">Greasy bitter</a></th>
+<th><a href="#" title="Gorduroso">Greasy</a></th>
 </tr>	
 
 <tr>

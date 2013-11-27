@@ -23,7 +23,7 @@ function Client(){
 	this.gecko = (this.ua.indexOf('Gecko') > 1);
 	if (this.gecko){
 		this.geckoVer = parseInt(this.ua.substring(this.ua.indexOf('Gecko')+6, this.ua.length));
-		if (this.geckoVer < 20020000){this.min = false;}
+//		if (this.geckoVer < 20020000){this.min = false;}
 	}
 	
 //Look for Firebird
@@ -49,7 +49,7 @@ function Client(){
 		if (this.operaVer < 7.04){this.min = false;}
 	}
 	if (this.min == false){
-		alert('Your browser may not be able to handle this page.');
+//		alert('Your browser may not be able to handle this page.');
 	}
 	
 //Special case for the horrible ie5mac
@@ -459,8 +459,8 @@ function ItemState(){
 
 var Feedback = '';
 var Correct = 'Correct! Well done.';
-var Incorrect = 'Algumas de suas respostas est&#x00E3;o incorretas.'; 
-var GiveHint = 'A letra correta foi adicionada a resposta,';
+var Incorrect = 'Some of your answers are incorrect. Incorrect answers have been left in place for you to change.'; 
+var GiveHint = 'The next correct letter has been added to the answer.';
 var CaseSensitive = false;
 var YourScoreIs = 'Your score is ';
 var Finished = false;
@@ -493,32 +493,26 @@ I[2][2]='';
 I[3] = new Array();
 I[3][1] = new Array();
 I[3][1][0] = new Array();
-I[3][1][0][0] = '\u0053\u0070\u0065\u0061\u006B';
+I[3][1][0][0] = '\u0073\u0070\u0065\u0061\u006B';
 I[3][2]='';
 
 I[4] = new Array();
 I[4][1] = new Array();
 I[4][1][0] = new Array();
-I[4][1][0][0] = '\u004B\u006E\u006F\u0077';
+I[4][1][0][0] = '\u006B\u006E\u006F\u0077';
 I[4][2]='';
 
 I[5] = new Array();
 I[5][1] = new Array();
 I[5][1][0] = new Array();
-I[5][1][0][0] = '\u0069\u0073';
+I[5][1][0][0] = '\u0064\u0069\u0064';
 I[5][2]='';
 
 I[6] = new Array();
 I[6][1] = new Array();
 I[6][1][0] = new Array();
-I[6][1][0][0] = '\u0044\u0069\u0064';
+I[6][1][0][0] = '\u0035\u003A\u0031\u0030\u0020\u0070\u002E\u006D';
 I[6][2]='';
-
-I[7] = new Array();
-I[7][1] = new Array();
-I[7][1][0] = new Array();
-I[7][1][0][0] = '\u0035\u003A\u0031\u0030\u0020\u0061\u006D';
-I[7][2]='';
 
 
 State = new Array();
