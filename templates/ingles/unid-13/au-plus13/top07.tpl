@@ -7,7 +7,8 @@
 <h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
 <div id="center">
 <!-- -->
-<script src="a01.js" type="text/javascript"></script></head>
+
+<script src="A01.js" type="text/javascript"></script></head>
 
 <body onload="StartUp()" id="TheBody" >
 
@@ -47,7 +48,7 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
- FILL IN THE GAPS:<br /><br />1. I like to eat <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> .<br /> <br />2. My friend Liza doesn't like to drink <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br /> <br />3. Janet and Nina don't have <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> in the morning. They have <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> juice.<br />4. My grandmother has <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> everyday at 5 pm.<br /> <br />5. Liza is eating <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> and <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> .<br /> 
+Choose the correct words/phrases to complete the following conversation: <br /><br />WAITER: Are you ready to order?<br />YOU: Yes, we can't decide... what do you <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>? (say, decide, recommend)<br /><br />WAITER: Well, our specialty is the Seafood Platter... it includes four different kinds of seafood... <br /><br />YOU: Oh, no, I can't eat that... I'm <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> to seafood! Anything else? ( allergic, allergy, an allergy)<br /><br />WAITER: Hmm... Well, the Grilled Chicken is also quite good. <br /><br />YOU: Perfect, we'll have two orders of that. It's not too <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, is it? (mild, cold, spicy)<br /> <br />WAITER: No, it's pretty mild. And what would you like to drink? <br /><br />YOU: What kind of <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do you have? (water, juice, drinks)<br /> <br />WAITER: Orange, mango, and pineapple. <br /><br />YOU: Two pineapple juices please. Oh... and an <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>. (ash, ashtray, ash plate)<br /> <br /><br />WAITER: I'm sorry, but smoking is not allowed in the restaurant. <br /><br /><br /> <br /> 
 </div>
 </form>
 </div>
@@ -69,8 +70,6 @@
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
 
-
-
 <!--  -->
 
 
@@ -81,9 +80,9 @@
 {barra_tools}
 
 <div id="navegacao">
-	<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 2 de 9</span>
-	<a href="top03.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top06.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 7 de 9</span>
+	<a href="top08.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
 {rodape}

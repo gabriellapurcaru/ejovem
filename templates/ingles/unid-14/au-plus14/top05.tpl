@@ -19,8 +19,9 @@
 {barra_tools}
 
 <div id="navegacao">
-	<span>Página 1 de 5</span>
-	<a href="top02.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top04.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 5 de 5</span>
+
 </div>
 	
 {rodape}

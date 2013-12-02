@@ -7,7 +7,8 @@
 <h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
 <div id="center">
 <!-- -->
-<script src="a01.js" type="text/javascript"></script></head>
+
+<script src="A03.js" type="text/javascript"></script></head>
 
 <body onload="StartUp()" id="TheBody" >
 
@@ -47,7 +48,7 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
- FILL IN THE GAPS:<br /><br />1. I like to eat <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> .<br /> <br />2. My friend Liza doesn't like to drink <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br /> <br />3. Janet and Nina don't have <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> in the morning. They have <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> juice.<br />4. My grandmother has <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> everyday at 5 pm.<br /> <br />5. Liza is eating <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> and <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> .<br /> 
+<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> Billfish <br /><br /><br /><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> MANIOC<br /><br /> <br /><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> SUN-DRIED MEAT <br /><br /><br /><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> SNAPPER<br /><br /><br /><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> MANIOC FLOUR<br /><br /><br /><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> MILK PUDDING<br /><br /><br /><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> COCONUT MILK<br /><br /><br /><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> MANIOC FLOUR PUR&#x00C9;E<br /><br /><br /><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> CORIENDER<br /><br /><br /><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> COCONUT WATER<span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
 </div>
 </form>
 </div>
@@ -69,8 +70,6 @@
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
 
-
-
 <!--  -->
 
 
@@ -81,9 +80,9 @@
 {barra_tools}
 
 <div id="navegacao">
-	<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 2 de 9</span>
-	<a href="top03.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top03.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 4 de 5</span>
+	<a href="top05.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
 {rodape}

@@ -7,7 +7,7 @@
 <h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
 <div id="center">
 <!-- -->
-<script src="a01.js" type="text/javascript"></script></head>
+<script src="a02.js" type="text/javascript"></script></head>
 
 <body onload="StartUp()" id="TheBody" >
 
@@ -47,7 +47,7 @@
 <div id="ClozeDiv">
 <form id="Cloze" method="post" action="" onsubmit="return false;">
 <div class="ClozeBody">
- FILL IN THE GAPS:<br /><br />1. I like to eat <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> .<br /> <br />2. My friend Liza doesn't like to drink <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br /> <br />3. Janet and Nina don't have <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> in the morning. They have <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> juice.<br />4. My grandmother has <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> everyday at 5 pm.<br /> <br />5. Liza is eating <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> and <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> .<br /> 
+Read. Write the letter in the box.<br /><br /><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <br /><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <br /><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <br /><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <br /><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> <br /><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>
 </div>
 </form>
 </div>
@@ -70,7 +70,6 @@
 </div>
 
 
-
 <!--  -->
 
 
@@ -81,9 +80,9 @@
 {barra_tools}
 
 <div id="navegacao">
-	<a href="top01.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
-	<span>Página 2 de 9</span>
-	<a href="top03.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
+	<a href="top05.php" class="navegacao-esq"><img src="../../../imgs/seta1.png"/></a>
+	<span>Página 6 de 9</span>
+	<a href="top07.php" class="navegacao"><img src="../../../imgs/seta2.png"/></a>
 </div>
 	
 {rodape}
