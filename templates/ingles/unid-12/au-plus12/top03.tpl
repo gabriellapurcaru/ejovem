@@ -3,79 +3,78 @@
 {menu}
 
 <div id="meio">
-
-<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
-<div id="center">
-<div id="atividade">
-<!-- -->
+	<h3><a href="#">Atividade 02</a></h3>
+	<div id="center">
+		<div id="box-esquerda">
+			<div id="box-atividade">
+				<div class="ba-esq">
+				<div class="ba-balao">
+			        <p><h5><a class="" href="#" title="Agora, vamos fazer o oposto da atividade passada. Vamos escrever o número de acordo com o que está escrito por extenso.">Now let's do the opposite of last activity. Let's write the number according to what is written in words.</h5></a></p>
+				</div>
+			    	<div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+				</div>
+			</div>
+		</div>
+			<div id="box-direita">
+			<div id="box-direita">
+				<div id="atividade">
+					<!-- -->
 <script src="js/A02.js" type="text/javascript"></script></head>
-
-<body onload="StartUp()" id="TheBody" >
-
-<!-- BeginTopNavButtons -->
-
-
-
-<!-- EndTopNavButtons -->
-
-<div class="Titles">
-	<h2 class="ExerciseTitle"></h2>
-
-
-
-</div>
-
-<div id="InstructionsDiv" class="StdDiv">
-	<div id="Instructions"></div>
-</div>
-
-
-
-
-
-<div id="MainDiv" class="StdDiv">
-
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Hint&nbsp;</button>
-
-
- -->
- 
-<div id="ClozeDiv">
-<form id="Cloze" method="post" action="" onsubmit="return false;">
-<div class="ClozeBody">
-thirty-three 		 <br />ninety-four 		 <br />sixty-two 		 <br />twenty-one 		 <br />eighteen <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>		 <br />fifty-six 	<span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />seventy-seven <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>		 <br />twelve 	<span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />forty-three 	<span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />eighty-nine 	 <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />fifty-four 	<span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />ninety-nine 	 <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />thirty-six 	 <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />sixteen 	 <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />seventy-one 	 <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />eighty-four 	 <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />forty-seven <span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>		 <br />sixty-eight 	 <span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>	 <br />twenty-three <span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>		 <br />thirteen <span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
-</div>
-</form>
-</div>
-
-
-
-<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Check&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Hint&nbsp;</button>
-
-
-</div>
-
-
-
-<div class="Feedback" id="FeedbackDiv">
-<div class="FeedbackText" id="FeedbackContent"></div>
-<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
-</div>
-
-<!--  -->
-
-
-
-</div>
-</div>
+	<div id="InstructionsDiv" class="StdDiv">
+		<div id="Instructions"></div>
+	</div>	
+	<div id="MainDiv" class="StdDiv">
+		<div id="ClozeDiv">
+			<form id="Cloze" method="post" action="" onsubmit="return false;">
+				<div class="ClozeBody">
+					<table>
+<tr>
+<td width="25%"><b style="font-size:12px;color:#006400">a) </b>eighteen <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>	
+<td width="25%"><b style="font-size:12px;color:#006400">b) </b>fifty-six <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+</tr>
+<tr>
+<td><b style="font-size:12px;color:#006400">c) </b>seventy-seven <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+<td><b style="font-size:12px;color:#006400">d) </b>twelve <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>	</tr>
+<tr>
+<td><b style="font-size:12px;color:#006400">e) </b>forty-three <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>	
+<td><b style="font-size:12px;color:#006400">f) </b>eighty-nine <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+</tr>
+<tr>
+<td><b style="font-size:12px;color:#006400">g) </b>fifty-four <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+<td><b style="font-size:12px;color:#006400">h) </b>ninety-nine <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+</tr>
+<tr>
+<td><b style="font-size:12px;color:#006400">i) </b>thirty-six <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+<td><b style="font-size:12px;color:#006400">j) </b>sixteen <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+</tr>
+<tr>	
+<td><b style="font-size:12px;color:#006400">k) </b>seventy-one <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+<td><b style="font-size:12px;color:#006400">l) </b>eighty-four <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+</tr>
+<tr>
+<td><b style="font-size:12px;color:#006400">m) </b>forty-seven <span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+<td><b style="font-size:12px;color:#006400">n) </b>sixty-eight <span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+</tr>
+<tr>
+<td><b style="font-size:12px;color:#006400">o) </b>twenty-three <span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td>
+<td><b style="font-size:12px;color:#006400">p) </b>thirteen <span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="6" style="width:30px;height:25px;"></input></span></td> 
+</tr>
+					</table>
+				</div>
+			</form>
+		</div>
+		<p align="right"><button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
+		<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica!&nbsp;</button></p>
+	</div>
+	<div class="Feedback" id="FeedbackDiv">
+		<div class="FeedbackText" id="FeedbackContent"></div>
+		<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+	</div>
+					<!--  -->
+				</div>	
+		</div>
+		</div>
+	</div>
 </div>
 {barra_tools}
 
