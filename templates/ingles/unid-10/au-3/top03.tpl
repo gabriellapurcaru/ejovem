@@ -3,7 +3,7 @@
 {menu}
 
 <div id="meio">
-<h3><a href="#" title="Conhecendo a comida brasileira">Knowing the Brazilian food</a></h3>
+<h3><a href="#" title="Foco na Gramática">Grammar in Focus</a></h3>
 <div id="center">
 		<div id="box-atividade">
 			<div class="ba-esq">

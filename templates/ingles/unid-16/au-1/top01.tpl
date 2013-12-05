@@ -18,8 +18,8 @@ De riso na boca zomba a sofrer<br />
 Não nego meu sangue, não nego meu nome<br />
 Olho para a fome, pergunto o que há?<br />
 Eu sou brasileiro, filho do Nordeste,<br />
-Sou cabra da Peste, sou do Ceará."
-<h6>Patativa do Assaré</h6> 
+Sou cabra da Peste, sou do Ceará."</br>
+<i>Patativa do Assaré</i>
 						
 						
 					</p>		
@@ -29,7 +29,7 @@ Sou cabra da Peste, sou do Ceará."
 		</div>
 
 		<div id="texto">
-			<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
+			<iframe width="420" height="236" src="//www.youtube.com/embed/jbLRvfp_MEw" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
 

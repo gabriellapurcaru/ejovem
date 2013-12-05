@@ -8,8 +8,8 @@
 <div id="center">
 	<div class="swf">
 <h6>Use a seta à direita para dar continuação ao diálogo.</h6>
-<embed width="600" height="420" type="aplication/x-shocware-flash" name="wmode" wmode="transparent" src="swf/animacao03_top09.swf" name="plugin">
-		
+<embed width="600" height="420" type="application/x-shockwave-flash" name="wmode" wmode="transparent" src="swf/animacao03_top09.swf">
+			
 	</div>
 </div>
 </div>

@@ -18,21 +18,19 @@
 				</ul>
 
 				<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-1">
-<b>1 - </b>
 					<div class="swf">
 <img src="img/img_atividade_top09/tapioca.png" height="350" width="450">
 					</div>
 				</div>
 
 				<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-2">
-<b>2 - </b>
+
 					<div class="swf">
 <img src="img/img_atividade_top09/baiao.png" height="350" width="450">
 					</div>
 				</div>
 
 				<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-3">
-<b>3 - </b>
 					<div class="swf">
 <img src="img/img_atividade_top09/peixada.png" height="350" width="450">
 					</div>
@@ -40,14 +38,12 @@
 
 				
 				<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-4">
-<b>4 - </b>
 					<div class="swf">
 <img src="img/img_atividade_top09/paçoca.png" height="350" width="450">
 					</div>
 				</div>
 
 				<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-5">
-<b>5 - </b>
 					<div class="swf">
 <img src="img/img_atividade_top09/caipirinhacaju.png" height="350" width="450">
 					</div>
@@ -55,7 +51,6 @@
 
 
 				<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-6">
-<b>6 - </b>
 					<div class="swf">
 <img src="img/img_atividade_top09/carnedosol.png" height="350" width="450">
 					</div>

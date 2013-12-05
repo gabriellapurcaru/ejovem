@@ -22,7 +22,7 @@
                   <td rowspan="2">How much</td>
                   <td>is</td>
                   <td>this blouse?</td>
-                  <td>It's is</td>
+                  <td>It's</td>
 				  <td rowspan="2">R$ 50,00</td>
                 </tr>
                 <tr>
