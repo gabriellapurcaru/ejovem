@@ -1,4 +1,4 @@
-﻿de 13{topo}
+﻿{topo}
 {tituloAula}
 {menu}
 <div id="meio">

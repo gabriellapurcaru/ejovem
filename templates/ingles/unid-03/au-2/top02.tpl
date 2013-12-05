@@ -17,8 +17,7 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            video
-         </div>
+<iframe width="400" height="250" src="//www.youtube.com/embed/3qa8K7b07GI" frameborder="0" allowfullscreen></iframe>         </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">
         </div>

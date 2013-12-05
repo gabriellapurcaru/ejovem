@@ -8,7 +8,7 @@
 
 	<div id="boxDigitacao">
 	   <div id class="item">
-	        Atenção você: essa lição é muito simples. It’s all about numbers! 1, 2, 3. Go!
+	        Atenção essa lição é muito simples. It’s all about numbers! 1, 2, 3. Go!
 	    </div>
 	</div>
 

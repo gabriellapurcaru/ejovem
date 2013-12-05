@@ -13,7 +13,7 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Nesta unidade falamos sobre as direções e sobre onde se localizam os pontos turísticos da cidade de Fortaleza. Na próxima lição iremos melhor o nosso reading!</p>
+		<p>Nesta unidade falamos sobre as direções e sobre onde se localizam os pontos turísticos da cidade de Fortaleza. Na próxima lição iremos trabalhar melhor o nosso reading!</p>
 		<p><span class="label label-info"><a href="#" tittle="Nos vemos em breve!">See you soon!</a></span>
 
 		</div>

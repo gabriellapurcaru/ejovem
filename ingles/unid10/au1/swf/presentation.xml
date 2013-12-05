@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<presentation title="UNI_11 AULA1 ANI_1" width="720.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{06F14095-FDE4-422C-AE93-1D8ADD9DB1D0}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<backgroundSound soundAssetId="" looping="0"/>
+	<settings>
+		<navigation>
+			<keyboard enabled="0"/>
+			<mouse enabled="0" target="step"/>
+		</navigation>
+		<skin>
+			<messages>
+				<resumeText>Would you like to resume the presentation from the last slide viewed?</resumeText>
+				<resumeTitle>Resume Presentation</resumeTitle>
+				<ok>OK</ok>
+				<no>No</no>
+				<yes>Yes</yes>
+			</messages>
+		</skin>
+		<colorScheme>
+			<primaryColor>0.5686482;0.5208360;-0.0894842;0.0000000;0.0000000;0.1655884;0.6967325;0.1376791;0.0000000;0.0000000;0.3927516;0.2936727;0.3135757;0.0000000;0.0000000;0.0000000;0.0000000;0.0000000;1.0000000;0.0000000;</primaryColor>
+		</colorScheme>
+		<appearance fullScreen="0"/>
+		<playback autoStart="1" resumePresentationPlayback="1" syncWithVideoNarration="1" enableVideoControl="1"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="data/slide1.swf" size="61623" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+			</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="data/slide2.swf" size="52020" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>cap</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="data/slide3.swf" size="48699" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>earrings</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="data/slide4.swf" size="48539" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>glass</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="data/slide5.swf" size="41872" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>bikini</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="data/slide6.swf" size="66307" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>jacket</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="data/slide7.swf" size="22754" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>pants</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="data/slide8.swf" size="22057" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>t-shirt</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="data/slide9.swf" size="60118" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>shorts</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="data/slide10.swf" size="35939" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>jeans</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="data/slide11.swf" size="63298" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>skirt</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="data/slide12.swf" size="42159" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>dress</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="data/slide13.swf" size="70151" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>hat</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="data/slide14.swf" size="35766" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>blouse</text>
+		</slide>
+		<slide index="14" title="" titleNormalized="" src="data/slide15.swf" size="37719" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>shoes</text>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="data/slide16.swf" size="45056" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>sandals</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="data/slide17.swf" size="45562" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>sneakers</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="data/slide18.swf" size="28321" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailSrc="" presenterIndex="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CubeLeft" duration="1.2000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>suit</text>
+		</slide>
+	</slides>
+	<actions>
+		<action name="playPause">
+			<shortcut code="32" control="0" shift="0"/>
+		</action>
+		<action name="nextSlide">
+			<shortcut code="34" control="0" shift="0"/>
+		</action>
+		<action name="previousSlide">
+			<shortcut code="33" control="0" shift="0"/>
+		</action>
+		<action name="nextStep">
+			<shortcut code="13" control="0" shift="0"/>
+		</action>
+		<action name="previousStep">
+			<shortcut code="13" control="0" shift="1"/>
+		</action>
+		<action name="seekForward">
+			<shortcut code="39" control="0" shift="0"/>
+		</action>
+		<action name="seekBackward">
+			<shortcut code="37" control="0" shift="0"/>
+		</action>
+		<action name="firstSlide">
+			<shortcut code="36" control="1" shift="0"/>
+		</action>
+		<action name="lastSlide">
+			<shortcut code="35" control="1" shift="0"/>
+		</action>
+		<action name="lastViewedSlide">
+			<shortcut code="8" control="0" shift="0"/>
+		</action>
+		<action name="slideStart">
+			<shortcut code="36" control="0" shift="0"/>
+		</action>
+		<action name="slideEnd">
+			<shortcut code="35" control="0" shift="0"/>
+		</action>
+		<action name="volumeUp">
+			<shortcut code="38" control="0" shift="0"/>
+		</action>
+		<action name="volumeDown">
+			<shortcut code="40" control="0" shift="0"/>
+		</action>
+		<action name="toggleFullscreen">
+			<shortcut code="70" control="1" shift="0"/>
+		</action>
+	</actions>
+</presentation>

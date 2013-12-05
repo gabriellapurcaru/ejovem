@@ -6,7 +6,7 @@
 <div id="center">
 <div class="swf">
 <h6>Clique nas roupas para saber os nomes.</h6>
-
+<embed width="600" height="420" type="application/x-shockwave-flash" src="swf/s01.swf" wmode="transparent" name="wmode">
 </div>
 </div>
 </div>

@@ -26,7 +26,7 @@ Eu sou da Terra da Luz eu sou do Ceará!
 		</div>
 
 		<div id="texto">
-			<iframe width="420" height="236" src="http://www.youtube.com/embed/mqYUNp7DMGg" frameborder="0" allowfullscreen></iframe>
+			<iframe width="420" height="236" src="//www.youtube.com/embed/1zkWMtxxn44" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
 

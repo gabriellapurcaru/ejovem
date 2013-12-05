@@ -14,7 +14,7 @@
 		<div id="box-atividade">
 			<div class="ba-esq">
 			<div class="ba-balao">
-			        <p>De acordo com o mapa, complete o diáligo com a melhor opção.</p>
+			        <p>De acordo com o mapa, complete o diálogo com a melhor opção.</p>
 			</div>
 			    <div class="ba-img"><img src="../../../imgs/e03.png"></div>
 				</div>

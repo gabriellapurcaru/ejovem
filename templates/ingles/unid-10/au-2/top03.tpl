@@ -9,7 +9,7 @@
 	<div class="ba-esq">
 	    <div class="ba-balao">
 	        <p>Vamos testar seus conhecimentos nas cores? </p>
-			<p>Escolha a atividade colors  e acerte os balões para passar para a próxima fase, e preste atenção na pronuncia do audio.</p>
+			<p>Escolha a atividade colors  e acerte os balões para passar para a próxima fase, e preste atenção na pronuncia do áudio.</p>
 		<p><a href="http://www.vedoque.com/juegos/vocabulary.swf?idioma=es" target="_blank">Clique aqui para ir para a atividade</a>
 	    </div>
 	    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
