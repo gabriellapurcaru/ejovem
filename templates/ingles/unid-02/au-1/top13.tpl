@@ -33,6 +33,9 @@
 </tr>
 </tbody> 
 </table>
+	<div id="InstructionsDiv" class="StdDiv">
+		<div id="Instructions"></div>
+	</div>
 	<div id="MainDiv" class="StdDiv">
 
 
