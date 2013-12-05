@@ -7,7 +7,7 @@
 <div id="center">
 
 <div class="alert alert-info">
-	<embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia_unid4_aula2.swf" name="plugin">
+	<embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia_pag02.swf" name="plugin">
 </div>
 
 </div>

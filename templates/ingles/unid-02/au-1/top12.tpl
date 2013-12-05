@@ -9,7 +9,7 @@
 <div id="atividade">
 <h5>Vamos colocar em prática o que aprendeu? Para isso observe as frase ao lado, e coloque-as  em ordem para formar o diálogo.</h5>
 <div class="swf">
-	<embed width="700px" height="350" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>   
+	<embed width="700px" height="350" type="application/x-shockwave-flash" src="swf/unid02_au1_top12.swf" wmode="transparent" name="wmode"/>   
 </div>
 </div>
 </div>

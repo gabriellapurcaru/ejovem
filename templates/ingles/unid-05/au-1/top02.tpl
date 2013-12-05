@@ -8,7 +8,7 @@
 <div id="center">
 <h6>Vamos relembrar o que vimos na unidade 4 sobre a família? Complete os espaços em branco com a resposta correta. </h6>
 <div class="alert alert-info">
-	<embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia.swf" name="plugin">
+	<embed width="750" height="400" type="application/x-shockwave-flash"  name="wmode" wmode="transparent"  src="swf/atividade_familia_pag02.swf" name="plugin">
 </div>
 
 </div>
