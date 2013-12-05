@@ -9,7 +9,7 @@
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
-		    <p>Assista o vídeo ao lado e escute a pronuncia dos números, pratique sua pronuncia repetindo os números mais de uma vez.</p>
+		    <p>Assista o vídeo ao lado e escute a pronúncia dos números. Pratique sua pronúncia repetindo os números mais de uma vez.</p>
 		  </div>
 		  <div id="person">
 		      <img src="../../../imgs/e10.png">
@@ -17,7 +17,7 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            video
+            <iframe width="400" height="250" src="//www.youtube-nocookie.com/embed/qbIYTMo4E-k?rel=0" frameborder="0" allowfullscreen></iframe>
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">

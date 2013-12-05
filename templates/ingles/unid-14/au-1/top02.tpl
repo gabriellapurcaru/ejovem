@@ -10,7 +10,7 @@
 <div id="box-atividade">
 	<div id="boxDigitacao">
 	    <div class="item">
-	        Before we go to next class, let's remember what we saw on unit 13 about want, would and will? Let's go!!
+	        Before going to the next lesson, let´s  remember what we saw on Unit 13 about  want, would and will? Let´s go!!
 		</div>
 	</div>
 

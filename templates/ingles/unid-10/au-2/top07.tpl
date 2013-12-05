@@ -14,7 +14,7 @@
 		</ul>
 
 		<div id="tabs-1">
-			<p>Em Português, dizemos “uma camiseta cinza”. Mas, em Inglês, invertemos aordem e dizemos “a gray T-shirt”: ou seja, o adjetivo vem antes do substantivo.</p>
+			<p>Em Português, dizemos “uma camiseta cinza”. Mas, em Inglês, invertemos a ordem e dizemos “a gray T-shirt”: ou seja, o adjetivo vem antes do substantivo.</p>
 			<h5>Note que não é difícil mesmo!</h5>
 			<h5>Lembre-se que o nome do sanduíche que você às vezes come é hot dog! Você nunca diria “dog hot” - e essa é a sequência “aportuguesada” para cachorro quente.</h5>
 		</div>

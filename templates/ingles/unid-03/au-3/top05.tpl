@@ -10,7 +10,7 @@
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
-		    <p>Assista o vídeo e veja como se pronuncia o nome de alguns país e suas nacionalidades.</p>
+		    <p>Assista o vídeo e veja como se pronuncia o nome de alguns países e suas nacionalidades.</p>
 		  </div>
 		  <div id="person">
 		      <img src="../../../imgs/e10.png">
@@ -19,7 +19,7 @@
     <div id="box-esq">
         <div id="box-video-esq-video">
            <div id="texto">
-			<iframe width="400" height="245" src="video/Countries_Nationalities.avi" frameborder="0" allowfullscreen></iframe>
+			<iframe width="400" height="250" src="//www.youtube-nocookie.com/embed/Z6cvRmyEUKc?rel=0" frameborder="0" allowfullscreen></iframe>
 		</div>
 
          </div>

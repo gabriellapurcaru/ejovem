@@ -9,7 +9,7 @@
 <div id="box-center-video">
     <div id="box-dir">
 		  <div id="balao-azul">
-		    <p>Assista ao lado um vídeo</p>
+		    <p>Assista este vídeo e pratique.</p>
 		  </div>
 		  <div id="person">
 		      <img src="../../../imgs/e10.png">
@@ -17,7 +17,7 @@
     </div>
     <div id="box-esq">
         <div id="box-video-esq-video">
-            video
+            <iframe width="400" height="250" src="//www.youtube-nocookie.com/embed/AnXVZWp_7jA?rel=0" frameborder="0" allowfullscreen></iframe>
          </div>
         <div id="box-video-esq-img">
             <img src="../../../imgs/e11.png">

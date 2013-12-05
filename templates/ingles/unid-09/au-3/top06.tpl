@@ -5,32 +5,21 @@
 <div id="meio">
 <h3><a href="#" title="Exercício">Exercise</a></h3>
 <div id="center">
-
+	<div id="atividade">
 	
-<h6 style="margin-left:10px;">Complete com os verbos no tempo correto.</h6>
+<h6 style="margin-left:10px;">Veja a letra da música, Bang Bang de Nancy Sinatra e complete com os verbos no tempo correto. </h6>
 	
 <script src="js/atividade_top06.js" type="text/javascript"></script></head>
 
 <div id="MainDiv" class="StdDiv">
+	<div id="ClozeDiv">
+		<form id="Cloze" method="post" action="" onsubmit="return false;">
+			<div class="ClozeBody">
 
-<!-- These top buttons hidden; reveal if required -->
-<!--
-<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button>
-
-
-<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;Dica&nbsp;</button>
-
-
- -->
- 
-<div id="ClozeDiv">
-<form id="Cloze" method="post" action="" onsubmit="return false;">
-<div class="ClozeBody">
-
-<div id="box-esquerda" style="margin-left:10px;">
-
-<div id="explicacao">
-I <span class="GapSpan" id="GapSpan0"><input style="width:100px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
+<table style="font-style:italic;text-align:center;background-color:rgba(0, 0, 0, 0.1);border-radius:25px;font-size:15px;" align="center">
+		<tr>
+<td width="32%">
+<p style="margin-top:20px;">I <span class="GapSpan" id="GapSpan0"><input style="width:100px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
 (to be PAST SIMPLE) five and he <span class="GapSpan" id="GapSpan1"><input style="width:100px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> 
 (to be PAST SIMPLE) six,
 
@@ -65,30 +54,22 @@ Seasons <span class="GapSpan" id="GapSpan8"><input style="width:100px;" type="te
 <br />
 
 when I <span class="GapSpan" id="GapSpan10"><input style="width:100px;" type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> (grow up PAST SIMPLE) I <span class="GapSpan" id="GapSpan11"><input style="width:100px;" type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (call PAST SIMPLE)him mine.
+</p></td>
+<td width="5%"></td>
+<td width="35%"><p style="margin-top:-145px;">
 <br />
-He would always laugh and say,<br />remember when we used to play.
-
-</div>
-</div>
-
-
-
-<div id="box-direita" style="width:50%;margin-right:20px;">
-<div id="explicacao">
+He would always laugh and say,<br />remember when we used to play.<br />
 Bang Bang,<br />I <span class="GapSpan" id="GapSpan12"><input style="width:100px;" type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (shoot PAST SIMPLE)you down<br />Bang Bang,<br />You <span class="GapSpan" id="GapSpan13"><input style="width:100px;" type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (hit PAST SIMPLE)the ground<br />Bang Bang,<br />I used to shoot you down.
 
 <br /><br />
 
 Music <span class="GapSpan" id="GapSpan14"><input style="width:100px;" type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (play PAST SIMPLE) and people saying,
 
-just for me the churchbells <span class="GapSpan" id="GapSpan15"><input style="width:100px;" type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (ring PAST SIMPLE).<br /><br />Now he's gone,<br />I dont know <span class="GapSpan" id="GapSpan16"><input style="width:100px;" type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br />And till this day,<br />sometimes I <span class="GapSpan" id="GapSpan17"><input style="width:100px;" type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br />He didn't even say <span class="GapSpan" id="GapSpan18"><input style="width:100px;" type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>,<br />he didn't take the time to lie.
-
-<br /><h5>Chorus</h5>
-
-Answer: MIND CAPITAL LETTERS AND PUNCTUATION.<br />How old was she? <span class="GapSpan" id="GapSpan19"><input  style="width:100px;" type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> <br />How old was he? <br />What colour did she wear? <br />Did she always win? <br />Did they used to play when they were young? <br />Did they get married? <br />Did he stay?<br />Did he go away?<br />Was he a good husband? <br />Did he say good-bye?<br />Did he take the time to lie? 
-</div>
-
-</div>
+just for me the churchbells <span class="GapSpan" id="GapSpan15"><input style="width:100px;" type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> (ring PAST SIMPLE).<br />
+<br />Now he's gone,<br />I dont know <span class="GapSpan" id="GapSpan16"><input style="width:100px;" type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br />And till this day,<br />sometimes I <span class="GapSpan" id="GapSpan17"><input style="width:100px;" type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.<br />He didn't even say <span class="GapSpan" id="GapSpan18"><input style="width:100px;" type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>,<br />he didn't take the time to lie.
+</p></td>
+</tr>
+</table>
 
 
 </form>
@@ -110,10 +91,8 @@ Answer: MIND CAPITAL LETTERS AND PUNCTUATION.<br />How old was she? <span class=
 </div>
 
 <!-- FIM ATIVIDADE -->
-
-
 </div>
-	</div>
+</div>
 </div>
 </div>
 </div>	

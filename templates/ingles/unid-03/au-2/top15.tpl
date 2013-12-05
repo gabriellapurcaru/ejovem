@@ -34,7 +34,7 @@
 	  </tr>
 
 	  <tr>
-	  	<td><b>3 - </b> 27/06/1986</td>
+	  	<td><b>3 - </b> 06/27/1986</td>
 	    
 	  	<td><span class="GapSpan" id="GapSpan2"><input style="width: 30px;"  type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> June twenty-seventh, nineteen eighty-six</td>
 	  </tr>
@@ -46,7 +46,7 @@
 	  </tr>
 
 	  <tr>
-	  	<td><b>5 - </b>09/07/1968 </td>
+	  	<td><b>5 - </b>07/09/1968 </td>
 	    
 	  	<td><span class="GapSpan" id="GapSpan4"><input  style="width: 30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> September twelfth, two thousand and three</td>
 	  </tr>
