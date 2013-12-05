@@ -8,7 +8,7 @@
 <div id="center">
 <!-- -->
 
-<script src="a02.js" type="text/javascript"></script></head>
+<script src="js/atividade01_topico02.js" type="text/javascript"></script></head>
 
 <body onload="StartUp()" id="TheBody" >
 
