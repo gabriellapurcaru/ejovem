@@ -10,7 +10,7 @@
 
 	<h5>Maria está apresentando sua amiga Renata a Anderson. Renata é de Recife. Coloque as frases seguintes em ordem para formar uma conversa.</h5>
 	<div class="swf">
-		<embed width="700px" height="350" type="application/x-shockwave-flash" src="swf/atividade01.swf" wmode="transparent" name="wmode"/>  
+		<embed width="700px" height="350" type="application/x-shockwave-flash" src="swf/unid02_au3_top02.swf" wmode="transparent" name="wmode"/>  
 	</div>
 
 </div>
