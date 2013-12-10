@@ -3,55 +3,35 @@
 {menu}
 
 <div id="meio">
+	<h3><a href="#">Atividade 04</a></h3>
+	<div id="center">
 
-<h3><a href="#" title="Cosideraçoes iniciais">Initial considerations</a></h3>
-<div id="center">
-<!-- -->
-<script src="A04.js" type="text/javascript"></script></head>
-
-<body onload="StartUp()" id="TheBody" >
-
-<!-- BeginTopNavButtons -->
-
-
-
-<!-- EndTopNavButtons -->
-
-<div class="Titles">
-	<h2 class="ExerciseTitle">Listen by pressing the "Play Audio" button. Then, select the correct answer for each or question, which may be missing one or more words. Press the "Final Score" button to check your quiz</h2>
-
-	<h3 class="ExerciseSubtitle">Quiz</h3>
-
-
-
-</div>
-
-<div id="InstructionsDiv" class="StdDiv">
-	<div id="Instructions"></div>
-</div>
-
-
-
-
-<div id="MainDiv" class="StdDiv">
- 
-<div id="QNav" class="QuestionNavigation">
-
-<p style="text-align: right;">
-<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return false;">Show all questions</button>
-</p>
-
-<div id="OneByOneReadout">
-<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;">&lt;=</button>
-
-<span id="QNumReadout" class="QNum">&nbsp;</span>
-
-<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;">=&gt;</button>
-<br />
-</div>
-
-</div>
- 
+		<div id="box-esquerda">
+		<div id="box-atividade">
+			<div class="ba-esq">
+			<div class="ba-balao">
+			        <p><h5><a class="" href="#">Listen by pressing the "Play Audio" button. Then, select the correct answer for each or question, which may be missing one or more words.</h5></a></p>
+			</div>
+			    <div class="ba-img"><img src="../../../imgs/e03.png"/></div>
+				</div>
+			</div>
+			</div>
+			<div id="box-direita">
+			<div id="box-direita">
+				<div id="atividade">
+					<!-- -->
+<script src="js/Atividade04.js" type="text/javascript"></script></head>
+	<div id="InstructionsDiv" class="StdDiv">
+		<div id="Instructions"></div>
+	</div>
+	<div id="MainDiv" class="StdDiv">
+ 		<div id="QNav" class="QuestionNavigation">
+			<div id="OneByOneReadout">
+				<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;">&lt;=</button>
+				<span id="QNumReadout" class="QNum">&nbsp;</span>
+					<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;">=&gt;</button>
+			</div>
+		</div>
 <ol class="QuizQuestions" id="Questions">
 <li class="QuizQuestion" id="Q_0" style="display: none;"><div class="QuestionText">May I take ______________ please?</div><ol class="MCAnswers"><li id="Q_0_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_0_Btn" onclick="CheckMCAnswer(0,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Three people.</li><li id="Q_0_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_1_Btn" onclick="CheckMCAnswer(0,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;That'll be all.</li><li id="Q_0_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_2_Btn" onclick="CheckMCAnswer(0,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;No. We're not ready yet</li></ol></li>
 <li class="QuizQuestion" id="Q_1" style="display: none;"><div class="QuestionText">Would you _____________ for something to ____________?</div><ol class="MCAnswers"><li id="Q_1_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_0_Btn" onclick="CheckMCAnswer(1,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;A glass of water is fine.</li><li id="Q_1_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_1_Btn" onclick="CheckMCAnswer(1,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;I'll have a piece of apple pie.</li><li id="Q_1_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_2_Btn" onclick="CheckMCAnswer(1,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;French dressing, please.</li></ol></li>
@@ -67,6 +47,9 @@
 
 
 </div>
+	<p style="text-align: right;">
+				<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return false;">Show all questions</button>
+			</p>
 
 
 
@@ -75,12 +58,12 @@
 <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
 </div>
 
-<!--  -->
 
-
-
-
-</div>
+					<!--  -->
+				</div>
+			</div>	
+		</div>
+	</div>
 </div>
 {barra_tools}
 
