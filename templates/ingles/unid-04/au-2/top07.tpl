@@ -22,15 +22,15 @@
 		<tbody>
 			<tr>
 			<td><a href="#" title="O gato da Kate" >Kate´<strong>s</strong> cat </a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top07/a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 			<td><a href="#" title="A casa da Margaret">Margaret´<strong>s</strong> house</a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top07/a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>  
 			<tr>
 			<td><a href="#" title="o namorado da Beth">Beth´<strong>s</strong> boyfriend</a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top07/a03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>   
 		</tbody>
 	</table>
