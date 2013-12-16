@@ -21,15 +21,15 @@
 <tdead>
 <tr>
 	<td>Do you wear hats?</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top09/a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 	<td>I like to wear long earrings.</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top09/a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 	<td>My friend wears glasses.</td>
-	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+	<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top09/a03.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>
 </tdead>
 </table>
