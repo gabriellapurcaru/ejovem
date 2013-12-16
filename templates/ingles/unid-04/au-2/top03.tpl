@@ -21,27 +21,27 @@
 		<tbody>
 			<tr>
 			<td><a href="#" title="sogra" > mother-in-law </a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top03/Mother_in_law.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 			<td><a href="#" title="sogro" > father-in-law </a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top03/Father_in_law.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 			<td><a href="#" title="genro" > son-in-law </a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top03/Son_in_law.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 			<td><a href="#" title="cunhado" > brother-in-law </a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top03/Brother_in_law.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
 			<tr>
 			<td><a href="#" title="	nora" > daughter-in-law </a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top03/Daughter_in_law.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>
  			<tr>
 			<td><a href="#" title="cunhada" > sister-in-law </a></td>
-			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+			<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top03/Sister_in_law.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
 			</tr>       
 		</tbody>
 	</table>
