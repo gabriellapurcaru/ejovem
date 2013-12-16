@@ -18,53 +18,53 @@
 	<table class="table table-striped">
 	<tdead>
 	<tr><td><a href="#" title="Gostar">like</a> = <b>lik<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Like Liked.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 
 	<td><a href="#" title="Trabalhar">work</a> = <b>work<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Work Worked.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td></tr>
 
 	<tr><td><a href="#" title="Necessitar">need</a> = <b>need<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Need Needed.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 
 	<td><a href="#" title="Viver, permanecer">live</a> = <b>liv<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Live Lived.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td></tr>
 
 	<tr><td><a href="#" title="Querer">want</a> = <b>want<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Want Wanted.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 
 	<td><a href="#" title="Amar">love</a> = <b>lov<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Love Loved.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td></tr>
 	
 <tr><td><a href="#" title="Falar, conversar">talk</a> = <b>talk<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Talk Talked.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 
 	<td><a href="#" title="Cozinhar">cook</a> = <b>cook<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Cook Cooked.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td></tr>
 
 	<tr><td><a href="#" title="Escutar">listen</a> = <b>listen<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Listen Listened.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 
 	<td><a href="#" title="Aprender">learn</a> = <b>learn<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Learn Learned.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td></tr>
 
 	<tr><td><a href="#" title="Jogar">play</a> = <b>play<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Play Played.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 
 	<td><a href="#" title="Assistir">watch</a> = <b>watch<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Watch Watched.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td></tr>
 
 	<tr>
 	<td><a href="#" title="Estudar">study</a> = <b>studi<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Study Studied.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 
 	<td><a href="#" title="Usar">use</a> = <b>us<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Use Used.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td></tr>
 
 	<tr><td><a href="#" title="Dançar">dance</a> = <b>danc<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Dance Danced.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 
 	<td><a href="#" title="Escovar">brush</a> = <b>brush<u>ed</u></b></td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a02.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=30" wmode="transparent" name="wmode"></td></tr>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/top04/Brush Brushed.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td></tr>
 
 	</thead>
 	</table>
