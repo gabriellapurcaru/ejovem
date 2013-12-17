@@ -21,38 +21,38 @@
 <tr>
 <td><b>Fascinating</b></td>
 <td>Facinante</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/Fascinating.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 <td><b>Dynamic</b></td>
 <td>Dinâmica</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/Dynamic.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
 <td><b>Polluted</b></td>
 <td>Poluída</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/Polluted.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 <td><b>Crowded</b></td>
 <td>Lotada</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/Crowded.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>	
 
 <tr>
 <td><b>Beautiful</b></td>
 <td>Bonita</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/Beautiful.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>
 <tr>
 <td><b>Friendly</b></td>
 <td>Amigável</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/Friendly.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>	
 <tr>
 <td><b>Stressful</b></td>
 <td>Estressante</td>
-<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=a01.mp3&backColor=990000&frontColor=ddddff&repeatPlay=true&songVolume=30" wmode="transparent" name="wmode"></td>
+<td><embed width="25" height="20" type="application/x-shockwave-flash" src="singlemp3player.swf?file=audio/Stressful.mp3&backColor=990000&frontColor=ddddff&repeatPlay=false&songVolume=100" wmode="transparent" name="wmode"></td>
 </tr>	
 </tdead>
 </table>
