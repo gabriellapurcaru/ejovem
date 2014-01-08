@@ -1,55 +1,63 @@
+
 {topo}
 {tituloAula}
 {menu}
-
-
+<div id="meio">
+<h3><a href="#" title="Saiba mais">Learn More</a></h3>
 <div id="center">
-<h3><a href="#" title="Vocabulário">Vocabulary</a></h3>
 
-<h6>Passe o mouse sobre as frases para ver o que significa</h5>
-<table class="table table-striped">
-<tdead>
-<tr>
-<td><a href="#" title="abacaxi">Pineapple</a></td>
-<td></td>
-<td><a href="#" title="Mamão">Papaya</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="#" title="Uva">Grape</a></td>
-<td></td>
-<td><a href="#" title="Pepino">Cucumber</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="#" title="Alface">Lettuce</a></td>
-<td></td>
-<td><a href="#" title="Cebola">Onion</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="#" title="Alho">Garlic</a></td>
-<td></td>
-<td><a href="#" title="Óleo">Oil</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="#" title="Azeite de oliva">Olive oil</a></td>
-<td></td>
-<td><a href="#" title="Frequentemente">Frequently</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="#" title="Usualmente">Usually</a></td>
-<td></td>
-<td><a href="#" title="Personal">Pessoal</a></td>
-<td></td>
-</tr>
 
-</tdead>
+	<h4>Para aprofundar seus conhecimentos veja os links abaixo:</h4>
 
-</table>
-	
+	<h6>Aquisição de Vocabulário: <span class="label label-info"><a href="http://en.bab.la/dictionary/english-portuguese/" target="_blank" title="Aquisição de Vocabulário">Veja aqui.</a></span></h6>
+
+
+	<h6>Praticando Vocabulário especifico: ROUPAS N 01: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=1685" target="_blank" title="Roupas ">Veja aqui.</a></span></h6>
+
+
+
+	<h6>Praticando vocabulário especifico: ROUPAS N 02 : <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=6206" target="_blank" title="Roupas ">Veja aqui.</a></span></h6>
+
+
+
+	<h6>Praticando vocabulário especifico: ROUPAS N 03 : <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=1006" target="_blank" title="Roupas ">Veja aqui.</a></span></h6>
+
+
+
+	<h6>Praticando vocabulário especifico: O DINHEIRO NO MUNDO: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=651" target="_blank" title="Dinheiro">Veja aqui.</a></span></h6>
+
+
+
+	<h6>Praticando vocabulário especifico: How much is?... How much are?: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=7605" target="_blank" title="Dinheiro">Veja aqui.</a></span></h6>
+
+
+	<h6>Praticando sobre o dinheiro da Inglaterra: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=3416" target="_blank" title="Dinheiro">Veja aqui.</a></span></h6>
+
+
+	<h6>Praticando vocabulário especifico: objetos e preos.: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=7911" target="_blank" title="Preos">Veja aqui.</a></span></h6>
+
+
+	<h6>Praticando os números em inglês nº revisão 01: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=4865" target="_blank" title="Números">Veja aqui.</a></span></h6>
+
+
+
+	<h6>Praticando os números em inglês nº revisão 02: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=5049" target="_blank" title="Números">Veja aqui.</a></span></h6>
+
+
+
+	<h6>Praticando as formas de singular e plural em inglês  o vídeo foi removido, mas o exercício continua perfeito, mesmo sem o vÌdeo: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=723" target="_blank" title="Singular vs. Plural">Veja aqui.</a></span></h6>
+
+
+
+	<h6>Praticando plurais regulares e irregulares em inglÍs : <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=1456" target="_blank" title="Singular vs. Plural">Veja aqui.</a></span></h6>
+
+
+
+	<h6>Praticando os plurais e revisando nomes de frutas.: <span class="label label-info"><a href="http://www.englishexercises.org/makeagame/viewgame.asp?id=5581" target="_blank" title="Plurais e frutas">Veja aqui.</a></span></h6>
+
+
+</div>
+</div>
 {barra_tools}
 
 <div id="navegacao">
@@ -57,3 +65,5 @@
 </div>
 
 {rodape}
+
+
