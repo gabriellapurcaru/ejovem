@@ -9,7 +9,7 @@
 				<div id="box-atividade">
 					<div class="ba-esq">
 		   				 <div class="ba-balao">
-		        				<p>Vamos aprender sobre os utensílios de cozinha</p>
+		        				<p>Visualise a imagem e marque a opção correta.</p>
 		    				 </div>
 		    			<div class="ba-img"><img src="../../../imgs/e03.png"/></div>
 				</div>
