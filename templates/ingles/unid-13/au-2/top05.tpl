@@ -13,7 +13,7 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Nesta unidade aprenderemos como falar sobre nossos desejos e vontades primeiramente de forma negativa e na segunda lição aprendemos de forma interrogativa. Aprendemos também novas expressões e palavras e relembramos verbos aprendidos. Refletimos um pouco sobre a nossa aprendizagem ao longo do curso.</p>
+		<p>Nesta unidade aprenderemos como falar sobre nossos desejos e vontades primeiramente nas forma negativa, ja na segunda lição aprendemos de forma interrogativa. Aprendemos também novas expressões e palavras, assimcomo relembramos verbos já aprendidos. Refletimos um pouco sobre a nossa aprendizagem ao longo do curso.</p>
 		<p>Na próxima lição iremos falar sobre nosso Estado!</p>
 		<p><span class="label label-info"><a href="#" title="Nos vemos em breve!">See you soon!</span></a></p>
 

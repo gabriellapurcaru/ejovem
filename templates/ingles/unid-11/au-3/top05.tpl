@@ -49,7 +49,7 @@
 <tr>
 <td>7 - <b>Milk</b></td>
 <td><span class="GapSpan" id="GapSpan6"><input style="width: 30px;" type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-<td> It is baked and make out of flour.<br /></td>
+<td> It is baked and made out of flour.<br /></td>
 </tr>
 <tr>
 <td>8 - <b>Bread</b></td>

@@ -6,7 +6,7 @@
 <div id="center">
 
 <div id="atividade">
-<h5>Relacione de acordo com o texto:</h5>
+<h5>Relacione de acordo com o texto lido anteriormente:</h5>
 		<script src="js/atividade_top08.js" type="text/javascript"></script></head>
 
 <div id="MainDiv" class="StdDiv">
@@ -40,7 +40,7 @@
 <td><h6>What does she want to be in the future?</td>
 
 <td><span class="GapSpan" id="GapSpan1"><input style="width:30px;" type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-<td>Because she want a better life for her and for her family.</td>
+<td>Because she wants a better life for her and for her family.</td>
 </tr>
 
 <tr>
@@ -49,7 +49,7 @@
 <td><h6>Why education important to Gabriela?</td>
 
 <td><span class="GapSpan" id="GapSpan2"><input style="width:30px;" type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td> 
-<td>She want to take the University entrance exam, get a part-time job and I study English.</td>
+<td>She wants to take the University entrance exam, get a part-time job and I study English.</td>
 </tr>
 
 <tr>
@@ -66,7 +66,7 @@
 <td><h6>What are her main objectives for the next year?</td>
 
 <td><span class="GapSpan" id="GapSpan4"><input style="width:30px;" type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-<td>She want to get married and have children.</td>
+<td>She wants to get married and have children.</td>
 </tr>
 
 </tbody>

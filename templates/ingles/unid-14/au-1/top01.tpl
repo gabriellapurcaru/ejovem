@@ -11,9 +11,9 @@
 		<div id="box-esquerda">
 			<div class="ba-esq">
 				<div class="ba-balao">
-					<p><b>Olá a todos!</b><br />
-Nesta e nas próximas unidades, utilizaremos os tópicos estudados anteriormente com um enfoque bem diferente.<br />
-Vamos falar sobre aspectos do nosso Estado, fazendo uso da Língua Inglesa. Hoje, vamos colocar um pouco mais de tempero nesse idioma falando sobre a nossa cozinha regional.<br />
+					<p><b>Olá a todos!</b> 
+Nesta e nas próximas unidades, utilizaremos os tópicos estudados anteriormente com um enfoque bem diferente.</p>
+<p>Vamos falar sobre aspectos do nosso Estado, fazendo uso da Língua Inglesa. Hoje, vamos colocar um pouco mais de tempero nesse idioma falando sobre a nossa cozinha regional.
 <b>Vamos lá!</b></p>
 						
 						
@@ -24,7 +24,7 @@ Vamos falar sobre aspectos do nosso Estado, fazendo uso da Língua Inglesa. Hoje
 		</div>
 		
 		<div id="texto">
-			<iframe width="420" height="236" src="video/v01.mp4" frameborder="0" allowfullscreen></iframe>
+			<iframe width="420" height="236" src="//www.youtube.com/embed/bYU9MxhcgXg" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>

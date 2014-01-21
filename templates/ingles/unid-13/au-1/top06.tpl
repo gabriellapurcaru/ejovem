@@ -8,7 +8,7 @@
 <div id="box-exemplo">
 <div class="ba-esq">
     <div class="ba-balao">
-        <p><b>DICA:</b> Ao responder esta questão, não se esqueça de indicar o presente na forma afirmativa da Terceira pessoa! Clique para ver os exemplos.</p>
+        <p><b>DICA:</b> Ao responder o exercício a seguir, não se esqueça de indicar o presente na forma afirmativa da Terceira pessoa! Clique para ver os exemplos.</p>
     </div>
     <div class="ba-img"><img src="../../../imgs/e05.png"/></div>
 </div>

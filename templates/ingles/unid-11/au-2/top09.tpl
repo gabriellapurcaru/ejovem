@@ -12,7 +12,7 @@
 	    </div>
 	    <div id="box-dir">
 		<div id="texto">
-		<p>Você já pode ir ao restaurante e pedir sua comida favorita! Nessa lição aprendemos sobre cardápio e como fazemos pedidos em inglês na próxima lição aprendemos sobre <span class="label label-info"><a class="" href="#" title="comida brasileira">brazilian food</a></span>.</p>
+		<p>Você já pode ir ao restaurante e pedir sua comida favorita! Nessa lição aprendemos sobre cardápio e como fazemos pedidos em inglês na próxima lição aprendemos sobre <span class="label label-info"><a class="" href="#" title="comida brasileira">Brazilian food</a></span>.</p>
 		<p><span class="label label-info"><a class="" href="#" title="Vejo você próxima aula">See you next class!</a></span></p>
 		</div>
 	    </div>

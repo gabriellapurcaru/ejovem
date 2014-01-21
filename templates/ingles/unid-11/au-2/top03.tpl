@@ -32,7 +32,7 @@
 			<tr>
 			<td>1.Grilled  </td><td width="40%"></td>
 			<td><span class="GapSpan" id="GapSpan0"><input style="width: 30px;" type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td>
-			<td>Cru<br /><br /></td>
+			<td>Mal-passado<br /><br /></td>
 			</tr>
 			<tr>
 			<td>2. Fried  </td><td width="40%"></td>
